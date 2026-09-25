@@ -11,7 +11,8 @@
 ## Preparación del repositorio
 
 - [x] Preparar portada, navegación, diccionarios y metadatos de citación.
-- [ ] Conectar la cuenta de GitHub y crear el repositorio privado.
+- [x] Conectar la cuenta de GitHub y vincular el repositorio `a-cartes/datacenter` creado por el autor.
+- [ ] Configurar la visibilidad privada del repositorio antes de cargar el proyecto.
 - [x] Completar y verificar el paquete desde una carpeta independiente, reutilizando el entorno local.
 - [ ] Ejecutar comprobaciones en un entorno instalado desde cero.
 - [ ] Publicar una primera versión de trabajo con sus productos asociados.
