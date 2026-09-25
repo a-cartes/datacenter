@@ -1,0 +1,50 @@
+{
+  "fecha_utc": "2026-09-25T20:46:25.753201+00:00",
+  "python": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/.venv/bin/python",
+  "alcance": "Reproduce dataset desde extractos v3/v4/v6 preservados. No redescarga ni recompone toda la adquisición original.",
+  "pasos": [
+    {
+      "script": "construir_panel_precios.py",
+      "sha256": "adce8b0dc47473847c7f5b2d03b57b6834d5af1b59ec820987b933656a2637bc",
+      "exit_code": 0,
+      "stdout": "{\"filas_horarias\": 178016, \"filas_diarias\": 7415, \"claves_barra_historicas\": 83, \"periodos_fuente\": 3217, \"cohortes_validadas\": 0, \"n_pares_estrictos\": {\"q110\": 125762, \"q220\": 125762}}\n",
+      "stderr": ""
+    },
+    {
+      "script": "construir_eventos_relaciones.py",
+      "sha256": "73e27a4a2febad5c2730d588dbaae2b9a107f683abc77bd4983aee82d23f83f9",
+      "exit_code": 0,
+      "stdout": "{\n  \"centros\": 10,\n  \"relaciones_centros_barras\": 17,\n  \"eventos_documentados\": 24,\n  \"conexiones_red_documentadas\": 20,\n  \"fuentes_eventos_red\": 36\n}\n",
+      "stderr": ""
+    },
+    {
+      "script": "construir_mediciones.py",
+      "sha256": "18c6c297f5f32269e7821c6e353572add468ca712449be6e57e66ffa1f80ac8e",
+      "exit_code": 0,
+      "stdout": "{\n  \"filas_15min\": 67384,\n  \"filas_horarias_por_etiqueta\": 7319,\n  \"medidores\": {\n    \"LSCANTRS_110_HT1_EDG\": 29276,\n    \"LSCANTRS_110_HT2_EDG\": 29276,\n    \"LSCANTRS_110_HT3_EDG\": 8832\n  },\n  \"dias_con_HT1_HT2\": 305,\n  \"horas_con_HT1_HT2_cero_observado\": 1440,\n  \"horas_incompletas_entre_observadas\": 0,\n  \"inicio_fin_fisico_intervalo_acreditado\": false,\n  \"enlace_precio_realizado\": false\n}\n",
+      "stderr": ""
+    },
+    {
+      "script": "verificar_mediciones.py",
+      "sha256": "a15d1f1d40515f9e2614d31db3349e3e434b9beb33f8399e95f8f7144ff47afb",
+      "exit_code": 0,
+      "stdout": "{\n  \"csv_conserva_campos_originales\": true,\n  \"hora_comprobada\": \"2024-06-25 04:00:00+00:00\",\n  \"energia_8_filas_decimal_kwh\": \"995.6532059\",\n  \"energia_horaria_kwh\": 995.6532059,\n  \"ausencias_no_son_ceros\": true,\n  \"septiembre_8_23_horas\": true,\n  \"HT3_retiro_nulo\": true,\n  \"enlace_precio_deshabilitado\": true,\n  \"campos_medidor\": 44,\n  \"campos_hora\": 28\n}\n",
+      "stderr": ""
+    },
+    {
+      "script": "verificar_y_catalogar.py",
+      "sha256": "2ea0a15115c4e229e94397abde07ba02adf1f561fbde4053912e47e1876118a2",
+      "exit_code": 0,
+      "stdout": "{\"fecha_utc\": \"2026-09-25T20:47:11.543915+00:00\", \"filas_horarias\": 178016, \"filas_diarias\": 7415, \"claves_barra_historicas\": 83, \"candidatos\": 10, \"hitos_documentados\": 24, \"relaciones_documentales\": 17, \"conexiones_red_documentadas\": 20, \"filas_medidor_15min\": 67384, \"horas_carga_HT1_HT2\": 7319, \"relaciones_con_codigo_de_precio\": 12, \"error_precio_vs_v6\": 0.0, \"errores_diferencial_vs_fuente\": {\"q110\": 0.0, \"q220\": 0.0}, \"dias_Canteras_Quillota_comparados_v4\": 105, \"error_diario_vs_v4\": 3.108624468950438e-14, \"error_energia_total_kwh\": 9.313225746154785e-10, \"error_precio_csv_parquet\": 0.0, \"llaves_foraneas_verificadas\": true, \"tratamiento_desconocido_conservado_nulo\": true, \"filas_elegibles_estimacion_causal\": 0, \"estado\": \"BASE_OBSERVADA_INTEGRADA_ASIGNACION_CAUSAL_PENDIENTE\", \"script_sha256\": \"2ea0a15115c4e229e94397abde07ba02adf1f561fbde4053912e47e1876118a2\"}\n",
+      "stderr": ""
+    },
+    {
+      "script": "documentar_panel.py",
+      "sha256": "60063c2845c9cdd20eaded547eb0d58a505b7d8cb3bd21c2e42ab65b442685ca",
+      "exit_code": 0,
+      "stdout": "Diccionario del panel: 66 variables definidas.\n",
+      "stderr": ""
+    }
+  ],
+  "completado": true
+}

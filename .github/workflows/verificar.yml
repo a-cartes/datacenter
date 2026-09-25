@@ -1,0 +1,26 @@
+name: Integridad del paquete
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+      - name: Comprobar archivos de entrada
+        run: python scripts/verificar_insumos.py
+      - name: Comprobar enlaces de la documentación
+        run: python scripts/verificar_documentacion.py
+      - name: Comprobar sintaxis de los programas
+        run: python -m compileall -q scripts SOCHER_2026_dataset/scripts

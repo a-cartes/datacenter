@@ -1,0 +1,86 @@
+[
+  {
+    "archivo": "infotecnica_subestaciones_2433_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/2433/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 391,
+    "sha256": "8b76b2807ec7795b6eb4fea969c0be768b5462a7cbeb133cf859b503966cc68c"
+  },
+  {
+    "archivo": "infotecnica_subestaciones_2433_elementos_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/2433/elementos/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 128806,
+    "sha256": "27c4de40251990cf3f53a6494277806e364565d5ff9bb49141ceaa8a0e556191"
+  },
+  {
+    "archivo": "infotecnica_subestaciones_2136_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/2136/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 435,
+    "sha256": "5403c830267c70209e2b91b17d2bd8d0ff034552386c80a5ebf53010a5658e78"
+  },
+  {
+    "archivo": "infotecnica_subestaciones_2136_elementos_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/2136/elementos/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 60979,
+    "sha256": "e9513239c5d578c7b6c5f46c5b54a709a27e8563107d35a6f0be1bec912dc99f"
+  },
+  {
+    "archivo": "infotecnica_subestaciones__search_Canteras.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/?search=Canteras",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 393,
+    "sha256": "1216de965ab1320c0f3cd280e3c939df047dcab555de8cef8b056a7a58d606be"
+  },
+  {
+    "archivo": "infotecnica_barras_3969_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/barras/3969/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 473,
+    "sha256": "fe6a607e9f9a67602eb6d483a69fcfc6e776ea375cf845260d96818664b12b81"
+  },
+  {
+    "archivo": "infotecnica_barras__search_Quillota.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/barras/?search=Quillota",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 1728,
+    "sha256": "7d2a6d23537c24e07b4c154841d6cf5acfa6ed08d3c4f0b9cc1bedd183dc73ad"
+  },
+  {
+    "archivo": "infotecnica_medidores_5085_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5085/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 462,
+    "sha256": "e3c15bdfca5fefda5bd5f5cc87d2b77c9b0f5bfc68dbdbc978ae83aa1069cbd3"
+  },
+  {
+    "archivo": "infotecnica_medidores_5690_documentos_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5690/documentos/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 1815,
+    "sha256": "41029c6b7f5f349c06820f7b48586a7286d87385f732fed82971b76f658e8ad2"
+  },
+  {
+    "archivo": "infotecnica_instalaciones-tipos_.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/instalaciones-tipos/",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 3974,
+    "sha256": "1015de87c2cb59111439abea6cdaf9a720975bab4240529ae9b88283403759d8"
+  },
+  {
+    "archivo": "infotecnica_tipos_fichas_medidores.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/tipos-fichas-tecnicas/?id_instalacion_tipo=33&ordering=type_order&active=true",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 141,
+    "sha256": "3bc9d2b2475ba1378ea4448bbbe86f882f6d0876bf8b59d3bf4eb63ba6e97f9c"
+  },
+  {
+    "archivo": "infotecnica_tipos_fichas_barras.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/tipos-fichas-tecnicas/?id_instalacion_tipo=11&ordering=type_order&active=true",
+    "descargado_fecha": "2026-09-25",
+    "bytes": 126,
+    "sha256": "b5ecea062ee0ebdccdea06c64d4500bac35535a10c738b72abd796d7ed1119de"
+  }
+]

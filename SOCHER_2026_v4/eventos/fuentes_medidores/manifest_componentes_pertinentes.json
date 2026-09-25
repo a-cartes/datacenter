@@ -1,0 +1,42 @@
+[
+  {
+    "archivo": "extraidos/HT1/2.j/2j. Actas de auditoría al esquema de medida de energía MZ-2208A690-01.pdf",
+    "bytes": 543494,
+    "sha256": "6f15fe6bd2be3c853bdbd34f1969ef049aa6ffcd93412e2aee3c7f2f100a3d44"
+  },
+  {
+    "archivo": "extraidos/HT1/2.d/2d.- Rep. Conf. Med MZ-2208A690-01.pdf",
+    "bytes": 22962,
+    "sha256": "76078cf3064f10b1a3eb953d9642e64b557eb95fcc0a1d9f9bfb5be52573e343"
+  },
+  {
+    "archivo": "extraidos/HT1/2.b/2b.- Cert. OLCA. Med MZ-2208A690-01.pdf",
+    "bytes": 237568,
+    "sha256": "38b1e11f662952a93f3a227377247ee72c23ae30f7fbbc58ae24d95a7953ce4b"
+  },
+  {
+    "archivo": "extraidos/HT1/2.k/ficha_tecnica_-_eme_-_p3975.xlsx",
+    "bytes": 27661,
+    "sha256": "a5862cee98a12c37747cea0a914a9bc5a76ef52301883da82f2ec48e3c15b53b"
+  },
+  {
+    "archivo": "extraidos/HT2/2.j/2j. Actas de auditoría al esquema de medida de energía MZ-2206A994-01.pdf",
+    "bytes": 543495,
+    "sha256": "e6b8ea192a74efedae16c5d6e5b834e6389d9b9f2731634956d0954799ca6e7d"
+  },
+  {
+    "archivo": "extraidos/HT2/2.d/2d.- Rep. Conf. Med MZ-2206A994-01.pdf",
+    "bytes": 22964,
+    "sha256": "774a888ad083a94cf44e790182d2e655a5a4340c33e2885d3e8deb9f090bd6e5"
+  },
+  {
+    "archivo": "extraidos/HT2/2.b/2b.- Cert. OLCA. Med MZ-2206A994-01.pdf",
+    "bytes": 237545,
+    "sha256": "af5d376441a726922b0c3d2e139f9b37770cb799672dcca86005ddf186249c00"
+  },
+  {
+    "archivo": "extraidos/HT2/2.k/ficha_tecnica_-_eme_-_p3975.xlsx",
+    "bytes": 27661,
+    "sha256": "a5862cee98a12c37747cea0a914a9bc5a76ef52301883da82f2ec48e3c15b53b"
+  }
+]

@@ -1,0 +1,73 @@
+tabla,campo,tipo_parquet,unidad,tiene_nulos_observados,definicion
+carga_medidor_15min,archivo_original,str,ruta,False,ZIP nacional original registrado por la extracción v3; no se reabre en esta construcción.
+carga_medidor_15min,miembro_zip,str,nombre,False,Miembro CSV dentro del ZIP original.
+carga_medidor_15min,ID_SOC,str,identificador fuente,False,Código del publicador preservado literalmente.
+carga_medidor_15min,IDSOCKET,str,identificador fuente,False,Socket del publicador preservado literalmente.
+carga_medidor_15min,SUBESTACION,str,texto fuente,False,Nombre original de subestación.
+carga_medidor_15min,TENSION,str,kV fuente,False,Etiqueta original de tensión; no modifica la energía publicada.
+carga_medidor_15min,YEARX,str,año fuente,False,Año literal del registro original.
+carga_medidor_15min,MONX,str,mes fuente,False,Mes literal del registro original.
+carga_medidor_15min,DAYX,str,día fuente,False,Día literal del registro original.
+carga_medidor_15min,HOURX,str,hora fuente,False,"Hora literal del registro de medición, verificada frente a DATETIME; no es la hora 1–25 de precios."
+carga_medidor_15min,DATETIME,str,texto temporal fuente,False,"Etiqueta local íntegra, preservada sin desplazar."
+carga_medidor_15min,UTCDATETIME,str,texto temporal fuente,False,"Etiqueta UTC íntegra del publicador, preservada sin desplazar."
+carga_medidor_15min,kWhD,str,kWh fuente,False,Energía delivered original como texto; decimal original preservado.
+carga_medidor_15min,kWhR,str,kWh fuente,False,Energía received original como texto; decimal original preservado.
+carga_medidor_15min,FLUJO,str,código fuente,False,"Clasificación original, preservada; no sustituye validación histórica de polaridad."
+carga_medidor_15min,ULTIMA_LECTURA,str,texto temporal fuente,False,Metadato original de última lectura. No usado como reloj de observación.
+carga_medidor_15min,fila_extracto_anual,int64,fila CSV,False,"Número de fila del CSV anual descomprimido, cabecera en fila 1."
+carga_medidor_15min,fila_extracto_mensual,int64,fila CSV,False,"Número de fila del extracto mensual descomprimido, cabecera en fila 1."
+carga_medidor_15min,extracto_mensual,str,ruta,False,Extracto mensual que contiene la observación original.
+carga_medidor_15min,sha256_extracto_mensual,str,SHA-256,False,Huella del extracto mensual verificada contra su manifiesto v3.
+carga_medidor_15min,sha256_zip_previamente_registrado,str,SHA-256,False,Huella del ZIP consignada por extracción v3; no recalculada en este script.
+carga_medidor_15min,extracto_anual,str,ruta,False,Tabla anual de transformadores usada como entrada.
+carga_medidor_15min,sha256_extracto_anual,str,SHA-256,False,Huella recalculada del extracto anual usado.
+carga_medidor_15min,medidor_id,str,identificador,False,Copia explícita de IDSOCKET para clave medidor por etiqueta UTC.
+carga_medidor_15min,centro_id,str,identificador,False,Campus candidato EDGE_COLINA del registro multicentro; no tratamiento asignado.
+carga_medidor_15min,campus_grupo_id,str,identificador,False,"Agrupa fases y transformadores del mismo campus, sin contarlos como centros independientes."
+carga_medidor_15min,pano,str,identificador,False,"HT1, HT2 o HT3 extraído del identificador exacto."
+carga_medidor_15min,etiqueta_utc,"datetime64[us, UTC]",timestamp UTC,False,UTCDATETIME convertido a tipo temporal con UTC; no inferencia de inicio/fin físico.
+carga_medidor_15min,etiqueta_local_original,str,texto temporal fuente,False,Copia explícita de DATETIME.
+carga_medidor_15min,fecha_local,str,fecha,False,Fecha de la etiqueta DATETIME del publicador.
+carga_medidor_15min,mes_local,str,mes,False,Año y mes de la etiqueta DATETIME del publicador.
+carga_medidor_15min,hora_local_fuente,int32,hora 0–23,False,"Hora de DATETIME, sin convertirla a hora de precios."
+carga_medidor_15min,offset_local_minutos,int64,minutos,False,DATETIME menos UTCDATETIME. Verificado contra America/Santiago en observaciones presentes.
+carga_medidor_15min,minutos_intervalo_documentados,int64,minutos,False,15 minutos según documentación de energía y configuración auditadas.
+carga_medidor_15min,sentido_etiqueta_inicio_fin,str,categoría,False,NO_ACREDITADO: no se confirmó si la etiqueta marca inicio o fin físico del intervalo.
+carga_medidor_15min,enlace_precio_habilitado,bool,booleano,False,Siempre false hasta conciliar las convenciones de medición y precios. No es indicador de tratamiento.
+carga_medidor_15min,energia_D_kwh,float64,kWh,False,Canal D convertido a número sin multiplicadores adicionales.
+carga_medidor_15min,potencia_media_D_mw,float64,MW,False,energia_D_kwh / 250: potencia media del intervalo de 15 minutos.
+carga_medidor_15min,energia_R_kwh,float64,kWh,False,Canal R convertido a número sin multiplicadores adicionales.
+carga_medidor_15min,potencia_media_R_mw,float64,MW,False,energia_R_kwh / 250: potencia media del intervalo de 15 minutos.
+carga_medidor_15min,incluido_suma_HT1_HT2,bool,booleano,False,"True solo en HT1 y HT2, elegibles para suma de retiro validado de esos transformadores."
+carga_medidor_15min,estado_polaridad,str,categoría,False,HT1/HT2 cuentan con actas históricas D=retiro. HT3 mantiene orientación pendiente.
+carga_medidor_15min,retiro_validado_kwh,float64,kWh,True,Canal D en HT1/HT2. Nulo en HT3; nulo nunca se interpreta como cero.
+carga_medidor_15min,naturaleza_medicion,str,categoría,False,Medición eléctrica del transformador; no medición aislada de servidores ni carga IA.
+carga_campus_hora,hora_utc_etiqueta,"datetime64[us, UTC]",timestamp UTC,False,"Piso horario de UTCDATETIME. Identifica agrupación de etiquetas, no una hora física certificada."
+carga_campus_hora,n_intervalos_presentes,int64,conteo,False,Número de etiquetas temporales en la unión de HT1 y HT2 del bloque.
+carga_campus_hora,n_intervalos_validos,int64,conteo,False,Número de etiquetas con ambos canales D válidos y simultáneos.
+carga_campus_hora,n_intervalos_HT1,int64,conteo,False,Número de observaciones D no nulas de HT1 en el bloque.
+carga_campus_hora,n_intervalos_HT2,int64,conteo,False,Número de observaciones D no nulas de HT2 en el bloque.
+carga_campus_hora,energia_HT1_kwh,float64,kWh,False,"Suma de cuatro etiquetas de HT1, disponible solo si el bloque conjunto está completo."
+carga_campus_hora,energia_HT2_kwh,float64,kWh,False,"Suma de cuatro etiquetas de HT2, disponible solo si el bloque conjunto está completo."
+carga_campus_hora,energia_HT1_HT2_kwh,float64,kWh,False,"Suma de HT1 y HT2 con ambos presentes en 00, 15, 30 y 45 minutos UTC. No incluye HT3 ni líneas."
+carga_campus_hora,etiqueta_local_primera,str,texto temporal fuente,False,Primera DATETIME entre las cuatro etiquetas del bloque.
+carga_campus_hora,etiqueta_local_ultima,str,texto temporal fuente,False,Última DATETIME entre las cuatro etiquetas del bloque.
+carga_campus_hora,fecha_local,str,fecha,False,Fecha de la etiqueta DATETIME del publicador.
+carga_campus_hora,mes_local,str,mes,False,Año y mes de la etiqueta DATETIME del publicador.
+carga_campus_hora,offset_local_minutos,int64,minutos,False,DATETIME menos UTCDATETIME. Verificado contra America/Santiago en observaciones presentes.
+carga_campus_hora,n_offsets,int64,conteo,False,Número de offsets locales diferentes dentro del bloque; se exige uno.
+carga_campus_hora,cuatro_etiquetas_correctas,bool,booleano,False,"True si existen exactamente las etiquetas UTC 00, 15, 30 y 45."
+carga_campus_hora,n_intervalos_esperados,int64,conteo,False,Cuatro observaciones de 15 minutos por transformador para cada bloque de una hora.
+carga_campus_hora,completo_por_etiquetas,bool,booleano,False,Ambos transformadores completos en cuatro etiquetas y offset único; no certifica reloj físico.
+carga_campus_hora,retiro_HT1_HT2_mw_por_etiquetas,float64,MW,False,"energia_HT1_HT2_kwh / 1000, media en 4×15 minutos. No es consumo total del campus."
+carga_campus_hora,centro_id,str,identificador,False,Campus candidato EDGE_COLINA del registro multicentro; no tratamiento asignado.
+carga_campus_hora,campus_grupo_id,str,identificador,False,"Agrupa fases y transformadores del mismo campus, sin contarlos como centros independientes."
+carga_campus_hora,punto_medida_id,str,identificador,False,LSCANTRS_HT1_HT2: agregado de dos transformadores identificados.
+carga_campus_hora,agregacion,str,categoría,False,Regla explícita de cuatro etiquetas UTC; inicio/fin físico pendiente.
+carga_campus_hora,sentido_etiqueta_inicio_fin,str,categoría,False,NO_ACREDITADO: no se confirmó si la etiqueta marca inicio o fin físico del intervalo.
+carga_campus_hora,enlace_precio_habilitado,bool,booleano,False,Siempre false hasta conciliar las convenciones de medición y precios. No es indicador de tratamiento.
+carga_campus_hora,HT3_incluido,bool,booleano,False,Siempre false por orientación pendiente de HT3.
+carga_campus_hora,representa_consumo_total_campus,bool,booleano,False,Siempre false: no se han conciliado otros suministros ni todos los componentes del campus.
+carga_campus_hora,archivo_fuente_15min,str,ruta relativa,False,Capa base de observaciones usada para reconstruir el bloque.
+carga_campus_hora,hora_local_etiqueta,int32,hora 0–23,False,Hora de la primera etiqueta local del bloque; no se usa para unir precios.

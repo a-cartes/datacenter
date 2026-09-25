@@ -1,0 +1,16 @@
+{
+  "python_observado": "3.13.15",
+  "dependencias_observadas": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1",
+    "openpyxl": "3.1.5"
+  },
+  "alcance": "Entorno local observado. Las versiones fijadas no equivalen a un lock transitivo.",
+  "instalacion_limpia_verificada": false,
+  "exportacion_excel_original_python": "3.12.14",
+  "exportacion_excel_original_openpyxl": "3.1.5",
+  "exportacion_excel_nueva_en_python_3_13_verificada": false,
+  "variable_salida": "SOCHER_OUTPUT_DIR",
+  "salida_predeterminada": "artifacts"
+}

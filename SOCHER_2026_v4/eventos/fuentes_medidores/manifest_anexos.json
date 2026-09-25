@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5085/documentos/421551/",
+    "consulta_utc": "2026-09-25T13:41:44.418527+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_disposition": "attachment; filename=\"ANEXOS_EME_HT1.7z\"",
+    "archivo": "CEN_ANEXOS_EME_HT1.7z",
+    "bytes": 9797615,
+    "sha256": "7dc2429a200006aa398ee73281ad36756f57d0d92e13464e423d9f4a44c96a52"
+  },
+  {
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5084/documentos/421552/",
+    "consulta_utc": "2026-09-25T13:41:49.678396+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "content_disposition": "attachment; filename=\"ANEXOS_EME_HT2.7z\"",
+    "archivo": "CEN_ANEXOS_EME_HT2.7z",
+    "bytes": 10421219,
+    "sha256": "3bb6f7a5850d0369a976b574bcb36ee91467fcdd6ee570634ea023c1f29364d4"
+  }
+]

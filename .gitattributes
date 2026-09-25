@@ -1,0 +1,12 @@
+# Preservar exactamente los bytes de insumos y manifiestos auditados.
+* -text
+
+# Código nuevo portable.
+*.py text eol=lf
+*.mjs text eol=lf
+*.yml text eol=lf
+README.md text eol=lf
+docs/*.md text eol=lf
+
+# Los CSV históricos conservan CRLF como parte de su huella.
+*.csv whitespace=cr-at-eol

@@ -1,0 +1,17 @@
+# Entornos y archivos temporales
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Productos regenerables y entregas voluminosas
+artifacts/
+outputs/
+SOCHER_2026_dataset/tablas/
+
+# Ejecuciones locales posteriores; los controles de referencia se incorporan explícitamente.
+.pytest_cache/

@@ -1,0 +1,208 @@
+[
+  {
+    "paño": "HT1",
+    "archivo": "extraidos/HT1/2.j/2j. Actas de auditoría al esquema de medida de energía MZ-2208A690-01.pdf",
+    "paginas_pdf": 5,
+    "campos": {
+      "fecha": {
+        "pagina": 3,
+        "valor": "2023-09-27"
+      },
+      "canales": {
+        "pagina": 3,
+        "valor": "delivered=retiro; received=inyección"
+      },
+      "duracion": {
+        "pagina": 3,
+        "valor": "15min"
+      },
+      "primer_periodo": {
+        "pagina": 3,
+        "valor": "00:15; no implica trasladar etiqueta publicada del CSV"
+      },
+      "ubicacion_declarada": {
+        "pagina": 3,
+        "comuna": "Colina",
+        "norte": 6312586.677,
+        "este": 341043.584,
+        "zona": "19H"
+      }
+    }
+  },
+  {
+    "paño": "HT1",
+    "archivo": "extraidos/HT1/2.d/2d.- Rep. Conf. Med MZ-2208A690-01.pdf",
+    "paginas_pdf": 18,
+    "campos": {
+      "PM1 PT Prim": {
+        "pagina": 1,
+        "valor": "115000.0"
+      },
+      "PM1 PT Sec": {
+        "pagina": 1,
+        "valor": "115.0"
+      },
+      "PM1 CT Prim": {
+        "pagina": 1,
+        "valor": "200.0"
+      },
+      "PM1 CT Sec": {
+        "pagina": 1,
+        "valor": "1.0"
+      },
+      "V1 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "V2 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "V3 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "I1 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "I2 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "I3 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "fecha_documento": {
+        "pagina": 1,
+        "valor": "2023-09-27"
+      },
+      "serie": {
+        "pagina": 1,
+        "valor": "MZ-2208A690-01"
+      },
+      "perfil_energia": {
+        "paginas": [
+          11,
+          12
+        ],
+        "valor": "delivered/received; intervalos15min"
+      }
+    }
+  },
+  {
+    "paño": "HT1",
+    "archivo": "extraidos/HT1/2.b/2b.- Cert. OLCA. Med MZ-2208A690-01.pdf",
+    "paginas_pdf": 1,
+    "campos": {
+      "fecha_calibracion_certificado": {
+        "pagina": 1,
+        "valor": "2022-09-13"
+      }
+    }
+  },
+  {
+    "paño": "HT2",
+    "archivo": "extraidos/HT2/2.j/2j. Actas de auditoría al esquema de medida de energía MZ-2206A994-01.pdf",
+    "paginas_pdf": 5,
+    "campos": {
+      "fecha": {
+        "pagina": 3,
+        "valor": "2023-09-27"
+      },
+      "canales": {
+        "pagina": 3,
+        "valor": "delivered=retiro; received=inyección"
+      },
+      "duracion": {
+        "pagina": 3,
+        "valor": "15min"
+      },
+      "primer_periodo": {
+        "pagina": 3,
+        "valor": "00:15; no implica trasladar etiqueta publicada del CSV"
+      },
+      "ubicacion_declarada": {
+        "pagina": 3,
+        "comuna": "Colina",
+        "norte": 6312586.677,
+        "este": 341043.584,
+        "zona": "19H"
+      }
+    }
+  },
+  {
+    "paño": "HT2",
+    "archivo": "extraidos/HT2/2.d/2d.- Rep. Conf. Med MZ-2206A994-01.pdf",
+    "paginas_pdf": 18,
+    "campos": {
+      "PM1 PT Prim": {
+        "pagina": 1,
+        "valor": "115000.0"
+      },
+      "PM1 PT Sec": {
+        "pagina": 1,
+        "valor": "115.0"
+      },
+      "PM1 CT Prim": {
+        "pagina": 1,
+        "valor": "200.0"
+      },
+      "PM1 CT Sec": {
+        "pagina": 1,
+        "valor": "1.0"
+      },
+      "V1 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "V2 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "V3 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "I1 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "I2 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "I3 Polarity": {
+        "pagina": 1,
+        "valor": "Normal"
+      },
+      "fecha_documento": {
+        "pagina": 1,
+        "valor": "2023-09-27"
+      },
+      "serie": {
+        "pagina": 1,
+        "valor": "MZ-2206A994-01"
+      },
+      "perfil_energia": {
+        "paginas": [
+          11,
+          12
+        ],
+        "valor": "delivered/received; intervalos15min"
+      }
+    }
+  },
+  {
+    "paño": "HT2",
+    "archivo": "extraidos/HT2/2.b/2b.- Cert. OLCA. Med MZ-2206A994-01.pdf",
+    "paginas_pdf": 1,
+    "campos": {
+      "fecha_calibracion_certificado": {
+        "pagina": 1,
+        "valor": "2022-09-13"
+      }
+    }
+  }
+]

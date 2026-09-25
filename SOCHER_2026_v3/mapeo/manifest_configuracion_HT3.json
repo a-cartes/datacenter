@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5690/documentos/412527/",
+    "archivo": "CEN_Medidor_HT3_ID5690_reporte_configuracion.pdf",
+    "bytes": 22954,
+    "sha256": "3fecb5c3805a5ca6f9905f08f4f8c7f50dd207ada436af4704843df8a3d48378",
+    "descargado_utc": "2026-09-25T12:19:23.604233+00:00"
+  },
+  {
+    "url": "https://api-infotecnica.coordinador.cl/v1/tipos-fichas-tecnicas/?id_instalacion_tipo=33&ordering=type_order&active=true",
+    "archivo": "infotecnica_tipos_fichas_medidores.json",
+    "bytes": 141,
+    "sha256": "3bc9d2b2475ba1378ea4448bbbe86f882f6d0876bf8b59d3bf4eb63ba6e97f9c",
+    "descargado_utc": "2026-09-25T12:19:23.867287+00:00"
+  },
+  {
+    "url": "https://api-infotecnica.coordinador.cl/v1/tipos-fichas-tecnicas/?id_instalacion_tipo=11&ordering=type_order&active=true",
+    "archivo": "infotecnica_tipos_fichas_barras.json",
+    "bytes": 126,
+    "sha256": "b5ecea062ee0ebdccdea06c64d4500bac35535a10c738b72abd796d7ed1119de",
+    "descargado_utc": "2026-09-25T12:19:24.091249+00:00"
+  }
+]

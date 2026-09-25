@@ -1,0 +1,20 @@
+[
+  {
+    "medidor_id": 5085,
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5085/documentos/",
+    "consulta_utc": "2026-09-25T13:41:00.981554+00:00",
+    "status": 200,
+    "archivo": "infotecnica_medidor_5085_documentos.json",
+    "bytes": 210,
+    "sha256": "aeb87d7c29f036fa41f88becc9e8a5831dd2f1609f3f19b37543160c317a1ee1"
+  },
+  {
+    "medidor_id": 5084,
+    "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5084/documentos/",
+    "consulta_utc": "2026-09-25T13:41:01.285779+00:00",
+    "status": 200,
+    "archivo": "infotecnica_medidor_5084_documentos.json",
+    "bytes": 211,
+    "sha256": "77caf4b414ebe0291bb255de45b21651749732eac5827f2644c3c6a008ef6c78"
+  }
+]

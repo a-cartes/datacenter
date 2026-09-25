@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si utiliza esta base, cite la versión específica del recurso y sus fuentes primarias."
+type: dataset
+title: "Centros de datos y diferenciales nodales de costo marginal en Chile: base observada y código de reconstrucción"
+authors:
+  - family-names: "Cartes Fica"
+    given-names: "Alan"
+    affiliation: "Universidad del Bío-Bío"
+version: 0.1.0
+abstract: "Panel de precios nodales, registros de medición y antecedentes documentales para investigar la entrada y expansión de centros de datos en Chile. La versión actual contiene datos observados; la asignación de tratamientos y exposición permanece en validación."
+keywords:
+  - Chile
+  - centros de datos
+  - costos marginales
+  - datos de panel
+  - reproducibilidad

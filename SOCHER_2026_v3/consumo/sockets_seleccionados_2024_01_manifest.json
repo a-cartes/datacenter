@@ -1,0 +1,20 @@
+{
+  "archivo": "2024/01_Enero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+  "sha256_zip": "8bb1ab8b0f7a3699d1f7de5066bac9e73e8f0504f216989853261900c01b3091",
+  "miembro": "Puntos_de_Medida_15MIN_CSV.csv",
+  "bytes_zip": 229787080,
+  "bytes_miembro": 2155280704,
+  "bytes_leidos_despues_cabecera": 2155280590,
+  "registros_seleccionados": 5952,
+  "mes": 1,
+  "criterio": [
+    "LSCANTRS",
+    "LAS CANTERAS",
+    ";COLINA;",
+    "TPLIBERT",
+    "LIBERTADORES"
+  ],
+  "chunks_con_coincidencias": 1,
+  "salida": "sockets_seleccionados_2024_01.csv.gz",
+  "sha256_salida": "0d4f1aef74227557bcdbcb9abf3ab4efdfa1cee8e049efc7e59ea92c71d3a32a"
+}

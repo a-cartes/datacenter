@@ -1,0 +1,37 @@
+name: Validar centro, evento o barra
+description: Documentar evidencia para una asignación del diseño de investigación.
+title: "Validación: "
+body:
+  - type: input
+    id: objeto
+    attributes:
+      label: Centro, fase y barra
+      description: Identificadores exactos y versión del registro revisado.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Fuente y evidencia
+      description: URL, archivo preservado, página o sección y hecho que acredita.
+    validations:
+      required: true
+  - type: textarea
+    id: vigencia
+    attributes:
+      label: Fecha, naturaleza del hito y vigencia
+      description: Distinguir realización, previsión, energización, entrada, ampliación o cambio de suministro.
+    validations:
+      required: true
+  - type: textarea
+    id: incertidumbre
+    attributes:
+      label: Incertidumbre y contraste pendiente
+      description: Registrar contradicciones, intervalos de fecha y vínculos no acreditados.
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Decisión propuesta
+      description: Cambio específico y efecto sobre tratamiento, comparación o exposición. No sustituye revisión documental.

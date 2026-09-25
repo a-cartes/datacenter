@@ -1,0 +1,351 @@
+{
+  "version": "2026-09-25",
+  "entradas_sha256": {
+    "SOCHER_2026_v6_multicentros/mapeo/registro_centros_candidatos.csv": "8d915a653b57a0b60fc58722f650dbca5b9ec6edb19fd1ab53c70e30a511cb1e",
+    "SOCHER_2026_v6_multicentros/mapeo/relacion_centros_barras.csv": "bdf09d659f9f1c81bbb198b27d999a5586c46175ab183782982427b467fd7ee1",
+    "SOCHER_2026_v3/eventos/fuentes_manifest.json": "d5e5fc5e32c53ed0d6366f7d5ae10373b5eae913b9a8317496ef87d3eaf50689",
+    "SOCHER_2026_v4/territorio/fuentes_manifest.csv": "33e04af375bf3e67468e19ffe3ccdd097ab905c7481da9882f5b1fd661f1cb4b",
+    "SOCHER_2026_v2/fuentes_publicas/manifest_fuentes_nuevas.json": "f8724cf00e3a78b765cc96458c6ab460f4e3a315143f046910da86005ef120b5",
+    "SOCHER_2026_v3/eventos/registro_eventos_2020_2021.csv": "617f822a88cdbf449035132df000de2237a9c5f66121d67115789114821af570",
+    "SOCHER_2026_v4/eventos/registro_fechas_observadas_y_documentales.csv": "21b16419b8fe3dbf17643ba5cd4284c8b382a8721e236b19053e4c6068c4968a",
+    "SOCHER_2026_v4/territorio/registro_conexiones.csv": "2613af2726028ca6d8163e18a6d677e31751eb409002362dd1433a2c5633f5ec"
+  },
+  "salidas": {
+    "centros": {
+      "filas": 10,
+      "csv_sha256": "122b8c979bcf8a0e5266e52a201ef089014038794b5bee57376ce7ee36befd68",
+      "parquet_sha256": "44f37dbde54d8d2a18dba4684e53c2329e605d0329618fad3e3a2d82e6221a00"
+    },
+    "relaciones_centros_barras": {
+      "filas": 17,
+      "csv_sha256": "ee67a3f010e5afbee9a20f4da492fb3b064c72b0ab334eb027e7d0de3afde720",
+      "parquet_sha256": "60e639822aefd5bdb69d4d1331e516d131a92ff0c7c6a893a7186d727e15df30"
+    },
+    "eventos_documentados": {
+      "filas": 24,
+      "csv_sha256": "5a7ef8bd7df878fe432c8969c27812d2784cee05cbbd39da24076e03050570f6",
+      "parquet_sha256": "6067ea537b8c4bcbf91c648301840ac109e689917eef3da574266de58fa23061"
+    },
+    "conexiones_red_documentadas": {
+      "filas": 20,
+      "csv_sha256": "7ddaa542a02fb5dcbe4d7f9913cbfff6d3a95477ddcdb99fc821a95a46f474f6",
+      "parquet_sha256": "3d89e9b97fd3ad045899b4e45c02e779dafcdaa5b288dc78e259965650f9e4e6"
+    },
+    "fuentes_eventos_red": {
+      "filas": 36,
+      "csv_sha256": "5950c8cc5c20912ef1a12e0eed56f168b0fd1af4ed4024cb6fac81e015e54761",
+      "parquet_sha256": "d26aff3ae0618c7de6df16ad22a10b39fb1d760ef547af2d23cee06a4a2e6ae2"
+    }
+  },
+  "esquemas": {
+    "centros": {
+      "centro_id": "string",
+      "campus_grupo_id": "string",
+      "nombre": "string",
+      "operador": "string",
+      "tipo_evidencia": "string",
+      "comuna_campus": "string",
+      "nup_fase": "string",
+      "barra_cmg_candidata": "string",
+      "nemotecnico": "string",
+      "sockets": "string",
+      "fechas_documentadas": "string",
+      "primera_presencia_observada": "string",
+      "certeza_identidad": "string",
+      "certeza_enlace_electrico": "string",
+      "fuentes_locales": "string",
+      "fuentes_url": "string",
+      "pendiente": "string",
+      "es_candidato_campus": "boolean",
+      "es_establecimiento_independiente_validado": "boolean",
+      "elegible_causal": "boolean",
+      "fecha_tratamiento_causal": "string",
+      "cohorte_g": "string",
+      "estado_tratamiento": "string",
+      "motivo_no_elegible": "string",
+      "tabla_origen": "string",
+      "tabla_origen_fila": "Int64"
+    },
+    "relaciones_centros_barras": {
+      "relacion_id": "string",
+      "campus_grupo_id": "string",
+      "centro_id": "string",
+      "barra_cmg": "string",
+      "nemotecnico": "string",
+      "barra_fisica_o_propuesta": "string",
+      "rol_vinculo": "string",
+      "periodo_evidencia": "string",
+      "estado_evidencia": "string",
+      "fuente": "string",
+      "homologacion_julio2024_fila": "Int64",
+      "limitacion": "string",
+      "vigencia_operativa_desde": "string",
+      "vigencia_operativa_hasta": "string",
+      "vigencia_operativa_validada": "boolean",
+      "es_asignacion_causal": "boolean",
+      "tabla_origen": "string",
+      "tabla_origen_fila": "Int64"
+    },
+    "eventos_documentados": {
+      "evento_id": "string",
+      "centro_id": "string",
+      "campus_grupo_id": "string",
+      "tipo_evento": "string",
+      "descripcion": "string",
+      "fase_o_equipos": "string",
+      "fecha_desde": "string",
+      "fecha_hasta": "string",
+      "precision_fecha": "string",
+      "etiqueta_local_desde": "string",
+      "etiqueta_local_hasta": "string",
+      "etiqueta_utc_desde": "string",
+      "etiqueta_utc_hasta": "string",
+      "zona_horaria_etiquetas": "string",
+      "convencion_inicio_fin_intervalo": "string",
+      "nivel_evidencia_fecha": "string",
+      "es_fecha_prevista": "boolean",
+      "estado_realizacion": "string",
+      "naturaleza_tratamiento_pendiente": "string",
+      "elegible_causal": "boolean",
+      "motivo_no_elegible": "string",
+      "fecha_tratamiento_causal": "string",
+      "cohorte_g": "string",
+      "fuente_ids": "string",
+      "fuentes_url": "string",
+      "fuentes_originales_locales": "string",
+      "tabla_origen": "string",
+      "tabla_origen_fila": "Int64"
+    },
+    "conexiones_red_documentadas": {
+      "conexion_id": "string",
+      "nodo_desde_documental": "string",
+      "nodo_hasta_documental": "string",
+      "tension_documental": "string",
+      "circuito_o_pano": "string",
+      "fecha_o_estado_evidencia": "string",
+      "tipo_evidencia": "string",
+      "fuente_ids": "string",
+      "fuentes_url": "string",
+      "paginas_pdf_1based": "string",
+      "limite": "string",
+      "vigencia_operativa_desde": "string",
+      "vigencia_operativa_hasta": "string",
+      "vigencia_operativa_validada": "boolean",
+      "utilizable_W_causal": "boolean",
+      "peso_exposicion": "string",
+      "estado_interruptor": "string",
+      "flujo_horario": "string",
+      "interpretacion_par_no_registrado": "string",
+      "tabla_origen": "string",
+      "tabla_origen_fila": "Int64"
+    },
+    "fuentes_eventos_red": {
+      "fuente_id": "string",
+      "titulo": "string",
+      "url": "string",
+      "archivo_original_local": "string",
+      "paginas": "string",
+      "estado_archivo": "string",
+      "sha256_original_declarado": "string",
+      "fecha_revision_declarada": "string"
+    }
+  },
+  "comprobacion_fuentes": [
+    {
+      "fuente_id": "V3_CEN_ECS2021",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V3_CNE717",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V3_CNE717_ESCANEO",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V3_EDGE2021",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V3_CTNG2019",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V3_ENEL2020",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V3_ENEL2021_SOST",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V3_ASCENTY2020",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V4_S01",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S02",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S03",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S04",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S05",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S06",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S07",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S08",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S09",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S10",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S11",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S12",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S13",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S14",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V4_S15",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V4_S16",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S17",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V4_S18",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V2_CEN_NUP3349",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V2_CEN_NI_MR_202409",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V2_CEN_EAF563",
+      "archivo_local_existe": true,
+      "hash_original_verificado": true
+    },
+    {
+      "fuente_id": "V6_GOOGLE2018",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V6_ASCENTY2",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V6_ODATA_ST02",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V6_SANTA_TERESA",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "V6_CIRION_DIA",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "MED_2024_06",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    },
+    {
+      "fuente_id": "MED_2024_07",
+      "archivo_local_existe": false,
+      "hash_original_verificado": false
+    }
+  ],
+  "n_eventos": 24,
+  "n_centros_candidatos": 9,
+  "n_barras_sin_centro": 1,
+  "n_establecimientos_independientes_cerrados": 0,
+  "n_cohortes_causales_cerradas": 0,
+  "verificaciones": [
+    "claves únicas",
+    "integridad referencial centro_id y fuentes",
+    "orden de fechas",
+    "todos los g y fechas causales nulos",
+    "ninguna fecha prevista usada como realizada",
+    "etiquetas horarias UTC y locales consistentes",
+    "lectura Parquet idéntica al DataFrame",
+    "hashes originales disponibles coinciden"
+  ],
+  "advertencia": "24 hitos no equivalen a 24 entradas; 9 candidatos no equivalen a 9 centros independientes. No estima ATT, DiD ni spillovers."
+}

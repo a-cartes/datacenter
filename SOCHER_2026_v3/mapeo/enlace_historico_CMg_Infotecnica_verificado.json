@@ -1,0 +1,23 @@
+{
+  "source_file": "SOCHER_2026_v3/precios/CEN_CMg_historico_2024_Canteras_Quillota.csv",
+  "sha256": "932c1ca80b23db1e3f1c8746b3b9235b2d4d8ddd3b61c26e41b24c84f12b8202",
+  "rows": 7226,
+  "bars": [
+    {
+      "mnemotecnico": "BA01T0002SE032T0002",
+      "nombre": "BA S/E QUILLOTA 110KV BP1",
+      "referencia": "BA02T0002SE032T0002",
+      "fecha_min": "2024-01-01",
+      "fecha_max": "2024-07-14",
+      "rows": 4705
+    },
+    {
+      "mnemotecnico": "BA01T0487SE001T0487",
+      "nombre": "BA S/E LAS CANTERAS 110KV BP1",
+      "referencia": "BA02T0002SE032T0002",
+      "fecha_min": "2024-04-01",
+      "fecha_max": "2024-07-14",
+      "rows": 2521
+    }
+  ]
+}

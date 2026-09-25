@@ -1,0 +1,413 @@
+{
+  "fecha_ejecucion": "2026-09-25T21:36:33.897182+00:00",
+  "script": {
+    "archivo": "SOCHER_2026_dataset/scripts/construir_mediciones.py",
+    "sha256": "18c6c297f5f32269e7821c6e353572add468ca712449be6e57e66ffa1f80ac8e",
+    "bytes": 24393
+  },
+  "entorno": {
+    "python": "3.13.15 (main, Aug  5 2026, 12:25:43) [Clang 21.0.0 (clang-2100.1.1.101)]",
+    "plataforma": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1"
+  },
+  "filas_15min": 67384,
+  "filas_horarias_por_etiqueta": 7319,
+  "medidores": {
+    "LSCANTRS_110_HT1_EDG": 29276,
+    "LSCANTRS_110_HT2_EDG": 29276,
+    "LSCANTRS_110_HT3_EDG": 8832
+  },
+  "etiqueta_utc_desde": "2024-02-01T03:00:00+00:00",
+  "etiqueta_utc_hasta": "2025-01-01T02:45:00+00:00",
+  "dias_con_HT1_HT2": 305,
+  "horas_con_HT1_HT2_cero_observado": 1440,
+  "horas_incompletas_entre_observadas": 0,
+  "sin_registro_HT1_HT2_meses": [
+    "2024-01",
+    "2024-04"
+  ],
+  "duplicados_medidor_utc": 0,
+  "offsets_locales_minutos": [
+    -240,
+    -180
+  ],
+  "diferencias_etiquetas_America_Santiago": 0,
+  "minutos_intervalo_documentados": 15,
+  "inicio_fin_fisico_intervalo_acreditado": false,
+  "enlace_precio_realizado": false,
+  "coincide_extracto_anual_con_12_extractos_mensuales": true,
+  "junio_5760_filas_HT1_HT2_coinciden_reextraccion_v4": true,
+  "max_diferencia_diaria_kwh_vs_v3": {
+    "D": 3.637978807091713e-12,
+    "R": 0.0
+  },
+  "max_diferencia_mensual_kwh_vs_v3": {
+    "D": 1.1641532182693481e-10,
+    "R": 3.637978807091713e-12
+  },
+  "energia_HT1_HT2_kwh_observada": 8311625.936421201,
+  "diferencia_energia_horaria_menos_15min_kwh": -9.313225746154785e-10,
+  "ventanas_replicadas_vs_v4": [
+    {
+      "periodo": "pre_7_dias",
+      "n": 672,
+      "media_mw": 0.06250045813869047,
+      "diferencia_media_v4_mw": 6.938893903907228e-17
+    },
+    {
+      "periodo": "transicion_24jun",
+      "n": 96,
+      "media_mw": 0.14561584512916667,
+      "diferencia_media_v4_mw": 8.326672684688674e-17
+    },
+    {
+      "periodo": "post_7_dias",
+      "n": 672,
+      "media_mw": 1.0616535664809523,
+      "diferencia_media_v4_mw": 0.0
+    },
+    {
+      "periodo": "post_julio",
+      "n": 2976,
+      "media_mw": 1.0876187098291668,
+      "diferencia_media_v4_mw": 0.0
+    },
+    {
+      "periodo": "post_agosto",
+      "n": 2976,
+      "media_mw": 1.8913328724516132,
+      "diferencia_media_v4_mw": 0.0
+    },
+    {
+      "periodo": "post_septiembre",
+      "n": 2876,
+      "media_mw": 1.8324818754037553,
+      "diferencia_media_v4_mw": 0.0
+    },
+    {
+      "periodo": "post_octubre",
+      "n": 2976,
+      "media_mw": 1.9574465562329302,
+      "diferencia_media_v4_mw": -2.220446049250313e-16
+    },
+    {
+      "periodo": "post_noviembre",
+      "n": 2880,
+      "media_mw": 2.0541104284702776,
+      "diferencia_media_v4_mw": 0.0
+    },
+    {
+      "periodo": "post_diciembre",
+      "n": 2976,
+      "media_mw": 2.1577695788444893,
+      "diferencia_media_v4_mw": 0.0
+    }
+  ],
+  "limite_conciliacion": "Cotejos entre derivados del mismo original; no total externo ni nueva lectura de ZIP nacionales.",
+  "no_incluidos": [
+    "H1-H4 son tránsito",
+    "HT3 no entra en carga agregada",
+    "DATALUNA Norte 2020-22: unidad/signo pendientes"
+  ],
+  "fuentes": [
+    {
+      "archivo": "SOCHER_2026_v3/mapeo/Memo_mapeo_electrico_y_unidades.md",
+      "sha256": "5289d2881b535433d6364c8343f40042e220e97972fff8bdac7f0ef303b99ec1",
+      "bytes": 10048
+    },
+    {
+      "archivo": "SOCHER_2026_v4/eventos/Apendice_configuracion_HT1_HT2.md",
+      "sha256": "90e941bf12f5e6af5813456f6273646bd88cf0114b5be00f21d397e079ac6a9b",
+      "bytes": 5480
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/las_canteras_transformadores_15min_2024.csv.gz",
+      "sha256": "6af8d821eaa1738d5526684a860ef9cc81f5f35c17247d249c461c84d7f2d37c",
+      "bytes": 1806812
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_01.csv.gz",
+      "sha256": "0d4f1aef74227557bcdbcb9abf3ab4efdfa1cee8e049efc7e59ea92c71d3a32a",
+      "bytes": 81808
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_01_manifest.json",
+      "sha256": "e4ef92de776d0b86aa43c6c947e133c306662bcfe32fc6c931f8f669215e8776",
+      "bytes": 652
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_02.csv.gz",
+      "sha256": "209e6957c141712667e11f4ad72404762c233deb286cb2f0aec71276c9d85d55",
+      "bytes": 172509
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_02_manifest.json",
+      "sha256": "3605d10a14779bc171f47e8fc3211a7648e236e08e433f5c5324addae035376d",
+      "bytes": 655
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_03.csv.gz",
+      "sha256": "5ca75a4b45c7d0699b7072d1a2b2a154f58eb03941b9ddb5028982f0a21b147d",
+      "bytes": 188827
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_03_manifest.json",
+      "sha256": "27b14c17e03bd427dd683db81e070a52033b7edffbf34e042c7dc5e049f54a3f",
+      "bytes": 653
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_04.csv.gz",
+      "sha256": "4155affaa36b879a14cb779acd4fc5c050ea677532a158d7645acaec32c0fe95",
+      "bytes": 78545
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_04_manifest.json",
+      "sha256": "929de98e8397cc2734f89b1eb92ddee1a7d872dcd76479cf80bf725efe1a446b",
+      "bytes": 652
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_05.csv.gz",
+      "sha256": "2a0d5d70244947dd7312bb6da99fe97c5351749b6840459562361f157dc717a5",
+      "bytes": 327538
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_05_manifest.json",
+      "sha256": "679b476765960ed95ec7a1a51bdb1d0fb35f7e69427111803c0ed7d14e2dcc46",
+      "bytes": 652
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_06.csv.gz",
+      "sha256": "1249a325c47639ce409808161887c8839b251ec6d2e898071d2d126b22fec7e1",
+      "bytes": 320267
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_06_manifest.json",
+      "sha256": "a137e1e189cd8e10a1ecec62537ba0e677129b31acb597486d63b5740833e576",
+      "bytes": 653
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_07.csv.gz",
+      "sha256": "568f5bb7ecbad117d8b63d93f8a5210e48d6f21b5b01d06daba960ad43566643",
+      "bytes": 337223
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_07_manifest.json",
+      "sha256": "6aba6a99ecb8140424d0af527f7c08e487d160fffabd05487f6b188d7748748d",
+      "bytes": 653
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_08.csv.gz",
+      "sha256": "68ec0a0960e537f68ca4daeafa7b3496913a941fb9bce7fe71fe2b92540943d4",
+      "bytes": 337841
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_08_manifest.json",
+      "sha256": "4e4b6196e20b062b219cbb627aa953c3eb52d7c8a701262f640113259df6ac61",
+      "bytes": 654
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_09.csv.gz",
+      "sha256": "f54dfbe2825b3820affa3f5c6e57984beaeb9dcb5476c89d606087090231149a",
+      "bytes": 326771
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_09_manifest.json",
+      "sha256": "5ad56b231651630cb5c3f6a3300e85e847287a09dd166112b2e1b8995c54b42a",
+      "bytes": 658
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_10.csv.gz",
+      "sha256": "2a27433e60cff52171ab46afa5c6c9459f2eaca4967d06c3ed1d9e8ce58505bd",
+      "bytes": 372643
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_10_manifest.json",
+      "sha256": "92a0386f45678c992a459a00b74e689e5bca8bc7567a618543d08567cfe45f02",
+      "bytes": 656
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_11.csv.gz",
+      "sha256": "d05be91332d17588d968cecd8f04e4e108894fafbc7eaeaafa2e4fe92b448ef4",
+      "bytes": 357037
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_11_manifest.json",
+      "sha256": "2a8c6c998eec6c0ba7586facdef21e8acd3fa67a6ef24727533244639fb71884",
+      "bytes": 658
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_12.csv.gz",
+      "sha256": "0098b6d5c0dd50e49e20b8bdb89bd127ad9c95c5851f835deb3b8709fef452a2",
+      "bytes": 371907
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_12_manifest.json",
+      "sha256": "82d2065ddb686442994e11240f2da6a1dc4146e193658bdda62e91701dc74951",
+      "bytes": 658
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/las_canteras_transformadores_diario_2024.csv",
+      "sha256": "efc57d2c599b436d6208114c651de4f2c1aa8939ba3fa0ea126ffbbb02aa0bc2",
+      "bytes": 54175
+    },
+    {
+      "archivo": "SOCHER_2026_v3/consumo/sockets_resumen_mensual_2024.csv",
+      "sha256": "52322f761fa01f22f7c7e588bb06ec03037a4cef260fb98b606384b4d5a7b9a1",
+      "bytes": 13385
+    },
+    {
+      "archivo": "SOCHER_2026_v4/eventos/resumen_ventanas_y_persistencia.csv",
+      "sha256": "d11af8df3fa2216e9b6ca3e154aa4be0f7c849db9e0ce6e70d74ab9f361202f3",
+      "bytes": 7651
+    },
+    {
+      "archivo": "SOCHER_2026_v4/eventos/junio_definitivo_1_original.csv.gz",
+      "sha256": "a57d83e1942f064c983815e865429c6d7a2eb9cdb9aa5bfc4b1198daa69fd142",
+      "bytes": 238849
+    }
+  ],
+  "extractos_mensuales": [
+    {
+      "mes": "2024-01",
+      "filas_extracto_completo": 5952,
+      "filas_transformadores": 0,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_01.csv.gz",
+      "sha256_extracto_verificado": "0d4f1aef74227557bcdbcb9abf3ab4efdfa1cee8e049efc7e59ea92c71d3a32a",
+      "zip_original_no_reabierto": "2024/01_Enero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "8bb1ab8b0f7a3699d1f7de5066bac9e73e8f0504f216989853261900c01b3091"
+    },
+    {
+      "mes": "2024-02",
+      "filas_extracto_completo": 22272,
+      "filas_transformadores": 5568,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_02.csv.gz",
+      "sha256_extracto_verificado": "209e6957c141712667e11f4ad72404762c233deb286cb2f0aec71276c9d85d55",
+      "zip_original_no_reabierto": "2024/02_Febrero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "1f467e68c88c85c25c59d809c72f9cfbe782005af00dc9e6cc1016fa926cb998"
+    },
+    {
+      "mes": "2024-03",
+      "filas_extracto_completo": 23808,
+      "filas_transformadores": 5952,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_03.csv.gz",
+      "sha256_extracto_verificado": "5ca75a4b45c7d0699b7072d1a2b2a154f58eb03941b9ddb5028982f0a21b147d",
+      "zip_original_no_reabierto": "2024/03_Marzo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "db12f1dcc8455f3951e4e70d49b2dd1c08977e07fcff07c96881ceaf84b9e263"
+    },
+    {
+      "mes": "2024-04",
+      "filas_extracto_completo": 5768,
+      "filas_transformadores": 0,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_04.csv.gz",
+      "sha256_extracto_verificado": "4155affaa36b879a14cb779acd4fc5c050ea677532a158d7645acaec32c0fe95",
+      "zip_original_no_reabierto": "2024/04_Abril/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "f62e17b3525289ed3225e92182f39fa83b241e81551c053f4087bdaec16a750b"
+    },
+    {
+      "mes": "2024-05",
+      "filas_extracto_completo": 23808,
+      "filas_transformadores": 5952,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_05.csv.gz",
+      "sha256_extracto_verificado": "2a0d5d70244947dd7312bb6da99fe97c5351749b6840459562361f157dc717a5",
+      "zip_original_no_reabierto": "2024/05_Mayo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "bdc6e56bb328a0826b68e4560df7bbe9d40e5515f15154b07993f1cd633a4cc2"
+    },
+    {
+      "mes": "2024-06",
+      "filas_extracto_completo": 23040,
+      "filas_transformadores": 5760,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_06.csv.gz",
+      "sha256_extracto_verificado": "1249a325c47639ce409808161887c8839b251ec6d2e898071d2d126b22fec7e1",
+      "zip_original_no_reabierto": "2024/06_Junio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "17ae72e5fae646a547a48f1ebd984572eb5be26ab36c3eddb902a4a8b5a40cc8"
+    },
+    {
+      "mes": "2024-07",
+      "filas_extracto_completo": 23808,
+      "filas_transformadores": 5952,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_07.csv.gz",
+      "sha256_extracto_verificado": "568f5bb7ecbad117d8b63d93f8a5210e48d6f21b5b01d06daba960ad43566643",
+      "zip_original_no_reabierto": "2024/07_Julio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "8dbd12f0efc8eed488b42d0c9ea501e8e284c1458c42d62546d42314d8d441ab"
+    },
+    {
+      "mes": "2024-08",
+      "filas_extracto_completo": 23808,
+      "filas_transformadores": 5952,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_08.csv.gz",
+      "sha256_extracto_verificado": "68ec0a0960e537f68ca4daeafa7b3496913a941fb9bce7fe71fe2b92540943d4",
+      "zip_original_no_reabierto": "2024/08_Agosto/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "3456fe5d4be61a66a4c84dc1338e8070ca4204ec4cfae0900f890add54bb142b"
+    },
+    {
+      "mes": "2024-09",
+      "filas_extracto_completo": 23008,
+      "filas_transformadores": 5752,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_09.csv.gz",
+      "sha256_extracto_verificado": "f54dfbe2825b3820affa3f5c6e57984beaeb9dcb5476c89d606087090231149a",
+      "zip_original_no_reabierto": "2024/09_Septiembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "0374fd36e81cc1d41416b5cddd19869d85819038b4520313769fd18e7ebfba53"
+    },
+    {
+      "mes": "2024-10",
+      "filas_extracto_completo": 26784,
+      "filas_transformadores": 8928,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_10.csv.gz",
+      "sha256_extracto_verificado": "2a27433e60cff52171ab46afa5c6c9459f2eaca4967d06c3ed1d9e8ce58505bd",
+      "zip_original_no_reabierto": "2024/10_Octubre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "9d1f66079917de1fa5a77e1238d0687f6eb051cffc7211fcf21b8227d5373992"
+    },
+    {
+      "mes": "2024-11",
+      "filas_extracto_completo": 25920,
+      "filas_transformadores": 8640,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_11.csv.gz",
+      "sha256_extracto_verificado": "d05be91332d17588d968cecd8f04e4e108894fafbc7eaeaafa2e4fe92b448ef4",
+      "zip_original_no_reabierto": "2024/11_Noviembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "3a12b400cb4e91f114dfa0f5837c37be8479cb2b5d99e1657cfce9f0d95b73ee"
+    },
+    {
+      "mes": "2024-12",
+      "filas_extracto_completo": 26784,
+      "filas_transformadores": 8928,
+      "archivo": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_12.csv.gz",
+      "sha256_extracto_verificado": "0098b6d5c0dd50e49e20b8bdb89bd127ad9c95c5851f835deb3b8709fef452a2",
+      "zip_original_no_reabierto": "2024/12_Diciembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256_zip_previamente_registrado": "2ca018adf9201b9e0fc8fb80dc049632d5b7b024e440d006656b3e5533a6231b"
+    }
+  ],
+  "salidas": [
+    {
+      "archivo": "SOCHER_2026_dataset/tablas/carga_medidor_15min.csv.gz",
+      "sha256": "73c9f0eb7e3e70a92bda29f0ce4f58943535f9350c9f506a66750fa874367180",
+      "bytes": 2751441
+    },
+    {
+      "archivo": "SOCHER_2026_dataset/tablas/carga_medidor_15min.parquet",
+      "sha256": "98f5b96d5d4f3c61d68f9832eff4b417d01bec376bc71a093f741a93b26a5de1",
+      "bytes": 3683815
+    },
+    {
+      "archivo": "SOCHER_2026_dataset/tablas/carga_campus_hora.csv.gz",
+      "sha256": "b436e9c7d5e119a3551ef9f68d5d4c35bcfb8a4339412dd9e76ec2f8bde5817f",
+      "bytes": 239381
+    },
+    {
+      "archivo": "SOCHER_2026_dataset/tablas/carga_campus_hora.parquet",
+      "sha256": "ede14cebee3fdbfaf596be1835bc33e2e58cf9036f74aa4770c8ed1f76970793",
+      "bytes": 396060
+    },
+    {
+      "archivo": "SOCHER_2026_dataset/documentacion/diccionario_mediciones.csv",
+      "sha256": "4d8387df3db22ce01d6278ffada3804f5878cbb3608ec47494b61fde2cbfabbf",
+      "bytes": 9225
+    },
+    {
+      "archivo": "SOCHER_2026_dataset/controles/cobertura_mediciones_mensual.csv",
+      "sha256": "2740cf511c2b42fea4ec7b056396bc854e05c35ccadf7ae06426a70ff8cbc817",
+      "bytes": 2430
+    }
+  ]
+}

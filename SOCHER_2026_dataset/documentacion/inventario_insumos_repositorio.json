@@ -1,0 +1,996 @@
+{
+  "version": "2026-09-25",
+  "alcance": "Reconstrucción de los seis pasos de la capa dataset desde extractos auditados conservados; no adquisición completa independiente.",
+  "limites": [
+    "No se incluyen los ZIP nacionales originales; se conservan rutas, tamaños y hashes previamente declarados.",
+    "No se descargan ni reconstruyen las extracciones v2/v3/v4/v6 desde los publicadores.",
+    "Documentos auxiliares archivados respaldan interpretaciones; no convierten las fechas en tratamientos causales.",
+    "Manifiestos heredados pueden contener rutas de la máquina original; el constructor de eventos normaliza raíces conocidas sin alterar contenido de las fuentes."
+  ],
+  "archivos": [
+    {
+      "ruta": "SOCHER_2026_v6_multicentros/precios/CEN_panel_barra_hora_identificado_hasta_20240714.parquet",
+      "bytes": 838208,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "e0d4d76e718282de19a610988bf6a3bd4125578dbf5beedf7e2c48a011d08e2c",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v6_multicentros/mapeo/registro_centros_candidatos.csv",
+      "bytes": 9562,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "8d915a653b57a0b60fc58722f650dbca5b9ec6edb19fd1ab53c70e30a511cb1e",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v6_multicentros/mapeo/relacion_centros_barras.csv",
+      "bytes": 4737,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "bdf09d659f9f1c81bbb198b27d999a5586c46175ab183782982427b467fd7ee1",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/registro_eventos_2020_2021.csv",
+      "bytes": 2209,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "617f822a88cdbf449035132df000de2237a9c5f66121d67115789114821af570",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/fuentes_manifest.json",
+      "bytes": 3267,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "d5e5fc5e32c53ed0d6366f7d5ae10373b5eae913b9a8317496ef87d3eaf50689",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/registro_fechas_observadas_y_documentales.csv",
+      "bytes": 2504,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "21b16419b8fe3dbf17643ba5cd4284c8b382a8721e236b19053e4c6068c4968a",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/registro_conexiones.csv",
+      "bytes": 2640,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "2613af2726028ca6d8163e18a6d677e31751eb409002362dd1433a2c5633f5ec",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes_manifest.csv",
+      "bytes": 6776,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "33e04af375bf3e67468e19ffe3ccdd097ab905c7481da9882f5b1fd661f1cb4b",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v2/fuentes_publicas/manifest_fuentes_nuevas.json",
+      "bytes": 2086,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "f8724cf00e3a78b765cc96458c6ab460f4e3a315143f046910da86005ef120b5",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/Memo_mapeo_electrico_y_unidades.md",
+      "bytes": 10048,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "5289d2881b535433d6364c8343f40042e220e97972fff8bdac7f0ef303b99ec1",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/Apendice_configuracion_HT1_HT2.md",
+      "bytes": 5480,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "90e941bf12f5e6af5813456f6273646bd88cf0114b5be00f21d397e079ac6a9b",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/las_canteras_transformadores_15min_2024.csv.gz",
+      "bytes": 1806812,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "6af8d821eaa1738d5526684a860ef9cc81f5f35c17247d249c461c84d7f2d37c",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/las_canteras_transformadores_diario_2024.csv",
+      "bytes": 54175,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "efc57d2c599b436d6208114c651de4f2c1aa8939ba3fa0ea126ffbbb02aa0bc2",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_resumen_mensual_2024.csv",
+      "bytes": 13385,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "52322f761fa01f22f7c7e588bb06ec03037a4cef260fb98b606384b4d5a7b9a1",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/resumen_ventanas_y_persistencia.csv",
+      "bytes": 7651,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "d11af8df3fa2216e9b6ca3e154aa4be0f7c849db9e0ce6e70d74ab9f361202f3",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/junio_definitivo_1_original.csv.gz",
+      "bytes": 238849,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "a57d83e1942f064c983815e865429c6d7a2eb9cdb9aa5bfc4b1198daa69fd142",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/resultados/panel_diferenciales_comparadores.csv",
+      "bytes": 115882,
+      "requerido": true,
+      "alcance": "Insumo directo de los seis pasos de reproducir_dataset.py",
+      "archivado": true,
+      "sha256": "c338a18c519962f06b021df2fae19c016d245908f7fb22ccbaac9355c93b03d4",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_01.csv.gz",
+      "bytes": 81808,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "0d4f1aef74227557bcdbcb9abf3ab4efdfa1cee8e049efc7e59ea92c71d3a32a",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_01_manifest.json",
+      "bytes": 652,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "e4ef92de776d0b86aa43c6c947e133c306662bcfe32fc6c931f8f669215e8776",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_02.csv.gz",
+      "bytes": 172509,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "209e6957c141712667e11f4ad72404762c233deb286cb2f0aec71276c9d85d55",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_02_manifest.json",
+      "bytes": 655,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "3605d10a14779bc171f47e8fc3211a7648e236e08e433f5c5324addae035376d",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_03.csv.gz",
+      "bytes": 188827,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "5ca75a4b45c7d0699b7072d1a2b2a154f58eb03941b9ddb5028982f0a21b147d",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_03_manifest.json",
+      "bytes": 653,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "27b14c17e03bd427dd683db81e070a52033b7edffbf34e042c7dc5e049f54a3f",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_04.csv.gz",
+      "bytes": 78545,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "4155affaa36b879a14cb779acd4fc5c050ea677532a158d7645acaec32c0fe95",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_04_manifest.json",
+      "bytes": 652,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "929de98e8397cc2734f89b1eb92ddee1a7d872dcd76479cf80bf725efe1a446b",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_05.csv.gz",
+      "bytes": 327538,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "2a0d5d70244947dd7312bb6da99fe97c5351749b6840459562361f157dc717a5",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_05_manifest.json",
+      "bytes": 652,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "679b476765960ed95ec7a1a51bdb1d0fb35f7e69427111803c0ed7d14e2dcc46",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_06.csv.gz",
+      "bytes": 320267,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "1249a325c47639ce409808161887c8839b251ec6d2e898071d2d126b22fec7e1",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_06_manifest.json",
+      "bytes": 653,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "a137e1e189cd8e10a1ecec62537ba0e677129b31acb597486d63b5740833e576",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_07.csv.gz",
+      "bytes": 337223,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "568f5bb7ecbad117d8b63d93f8a5210e48d6f21b5b01d06daba960ad43566643",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_07_manifest.json",
+      "bytes": 653,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "6aba6a99ecb8140424d0af527f7c08e487d160fffabd05487f6b188d7748748d",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_08.csv.gz",
+      "bytes": 337841,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "68ec0a0960e537f68ca4daeafa7b3496913a941fb9bce7fe71fe2b92540943d4",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_08_manifest.json",
+      "bytes": 654,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "4e4b6196e20b062b219cbb627aa953c3eb52d7c8a701262f640113259df6ac61",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_09.csv.gz",
+      "bytes": 326771,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "f54dfbe2825b3820affa3f5c6e57984beaeb9dcb5476c89d606087090231149a",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_09_manifest.json",
+      "bytes": 658,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "5ad56b231651630cb5c3f6a3300e85e847287a09dd166112b2e1b8995c54b42a",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_10.csv.gz",
+      "bytes": 372643,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "2a27433e60cff52171ab46afa5c6c9459f2eaca4967d06c3ed1d9e8ce58505bd",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_10_manifest.json",
+      "bytes": 656,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "92a0386f45678c992a459a00b74e689e5bca8bc7567a618543d08567cfe45f02",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_11.csv.gz",
+      "bytes": 357037,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "d05be91332d17588d968cecd8f04e4e108894fafbc7eaeaafa2e4fe92b448ef4",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_11_manifest.json",
+      "bytes": 658,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "2a8c6c998eec6c0ba7586facdef21e8acd3fa67a6ef24727533244639fb71884",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_12.csv.gz",
+      "bytes": 371907,
+      "requerido": true,
+      "alcance": "Extracto mensual de mediciones auditado",
+      "archivado": true,
+      "sha256": "0098b6d5c0dd50e49e20b8bdb89bd127ad9c95c5851f835deb3b8709fef452a2",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/consumo/sockets_seleccionados_2024_12_manifest.json",
+      "bytes": 658,
+      "requerido": true,
+      "alcance": "Manifiesto mensual y hash del extracto",
+      "archivado": true,
+      "sha256": "82d2065ddb686442994e11240f2da6a1dc4146e193658bdda62e91701dc74951",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/CEN_ECS2021_Preliminar.pdf",
+      "bytes": 11134715,
+      "requerido": false,
+      "alcance": "Documento original que respalda hitos v3",
+      "archivado": true,
+      "sha256": "be955650556b0ad2ebe009a981c8ef84af8d99e4dc76f939c8eeaae64d5cdbc6",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/CNE_Resolucion717_2019_texto.pdf",
+      "bytes": 999732,
+      "requerido": false,
+      "alcance": "Documento original que respalda hitos v3",
+      "archivado": true,
+      "sha256": "e5ef526bd0b3f3f8d9c5734728d729a4efc177fd916fcbf9ee60b424c3ba1c35",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/CNE_Resolucion717_2019.pdf",
+      "bytes": 2567949,
+      "requerido": false,
+      "alcance": "Documento original que respalda hitos v3",
+      "archivado": true,
+      "sha256": "6a5b5572c5316d7fa6cc993aa493859cae82108eaaa8d4d7d2bc273f71ab4c69",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/CEN_Edgeconnex_Informe2021.pdf",
+      "bytes": 2801919,
+      "requerido": false,
+      "alcance": "Documento original que respalda hitos v3; Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "910514e88bf9d41cb6f572b5b1bab911612a5aa182de2ac4200631af88e24e63",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CMN_Acta_20230809.pdf",
+      "bytes": 1450105,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "b8a6d3dde7abf82d5b6e41e394b3a008518f82e9ab4b1e4870f1d555f856050e",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_EAF143_2024.pdf",
+      "bytes": 7488483,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "79482c3e3f69ddfe90c61769d791d3a9997f6567f8541b249f72f397c674819d",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v2/fuentes_publicas/CEN_Reporte_NI_MR_Septiembre_2024.pdf",
+      "bytes": 993053,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4; Documento original de fases v2",
+      "archivado": true,
+      "sha256": "5327426e89692456e073003c828a8d2fdce048e600ab3a3993be526416f23659",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_EAF414_2024.pdf",
+      "bytes": 11202810,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "79b495ef4417775c156df412ebc161ba27ce300500427049154af0c99672a786",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v2/fuentes_publicas/CEN_EAF563_2024_Las_Canteras.pdf",
+      "bytes": 3384767,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4; Documento original de fases v2",
+      "archivado": true,
+      "sha256": "c02b960274ee48268cced718abb232478ec737cef02d3a3e5dd53ffdce20ea6a",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_EAF093_2025.pdf",
+      "bytes": 7889284,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "6df4ff2cbd6fe6351ec371b93d5134840409d1f948a901443b1c41eb818f21c3",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_Homologacion_barras_cmg_2407_def.xlsx",
+      "bytes": 196209,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "48292fe4bfcd7326824aba469bb4ac72e1314aa962cace2b1fcf68e7a4ca2d54",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CEN_EAF080_2020.pdf",
+      "bytes": 2301494,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "6e723290db479ec5a76d05e441694a1277f4baa05095a7764d1cde29ea4d32f8",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CNE_Ingenierias_conceptuales_2021.pdf",
+      "bytes": 7979729,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "dd81ace58b549e331182dcb35f5b74215bf4393099ec9f6162f8b35f2094ea6e",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CEN_Apendice_obras_2024.pdf",
+      "bytes": 6633724,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "181debf732aa9b94f8781dc2a3932f3a818a225a7858f03a31d6163793c8d5c0",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CEN_EAF456_2024.pdf",
+      "bytes": 6119572,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "1345bc47437c6b7cda177192f680063754555743847fb7633caa889222fcdd01",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CEN_EAF418_2023.pdf",
+      "bytes": 16613569,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "a0ed8dcb9d0317b25bed39a2c84d70450a535769fb42628cc929464230a31c81",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CEN_EAF309_2024.pdf",
+      "bytes": 3365630,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "67e8e223a912b6ee9913dde4970610f39083e29c2477bc95b29bbb32ea787512",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/CEN_EAF291_2024.pdf",
+      "bytes": 5062707,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "9a5b8e8c70f04590372f33c3451fe76dbe42f037a6b2ecf7447f378528251936",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/fuentes/infotecnica_busqueda_LasVegas.json",
+      "bytes": 412,
+      "requerido": false,
+      "alcance": "Documento original de red/territorio v4",
+      "archivado": true,
+      "sha256": "3dda6b4567268749e490078ce7b13f8197cc07323e00524a070f894198572501",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v2/fuentes_publicas/CEN_NUP3349_Justificacion_EO_2024.pdf",
+      "bytes": 226838,
+      "requerido": false,
+      "alcance": "Documento original de fases v2",
+      "archivado": true,
+      "sha256": "0bbdad7a174320576064aa13f62633d19ba87fa76dd5e69fefe3cebc01049e3f",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/eventos/Registro_critico_eventos.md",
+      "bytes": 5030,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "f29c23d0c9b7fc297c37cee5bfe2ee37c6885d5e1ed56ea72efae769022d53b0",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/Diagnostico_evento_carga.md",
+      "bytes": 15754,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "5a55147ce593a8b673ab6af29c3a50e39959e4cc891817b58e221086eb9df0f3",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/territorio/Mapa_exposicion_documentado.md",
+      "bytes": 11267,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "4fc19d7be454ff405cf9aa3361a708732110c149b1b51f864a3d6f8c50c9a77d",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_Documento_Tecnico_Medidas_2021.pdf",
+      "bytes": 1233340,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "a27df4eea3b0906443c45d3f1fbe8a4cbacb1a5b517db10f30ba3f4c20ff22d5",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_SOCKET_HABILITADO_20260925.xlsx",
+      "bytes": 699629,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "3769183216b19f14fcf793b4e9244ea12e37b0e2144f712b7c023c374c1924d0",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/socket_seleccion_identidad_y_polaridad_20260924.csv",
+      "bytes": 2235,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "39a569c143936fff4d1135c8d838a4ff24fddf68635f0fefaa2834bf758c5c23",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/enlace_historico_CMg_Infotecnica_verificado.json",
+      "bytes": 668,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "07dcdb96de86d0012d410eff9ff6000bd5d45eeb9d6b0e0e662d52a614b72528",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/manifest_api_publica.json",
+      "bytes": 3517,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "ab1e7404c14c33c21680c61389dea12acf748c14cf933454b514c70b0bc4d230",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/manifest_homologacion_julio2024.json",
+      "bytes": 541,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "e7c32506599f3c037489e205e0c03479f6904bc74bc5d117c271a260eacb8db9",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/infotecnica_subestaciones_2433_elementos_.json",
+      "bytes": 128806,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "27c4de40251990cf3f53a6494277806e364565d5ff9bb49141ceaa8a0e556191",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/infotecnica_subestaciones_2433_.json",
+      "bytes": 391,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "8b76b2807ec7795b6eb4fea969c0be768b5462a7cbeb133cf859b503966cc68c",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/infotecnica_subestaciones_2136_elementos_.json",
+      "bytes": 60979,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "e9513239c5d578c7b6c5f46c5b54a709a27e8563107d35a6f0be1bec912dc99f",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/infotecnica_subestaciones_2136_.json",
+      "bytes": 435,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "5403c830267c70209e2b91b17d2bd8d0ff034552386c80a5ebf53010a5658e78",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/infotecnica_medidores_5085_.json",
+      "bytes": 462,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "e3c15bdfca5fefda5bd5f5cc87d2b77c9b0f5bfc68dbdbc978ae83aa1069cbd3",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/manifest_listados.json",
+      "bytes": 700,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "d99aa361bbe369ffbda5b7e9bb9d5367cb6598595ed9b5ac342299d5106b4988",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/manifest_anexos.json",
+      "bytes": 879,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "24707e076adccb7de77926f4a1a34aa8ad0443d302d5c321865f9d3975ad6ad6",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/manifest_componentes_pertinentes.json",
+      "bytes": 1550,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "a02abbc540f3cb2a63e3e18c6531b633b0f54b23e1313e6e0de575daad4a93d6",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extractos_pertinentes_configuracion.json",
+      "bytes": 4482,
+      "requerido": false,
+      "alcance": "Soporte documental de identidad, fases, canales y unidades; no entrada numérica adicional",
+      "archivado": true,
+      "sha256": "2d7a24f36cedf68255bb37ae7fa913c5f0ca2ad3c6b79b582bea175212016d25",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT1/2.j/2j. Actas de auditoría al esquema de medida de energía MZ-2208A690-01.pdf",
+      "bytes": 543494,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "6f15fe6bd2be3c853bdbd34f1969ef049aa6ffcd93412e2aee3c7f2f100a3d44",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT1/2.d/2d.- Rep. Conf. Med MZ-2208A690-01.pdf",
+      "bytes": 22962,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "76078cf3064f10b1a3eb953d9642e64b557eb95fcc0a1d9f9bfb5be52573e343",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT1/2.b/2b.- Cert. OLCA. Med MZ-2208A690-01.pdf",
+      "bytes": 237568,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "38b1e11f662952a93f3a227377247ee72c23ae30f7fbbc58ae24d95a7953ce4b",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT1/2.k/ficha_tecnica_-_eme_-_p3975.xlsx",
+      "bytes": 27661,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "a5862cee98a12c37747cea0a914a9bc5a76ef52301883da82f2ec48e3c15b53b",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT2/2.j/2j. Actas de auditoría al esquema de medida de energía MZ-2206A994-01.pdf",
+      "bytes": 543495,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "e6b8ea192a74efedae16c5d6e5b834e6389d9b9f2731634956d0954799ca6e7d",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT2/2.d/2d.- Rep. Conf. Med MZ-2206A994-01.pdf",
+      "bytes": 22964,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "774a888ad083a94cf44e790182d2e655a5a4340c33e2885d3e8deb9f090bd6e5",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT2/2.b/2b.- Cert. OLCA. Med MZ-2206A994-01.pdf",
+      "bytes": 237545,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "af5d376441a726922b0c3d2e139f9b37770cb799672dcca86005ddf186249c00",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/extraidos/HT2/2.k/ficha_tecnica_-_eme_-_p3975.xlsx",
+      "bytes": 27661,
+      "requerido": false,
+      "alcance": "Componente documental pertinente de auditoría de medidores",
+      "archivado": true,
+      "sha256": "a5862cee98a12c37747cea0a914a9bc5a76ef52301883da82f2ec48e3c15b53b",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "2024/01_Enero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "8bb1ab8b0f7a3699d1f7de5066bac9e73e8f0504f216989853261900c01b3091",
+      "bytes": 229787080,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/02_Febrero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "1f467e68c88c85c25c59d809c72f9cfbe782005af00dc9e6cc1016fa926cb998",
+      "bytes": 216316172,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/03_Marzo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "db12f1dcc8455f3951e4e70d49b2dd1c08977e07fcff07c96881ceaf84b9e263",
+      "bytes": 231682969,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/04_Abril/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "f62e17b3525289ed3225e92182f39fa83b241e81551c053f4087bdaec16a750b",
+      "bytes": 226233435,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/05_Mayo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "bdc6e56bb328a0826b68e4560df7bbe9d40e5515f15154b07993f1cd633a4cc2",
+      "bytes": 234914883,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/06_Junio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "17ae72e5fae646a547a48f1ebd984572eb5be26ab36c3eddb902a4a8b5a40cc8",
+      "bytes": 227523489,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/07_Julio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "8dbd12f0efc8eed488b42d0c9ea501e8e284c1458c42d62546d42314d8d441ab",
+      "bytes": 236955769,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/08_Agosto/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "3456fe5d4be61a66a4c84dc1338e8070ca4204ec4cfae0900f890add54bb142b",
+      "bytes": 204016167,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/09_Septiembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "0374fd36e81cc1d41416b5cddd19869d85819038b4520313769fd18e7ebfba53",
+      "bytes": 228892280,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/10_Octubre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "9d1f66079917de1fa5a77e1238d0687f6eb051cffc7211fcf21b8227d5373992",
+      "bytes": 241796524,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/11_Noviembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "3a12b400cb4e91f114dfa0f5837c37be8479cb2b5d99e1657cfce9f0d95b73ee",
+      "bytes": 233036896,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": "2024/12_Diciembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "2ca018adf9201b9e0fc8fb80dc049632d5b7b024e440d006656b3e5533a6231b",
+      "bytes": 242575280,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "ZIP nacional original no copiado; adquisición completa fuera del paquete; SHA declarado en manifiesto v3"
+    },
+    {
+      "ruta": null,
+      "url": "https://www.ctng.cl/wp-content/uploads/2020/04/Memoria-Corporativa-2019-CTNG.pdf",
+      "sha256": null,
+      "bytes": null,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Fuente documental consultada previamente por web; sin archivo local disponible: Texto verificado con buscador web; descarga directa agoto tiempo dos veces"
+    },
+    {
+      "ruta": null,
+      "url": "https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-distribucion-chile/reportes/memorias/2020/Memoria-Enel-Dx-2020.pdf",
+      "sha256": null,
+      "bytes": null,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Fuente documental consultada previamente por web; sin archivo local disponible: Texto verificado con buscador web; servidor rechazo descarga403; captura web no disponible localmente"
+    },
+    {
+      "ruta": null,
+      "url": "https://www.enel.cl/content/dam/enel-cl/sostenibilidad/informes-de-sostenibilidad/enel-chile/2021/IS-Enel-Chile-2021.pdf",
+      "sha256": null,
+      "bytes": null,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Fuente documental consultada previamente por web; sin archivo local disponible: Texto web corrobora conexiones Edgeconnex/Ascenty aun en desarrollo en2021"
+    },
+    {
+      "ruta": null,
+      "url": "https://ascenty.com/blog/news-ascenty/ascenty-inaugura-seu-primeiro-data-center-no-chile-e-comeca-a-construcao-de-sua-segunda-unidade-no-pais/",
+      "sha256": null,
+      "bytes": null,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Fuente documental consultada previamente por web; sin archivo local disponible: Inauguracion corporativa; no primera energizacion"
+    },
+    {
+      "ruta": null,
+      "url": "https://www.ctng.cl/wp-content/uploads/2020/04/Memoria-Corporativa-2019-CTNG.pdf",
+      "sha256": null,
+      "bytes": null,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Fuente territorial consultada por web; sin archivo local disponible"
+    },
+    {
+      "ruta": null,
+      "url": "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/9631",
+      "sha256": null,
+      "bytes": null,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Fuente territorial consultada por web; sin archivo local disponible"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/CEN_ANEXOS_EME_HT1.7z",
+      "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5085/documentos/421551/",
+      "sha256": "7dc2429a200006aa398ee73281ad36756f57d0d92e13464e423d9f4a44c96a52",
+      "bytes": 9797615,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Paquete 7z original no copiado; componentes pertinentes disponibles por separado"
+    },
+    {
+      "ruta": "SOCHER_2026_v4/eventos/fuentes_medidores/CEN_ANEXOS_EME_HT2.7z",
+      "url": "https://api-infotecnica.coordinador.cl/v1/medidores/5084/documentos/421552/",
+      "sha256": "3bb6f7a5850d0369a976b574bcb36ee91467fcdd6ee570634ea023c1f29364d4",
+      "bytes": 10421219,
+      "requerido": false,
+      "archivado": false,
+      "alcance": "Paquete 7z original no copiado; componentes pertinentes disponibles por separado"
+    },
+    {
+      "ruta": "SOCHER_2026_v2/fuentes_publicas/registro_fases_CEN.csv",
+      "bytes": 1381,
+      "requerido": false,
+      "alcance": "Soporte documental referido por memos de fases y orientación pendiente HT3; no usado como dosis de tratamiento",
+      "archivado": true,
+      "sha256": "236925e34a5f4a6c7229eb1d226205117ffabf8954d900ec9463c2ebefd66d4a",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/CEN_Medidor_HT3_ID5690_reporte_configuracion.pdf",
+      "bytes": 22954,
+      "requerido": false,
+      "alcance": "Soporte documental referido por memos de fases y orientación pendiente HT3; no usado como dosis de tratamiento",
+      "archivado": true,
+      "sha256": "3fecb5c3805a5ca6f9905f08f4f8c7f50dd207ada436af4704843df8a3d48378",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    },
+    {
+      "ruta": "SOCHER_2026_v3/mapeo/manifest_configuracion_HT3.json",
+      "bytes": 1040,
+      "requerido": false,
+      "alcance": "Soporte documental referido por memos de fases y orientación pendiente HT3; no usado como dosis de tratamiento",
+      "archivado": true,
+      "sha256": "73c7375aaba7c4048a0ea30fc24d21c8b9dc2bc9f03b7dbd215368f44b7156ce",
+      "sha256_origen": "verificado_contra_copia_local_original"
+    }
+  ],
+  "resumen": {
+    "archivos_archivados": 90,
+    "archivos_requeridos": 41,
+    "bytes_archivados": 108677132,
+    "originales_opcionales_no_archivados": 20
+  }
+}

@@ -1,0 +1,6 @@
+# Versiones observadas en la reconstrucción local con Python 3.13.15.
+# No es un lock transitivo ni prueba de instalación desde cero.
+pandas==3.0.5
+numpy==2.5.3
+pyarrow==25.0.1
+openpyxl==3.1.5

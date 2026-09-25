@@ -1,0 +1,30 @@
+{
+  "csv_conserva_campos_originales": true,
+  "hora_comprobada": "2024-06-25 04:00:00+00:00",
+  "energia_8_filas_decimal_kwh": "995.6532059",
+  "energia_horaria_kwh": 995.6532059,
+  "ausencias_no_son_ceros": true,
+  "septiembre_8_23_horas": true,
+  "HT3_retiro_nulo": true,
+  "enlace_precio_deshabilitado": true,
+  "campos_medidor": 44,
+  "campos_hora": 28,
+  "fuentes": [
+    {
+      "archivo": "tablas/carga_medidor_15min.parquet",
+      "sha256": "98f5b96d5d4f3c61d68f9832eff4b417d01bec376bc71a093f741a93b26a5de1"
+    },
+    {
+      "archivo": "tablas/carga_campus_hora.parquet",
+      "sha256": "ede14cebee3fdbfaf596be1835bc33e2e58cf9036f74aa4770c8ed1f76970793"
+    },
+    {
+      "archivo": "tablas/carga_medidor_15min.csv.gz",
+      "sha256": "73c9f0eb7e3e70a92bda29f0ce4f58943535f9350c9f506a66750fa874367180"
+    },
+    {
+      "archivo": "controles/cobertura_mediciones_mensual.csv",
+      "sha256": "2740cf511c2b42fea4ec7b056396bc854e05c35ccadf7ae06426a70ff8cbc817"
+    }
+  ]
+}

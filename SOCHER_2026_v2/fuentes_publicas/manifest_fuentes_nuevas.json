@@ -1,0 +1,41 @@
+[
+  {
+    "id": "CEN_NUP3349",
+    "file": "CEN_NUP3349_Justificacion_EO_2024.pdf",
+    "url": "https://cartas.coordinador.cl/download_anexos/66fbe4473563572a7baf23e3/0",
+    "document_date": "no expresa fecha de emisión; refiere SEO 2024-09-16",
+    "retrieved": "2026-09-25",
+    "pages_reviewed": "1",
+    "type": "anexo oficial CEN de EO",
+    "use": "PES/fin energización 2024-08-06; EO otorgada 2024-08-19; T3 110/23 kV 40 MVA; expansión 40 MW",
+    "limitation": "No documenta primera carga productiva ni fracción IA; MW y MVA distintos.",
+    "sha256": "0bbdad7a174320576064aa13f62633d19ba87fa76dd5e69fefe3cebc01049e3f",
+    "bytes": 226838
+  },
+  {
+    "id": "CEN_NI_MR_202409",
+    "file": "CEN_Reporte_NI_MR_Septiembre_2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/09/Reporte-NI-MR-Septiembre-2024.pdf",
+    "document_date": "2024-09; corte 2024-09-25",
+    "retrieved": "2026-09-25",
+    "pages_reviewed": "7 (inspección visual)",
+    "type": "reporte oficial CEN",
+    "use": "NUP3975 EO 2024-05-29; NUP3016 EO 2024-05-02",
+    "limitation": "Tabla de instalaciones de transmisión; falta anexo individual y vínculo de cada fase con medidor. No tratar EO de red como demanda consumida.",
+    "sha256": "5327426e89692456e073003c828a8d2fdce048e600ab3a3993be526416f23659",
+    "bytes": 993053
+  },
+  {
+    "id": "CEN_EAF563",
+    "file": "CEN_EAF563_2024_Las_Canteras.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/12/EAF-563-2024.pdf",
+    "document_date": "2024-12-24; falla 2024-12-03",
+    "retrieved": "2026-09-25",
+    "pages_reviewed": "1-7;15",
+    "type": "estudio oficial CEN con informe del operador",
+    "use": "Identidad Edgeconnex, instalación SE001T0487, unifilar; 4 alimentadores asociados a TR1; respaldo por grupo electrógeno",
+    "limitation": "Falla aislada, no censo ni consumo mensual. ENS 17,6MWh no equivale a cómputo perdido. Geografía necesita revisar: comuna Tiltil reportada.",
+    "sha256": "c02b960274ee48268cced718abb232478ec737cef02d3a3e5dd53ffdce20ea6a",
+    "bytes": 3384767
+  }
+]

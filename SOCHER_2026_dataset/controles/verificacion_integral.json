@@ -1,0 +1,113 @@
+{
+  "fecha_utc": "2026-09-25T21:36:40.290498+00:00",
+  "filas_horarias": 178016,
+  "filas_diarias": 7415,
+  "claves_barra_historicas": 83,
+  "candidatos": 10,
+  "hitos_documentados": 24,
+  "relaciones_documentales": 17,
+  "conexiones_red_documentadas": 20,
+  "filas_medidor_15min": 67384,
+  "horas_carga_HT1_HT2": 7319,
+  "relaciones_con_codigo_de_precio": 12,
+  "error_precio_vs_v6": 0.0,
+  "errores_diferencial_vs_fuente": {
+    "q110": 0.0,
+    "q220": 0.0
+  },
+  "dias_Canteras_Quillota_comparados_v4": 105,
+  "error_diario_vs_v4": 3.108624468950438e-14,
+  "error_energia_total_kwh": 9.313225746154785e-10,
+  "error_precio_csv_parquet": 0.0,
+  "llaves_foraneas_verificadas": true,
+  "tratamiento_desconocido_conservado_nulo": true,
+  "filas_elegibles_estimacion_causal": 0,
+  "estado": "BASE_OBSERVADA_INTEGRADA_ASIGNACION_CAUSAL_PENDIENTE",
+  "tablas": [
+    {
+      "tabla": "barras",
+      "filas": 83,
+      "columnas": 13,
+      "archivo": "tablas/barras.parquet",
+      "sha256": "a8f4cc129a6c0079c195b316a80cab7682f1f34e8e533730643d86b63cd22b76"
+    },
+    {
+      "tabla": "carga_campus_hora",
+      "filas": 7319,
+      "columnas": 28,
+      "archivo": "tablas/carga_campus_hora.parquet",
+      "sha256": "ede14cebee3fdbfaf596be1835bc33e2e58cf9036f74aa4770c8ed1f76970793"
+    },
+    {
+      "tabla": "carga_medidor_15min",
+      "filas": 67384,
+      "columnas": 44,
+      "archivo": "tablas/carga_medidor_15min.parquet",
+      "sha256": "98f5b96d5d4f3c61d68f9832eff4b417d01bec376bc71a093f741a93b26a5de1"
+    },
+    {
+      "tabla": "centros",
+      "filas": 10,
+      "columnas": 26,
+      "archivo": "tablas/centros.parquet",
+      "sha256": "44f37dbde54d8d2a18dba4684e53c2329e605d0329618fad3e3a2d82e6221a00"
+    },
+    {
+      "tabla": "conexiones_red_documentadas",
+      "filas": 20,
+      "columnas": 21,
+      "archivo": "tablas/conexiones_red_documentadas.parquet",
+      "sha256": "3d89e9b97fd3ad045899b4e45c02e779dafcdaa5b288dc78e259965650f9e4e6"
+    },
+    {
+      "tabla": "eventos_documentados",
+      "filas": 24,
+      "columnas": 28,
+      "archivo": "tablas/eventos_documentados.parquet",
+      "sha256": "6067ea537b8c4bcbf91c648301840ac109e689917eef3da574266de58fa23061"
+    },
+    {
+      "tabla": "fuentes_eventos_red",
+      "filas": 36,
+      "columnas": 8,
+      "archivo": "tablas/fuentes_eventos_red.parquet",
+      "sha256": "d26aff3ae0618c7de6df16ad22a10b39fb1d760ef547af2d23cee06a4a2e6ae2"
+    },
+    {
+      "tabla": "panel_barra_dia",
+      "filas": 7415,
+      "columnas": 19,
+      "archivo": "tablas/panel_barra_dia.parquet",
+      "sha256": "d514f50f14f558aa10fb977373940bab62717543cc5feaa10c86bd89395c519d"
+    },
+    {
+      "tabla": "panel_barra_hora",
+      "filas": 178016,
+      "columnas": 66,
+      "archivo": "tablas/panel_barra_hora.parquet",
+      "sha256": "74505cdca36c0b4bbf780f192120951391794b5ac1a2603b43410a80288e457c"
+    },
+    {
+      "tabla": "periodos_fuente",
+      "filas": 3217,
+      "columnas": 8,
+      "archivo": "tablas/periodos_fuente.parquet",
+      "sha256": "d744234f35fc007071fd0e6949b7ab63f84b674c5b7dc5151eb370c69bebe638"
+    },
+    {
+      "tabla": "relaciones_centros_barras",
+      "filas": 17,
+      "columnas": 18,
+      "archivo": "tablas/relaciones_centros_barras.parquet",
+      "sha256": "60e639822aefd5bdb69d4d1331e516d131a92ff0c7c6a893a7186d727e15df30"
+    },
+    {
+      "tabla": "relaciones_con_cobertura",
+      "filas": 17,
+      "columnas": 24,
+      "archivo": "tablas/relaciones_con_cobertura.parquet",
+      "sha256": "2971ce7111405e6ff2cb0cc93abdffdcb074644c3ebb866a0fcbf4e178240974"
+    }
+  ],
+  "script_sha256": "2ea0a15115c4e229e94397abde07ba02adf1f561fbde4053912e47e1876118a2"
+}

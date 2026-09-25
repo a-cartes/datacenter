@@ -1,0 +1,317 @@
+{
+  "version_local": "base_observada_2026-09-25",
+  "fecha_registro_utc": "2026-09-25T21:26:14.650473+00:00",
+  "tipo": "manifiesto_de_huellas_no_es_commit_ni_backup",
+  "alcance": "Capa dataset y entregas finales actuales. No inventaría todos los originales de versiones previas.",
+  "estado_causal": "asignacion_de_tratamientos_y_exposicion_pendiente",
+  "reproduccion_en_entorno_limpio": false,
+  "filas_panel": 178016,
+  "columnas_panel": 66,
+  "entorno_del_registro": {
+    "python": "3.13.15",
+    "plataforma": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "paquetes": {
+      "pandas": "3.0.5",
+      "numpy": "2.5.3",
+      "pyarrow": "25.0.1",
+      "openpyxl": "3.1.5"
+    }
+  },
+  "validacion_exportaciones_preexistente": {
+    "estado": "OK",
+    "n_errores": 0,
+    "fecha_fin_utc": "2026-09-25T21:10:21.434745+00:00"
+  },
+  "archivos": [
+    {
+      "ruta": "SOCHER_2026_dataset/LEER_PRIMERO.md",
+      "bytes": 9125,
+      "sha256": "03c1c283b503244cf1351c02629651f0caf6e485d8856641d0dfe8b9a12d9c7e"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/cobertura_mediciones_mensual.csv",
+      "bytes": 2430,
+      "sha256": "2740cf511c2b42fea4ec7b056396bc854e05c35ccadf7ae06426a70ff8cbc817"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/construccion_panel_precios.json",
+      "bytes": 2253,
+      "sha256": "aecf634a158f51f1f801f9e51ad9ea92ae44834adf691628748630bcb6128915"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/registro_reproduccion.json",
+      "bytes": 3706,
+      "sha256": "0794a8ed9959a4c4d3ca9582526d54eb676c50cbcafb775f2a813ca2d5e68e4b"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/verificacion_exportacion_excel_csv.json",
+      "bytes": 11561,
+      "sha256": "2645b41e500aa48f7661f3259e2ab764ea2f632a4c24bca62822e275add550f9"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/verificacion_integral.json",
+      "bytes": 3686,
+      "sha256": "2cf3ebcc66995c2cb3db5db9aa9c4f6e229758ac0330758b17d9512e429c0f80"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/verificacion_mediciones.json",
+      "bytes": 16942,
+      "sha256": "234f07971e6acb59a8c11ffbfcd10f89d1827e8a14f1d64f78d7ed154a4e9ee4"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/controles/verificacion_mediciones_exportadas.json",
+      "bytes": 986,
+      "sha256": "dcb2ee7a2d0eea90fc408906a73e9dcb70cabf37bb5e25cdd96e37e4db738ac9"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/Contrato_para_estimacion.md",
+      "bytes": 7024,
+      "sha256": "11fa981c60189961a9a32952a265b8c7a772270618d53a8fdd4defa24b56c20c"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/Eventos_relaciones_y_red.md",
+      "bytes": 7055,
+      "sha256": "342e8ab1689deb3336b9b774c9159abcb35283041d9d0619228980bb40b640ab"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/Mediciones_y_reloj.md",
+      "bytes": 7088,
+      "sha256": "e69cab0a1e4843051db0b4433d2fc267cade9a124d385a231734f8dba3037dc6"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/Reproducibilidad_y_plan_GitHub.md",
+      "bytes": 9805,
+      "sha256": "4138b53b06a57f447e9dd341767e75297d8d352b9670b3845fa01c6cca537508"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/catalogo_tablas.csv",
+      "bytes": 1523,
+      "sha256": "a8cf0bfd793122fe1eb366f543abb8dde4b42fdee9fe99da6746f175b1b2c0fe"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/diccionario_mediciones.csv",
+      "bytes": 9225,
+      "sha256": "4d8387df3db22ce01d6278ffada3804f5878cbb3608ec47494b61fde2cbfabbf"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/diccionario_panel.csv",
+      "bytes": 9064,
+      "sha256": "84286bc57fb8875f03ab51c1f65a5e2ad401d47964e7bfc33ec17e0e4e1d3977"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/esquema_y_faltantes.csv",
+      "bytes": 14972,
+      "sha256": "e25f0bac9587195891381e218b7f6a6cddc9940c8bb7d896dcba6e6e90799486"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/documentacion/verificacion_eventos_relaciones.json",
+      "bytes": 11230,
+      "sha256": "5fd0528e2fa9f6aa63bc011afe820401ef4dea6828bebe3d231c208216cde447"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/requirements-exportacion.txt",
+      "bytes": 173,
+      "sha256": "3bc5ccdd24a7f9063fe32d0948b89a256d43d93a5dc437783b492696c2767001"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/requirements-reconstruccion.txt",
+      "bytes": 211,
+      "sha256": "cd999725562ba1013607442d3c2bd39764e4f33461348a3e9ad290ff9627c0e6"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/construir_eventos_relaciones.py",
+      "bytes": 19166,
+      "sha256": "73e27a4a2febad5c2730d588dbaae2b9a107f683abc77bd4983aee82d23f83f9"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/construir_mediciones.py",
+      "bytes": 24393,
+      "sha256": "18c6c297f5f32269e7821c6e353572add468ca712449be6e57e66ffa1f80ac8e"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/construir_panel_precios.py",
+      "bytes": 10375,
+      "sha256": "adce8b0dc47473847c7f5b2d03b57b6834d5af1b59ec820987b933656a2637bc"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/documentar_panel.py",
+      "bytes": 6651,
+      "sha256": "60063c2845c9cdd20eaded547eb0d58a505b7d8cb3bd21c2e42ab65b442685ca"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/exportar_dataset_excel.mjs",
+      "bytes": 4749,
+      "sha256": "d58859ae7546332fa01696f4e28be77cc451ff905f24f08dadf66161fb9b655b"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/exportar_excel_por_bloques.py",
+      "bytes": 4654,
+      "sha256": "ad548708047db00e3dfe22c9f943a9609fe1a1197744d0efa006c5b24e856fbe"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/preparar_exportacion_excel_csv.py",
+      "bytes": 2209,
+      "sha256": "ccca8d08ca2babffa2c535bd07c2882d2ddff5630284cf620055795483045e1e"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/registrar_version_dataset.py",
+      "bytes": 3595,
+      "sha256": "c34da9d2abe9125a7eb6e1f7ebff4b793ca8fbdaf0f6be2f72f2c237ce4ac841"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/reproducir_dataset.py",
+      "bytes": 1375,
+      "sha256": "30554678541c7131b86e476a24a58ce11c2e480e936978b4ef58d42be7a1c574"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/verificar_exportacion_excel_csv.py",
+      "bytes": 16635,
+      "sha256": "6ffaee384fe751fe66dd279985b2f8b79f026a0327b36e4ad665a9973e19fd4a"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/verificar_mediciones.py",
+      "bytes": 2198,
+      "sha256": "a15d1f1d40515f9e2614d31db3349e3e434b9beb33f8399e95f8f7144ff47afb"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/scripts/verificar_y_catalogar.py",
+      "bytes": 7448,
+      "sha256": "2ea0a15115c4e229e94397abde07ba02adf1f561fbde4053912e47e1876118a2"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/barras.csv.gz",
+      "bytes": 3456,
+      "sha256": "191eb639903592c7b1291b6bf7ed5168d4db0aca19166ead4acce2daf56d5469"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/barras.parquet",
+      "bytes": 13591,
+      "sha256": "a8f4cc129a6c0079c195b316a80cab7682f1f34e8e533730643d86b63cd22b76"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/carga_campus_hora.csv.gz",
+      "bytes": 239381,
+      "sha256": "b436e9c7d5e119a3551ef9f68d5d4c35bcfb8a4339412dd9e76ec2f8bde5817f"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/carga_campus_hora.parquet",
+      "bytes": 396060,
+      "sha256": "ede14cebee3fdbfaf596be1835bc33e2e58cf9036f74aa4770c8ed1f76970793"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/carga_medidor_15min.csv.gz",
+      "bytes": 2751441,
+      "sha256": "73c9f0eb7e3e70a92bda29f0ce4f58943535f9350c9f506a66750fa874367180"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/carga_medidor_15min.parquet",
+      "bytes": 3683815,
+      "sha256": "98f5b96d5d4f3c61d68f9832eff4b417d01bec376bc71a093f741a93b26a5de1"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/centros.csv",
+      "bytes": 12012,
+      "sha256": "122b8c979bcf8a0e5266e52a201ef089014038794b5bee57376ce7ee36befd68"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/centros.parquet",
+      "bytes": 28826,
+      "sha256": "44f37dbde54d8d2a18dba4684e53c2329e605d0329618fad3e3a2d82e6221a00"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/cobertura_barra_mes.csv",
+      "bytes": 112873,
+      "sha256": "0b287245ec93a5ef47ffdbdb6145b6686e18fd08ff24159dda12f660f14ce544"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/conexiones_red_documentadas.csv",
+      "bytes": 7496,
+      "sha256": "7ddaa542a02fb5dcbe4d7f9913cbfff6d3a95477ddcdb99fc821a95a46f474f6"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/conexiones_red_documentadas.parquet",
+      "bytes": 16331,
+      "sha256": "3d89e9b97fd3ad045899b4e45c02e779dafcdaa5b288dc78e259965650f9e4e6"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/eventos_documentados.csv",
+      "bytes": 17079,
+      "sha256": "5a7ef8bd7df878fe432c8969c27812d2784cee05cbbd39da24076e03050570f6"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/eventos_documentados.parquet",
+      "bytes": 27047,
+      "sha256": "6067ea537b8c4bcbf91c648301840ac109e689917eef3da574266de58fa23061"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/fuentes_eventos_red.csv",
+      "bytes": 9965,
+      "sha256": "5950c8cc5c20912ef1a12e0eed56f168b0fd1af4ed4024cb6fac81e015e54761"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/fuentes_eventos_red.parquet",
+      "bytes": 12109,
+      "sha256": "d26aff3ae0618c7de6df16ad22a10b39fb1d760ef547af2d23cee06a4a2e6ae2"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/panel_barra_dia.csv.gz",
+      "bytes": 172240,
+      "sha256": "1097e6f721ffbcbbfc864e187bbe6a8cc1a5c1093d2f570a9be31d5e3c35f725"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/panel_barra_dia.parquet",
+      "bytes": 232605,
+      "sha256": "d514f50f14f558aa10fb977373940bab62717543cc5feaa10c86bd89395c519d"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/panel_barra_hora.csv.gz",
+      "bytes": 6225565,
+      "sha256": "3cfa3423ec46a9c9d68dd544299777c5da7d3496360495d3b03c87e5c5cdfc81"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/panel_barra_hora.parquet",
+      "bytes": 2062038,
+      "sha256": "74505cdca36c0b4bbf780f192120951391794b5ac1a2603b43410a80288e457c"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/periodos_fuente.csv.gz",
+      "bytes": 15603,
+      "sha256": "4ea774b7dc87e44b35cde7bf0d556fcaf203a5f71ee52a4f87217491e99aed09"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/periodos_fuente.parquet",
+      "bytes": 13451,
+      "sha256": "d744234f35fc007071fd0e6949b7ab63f84b674c5b7dc5151eb370c69bebe638"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/relaciones_centros_barras.csv",
+      "bytes": 6650,
+      "sha256": "ee67a3f010e5afbee9a20f4da492fb3b064c72b0ab334eb027e7d0de3afde720"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/relaciones_centros_barras.parquet",
+      "bytes": 15032,
+      "sha256": "60e639822aefd5bdb69d4d1331e516d131a92ff0c7c6a893a7186d727e15df30"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/relaciones_con_cobertura.csv",
+      "bytes": 7603,
+      "sha256": "254cccc1dededd38e9533589202ce06159303880a8e79f06fb0fa9267c2bfd06"
+    },
+    {
+      "ruta": "SOCHER_2026_dataset/tablas/relaciones_con_cobertura.parquet",
+      "bytes": 18690,
+      "sha256": "2971ce7111405e6ff2cb0cc93abdffdcb074644c3ebb866a0fcbf4e178240974"
+    },
+    {
+      "ruta": "outputs/01a0d6c3-09cd-7aa3-903d-5ee59e65c071/Dataset_articulo.csv",
+      "bytes": 169702151,
+      "sha256": "1464b1e03084046250b80a854c99c6f45a2508b0d972f5222ed348e8c4070a47"
+    },
+    {
+      "ruta": "outputs/01a0d6c3-09cd-7aa3-903d-5ee59e65c071/Dataset_articulo.xlsx",
+      "bytes": 41062559,
+      "sha256": "e8942f90e9edcf9bd86e704c752162f540fe632c62f87057e9af78e1756eac41"
+    }
+  ]
+}

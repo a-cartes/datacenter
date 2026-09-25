@@ -1,0 +1,21 @@
+desde,hacia,tension_kV,circuito_o_pano,fecha_o_estado_evidencia,fuente,paginas_pdf_1based,limite
+CerroNavia110,Colina/LasCanteras110,110,2 circuitos,diseño2021,S01,12,Corredor agregado; no explicita derivaciónLibertadores
+Colina/LasCanteras110,SantiagoSolar110,110,circuito1,diseño2021,S01,12,"Confirmado como salidaH1 en S06p6,dic 2024"
+Colina/LasCanteras110,LasVegas110,110,circuito2,diseño2021,S01,12,"Confirmado como salidaH2 en S06p6,dic 2024"
+SantiagoSolar110,LasVegas110,110,circuito1,diseño2021,S01,12,No pruebaestadooperativojunio2024
+LasVegas110,SanPedro110,110,2 circuitos,diseño2021,S01,12,TambiénlíneacorporativaS14p12; no flujos horarios
+SanPedro110,Quillota110,110,1 circuito,existente2023_y_modelo2021,S01;S13,12;124,Q110 yQ220 requieren enlace transformación separado
+SanPedro110,Ventanas110,110,circuito1 listado,diseño2021,S01,12,No se lista totalidad red
+LasCanteras110_H1,SantiagoSolar110,110,H1,instantanea03dic 2024,S06,6,No acredita interruptoresjunio2024
+LasCanteras110_H2,LasVegas110,110,H2,instantanea03dic 2024,S06,6,No acredita interruptoresjunio2024
+LasCanteras110_H3,CerroNavia110,110,circuito2/H3,instantanea03dic 2024,S06,6,"Esquema extremoagregado, no segmentación completa"
+LasCanteras110_H4,CerroNavia110,110,circuito1/H4,instantanea03dic 2024,S06,6,TapLibertadores en tramos S07 posteriormente
+CerroNavia110,TapOffLibertadores110,110,tramo circuito1,evento26feb 2025,S07,1–3,8.78km hastaTap; no extrapolar estadocerradojunio2024
+TapOffLibertadores110,LasCanteras110,110,resto corredor circuito1,evento26feb 2025,S07,1–3,"Aristaagregada omite estructuras/tramos, no adyacencia físicaexacta"
+LasCanteras110,TR1/TR2_y_barras23,110/23,HT1/HT2,trabajosPES07abr2024,S03,105,2x40MVA; capacidad distinta de demanda40MW
+LasCanteras110_BP2,TR3_y_barra23,110/23,HT3,PES06ago2024,S05,99,Faseposterior; no sumarcargaHT3 sinresolverpolaridad
+Chacabuco_MT,DC01,MT no precisada para este alimentador,alimentador existente,antecedente2021,S01,"4,8",Suministropreexistente campus; rutareal2024 por verificar
+Chicureo23,DC01,23,dedicado6.3km previsto,proyecto2021,S01,"4,8","Operación futura esperada, no entrada comprobada"
+TapChicureo220_Polpaico-ElPaico,Chicureo220,220,doble circuito,antecedente2021,S01,19,Rama220 distinta corredor110; no equivalenotrasbarras
+CorredorCerroNavia-ElSalto110,Quilicura110,110,vinculo al corredor,evento29ago2024,S12,131,Transferencia automática a circuito2; no arista directa inferida
+CorredorCerroNavia-ElSalto110,Chacabuco110,110,vinculo al corredor,evento29ago2024,S12,131,Desconexióntrafos1/3/7 al fallarcircuito1; no arista directa inferida

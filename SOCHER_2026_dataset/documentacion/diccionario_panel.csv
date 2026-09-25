@@ -1,0 +1,67 @@
+﻿tabla,variable,definicion,unidad,tipo,n_nulos
+panel_barra_hora,fecha,Fecha de la etiqueta publicada; no se reasigna por UTC.,,datetime64[us],0
+panel_barra_hora,hora_etiqueta,"Etiqueta original de la hora, incluidos valores adicionales como 25; no es hora UTC.",,Int16,0
+panel_barra_hora,barra_cmg,Nombre abreviado de la serie en el libro oficial.,,str,0
+panel_barra_hora,nemotecnico,Código oficial según homologación mensual o enlace provisional indicado.,,str,0
+panel_barra_hora,clave_barra_historica,Combinación de etiqueta CMg y código conservada sin fusionar cambios históricos.,,str,0
+panel_barra_hora,entidad_busqueda,Familia usada para localizar series; no identifica un centro de datos.,,str,0
+panel_barra_hora,tension_kv_etiqueta,Tensión inferida del sufijo nominal de la etiqueta; puede diferir de la homologación.,kV,int64,0
+panel_barra_hora,tension_kv_homologacion,Tensión que figura en el nombre físico de la homologación.,kV,float64,0
+panel_barra_hora,barra_aux,"Nombre físico conservado de la homologación, incluidas marcas originales.",,str,0
+panel_barra_hora,precio_usd_mwh,Costo marginal horario publicado; mills/kWh numéricamente equivale a USD/MWh.,USD/MWh,float64,0
+panel_barra_hora,estado_identidad,Homologación mensual exacta o coincidencia adyacente provisional; no valida causalidad.,,str,0
+panel_barra_hora,meses_evidencia_identidad,Meses de las homologaciones que respaldan la identificación.,,str,0
+panel_barra_hora,nota_identidad,Diferencias de nombre o advertencias registradas durante el enlace.,,str,0
+panel_barra_hora,marcas_fuente,"Marcas de publicación, incluidas EN_REVISION y NO_MOSTRAR; vacía indica ninguna marca recuperada.",,str,0
+panel_barra_hora,mes_fuente,Mes del libro de precios del que se extrajo la observación.,,str,0
+panel_barra_hora,archivo_fuente,Ruta relativa al proyecto del libro oficial preservado.,,str,0
+panel_barra_hora,hoja_fuente,Hoja del libro original.,,str,0
+panel_barra_hora,fila_excel,"Fila original del libro, contada desde uno.",,int64,0
+panel_barra_hora,columna_barra_excel,Número de columna original que contiene la barra en ese bloque.,,int64,0
+panel_barra_hora,archivo_homologacion,Archivo o archivos usados para enlazar la identidad.,,str,0
+panel_barra_hora,fila_homologacion,Fila o filas originales de la homologación.,,str,0
+panel_barra_hora,regimen_temporal,Indicador temporal heredado de extracción; por sí solo no define metodología CMg Real.,,str,0
+panel_barra_hora,vinculo_centro_datos,Advierte que la capa de precios no adjudica centros ni eventos.,,str,0
+panel_barra_hora,barra_id,Identificador estable derivado de la clave histórica; no equivale a campus independiente.,,str,0
+panel_barra_hora,observacion_id,"Clave única barra histórica, fecha y etiqueta horaria.",,str,0
+panel_barra_hora,periodo_fuente_id,Fecha y hora en la convención de la publicación; usada para emparejar precios.,,str,0
+panel_barra_hora,t_dia,Días de calendario desde 1970-01-01. No comprime meses sin datos.,día de calendario,Int32,0
+panel_barra_hora,mes_calendario,Mes YYYY-MM de la fecha publicada.,,str,0
+panel_barra_hora,dia_semana,"Día de semana de la fecha publicada: lunes=0, domingo=6.",,Int8,0
+panel_barra_hora,timestamp_utc_validado,Reloj UTC del precio; nulo hasta conciliar la convención horaria.,,"datetime64[ns, UTC]",178016
+panel_barra_hora,estado_reloj,Estado de validación del reloj del precio.,,str,0
+panel_barra_hora,homologacion_exacta,Verdadero únicamente cuando existe homologación del mismo mes.,,bool,0
+panel_barra_hora,tiene_marca_revision,Verdadero si se recuperó al menos una marca de revisión o no publicación.,,bool,0
+panel_barra_hora,precio_observado,Verdadero cuando el valor de precio está presente; un precio cero sigue siendo observado.,,bool,0
+panel_barra_hora,precio_revision_estricta,"Precio observado, con homologación exacta y sin marcas; es una regla de calidad, no de identificación causal.",,bool,0
+panel_barra_hora,unidad_precio,Unidad de precio declarada para cálculos: USD/MWh.,,str,0
+panel_barra_hora,regimen_valorizacion,"Procedimiento de los libros históricos integrados, anterior al 15 de julio de 2024.",,str,0
+panel_barra_hora,precio_usd_mwh_q110,Costo marginal horario publicado; mills/kWh numéricamente equivale a USD/MWh. En este campo corresponde a la referencia Quillota 110 kV.,USD/MWh,float64,0
+panel_barra_hora,observacion_id_q110,"Clave única barra histórica, fecha y etiqueta horaria. En este campo corresponde a la referencia Quillota 110 kV.",,str,0
+panel_barra_hora,estado_identidad_q110,Homologación mensual exacta o coincidencia adyacente provisional; no valida causalidad. En este campo corresponde a la referencia Quillota 110 kV.,,str,0
+panel_barra_hora,marcas_fuente_q110,"Marcas de publicación, incluidas EN_REVISION y NO_MOSTRAR; vacía indica ninguna marca recuperada. En este campo corresponde a la referencia Quillota 110 kV.",,str,0
+panel_barra_hora,precio_revision_estricta_q110,"Precio observado, con homologación exacta y sin marcas; es una regla de calidad, no de identificación causal. En este campo corresponde a la referencia Quillota 110 kV.",,bool,0
+panel_barra_hora,diferencial_q110_usd_mwh,Precio de la barra menos precio de Quillota 110 kV en la misma etiqueta y régimen; resultado relativo descriptivo.,USD/MWh,float64,0
+panel_barra_hora,es_referencia_q110,La observación corresponde a Quillota 110 kV; su diferencial consigo misma es cero y se excluye de los pares estrictos.,,bool,0
+panel_barra_hora,par_precio_estricto_q110,"Ambos precios observados, identidad mensual exacta y sin marcas; excluye autorreferencia Quillota 110 kV. No valida grupo de control.",,bool,0
+panel_barra_hora,precio_usd_mwh_q220,Costo marginal horario publicado; mills/kWh numéricamente equivale a USD/MWh. En este campo corresponde a la referencia Quillota 220 kV.,USD/MWh,float64,0
+panel_barra_hora,observacion_id_q220,"Clave única barra histórica, fecha y etiqueta horaria. En este campo corresponde a la referencia Quillota 220 kV.",,str,0
+panel_barra_hora,estado_identidad_q220,Homologación mensual exacta o coincidencia adyacente provisional; no valida causalidad. En este campo corresponde a la referencia Quillota 220 kV.,,str,0
+panel_barra_hora,marcas_fuente_q220,"Marcas de publicación, incluidas EN_REVISION y NO_MOSTRAR; vacía indica ninguna marca recuperada. En este campo corresponde a la referencia Quillota 220 kV.",,str,0
+panel_barra_hora,precio_revision_estricta_q220,"Precio observado, con homologación exacta y sin marcas; es una regla de calidad, no de identificación causal. En este campo corresponde a la referencia Quillota 220 kV.",,bool,0
+panel_barra_hora,diferencial_q220_usd_mwh,Precio de la barra menos precio de Quillota 220 kV en la misma etiqueta y régimen; resultado relativo descriptivo.,USD/MWh,float64,0
+panel_barra_hora,es_referencia_q220,La observación corresponde a Quillota 220 kV; su diferencial consigo misma es cero y se excluye de los pares estrictos.,,bool,0
+panel_barra_hora,par_precio_estricto_q220,"Ambos precios observados, identidad mensual exacta y sin marcas; excluye autorreferencia Quillota 220 kV. No valida grupo de control.",,bool,0
+panel_barra_hora,tratado_it,"Estado de tratamiento en el período; nulo si no se ha adjudicado, nunca cero por desconocimiento.",,boolean,178016
+panel_barra_hora,post_evento,Indicador de período posterior al evento analítico; nulo mientras no se haya definido y verificado.,,boolean,178016
+panel_barra_hora,control_validado,Elegibilidad como comparación para un diseño específico; nulo en la base actual.,,boolean,178016
+panel_barra_hora,cohorte_g_dia,Primera fecha de adopción en la escala de t_dia; nula hasta validar. Cero se reserva para no tratados documentados al exportar.,día de calendario,Int32,178016
+panel_barra_hora,tiempo_evento_dias,Días relativos al evento causal elegido; nulo en esta versión.,día de calendario,Int32,178016
+panel_barra_hora,tiempo_evento_horas,Horas físicas relativas al evento; nulo hasta verificar evento y reloj.,hora física (pendiente),Int32,178016
+panel_barra_hora,exposicion_red,Medida de exposición eléctrica al tratamiento de otros; nula mientras no existan vigencia y regla defendibles.,,Float64,178016
+panel_barra_hora,carga_asignada_mw,Potencia de carga atribuible al resultado y período con enlace verificado; nula por suministro/reloj pendientes.,MW,Float64,178016
+panel_barra_hora,evento_id_asignado,"Evento analítico asignado a la observación; nulo, aunque existan hitos documentados por separado.",,string,178016
+panel_barra_hora,fecha_tratamiento_causal,Fecha de intervención elegida y defendida; no equivale automáticamente a EO o PES.,,datetime64[ns],178016
+panel_barra_hora,estado_asignacion_causal,"Explica el estado pendiente de evento, comparación y exposición.",,str,0
+panel_barra_hora,elegible_estimacion_causal,Falso en esta entrega; no se ha cerrado una muestra causal.,,bool,0
+panel_barra_hora,estado_enlace_carga,"Estado del enlace entre mediciones y precios, incluida su vigencia y reloj.",,str,0
