@@ -1,0 +1,12 @@
+Entradas: verificar_insumos.py completado
+Reconstrucción: construir_panel_precios.py completado
+Reconstrucción: construir_eventos_relaciones.py completado
+Reconstrucción: construir_mediciones.py completado
+Reconstrucción: verificar_mediciones.py completado
+Reconstrucción: verificar_y_catalogar.py completado
+Reconstrucción: documentar_panel.py completado
+Contrato: verificar_contrato.py completado
+Exportación: preparar_exportacion_excel_csv.py completado
+Exportación: exportar_excel_por_bloques.py completado
+Exportación: verificar_exportacion_excel_csv.py completado
+Registro: /private/tmp/socher-repro-audit-20260925/repo/artifacts/registro_reproduccion.json

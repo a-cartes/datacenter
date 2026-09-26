@@ -1,0 +1,40 @@
+{
+  "inicio_utc": "2026-09-25T23:58:39.889788+00:00",
+  "fin_utc": "2026-09-26T00:02:19.420430+00:00",
+  "alcance": "Entorno virtual nuevo en el mismo equipo; reconstrucción desde extractos conservados.",
+  "incluye_paquetes_del_sistema": false,
+  "adquisicion_original_ejecutada": false,
+  "estimacion_causal_ejecutada": false,
+  "script_de_archivado_sha256": "b5200259f5584a3f9705fc90e7026a68473bc7b93e2ceb9a887d17604eaa90c3",
+  "nota": "El campo instalacion_limpia_verificada del ejecutor queda en false por diseño: el ejecutor no crea ni evalúa entornos. La prueba de instalación se conserva por separado.",
+  "archivos": {
+    "registro_reproduccion.json": {
+      "bytes": 9948,
+      "sha256": "3db060fbbbff6075c39c9e67f680a3505736e1029d189b44a4e2a2747569ab06"
+    },
+    "verificacion_exportacion_excel_csv.json": {
+      "bytes": 11378,
+      "sha256": "efbab8f70bfe2beb788cd7546304a817baa35e5e9dd693b2aed5dbfcf53a5218"
+    },
+    "verificacion_contrato.json": {
+      "bytes": 4234,
+      "sha256": "3b46411071333ff7d01d5ccc00a0bd1fca673f1da33c182fd7343593e928ecff"
+    },
+    "dependencias_instaladas.txt": {
+      "bytes": 118,
+      "sha256": "bd829dcb9cb726fb2d17f771c7f59f184013b66ad8079f29cc0c416780db5aab"
+    },
+    "pyvenv.cfg": {
+      "bytes": 406,
+      "sha256": "5efa31bf64236210e18a4c4aba9d565ea502f2a96fd42b3db071e571a9e3693f"
+    },
+    "instalacion.log": {
+      "bytes": 3333138,
+      "sha256": "d8115858519fd58e6f685d57b856b12953573cc60a7593bfd9d1b6eed83846ae"
+    },
+    "ejecucion.log": {
+      "bytes": 672,
+      "sha256": "bd9043ef94c6a818745f44b4f192f975a50f11fa07f78fe4a5bb1eafde5008f5"
+    }
+  }
+}

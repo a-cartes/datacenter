@@ -10,5 +10,9 @@ Preparación local: 25 de septiembre de 2026. Publicación remota pendiente.
 - Exportaciones originales de Excel y CSV verificadas íntegramente.
 - Documentación del proceso, controles e identificación explícita de vacíos.
 - Estructura independiente para reproducción desde los extractos conservados.
+- Proceso sistematizado mediante una adaptación documental de W3C PROV-DM, ocho etapas y diez decisiones auditables.
+- Modelo formal de medición, enlace eléctrico con vigencia y diseño causal propuesto, con bibliografía primaria.
+- Instalación en un entorno virtual nuevo y reconstrucción completa de CSV y Excel verificadas en macOS ARM64; registros conservados.
+- Versiones transitivas fijadas y flujo manual de GitHub Actions preparado para reconstrucción completa.
 
-El paquete no adjudica tratamientos ni presenta estimaciones causales. La adquisición completa desde todos los archivos originales y la ejecución en un entorno instalado desde cero siguen pendientes de demostración.
+El paquete no adjudica tratamientos ni presenta estimaciones causales. La adquisición completa desde todos los archivos originales, la réplica por otro investigador y la ejecución remota siguen pendientes de demostración.

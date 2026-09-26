@@ -4,7 +4,7 @@
 
 **Datos, código y trazabilidad del artículo:** *Entrada de centros de datos y diferenciales nodales de costo marginal: evidencia causal para Chile*.
 
-[Explorar los datos](docs/datos.md) · [Reproducir](docs/reproducir.md) · [Método y decisiones](docs/metodologia.md) · [Próximos pasos](ROADMAP.md) · [Historial](CHANGELOG.md)
+[Datos](docs/datos.md) · [Proceso y evidencia](docs/proceso.md) · [Modelo metodológico](docs/metodologia.md) · [Decisiones](docs/decisiones.md) · [Reproducir](docs/reproducir.md) · [Hoja de ruta](ROADMAP.md)
 
 Este proyecto estudia cómo la entrada y expansión de centros de datos puede afectar las diferencias de costos marginales entre nodos eléctricos de Chile. El trabajo reúne evidencia de precios, mediciones y conexiones para construir una muestra que permita evaluar esa pregunta con métodos de panel y evaluación de impacto.
 
@@ -19,6 +19,23 @@ Este proyecto estudia cómo la entrada y expansión de centros de datos puede af
 | Registros de medición a 15 minutos | **67.384** |
 
 Las identidades de barra no equivalen a centros independientes. La cobertura de precios incluye febrero, abril, mayo, junio y del 1 al 14 de julio de 2024.
+
+## Una investigación que se puede auditar
+
+El proyecto adapta el modelo de procedencia **W3C PROV-DM** a su documentación: fuentes identificadas, operaciones registradas, resultados verificables y decisiones revisables. Cada etapa enlaza la evidencia disponible. La adaptación organiza el trabajo; no se presenta como una teoría nueva ni como certificación de conformidad con el estándar.
+
+| Quiero revisar… | Punto de entrada |
+|---|---|
+| Cómo se pasó de archivos dispersos al panel | [Ocho etapas y sus controles](docs/proceso.md) |
+| Qué dificultades surgieron y cómo se resolvieron | [Problemas, decisiones y evidencia](docs/proceso.md#dificultades-que-cambian-la-interpretación) |
+| Qué reglas se aplicaron y qué falta resolver | [Registro de diez decisiones](docs/decisiones.md) |
+| Qué modelo se plantea y qué supuestos requiere | [Datos, ATT, dinámica y exposición](docs/metodologia.md) |
+| Cómo repetir el trabajo en otro entorno | [Instrucciones y alcance de la reproducción](docs/reproducir.md) |
+| Qué se verificó al instalar y ejecutar desde cero | [Auditoría en un entorno virtual nuevo](docs/auditoria.md) |
+
+Las dificultades se documentan mediante problemas observables: identidades históricas, vigencia eléctrica, reloj, polaridad, faltantes y exportación de grandes tablas. Se distingue lo resuelto de lo pendiente y la integridad computacional de la identificación causal.
+
+**Prueba local completada:** instalación en un entorno virtual nuevo, once pasos ejecutados, doce tablas verificadas y exportaciones completas contrastadas. El CSV reconstruido es idéntico al original. La [evidencia conservada](docs/auditoria.md) delimita esta comprobación al mismo equipo y a los extractos archivados.
 
 ## De las fuentes al artículo
 

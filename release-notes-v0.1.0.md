@@ -16,7 +16,7 @@ Los precios integrados cubren **febrero, abril, mayo, junio y el 1–14 de julio
 
 | Archivo | Contenido | Tamaño |
 |---|---|---:|
-| `Dataset_articulo.xlsx` | Panel completo, filtros y diccionario de 66 variables | 41.062.559 bytes |
+| `Dataset_articulo.xlsx` | Panel completo, filtros y diccionario de 66 variables | 41.062.505 bytes |
 | `Dataset_articulo.csv` | Mismo panel; UTF-8, coma como separador y punto decimal | 169.702.151 bytes |
 | `diccionario_panel.csv` | Definiciones, tipos, unidades y conteos de nulos | 9.064 bytes |
 | `verificacion_exportacion_excel_csv.json` | Resultado de la comprobación integral de las exportaciones | — |
@@ -25,9 +25,11 @@ Excel y CSV contienen **178.016 identificadores de observación únicos**. La co
 
 ## Reproducibilidad comprobada
 
-La reconstrucción desde los extractos incluidos se ejecutó satisfactoriamente en una carpeta independiente, utilizando el entorno Python local existente. Incluyó los seis pasos de construcción y comprobación, la revisión de insumos y el contrato de doce tablas.
+La reconstrucción desde los extractos incluidos se ejecutó satisfactoriamente en una carpeta independiente, con dependencias instaladas en un entorno virtual nuevo. Incluyó once pasos: seis de construcción y comprobación, revisión de insumos, contrato de doce tablas y tres de exportación. Se conservan los registros de instalación y ejecución, las versiones de todas las dependencias y las huellas de los programas y resultados.
 
-Las exportaciones originales se generaron y verificaron con Python 3.12.14. El comando portable de exportación está preparado, pero no se repitió la exportación completa bajo el entorno Python 3.13 de la prueba de reconstrucción. Esta evidencia no demuestra una instalación de dependencias desde cero ni una nueva descarga y extracción de todos los archivos nacionales originales.
+Los archivos de esta entrega se regeneraron y verificaron con Python 3.13.15 en macOS ARM64. El CSV es idéntico byte por byte a la entrega original; el Excel tiene otra huella de contenedor y conserva el contenido dentro de la tolerancia declarada. La prueba se realizó en el mismo equipo: no representa una réplica independiente, una ejecución remota ni una nueva descarga y extracción de todos los archivos nacionales originales.
+
+La documentación incluye una adaptación de W3C PROV-DM, ocho etapas del proceso, diez decisiones con evidencia y un modelo formal propuesto de medición, ATT, adopción escalonada y exposición eléctrica.
 
 ## Estado de la investigación
 
@@ -35,9 +37,9 @@ Las fechas causales, los vínculos eléctricos vigentes, los comparadores y la e
 
 Esta versión **no presenta estimaciones de ATT, DiD ni spillovers**. El título expresa el objetivo del artículo; la base observada todavía no acredita evidencia causal.
 
-## SHA-256 de las exportaciones originales
+## SHA-256 de las exportaciones de esta entrega
 
 ```text
-e8942f90e9edcf9bd86e704c752162f540fe632c62f87057e9af78e1756eac41  Dataset_articulo.xlsx
+6d03fd48679aacc6efb71fac6172fd3c95faac45470bab497d9ad2b8c98eda02  Dataset_articulo.xlsx
 1464b1e03084046250b80a854c99c6f45a2508b0d972f5222ed348e8c4070a47  Dataset_articulo.csv
 ```

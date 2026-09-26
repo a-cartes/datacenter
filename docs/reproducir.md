@@ -4,17 +4,17 @@
 
 ## Alcance comprobado
 
-La reconstrucción se ejecutó satisfactoriamente en una carpeta independiente del proyecto original, usando el entorno Python local existente. Incluyó los seis pasos de construcción y comprobación, más la revisión de entradas y el contrato de doce tablas. El panel resultante conserva 178.016 filas y 66 variables.
+La reconstrucción y la exportación completa se ejecutaron satisfactoriamente en una carpeta independiente, con dependencias instaladas en un entorno virtual nuevo. Incluyó once pasos: entradas, seis pasos de construcción y comprobación, contrato de doce tablas y tres pasos de exportación. El panel resultante conserva 178.016 filas y 66 variables. La [auditoría del 25 de septiembre](auditoria.md) conserva los registros.
 
-Esta prueba demuestra la reconstrucción desde los extractos incluidos en el paquete. No demuestra una instalación limpia de dependencias ni una nueva descarga y extracción de todos los originales nacionales.
+La prueba se realizó en el mismo equipo del trabajo original, sobre macOS ARM64. Demuestra instalación en un entorno virtual nuevo y reconstrucción desde los extractos incluidos. No equivale a una réplica independiente en otro equipo ni a una nueva descarga y extracción de todos los originales nacionales.
 
 ## Preparar el entorno
 
-Se observaron Python 3.13.15, pandas 3.0.5, numpy 2.5.3, pyarrow 25.0.1 y openpyxl 3.1.5. Están registrados en `requirements.txt`, `.python-version` y `environment.json`. La siguiente instalación debe verificarse en el equipo donde vaya a utilizarse:
+Se comprobaron Python 3.13.15, pandas 3.0.5, numpy 2.5.3, pyarrow 25.0.1 y openpyxl 3.1.5. `requirements.txt` declara las bibliotecas principales; `requirements-lock.txt` incluye las versiones transitivas observadas en la instalación nueva. Utiliza Python 3.13.15 para repetir ese entorno:
 
 ```bash
 python3.13 -m venv .venv
-.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m pip install -r requirements-lock.txt
 ```
 
 Los comandos siguientes asumen que estás en la raíz del repositorio. En Windows, utiliza el ejecutable del entorno correspondiente. No ejecutes Python con `-O` ni `-OO`: los constructores usan aserciones para verificar los datos.
@@ -51,7 +51,7 @@ Para comprobar una base ya construida:
 
 La opción incorpora la exportación completa y su verificación. Genera `Dataset_articulo.csv` y `Dataset_articulo.xlsx` en `artifacts/`. Se puede cambiar esa carpeta mediante `--output-dir` o la variable `SOCHER_OUTPUT_DIR`.
 
-La entrega original se generó y verificó con Python 3.12.14. El comando portable de exportación está preparado, pero no se ha repetido la exportación completa bajo el entorno Python 3.13 de esta prueba. Los archivos originales se conservan fuera del repositorio como entregas de referencia.
+La entrega original se generó con Python 3.12.14. La exportación portable se repitió y verificó con Python 3.13.15 en el entorno nuevo: el CSV conserva exactamente la huella original y el Excel mantiene valores, vacíos y estructura dentro de la tolerancia declarada. Los archivos grandes se conservan fuera del historial de código como entregas de referencia.
 
 ## Criterios de éxito
 
@@ -67,4 +67,4 @@ Las huellas identifican archivos exactos. Los tiempos de ejecución, rutas del n
 
 El historial del repositorio incluye código, documentación, contratos, insumos compactos necesarios y controles de referencia. `artifacts/`, entornos y tablas regeneradas están excluidos del historial. La lectura de los controles de una entrega anterior debe distinguirse de una ejecución nueva: la evidencia de la ejecución actual está en su propio registro.
 
-Las comprobaciones de GitHub Actions verifican la integridad de las entradas y la sintaxis del código. Su resultado no sustituye la reproducción completa ni acredita identificación causal.
+El flujo automático de GitHub Actions comprueba entradas, enlaces de documentación y sintaxis. El flujo manual **Reconstrucción completa** instala las versiones declaradas, reconstruye el paquete con Excel y conserva los informes durante 14 días. Está preparado para ejecutarse desde la pestaña Actions; esta preparación no acredita una ejecución remota. Ninguno de los dos flujos prueba identificación causal.

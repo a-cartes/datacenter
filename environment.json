@@ -6,11 +6,15 @@
     "pyarrow": "25.0.1",
     "openpyxl": "3.1.5"
   },
-  "alcance": "Entorno local observado. Las versiones fijadas no equivalen a un lock transitivo.",
-  "instalacion_limpia_verificada": false,
+  "alcance": "Entorno virtual nuevo, sin paquetes del sistema, instalado y ejecutado en el mismo equipo macOS ARM64. Reconstrucción desde extractos; no adquisición original ni réplica independiente.",
+  "instalacion_limpia_verificada": true,
   "exportacion_excel_original_python": "3.12.14",
   "exportacion_excel_original_openpyxl": "3.1.5",
-  "exportacion_excel_nueva_en_python_3_13_verificada": false,
+  "exportacion_excel_nueva_en_python_3_13_verificada": true,
   "variable_salida": "SOCHER_OUTPUT_DIR",
-  "salida_predeterminada": "artifacts"
+  "salida_predeterminada": "artifacts",
+  "auditoria": "docs/auditoria.md",
+  "registro_auditoria": "docs/evidencia/2026-09-25/manifiesto.json",
+  "dependencias_transitivas": "requirements-lock.txt",
+  "ejecucion_remota_verificada": false
 }
