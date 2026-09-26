@@ -44,4 +44,14 @@ El archivo [requirements-lock.txt](../requirements-lock.txt) fija las siete vers
 
 ## Límite de la prueba
 
-Se reconstruye desde extractos archivados. La nueva adquisición y extracción de todos los originales nacionales, la validación de fechas y vínculos eléctricos y la estimación causal no fueron ejecutadas. Las comprobaciones locales tampoco prueban que GitHub Actions haya corrido: sus resultados se acreditan por separado cuando exista una ejecución remota.
+Se reconstruye desde extractos archivados. La nueva adquisición y extracción de todos los originales nacionales, la validación de fechas y vínculos eléctricos y la estimación causal no fueron ejecutadas. La prueba local y la prueba remota siguiente conservan evidencias separadas.
+
+## Reproducción remota en GitHub Actions
+
+La [ejecución 36204205401](https://github.com/a-cartes/datacenter/actions/runs/36204205401) terminó con resultado **success** el 26 de septiembre de 2026 UTC, todavía 25 de septiembre en Chile. Utilizó el código `f4081cda5efd142358674e9c5524156ac985e9d3`, un equipo Linux x86_64 de GitHub y Python 3.13.15. Instaló `requirements-lock.txt` y ejecutó `scripts/reproducir.py --con-excel`.
+
+Los once pasos terminaron satisfactoriamente. El contrato de doce tablas y la comparación de las 178.016 filas de cada exportación resultaron **OK**. La huella del CSV coincide con la entrega local: `1464b1e03084046250b80a854c99c6f45a2508b0d972f5222ed348e8c4070a47`. El máximo error numérico del Excel fue 5,6843 × 10⁻¹⁴, dentro de la tolerancia de 10⁻¹⁰.
+
+Se conservan [metadatos de GitHub](evidencia/github-36204205401/ejecucion_github.json), [registro de pasos](evidencia/github-36204205401/registro_reproduccion.json), [contrato](evidencia/github-36204205401/verificacion_contrato.json), [verificación de exportaciones](evidencia/github-36204205401/verificacion_exportacion_excel_csv.json) y [manifiesto de integridad](evidencia/github-36204205401/manifiesto.json). Estas copias permanecen en Git aunque caduque el artefacto temporal de Actions.
+
+Esta prueba acredita ejecución en otra plataforma y equipo. No representa revisión por un investigador independiente, verificación de todos los originales nacionales ni identificación causal. Los cambios posteriores de documentación de la versión v0.1.0 no alteran los programas, insumos ni requisitos que fueron comprobados en esa ejecución. Los archivos descargables de la versión corresponden a la auditoría local, con sus propias huellas e informe; no se intercambian con el contenedor Excel generado en Linux.

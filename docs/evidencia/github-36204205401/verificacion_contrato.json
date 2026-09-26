@@ -1,0 +1,150 @@
+{
+  "fecha_utc": "2026-09-26T00:17:12.608310+00:00",
+  "estado": "OK",
+  "version_baseline": "base_observada_2026-09-25",
+  "sha256_contrato": "aa926cb597bafdd21fd6d63fdd0bc7d215790c405293f248b8d754da6fb7078e",
+  "alcance": "Esquema y claves de la versión observada; ausencia de asignación causal. No es certificación de ATT/DiD.",
+  "tablas": [
+    {
+      "tabla": "barras",
+      "archivo": "SOCHER_2026_dataset/tablas/barras.parquet",
+      "filas": 83,
+      "columnas": 13,
+      "columnas_leidas_para_claves_y_nulos": [
+        "barra_id"
+      ]
+    },
+    {
+      "tabla": "carga_campus_hora",
+      "archivo": "SOCHER_2026_dataset/tablas/carga_campus_hora.parquet",
+      "filas": 7319,
+      "columnas": 28,
+      "columnas_leidas_para_claves_y_nulos": [
+        "HT3_incluido",
+        "enlace_precio_habilitado",
+        "hora_utc_etiqueta",
+        "punto_medida_id",
+        "representa_consumo_total_campus"
+      ]
+    },
+    {
+      "tabla": "carga_medidor_15min",
+      "archivo": "SOCHER_2026_dataset/tablas/carga_medidor_15min.parquet",
+      "filas": 67384,
+      "columnas": 44,
+      "columnas_leidas_para_claves_y_nulos": [
+        "enlace_precio_habilitado",
+        "etiqueta_utc",
+        "medidor_id"
+      ]
+    },
+    {
+      "tabla": "centros",
+      "archivo": "SOCHER_2026_dataset/tablas/centros.parquet",
+      "filas": 10,
+      "columnas": 26,
+      "columnas_leidas_para_claves_y_nulos": [
+        "centro_id",
+        "cohorte_g",
+        "elegible_causal",
+        "fecha_tratamiento_causal"
+      ]
+    },
+    {
+      "tabla": "conexiones_red_documentadas",
+      "archivo": "SOCHER_2026_dataset/tablas/conexiones_red_documentadas.parquet",
+      "filas": 20,
+      "columnas": 21,
+      "columnas_leidas_para_claves_y_nulos": [
+        "conexion_id",
+        "peso_exposicion",
+        "utilizable_W_causal"
+      ]
+    },
+    {
+      "tabla": "eventos_documentados",
+      "archivo": "SOCHER_2026_dataset/tablas/eventos_documentados.parquet",
+      "filas": 24,
+      "columnas": 28,
+      "columnas_leidas_para_claves_y_nulos": [
+        "cohorte_g",
+        "elegible_causal",
+        "evento_id",
+        "fecha_tratamiento_causal"
+      ]
+    },
+    {
+      "tabla": "fuentes_eventos_red",
+      "archivo": "SOCHER_2026_dataset/tablas/fuentes_eventos_red.parquet",
+      "filas": 36,
+      "columnas": 8,
+      "columnas_leidas_para_claves_y_nulos": [
+        "fuente_id"
+      ]
+    },
+    {
+      "tabla": "panel_barra_dia",
+      "archivo": "SOCHER_2026_dataset/tablas/panel_barra_dia.parquet",
+      "filas": 7415,
+      "columnas": 19,
+      "columnas_leidas_para_claves_y_nulos": [
+        "barra_id",
+        "elegible_estimacion_causal",
+        "fecha"
+      ]
+    },
+    {
+      "tabla": "panel_barra_hora",
+      "archivo": "SOCHER_2026_dataset/tablas/panel_barra_hora.parquet",
+      "filas": 178016,
+      "columnas": 66,
+      "columnas_leidas_para_claves_y_nulos": [
+        "carga_asignada_mw",
+        "cohorte_g_dia",
+        "control_validado",
+        "elegible_estimacion_causal",
+        "evento_id_asignado",
+        "exposicion_red",
+        "fecha_tratamiento_causal",
+        "observacion_id",
+        "post_evento",
+        "tiempo_evento_dias",
+        "tiempo_evento_horas",
+        "timestamp_utc_validado",
+        "tratado_it"
+      ]
+    },
+    {
+      "tabla": "periodos_fuente",
+      "archivo": "SOCHER_2026_dataset/tablas/periodos_fuente.parquet",
+      "filas": 3217,
+      "columnas": 8,
+      "columnas_leidas_para_claves_y_nulos": [
+        "periodo_fuente_id",
+        "timestamp_utc_validado"
+      ]
+    },
+    {
+      "tabla": "relaciones_centros_barras",
+      "archivo": "SOCHER_2026_dataset/tablas/relaciones_centros_barras.parquet",
+      "filas": 17,
+      "columnas": 18,
+      "columnas_leidas_para_claves_y_nulos": [
+        "es_asignacion_causal",
+        "relacion_id"
+      ]
+    },
+    {
+      "tabla": "relaciones_con_cobertura",
+      "archivo": "SOCHER_2026_dataset/tablas/relaciones_con_cobertura.parquet",
+      "filas": 17,
+      "columnas": 24,
+      "columnas_leidas_para_claves_y_nulos": [
+        "es_asignacion_causal",
+        "habilita_asignacion_causal",
+        "relacion_id"
+      ]
+    }
+  ],
+  "errores": []
+}

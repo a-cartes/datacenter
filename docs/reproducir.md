@@ -6,7 +6,7 @@
 
 La reconstrucción y la exportación completa se ejecutaron satisfactoriamente en una carpeta independiente, con dependencias instaladas en un entorno virtual nuevo. Incluyó once pasos: entradas, seis pasos de construcción y comprobación, contrato de doce tablas y tres pasos de exportación. El panel resultante conserva 178.016 filas y 66 variables. La [auditoría del 25 de septiembre](auditoria.md) conserva los registros.
 
-La prueba se realizó en el mismo equipo del trabajo original, sobre macOS ARM64. Demuestra instalación en un entorno virtual nuevo y reconstrucción desde los extractos incluidos. No equivale a una réplica independiente en otro equipo ni a una nueva descarga y extracción de todos los originales nacionales.
+La primera prueba se realizó en el mismo equipo del trabajo original, sobre macOS ARM64. Posteriormente se completó la misma secuencia en Linux x86_64 mediante [GitHub Actions](https://github.com/a-cartes/datacenter/actions/runs/36204205401). Ambas reconstruyen desde los extractos incluidos; no equivalen a una revisión por otro investigador ni a una nueva descarga y extracción de todos los originales nacionales.
 
 ## Preparar el entorno
 
@@ -67,4 +67,4 @@ Las huellas identifican archivos exactos. Los tiempos de ejecución, rutas del n
 
 El historial del repositorio incluye código, documentación, contratos, insumos compactos necesarios y controles de referencia. `artifacts/`, entornos y tablas regeneradas están excluidos del historial. La lectura de los controles de una entrega anterior debe distinguirse de una ejecución nueva: la evidencia de la ejecución actual está en su propio registro.
 
-El flujo automático de GitHub Actions comprueba entradas, enlaces de documentación y sintaxis. El flujo manual **Reconstrucción completa** instala las versiones declaradas, reconstruye el paquete con Excel y conserva los informes durante 14 días. Está preparado para ejecutarse desde la pestaña Actions; esta preparación no acredita una ejecución remota. Ninguno de los dos flujos prueba identificación causal.
+El flujo automático de GitHub Actions comprueba entradas, enlaces de documentación y sintaxis. El flujo manual **Reconstrucción completa** instala las versiones declaradas, reconstruye el paquete con Excel y conserva los informes durante 14 días. La [ejecución 36204205401](https://github.com/a-cartes/datacenter/actions/runs/36204205401), sobre Linux y el código `f4081cda5efd142358674e9c5524156ac985e9d3`, terminó satisfactoriamente. Sus informes se copiaron al repositorio y se describen en la [auditoría](auditoria.md#reproducción-remota-en-github-actions). Puede repetirse desde la pestaña Actions. Ninguno de los dos flujos prueba identificación causal.

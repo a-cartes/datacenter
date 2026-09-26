@@ -37,11 +37,13 @@ Las dificultades se documentan mediante problemas observables: identidades hist�
 
 **Prueba local completada:** instalación en un entorno virtual nuevo, once pasos ejecutados, doce tablas verificadas y exportaciones completas contrastadas. El CSV reconstruido es idéntico al original. La [evidencia conservada](docs/auditoria.md) delimita esta comprobación al mismo equipo y a los extractos archivados.
 
+**Prueba remota completada:** la [reconstrucción en GitHub Actions sobre Linux](https://github.com/a-cartes/datacenter/actions/runs/36204205401) también terminó sin errores, incluyendo Excel y CSV. Los informes se conservan en el repositorio. La [auditoría](docs/auditoria.md#reproducción-remota-en-github-actions) identifica el código comprobado y el alcance de ambas pruebas.
+
 ## De las fuentes al artículo
 
 ```mermaid
 flowchart LR
-    A[Fuentes y extractos preservados] --> B[Identidad de barras y reloj]
+    A[Fuentes y extractos preservados] --> B[Identidades y etiquetas publicadas]
     B --> C[Panel observado]
     C --> D[Controles de calidad]
     D --> E[CSV, Excel y Parquet]
@@ -60,7 +62,9 @@ El proceso de esta versión reconstruye la base a partir de extractos preservado
 
 Para revisar el contenido, comienza por la [guía de datos](docs/datos.md) y el [diccionario de las 66 variables](SOCHER_2026_dataset/documentacion/diccionario_panel.csv). Para reconstruirlo, sigue las [instrucciones de reproducción](docs/reproducir.md).
 
-Los archivos de Excel y CSV sin comprimir son productos de entrega. Se generan en `artifacts/` y se distribuyen asociados a una versión; no se incluyen copias sucesivas de esos archivos voluminosos en el historial de código.
+Los archivos completos están asociados a la [versión v0.1.0](https://github.com/a-cartes/datacenter/releases/tag/v0.1.0): [Excel · 41,1 MB](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/Dataset_articulo.xlsx) y [CSV · 169,7 MB](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/Dataset_articulo.csv), junto con el diccionario, el informe de verificación y las huellas SHA-256. El repositorio y sus descargas son privados; requieren acceso autorizado.
+
+Estos productos se regeneran en `artifacts/`. Sus copias voluminosas se distribuyen por versión y no se acumulan en el historial de código.
 
 ## Organización
 

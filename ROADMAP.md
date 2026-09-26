@@ -12,11 +12,12 @@
 
 - [x] Preparar portada, navegación, diccionarios y metadatos de citación.
 - [x] Conectar la cuenta de GitHub y vincular el repositorio `a-cartes/datacenter` creado por el autor.
-- [ ] Configurar la visibilidad privada del repositorio antes de cargar el proyecto.
+- [x] Configurar la visibilidad privada del repositorio antes de cargar el proyecto.
 - [x] Completar y verificar el paquete desde una carpeta independiente, reutilizando el entorno local.
 - [x] Instalar dependencias y reconstruir CSV y Excel en un entorno virtual nuevo, sobre el mismo equipo.
-- [ ] Obtener una réplica independiente en otro equipo o una ejecución remota verificada.
-- [ ] Publicar una primera versión de trabajo con sus productos asociados.
+- [x] Reconstruir y verificar el paquete completo en GitHub Actions sobre Linux.
+- [ ] Obtener una réplica y revisión por otro investigador.
+- [x] Publicar una primera versión de trabajo con sus productos asociados en el repositorio privado.
 
 ## Validación documental y eléctrica
 

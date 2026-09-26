@@ -24,6 +24,20 @@ Los precios cubren febrero, abril, mayo, junio y del 1 al 14 de julio de 2024. L
 
 El CSV sin comprimir de la entrega original ocupa 169,7 MB. El Excel ocupa 41,1 MB porque su contenido está comprimido. La diferencia de tamaño no implica menos observaciones. El formato Parquet conserva de manera compacta tipos y valores nulos.
 
+## Descargar la versión v0.1.0
+
+Las descargas pertenecen al repositorio privado y requieren una sesión con acceso autorizado. Corresponden a la exportación regenerada y verificada con Python 3.13.15 en la auditoría local:
+
+| Archivo | Tamaño exacto | Uso |
+|---|---:|---|
+| [Dataset_articulo.xlsx](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/Dataset_articulo.xlsx) | 41.062.505 bytes | Panel completo y diccionario para revisión en Excel |
+| [Dataset_articulo.csv](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/Dataset_articulo.csv) | 169.702.151 bytes | Panel completo en formato abierto |
+| [diccionario_panel.csv](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/diccionario_panel.csv) | 9.064 bytes | Definiciones de las 66 variables |
+| [verificacion_exportacion_excel_csv.json](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/verificacion_exportacion_excel_csv.json) | — | Comprobación de todas las filas, vacíos, valores y estructura |
+| [SHA256SUMS.txt](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/SHA256SUMS.txt) | — | Huellas de los cuatro archivos anteriores |
+
+La [página de la versión](https://github.com/a-cartes/datacenter/releases/tag/v0.1.0) reúne los archivos y las notas. La huella del CSV coincide con la entrega original. El Excel regenerado tiene otra huella de contenedor, con equivalencia de contenido verificada; el informe adjunto corresponde al archivo nuevo.
+
 ## Variables por completar
 
 `tratado_it`, `post_evento`, `control_validado`, `cohorte_g_dia`, los tiempos relativos, `exposicion_red`, `carga_asignada_mw` y la fecha causal quedan vacíos hasta validar su asignación. No deben usarse como ceros en una regresión. `elegible_estimacion_causal` es falso en esta versión.

@@ -1,0 +1,27 @@
+{
+  "run_id": 36204205401,
+  "url": "https://github.com/a-cartes/datacenter/actions/runs/36204205401",
+  "commit_comprobado": "f4081cda5efd142358674e9c5524156ac985e9d3",
+  "conclusion": "success",
+  "sistema": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+  "python": "3.13.15",
+  "scripts_actuales_coinciden_con_los_ejecutados": true,
+  "archivos": {
+    "ejecucion_github.json": {
+      "bytes": 2132,
+      "sha256": "d9bbd4427e0a9c9382a4a63258d5ced3c81e36eed084c195916e44368dacd21b"
+    },
+    "registro_reproduccion.json": {
+      "bytes": 9787,
+      "sha256": "ce8b76ddab03840cf310e91ce7048875a7df3bc99529a0ab42fd79b17304c203"
+    },
+    "verificacion_contrato.json": {
+      "bytes": 4234,
+      "sha256": "042b2529106e2c445815c1d9f435870f202bf8c2079c73454cf765eefc80327c"
+    },
+    "verificacion_exportacion_excel_csv.json": {
+      "bytes": 11355,
+      "sha256": "e8bf79438b2adbcb73208bf07eb94660fe03bf01db560ffe4645d2dc97b8768a"
+    }
+  }
+}

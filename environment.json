@@ -16,5 +16,11 @@
   "auditoria": "docs/auditoria.md",
   "registro_auditoria": "docs/evidencia/2026-09-25/manifiesto.json",
   "dependencias_transitivas": "requirements-lock.txt",
-  "ejecucion_remota_verificada": false
+  "ejecucion_remota_verificada": true,
+  "evidencia_remota": {
+    "url": "https://github.com/a-cartes/datacenter/actions/runs/36204205401",
+    "commit": "f4081cda5efd142358674e9c5524156ac985e9d3",
+    "plataforma": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+    "informe": "docs/evidencia/github-36204205401/manifiesto.json"
+  }
 }

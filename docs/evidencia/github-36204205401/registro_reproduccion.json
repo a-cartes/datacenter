@@ -1,0 +1,188 @@
+{
+  "inicio_utc": "2026-09-26T00:16:34.480677+00:00",
+  "completado": true,
+  "python_ejecutable": "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+  "python_version": "3.13.15",
+  "python_observado": "3.13.15",
+  "sistema": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+  "instalacion_limpia_verificada": false,
+  "alcance": "Reconstrucción desde extractos auditados incluidos; no adquisición original ni estimación causal.",
+  "adquisicion_original_ejecutada": false,
+  "estimacion_causal_ejecutada": false,
+  "excel_solicitado": true,
+  "directorio_artefactos": "/home/runner/work/datacenter/datacenter/artifacts",
+  "modo": "reconstruir",
+  "dependencias": {
+    "pandas": {
+      "observada": "3.0.5",
+      "referencia_local": "3.0.5"
+    },
+    "numpy": {
+      "observada": "2.5.3",
+      "referencia_local": "2.5.3"
+    },
+    "pyarrow": {
+      "observada": "25.0.1",
+      "referencia_local": "25.0.1"
+    },
+    "openpyxl": {
+      "observada": "3.1.5",
+      "referencia_local": "3.1.5"
+    }
+  },
+  "advertencias_entorno": [],
+  "pasos": [
+    {
+      "fase": "Entradas",
+      "script": "scripts/verificar_insumos.py",
+      "sha256_script": "a156668c84bb8e4ad613b5fc09a21cca440aa8448e98090c8748b5ea7084cb4b",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/scripts/verificar_insumos.py"
+      ],
+      "segundos": 0.138,
+      "codigo_salida": 0,
+      "stdout": "{\n  \"estado\": \"OK\",\n  \"archivos_verificados\": 90,\n  \"requeridos_de_los_seis_pasos\": 41,\n  \"originales_opcionales_no_archivados\": 20,\n  \"adquisicion_completa_incluida\": false,\n  \"errores\": []\n}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Reconstrucción",
+      "script": "SOCHER_2026_dataset/scripts/construir_panel_precios.py",
+      "sha256_script": "adce8b0dc47473847c7f5b2d03b57b6834d5af1b59ec820987b933656a2637bc",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/construir_panel_precios.py"
+      ],
+      "segundos": 11.275,
+      "codigo_salida": 0,
+      "stdout": "{\"filas_horarias\": 178016, \"filas_diarias\": 7415, \"claves_barra_historicas\": 83, \"periodos_fuente\": 3217, \"cohortes_validadas\": 0, \"n_pares_estrictos\": {\"q110\": 125762, \"q220\": 125762}}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Reconstrucción",
+      "script": "SOCHER_2026_dataset/scripts/construir_eventos_relaciones.py",
+      "sha256_script": "5183fa9009203aba773a9c0394a32d7814f18ec0d72271b2df072f2ce9718e69",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/construir_eventos_relaciones.py"
+      ],
+      "segundos": 0.685,
+      "codigo_salida": 0,
+      "stdout": "{\n  \"centros\": 10,\n  \"relaciones_centros_barras\": 17,\n  \"eventos_documentados\": 24,\n  \"conexiones_red_documentadas\": 20,\n  \"fuentes_eventos_red\": 36\n}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Reconstrucción",
+      "script": "SOCHER_2026_dataset/scripts/construir_mediciones.py",
+      "sha256_script": "18c6c297f5f32269e7821c6e353572add468ca712449be6e57e66ffa1f80ac8e",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/construir_mediciones.py"
+      ],
+      "segundos": 9.309,
+      "codigo_salida": 0,
+      "stdout": "{\n  \"filas_15min\": 67384,\n  \"filas_horarias_por_etiqueta\": 7319,\n  \"medidores\": {\n    \"LSCANTRS_110_HT1_EDG\": 29276,\n    \"LSCANTRS_110_HT2_EDG\": 29276,\n    \"LSCANTRS_110_HT3_EDG\": 8832\n  },\n  \"dias_con_HT1_HT2\": 305,\n  \"horas_con_HT1_HT2_cero_observado\": 1440,\n  \"horas_incompletas_entre_observadas\": 0,\n  \"inicio_fin_fisico_intervalo_acreditado\": false,\n  \"enlace_precio_realizado\": false\n}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Reconstrucción",
+      "script": "SOCHER_2026_dataset/scripts/verificar_mediciones.py",
+      "sha256_script": "a15d1f1d40515f9e2614d31db3349e3e434b9beb33f8399e95f8f7144ff47afb",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/verificar_mediciones.py"
+      ],
+      "segundos": 1.221,
+      "codigo_salida": 0,
+      "stdout": "{\n  \"csv_conserva_campos_originales\": true,\n  \"hora_comprobada\": \"2024-06-25 04:00:00+00:00\",\n  \"energia_8_filas_decimal_kwh\": \"995.6532059\",\n  \"energia_horaria_kwh\": 995.6532059,\n  \"ausencias_no_son_ceros\": true,\n  \"septiembre_8_23_horas\": true,\n  \"HT3_retiro_nulo\": true,\n  \"enlace_precio_deshabilitado\": true,\n  \"campos_medidor\": 44,\n  \"campos_hora\": 28\n}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Reconstrucción",
+      "script": "SOCHER_2026_dataset/scripts/verificar_y_catalogar.py",
+      "sha256_script": "2ea0a15115c4e229e94397abde07ba02adf1f561fbde4053912e47e1876118a2",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/verificar_y_catalogar.py"
+      ],
+      "segundos": 14.344,
+      "codigo_salida": 0,
+      "stdout": "{\"fecha_utc\": \"2026-09-26T00:17:11.425453+00:00\", \"filas_horarias\": 178016, \"filas_diarias\": 7415, \"claves_barra_historicas\": 83, \"candidatos\": 10, \"hitos_documentados\": 24, \"relaciones_documentales\": 17, \"conexiones_red_documentadas\": 20, \"filas_medidor_15min\": 67384, \"horas_carga_HT1_HT2\": 7319, \"relaciones_con_codigo_de_precio\": 12, \"error_precio_vs_v6\": 0.0, \"errores_diferencial_vs_fuente\": {\"q110\": 0.0, \"q220\": 0.0}, \"dias_Canteras_Quillota_comparados_v4\": 105, \"error_diario_vs_v4\": 3.108624468950438e-14, \"error_energia_total_kwh\": 9.313225746154785e-10, \"error_precio_csv_parquet\": 0.0, \"llaves_foraneas_verificadas\": true, \"tratamiento_desconocido_conservado_nulo\": true, \"filas_elegibles_estimacion_causal\": 0, \"estado\": \"BASE_OBSERVADA_INTEGRADA_ASIGNACION_CAUSAL_PENDIENTE\", \"script_sha256\": \"2ea0a15115c4e229e94397abde07ba02adf1f561fbde4053912e47e1876118a2\"}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Reconstrucción",
+      "script": "SOCHER_2026_dataset/scripts/documentar_panel.py",
+      "sha256_script": "60063c2845c9cdd20eaded547eb0d58a505b7d8cb3bd21c2e42ab65b442685ca",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/documentar_panel.py"
+      ],
+      "segundos": 0.616,
+      "codigo_salida": 0,
+      "stdout": "Diccionario del panel: 66 variables definidas.\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Contrato",
+      "script": "scripts/verificar_contrato.py",
+      "sha256_script": "73df742d15e08d3e2354e854ea9b519d723fed6244a003a210f1b4b629838b51",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/scripts/verificar_contrato.py",
+        "--output-dir",
+        "/home/runner/work/datacenter/datacenter/artifacts"
+      ],
+      "segundos": 0.562,
+      "codigo_salida": 0,
+      "stdout": "{\"estado\": \"OK\", \"tablas\": 12, \"errores\": []}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Exportación",
+      "script": "SOCHER_2026_dataset/scripts/preparar_exportacion_excel_csv.py",
+      "sha256_script": "cae9f5c478d37a228112ee5f113c6ebb33501b5d464ac0cc059906760ed05500",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/preparar_exportacion_excel_csv.py",
+        "--output-dir",
+        "/home/runner/work/datacenter/datacenter/artifacts"
+      ],
+      "segundos": 9.572,
+      "codigo_salida": 0,
+      "stdout": "{\"filas\": 178016, \"columnas\": 66, \"csv\": \"/home/runner/work/datacenter/datacenter/artifacts/Dataset_articulo.csv\"}\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Exportación",
+      "script": "SOCHER_2026_dataset/scripts/exportar_excel_por_bloques.py",
+      "sha256_script": "f416bf8075d798880ae1bce14ede4f92f9f5e85ec2abe17c0a0740e827ab11dd",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/exportar_excel_por_bloques.py",
+        "--output-dir",
+        "/home/runner/work/datacenter/datacenter/artifacts"
+      ],
+      "segundos": 271.052,
+      "codigo_salida": 0,
+      "stdout": "Filas escritas: 25000\nFilas escritas: 50000\nFilas escritas: 75000\nFilas escritas: 100000\nFilas escritas: 125000\nFilas escritas: 150000\nFilas escritas: 175000\nFilas escritas: 178016\nExcel completo guardado.\n",
+      "stderr": ""
+    },
+    {
+      "fase": "Exportación",
+      "script": "SOCHER_2026_dataset/scripts/verificar_exportacion_excel_csv.py",
+      "sha256_script": "adad5924cbe6a95e891c1ba1ad9391ebdecc5448e585d84c0b679d778c780158",
+      "comando": [
+        "/opt/hostedtoolcache/Python/3.13.15/x64/bin/python",
+        "/home/runner/work/datacenter/datacenter/SOCHER_2026_dataset/scripts/verificar_exportacion_excel_csv.py",
+        "--output-dir",
+        "/home/runner/work/datacenter/datacenter/artifacts"
+      ],
+      "segundos": 136.757,
+      "codigo_salida": 0,
+      "stdout": "{\"estado\": \"OK\", \"errores\": 0, \"filas_csv\": 178016, \"filas_excel\": 178016, \"informe\": \"/home/runner/work/datacenter/datacenter/artifacts/verificacion_exportacion_excel_csv.json\"}\n",
+      "stderr": ""
+    }
+  ],
+  "fin_utc": "2026-09-26T00:24:10.054122+00:00"
+}

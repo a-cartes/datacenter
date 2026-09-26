@@ -27,7 +27,9 @@ Excel y CSV contienen **178.016 identificadores de observación únicos**. La co
 
 La reconstrucción desde los extractos incluidos se ejecutó satisfactoriamente en una carpeta independiente, con dependencias instaladas en un entorno virtual nuevo. Incluyó once pasos: seis de construcción y comprobación, revisión de insumos, contrato de doce tablas y tres de exportación. Se conservan los registros de instalación y ejecución, las versiones de todas las dependencias y las huellas de los programas y resultados.
 
-Los archivos de esta entrega se regeneraron y verificaron con Python 3.13.15 en macOS ARM64. El CSV es idéntico byte por byte a la entrega original; el Excel tiene otra huella de contenedor y conserva el contenido dentro de la tolerancia declarada. La prueba se realizó en el mismo equipo: no representa una réplica independiente, una ejecución remota ni una nueva descarga y extracción de todos los archivos nacionales originales.
+Los archivos de esta entrega se regeneraron y verificaron con Python 3.13.15 en macOS ARM64. El CSV es idéntico byte por byte a la entrega original; el Excel tiene otra huella de contenedor y conserva el contenido dentro de la tolerancia declarada.
+
+La [reconstrucción completa en GitHub Actions sobre Linux](https://github.com/a-cartes/datacenter/actions/runs/36204205401) también terminó sin errores y produjo un CSV idéntico. Los registros locales y remotos se conservan por separado. Estas pruebas no representan revisión por otro investigador ni una nueva descarga y extracción de todos los archivos nacionales originales.
 
 La documentación incluye una adaptación de W3C PROV-DM, ocho etapas del proceso, diez decisiones con evidencia y un modelo formal propuesto de medición, ATT, adopción escalonada y exposición eléctrica.
 
