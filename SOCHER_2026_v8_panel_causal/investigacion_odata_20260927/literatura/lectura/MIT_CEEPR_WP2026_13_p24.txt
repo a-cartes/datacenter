@@ -1,0 +1,37 @@
+window, the estimator avoids the contaminated contrasts that drive TWFE bias under
+heterogeneous effects. We implement the improved doubly robust estimator, which
+combines an outcome-regression model for untreated potential outcome changes with an
+inverse-probability-weighting component whose propensity score is estimated by inverse
+probability tilting (Sant’Anna and Zhao, 2020). Treatment is the first year of large data
+center activation, and never-treated utility-state pairs form the comparison group.
+We summarize the estimated ATT(g, t)’s in two ways. First, we construct event-study
+estimates that trace the dynamic effects relative to the first year of activation:
+ATT(e) = ∑
+g
+wg,e ·ATT(g,g+e), (3)
+where e=t−g denotes event time and the weights wg,e give each cohort’s share among
+the cohorts for which event time e is observed in the panel. 18 ATT(e) is therefore the
+average treatment effect e years after activation across all cohorts that contribute at that
+event time. We report event-study estimates spanning ten years before through twelve
+years after activation, with negative values of e serving as pre-treatment placebo checks on
+the parallel trends assumption.
+Second, we report a single overall ATT that averages effects across all post-activation
+years and cohorts:
+ATT= ∑
+g
+∑
+t≥g
+wg ·ATT(g,t), (4)
+where wg is proportional to the share of ever-treated units belonging to cohort g, normal-
+ized so that the weights sum to one across all post-treatment(g,t)cells. 19
+5.1 Identification Challenges
+Non-Random Siting of Data Centers.Data centers do not locate at random. Hyperscalers
+select utility service territories based on electricity prices, tax incentives, etc.—factors that
+may independently affect the outcomes we study. As a result, utilities that host data centers
+may differ from those that do not along dimensions correlated with rate-setting behavior
+18Specifically, wg,e =P(G=g| 1 ≤g+e≤ T , G≤ T) , i.e., the probability of belonging to cohort
+g conditional on being ever-treated and on the cohort contributing an observation at event time e. By
+construction, ∑g wg,e =1 for eache.
+19Specifically, wg =P(G=g|G≤ T)/κ , where T is the final period in the panel and κ= ∑g(T −g+
+1)P(G=g|G≤ T)is a normalizing constant ensuring that ∑g ∑t≥g wg =1.
+21

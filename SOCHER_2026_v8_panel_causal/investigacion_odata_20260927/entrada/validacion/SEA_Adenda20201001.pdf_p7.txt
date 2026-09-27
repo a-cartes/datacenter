@@ -1,0 +1,46 @@
+ 
+ADENDA 
+ 
+PROYECTO ODATA DATACENTER 
+ 
+Adenda 2 
+ 
+El Layout General del Proyecto se presenta en el Anexo 1 -2 de lapresente Declaración de Impacto 
+Ambiental. Del mismo modo, la ubicacióngeneral del Proyecto a escala regional y local se presenta en 
+la. y Figura 1 -2, resp ectivamente (pág. 1 -4 del Cap. 1)”. Ad emás, en el acápite 1.5.7.1 Emisiones 
+atmosféricas delCapítulo 1 de la DIA, se señala que en “El Anexo 1 -3 “Informe de esti maciónde 
+emisiones atmosféricas” incluye una estimación de las emisiones para lafase de construcción. En la se 
+entrega un resumen de las emisiones estimadas para el total  de esta fase”. Al respecto, se solicita 
+corregir los errores descritos en los respectivos documentos e incorporar las referencias correctamente 
+Respuesta: 
+El Titular acoge la observación y señala que se corrige lo indicado, adjuntando nuevamente el Capítulo 
+1 en el Anexo 9 de la presente Adenda. 
+6. En el acápite 1.2.2 Breve descripción del proyecto del Capítulo 1 de la DIA,  se señala que “el 
+Proyecto req uerirá de un suministro continuo  de energía,  que será provisto por dos  sistemas de 
+abastecimiento eléctrico. Para el  edificio ST01 se considerará su abastecimiento a partir de  la línea 
+Batuco, ya través de una Línea de media tensión para el Edificio ST02, en base a unasubestación 
+eléctrica ubicada al interior del predio del proyecto, comoabastecimiento principal, y grupos 
+electrógenos de emergencia, en caso deque el sistema pri ncipal de abastecimiento de energía falle”. 
+Un poco más adelante en el mismo Capítulo, en el acápite 1.4 DESCRIPCIÓN DE LASPARTES, ACCIONES 
+Y OBRAS FÍSICAS QUE COMPONEN EL PROYECTO, se señala que “Para el abastecimiento de energía del 
+edificio ST02, el proyecto contempla la construcción de una línea de alimentacióneléctrica proveniente 
+desde la subestación Lampa”. Posteriormente, en elacápite 1.4.1.14 Línea de media tensión se señala 
+que “el proyectoconsidera la construcción de una línea alimentadora dedica da para elabastecimiento 
+eléctrico de los componentes del edificio ST02”. Al resp ecto, se solicita aclarar y expl icar con mayor 
+precisión cuál será fin almente elmedio de abastecimiento de energía del Edificio ST02, toda vez que 
+noqueda claro, por ejemplo, si la línea de media tensión es lo mismo o escomplementaria con la 
+construcción de una línea de alimentación eléctricaque proviene de la subestación Lampa. 
+Respuesta: 
+El Titular acoge la observación y aclara que, efectivamente el proyecto contempla el abas tecimiento 
+eléctrico mediante dos fuentes, el primero, será mediante el sistema e léctrico público y el segundo 
+mediante el abastecimiento eléctrico dir ectamente desde la subestación Lampa , mediante una línea 
+de transmisión de media tensión cuya construcción es parte del presente proyecto. 
+En el caso de la primera fuente, ésta abastecer á al edifico ST01 mediante una c onexión a la línea de 
+distribución pública que pasa frente a la avenida Eduardo Frei Montalva colindante con el predio de 
+emplazamiento del proyecto. 
+En el caso de la segunda fuente, ésta abastecerá al proyecto completo mediante una línea dedicada de 
+media tensión (23kV) proveniente de la subestación Lampa, cuya construcción es parte integral del 
+presente proyecto, tal como se muestra en la siguiente Figura.Cabe señalar que el sistema de grupos 
+electrógenos declarado, corresponden a equipos de respaldo en caso de alguna falla en los sistemas 
+anteriormente descritos. Igualmente se aclara que el proyecto no contempla ninguna subestación 
+eléctrica dentro de las instalaciones del datacenter. 

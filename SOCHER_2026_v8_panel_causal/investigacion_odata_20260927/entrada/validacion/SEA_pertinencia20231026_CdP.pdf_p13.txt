@@ -1,0 +1,50 @@
+ 
+CONSULTA DE PERTINENCIA  
+ PROYECTO  
+“MODIFICACIONES ODATA DATACENTER LAMPA” 
+ 
+ 9 
+ 
+b) Descripción detallada del cambio que se pretende introducir, incluyendo la información 
+indicada en el N°B.1. Al efecto se requiere identificar claramente las diferencias entre el 
+proyecto aprobado y el cambio propuesto por el proponente. 
+ 
+b.1.  Descripción del proyecto o actividad, indicando las principales obras y acciones para cada 
+una de las fases (construcción operación y cierre), si correspondiere. 
+ 
+Situación aprobada: 
+ 
+El Proyecto Odata Datacenter , aprobado por la RCA N° 098/2021, consiste en la construcción y 
+operación de un centro de almacenamiento de información de datos tecnológicos. 
+ 
+El Proyecto está compuesto por dos edificios de Data Center denominados ST01 y ST02, junto con 
+la subestación eléctrica  y zona de generadores. Cada uno de los Data Center cuenta con 
+instalaciones de apoyo. Los edificios y módulos que componen el proyecto se irán desarrollando de 
+forma secuencial, en un periodo de 7 años aproximadamente. 
+ 
+El Proyecto requerirá de un suministro continuo de energía, que será provisto por dos sistemas de 
+abastecimiento eléctrico. Para el edificio ST01 se considerará su abastecimiento a partir de la línea 
+Batuco y de acuerdo a lo señalado en la respuesta 6 de la Adenda, la segunda fuente de 
+abastecimiento eléctrico, que abastecerá el Proyecto completo será a través de una Línea de media 
+tensión (23 kV) proveniente de la Subestación Lampa  que se utilizará  como abastecimiento 
+principal, y grupos electrógenos de eme rgencia, en caso de que el sistema principal de 
+abastecimiento de energía falle. Algunas de las instalaciones del Proyecto corresponden a: 
+ 
+Edificios ST01 y ST02  
+El primer edificio (ST01) contará con dos módulos de Data Center y el segundo edificio (ST02) con 
+tres módulos de Data Center. 
+ 
+Edificios administrativos 
+El proyecto contempla 2 edificios administrativos, uno asociado al edificio ST01 y el otro asociado al 
+edificio ST02.  
+ 
+Módulos de Data Center 
+El Proyecto considera  5 módulos de Data Center, de los cuales 1 módulo es de 4 MW de TI  y los 
+otros 4 módulos son de 6 MW de TI  para un total de 28 MW TI , de acuerdo a lo señalado en la 
+siguiente Tabla: 
+ 
+Tabla 2.Subetapas Proyecto Odata Data Center 
+Edificio Módulos MW TI 
+ST01 1 A 6 MW de TI 
+1 B 6 MW de TI 
+ST02 2 A 4 MW de TI 

@@ -1,0 +1,1144 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" ">
+    <title>SNIFA - Sistema Nacional de Información de Fiscalización Ambiental</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/Content/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/Content/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/Content/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="/Content/jquery.multiselect.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/snifa.css">
+    <link rel="stylesheet" type="text/css" href="/Content/color.css">
+    <link rel="stylesheet" type="text/css" href="/Content/estilos.css">
+    <link rel="stylesheet" type="text/css" href="/Content/mytable_estilos.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/head-footer.css">
+    <link rel="stylesheet" type="text/css" href="/Content/clases-nuevas.css">
+    <link rel="stylesheet" type="text/css" href="/Scripts/bootstrap-select-1.12.4/css/bootstrap-select.min.css">
+    <link rel="stylesheet" type="text/css" href="/Content/loading.css">
+
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" type="text/css">
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script>
+    <style>
+        *:focus, *:active {
+            outline: none !important;
+            box-shadow: none !important;
+        }
+    </style>
+
+
+    
+    <script src="/Scripts/jquery/jquery-2.2.4.js"></script>
+    <script src="/Scripts/jquery-ui.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    <script src="/Scripts/jquery.dataTables.editable.js"></script>
+    <script src="/Scripts/jquery.dataTables.columnFilter.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="/Scripts/funciones.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.multiselect.js"></script>
+    <script type="text/javascript" src="/Scripts/responsive-tabs.js"></script>
+
+
+    <script src="/Scripts/export/tableExport.js"></script>
+    <script src="/Scripts/export/jquery.base64.js"></script>
+    <script src="/Scripts/export/jspdf/libs/sprintf.js"></script>
+    <script src="/Scripts/export/jspdf/jspdf.js"></script>
+    <script src="/Scripts/export/jspdf/libs/base64.js"></script>
+
+    <script type="text/javascript" src="/Scripts/bootstrap-select-1.12.4/js/bootstrap-select.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap-select-1.12.4/js/i18n/defaults-es_CL.js"></script>
+    <script src="/Scripts/jquery.fileDownload.js" type="text/javascript"></script>
+
+
+    <!-- Hotjar Tracking Code for SNIFA -->    
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 6514256, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H7DTM3S58G"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-H7DTM3S58G');
+    </script>
+
+
+</head>
+
+<body onload="InitMap()">
+    <div id="cargandoInformacionPdC" class="modal" style="z-index: 999999999;">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div style="text-align: center; margin: 20px;">
+                        <div style="position: relative;  margin: auto; padding: 10px; height: 100px; width: 120px;">
+                            <div style="padding: 20px; width: 100px;">
+                                <img src="/Images/icono-sma.svg" class="ld ld-bounce" />
+                            </div>
+                        </div>
+                        <b>Cargando información ...</b><br />
+                        Esta descarga podría demorar dependiendo de la cantidad de archivos reportados, favor espere.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="cargandoInformacion" class="modal" style="z-index: 999999999;">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div style="text-align: center; margin: 20px;">
+                        <div style="position: relative;  margin: auto; padding: 10px; height: 100px; width: 120px;">
+                            <div style="padding: 20px; width: 100px;">
+                                <img src="/Images/icono-sma.svg" class="ld ld-bounce" />
+                            </div>
+                        </div>
+                        <b>Cargando información ...</b>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="sombra"></div>
+    <div class="menu-mobile">
+        <div class="cerrar-menu-mobile">
+            <i class="fa fa-times"></i>
+        </div>
+        <ul>
+            <li><a href="/">Inicio</a></li>
+            <li class="active"><a href="/Fiscalizacion">Fiscalizaciones</a></li>
+            <li><a href="/Sancionatorio">Procedimientos sancionatorios</a></li>
+            <li><a href="/MedidaProvisional">Medidas provisionales</a></li>
+            <li><a href="/RequerimientoIngreso">Requerimientos de Ingreso</a></li>
+            <li><a href="/RegistroPublico">Registro Sanciones</a></li>
+            <li><a href="/UnidadFiscalizable">Catastro Unidades fiscalizables</a></li>
+            
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Normativa Ambiental <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/Instrumento/Index/1">Resoluciones de Calificación Ambiental</a></li>
+                    <li><a href="/Instrumento/Tipo/4">Planes de Prevención y Descontaminación Ambiental</a></li>
+                    <li><a href="/Instrumento/Tipo/2">Normas de Emisión</a></li>
+                    <li><a href="/Instrumento/Tipo/3">Normas de Calidad</a></li>
+                    <li><a href="/ProgramaCumplimiento">Programas de Cumplimiento</a></li>
+                    <li><a href="/Instrumento/NormativaAmbiental">Otros Instrumentos</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Otros Documentos<i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/Resolucion/Programa">Programas y subprogramas de fiscalización</a></li>
+                    <li><a href="/Resolucion/Instruccion">Instrucciones y requerimientos de caracter general</a></li>
+
+                    
+                    <li><a href="/PlanReparacion">Planes de Reparación</a></li>
+
+                    <li><a href="/DictamenContraloria/Contraloria">Dictámenes de Contraloría</a></li>
+                    <li><a href="/SentenciaTribunal/Tribunal">Sentencias de Tribunales</a></li>
+                    
+                    <li><a href="/CaducidadRCA">Caducidad y acreditación de vigencia de RCA</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Seguimiento & Datos <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/SeguimientoAmbiental">Seguimiento Ambiental</a></li>
+                    <li><a href="/Estadisticas">Estadísticas</a></li>
+                    <li><a href="/DatosAbiertos">Datos Abiertos</a></li>
+                </ul>
+            </li>
+            
+            <li><a href="http://www.sma.gob.cl">Ir al sitio SMA</a></li>
+        </ul>
+    </div><!-- /.navbar-collapse -->
+    <!-- /.container-fluid -->
+    <header>
+        <div class="container">
+            <div class="boton-menu-mobile">
+                <i class="fa fa-bars"></i>
+            </div>
+            <div class="logo">
+                <a href="/"><img src="/images/snifa-logo.png" alt="" /></a>
+            </div>
+        </div>    
+        <nav class="navbar navbar-default snifamenu">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header container">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="textmenu">MENÚ PRINCIPAL</span>
+                </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="/">Inicio</a></li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="uno"><a href="/Fiscalizacion">Fiscalizaciones</a></li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="dos"><a href="/Sancionatorio">Procedimientos<br /> sancionatorios</a></li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="tres"><a href="/MedidaProvisional">Medidas<br /> provisionales</a></li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="nueve"><a href="/RequerimientoIngreso">Requerimientos<br /> de Ingreso</a></li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="cuatro"><a href="/RegistroPublico">Registro<br /> sanciones</a></li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="cinco"><a href="/UnidadFiscalizable">Catastro Unidades<br /> fiscalizables</a></li>
+                    
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="seis" class="dropdown-submenu">
+                        <a href="/Instrumento/NormativaAmbiental" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Normativa<br /> Ambiental<i class="fa fa-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/Instrumento">Resoluciones de Calificación Ambiental</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/Instrumento/Tipo/4">Planes de Prevención y Descontaminación Ambiental</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/Instrumento/Tipo/2">Normas de Emisión</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/Instrumento/Tipo/3">Normas de Calidad</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/ProgramaCumplimiento">Programas de cumplimiento</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/Instrumento/NormativaAmbiental">Otros Instrumentos</a></li>
+                        </ul>
+                    </li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="siete" class="dropdown-submenu">
+                        <a href="/Resolucion/Programa" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Otros<br /> documentos <i class="fa fa-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/Resolucion/Programa">Programas y subprogramas de fiscalización</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/Resolucion/Instruccion">Instrucciones y requerimientos de caracter general</a></li>
+                            
+                            
+                            <li class="divider"></li>
+                            <li><a href="/PlanReparacion">Planes de Reparación</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/DictamenContraloria/Contraloria">Dictámenes de Contraloría</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/SentenciaTribunal/Tribunal">Sentencias de Tribunales</a></li>
+                            
+                            <li class="divider"></li>
+                            <li><a href="/CaducidadRCA">Caducidad y acreditación de vigencia de RCA</a></li>
+                        </ul>
+                    </li>
+                    <li class="separador"><i class="fa fa-circle"></i></li>
+                    <li id="ocho" class="dropdown-submenu">
+                        <a href="#" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Seguimiento &<br /> Datos <i class="fa fa-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/SeguimientoAmbiental">Seguimiento Ambiental</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/Estadisticas">Estadísticas</a></li>
+                            <li class="divider"></li>
+                            <li><a href="/DatosAbiertos">Datos Abiertos</a></li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+            </div><!-- /.navbar-collapse -->
+            <!-- /.container-fluid -->
+        </nav>
+    </header>
+
+    <div class="clearfix"></div>
+
+    <div class="container contenido">
+
+       
+
+
+<script>
+    $("#cargandoInformacion").modal({
+        backdrop: 'static',
+        show: false
+    });
+    var $modal = $("#cargandoInformacion");
+    $modal.modal('show');
+</script>
+
+<!--CAMBIO LFI-->
+<div class="volver-busqueda tipo-cu">
+    <a href="/UnidadFiscalizable"><img src="/images/f-cu.png" /> Volver a la Búsqueda</a>
+</div>
+<!--FIN CAMBIO LFI-->
+
+<div class="categoria5">
+    <div class="row">
+        <div class="col-md-12">
+            <!--CAMBIO LFI class titulo-->
+            <div class="hidden-mobile panel titulo panel-default">
+                <div class="panel-body">
+                    <div class="titulo-categoria">
+                        <img src="/images/ic6.png" /> Catastro de Unidades Fiscalizables
+                    </div>
+                </div>
+            </div>
+            <div class="item-mobile item5 titulo-interior hidden-desktop">
+                <a href="#">
+                    <div>
+                        <img src="/images/ic6b.png" />
+                        <span>Catastro de Unidades Fiscalizables</span>
+                    </div>
+                </a>
+            </div> 
+        </div>
+    </div>
+    <!--CAMBIO LFI-->
+    <div class="busqueda-oculta">
+    <!--FIN CAMBIO LFI-->
+    <div class="row">
+        <div class="col-md-12">
+            <button class="btn btn-default btn-mostrar-busqueda" type="button"><i class="fa fa-plus"></i> Mostrar Búsqueda</button>
+            <button class="btn btn-default btn-ocultar-busqueda" type="button"><i class="fa fa-minus"></i> Ocultar Búsqueda</button>
+        </div>
+    </div>
+    <!--CAMBIO LFI-->
+    </div>
+    <!--FIN CAMBIO-->
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default panel-busqueda-realizada">
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        
+                        <h3>Búsqueda realizada:</h3>
+
+<form action="/UnidadFiscalizable/Resultado" class="form-horizontal" id="formularioCatastro" method="post">                            <div class="form-group">
+                                <label class="col-sm-5 control-label" for="nombre">
+                                    Nombre Unidad Fiscalizable o Titular
+                                </label>
+                                <div class="col-sm-7">
+                                    <input class="form-control" id="nombre" name="nombre" placeholder="Ingresar datos" type="text" value="ODATA" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-5 control-label" for="categoria">Categor&#237;a Unidad Fiscalizable</label>
+                                <div class="col-sm-7">
+                                    <select class="form-control" id="categoria" name="categoria"><option value="">Seleccione Categor&#237;a</option>
+<option value="6">Agroindustrias</option>
+<option value="20">Alumbrado</option>
+<option value="10">Energ&#237;a</option>
+<option value="11">Equipamiento </option>
+<option value="19">ETCA</option>
+<option value="14">ETFA</option>
+<option value="7">Forestal </option>
+<option value="4">Infraestructura de Transporte </option>
+<option value="2">Infraestructura Hidr&#225;ulica</option>
+<option value="5">Infraestructura Portuaria </option>
+<option value="1">Instalaci&#243;n fabril</option>
+<option value="9">Miner&#237;a </option>
+<option value="18">Monitoreo de calidad Ambiental</option>
+<option value="15">Otras categor&#237;as</option>
+<option value="8">Pesca y Acuicultura </option>
+<option value="3">Saneamiento Ambiental </option>
+<option value="13">Transportes y almacenajes</option>
+<option value="12">Vivienda e Inmobiliarios</option>
+</select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-5 control-label" for="ddlRegion">Regi&#243;n</label>
+                                <div class="col-sm-7">
+                                    <select class="selectpicker" data-actions-box="true" data-live-search="true" data-selected-text-format="count > 2" data-size="10" data-width="100%" id="ddlRegion" multiple="multiple" name="ddlRegion" title="Seleccione Región"><option value="1">Regi&#243;n de Arica y Parinacota</option>
+<option value="2">Regi&#243;n de Tarapac&#225;</option>
+<option value="3">Regi&#243;n de Antofagasta</option>
+<option value="4">Regi&#243;n de Atacama</option>
+<option value="5">Regi&#243;n de Coquimbo</option>
+<option value="6">Regi&#243;n de Valpara&#237;so</option>
+<option value="7">Regi&#243;n Metropolitana</option>
+<option value="8">Regi&#243;n del Libertador General Bernardo O&#39;Higgins</option>
+<option value="9">Regi&#243;n del Maule</option>
+<option value="17">Regi&#243;n de &#209;uble</option>
+<option value="10">Regi&#243;n del Biob&#237;o</option>
+<option value="11">Regi&#243;n de la Araucan&#237;a</option>
+<option value="12">Regi&#243;n de Los R&#237;os</option>
+<option value="13">Regi&#243;n de los Lagos</option>
+<option value="14">Regi&#243;n de Ays&#233;n del General Carlos Ib&#225;&#241;ez del Campo</option>
+<option value="15">Regi&#243;n de Magallanes y la Ant&#225;rtica Chilena</option>
+<option value="16">Interregional</option>
+</select>
+                                </div>
+                            </div>
+                                    <div class="form-group">
+                                        <label class="col-sm-5 control-label" for="ddlComuna">Comuna</label>
+                                        <div class="col-sm-7">
+                                            <select id='ddlComuna' name='ddlComuna' class="selectpicker" data-live-search="true" data-width="100%" data-size="10" multiple="multiple" data-actions-box="true" data-selected-text-format="count > 2" title="Seleccione Comuna">
+                                                        <optgroup label='Regi&#243;n de Arica y Parinacota'>
+                                                                    <option value='55'>Arica</option>
+                                                                    <option value='57'>Camarones</option>
+                                                                    <option value='56'>General Lagos</option>
+                                                                    <option value='58'>Putre</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Tarapac&#225;'>
+                                                                    <option value='63'>Alto Hospicio</option>
+                                                                    <option value='59'>Cami&#241;a</option>
+                                                                    <option value='62'>Colchane</option>
+                                                                    <option value='60'>Huara</option>
+                                                                    <option value='64'>Iquique</option>
+                                                                    <option value='61'>Pica</option>
+                                                                    <option value='65'>Pozo Almonte</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Antofagasta'>
+                                                                    <option value='74'>Antofagasta</option>
+                                                                    <option value='73'>Calama</option>
+                                                                    <option value='69'>Mar&#237;a Elena</option>
+                                                                    <option value='71'>Mejillones</option>
+                                                                    <option value='68'>Ollague</option>
+                                                                    <option value='70'>San Pedro de Atacama</option>
+                                                                    <option value='66'>Sierra Gorda</option>
+                                                                    <option value='67'>Taltal</option>
+                                                                    <option value='72'>Tocopilla</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Atacama'>
+                                                                    <option value='77'>Alto del Carmen</option>
+                                                                    <option value='76'>Caldera</option>
+                                                                    <option value='78'>Cha&#241;aral</option>
+                                                                    <option value='81'>Copiap&#243;</option>
+                                                                    <option value='80'>Diego de Almagro</option>
+                                                                    <option value='83'>Freirina</option>
+                                                                    <option value='82'>Huasco</option>
+                                                                    <option value='79'>Tierra Amarilla</option>
+                                                                    <option value='75'>Vallenar</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Coquimbo'>
+                                                                    <option value='10'>Andacollo</option>
+                                                                    <option value='4'>Canela</option>
+                                                                    <option value='8'>Combarbal&#225;</option>
+                                                                    <option value='11'>Coquimbo</option>
+                                                                    <option value='1'>Illapel</option>
+                                                                    <option value='12'>La Higuera</option>
+                                                                    <option value='13'>La Serena</option>
+                                                                    <option value='3'>Los Vilos</option>
+                                                                    <option value='7'>Monte Patria</option>
+                                                                    <option value='5'>Ovalle</option>
+                                                                    <option value='14'>Paihuano</option>
+                                                                    <option value='9'>Punitaqui</option>
+                                                                    <option value='6'>R&#237;o Hurtado</option>
+                                                                    <option value='2'>Salamanca</option>
+                                                                    <option value='15'>Vicu&#241;a</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Valpara&#237;so'>
+                                                                    <option value='105'>Algarrobo</option>
+                                                                    <option value='85'>Cabildo</option>
+                                                                    <option value='98'>Calera</option>
+                                                                    <option value='89'>Calle Larga</option>
+                                                                    <option value='104'>Cartagena</option>
+                                                                    <option value='118'>Casablanca</option>
+                                                                    <option value='87'>Catemu</option>
+                                                                    <option value='107'>Conc&#243;n</option>
+                                                                    <option value='116'>El Quisco</option>
+                                                                    <option value='112'>El Tabo</option>
+                                                                    <option value='94'>Hijuelas</option>
+                                                                    <option value='119'>Isla de Pascua</option>
+                                                                    <option value='358'>Juan Fern&#225;ndez</option>
+                                                                    <option value='99'>La Cruz</option>
+                                                                    <option value='117'>La Ligua</option>
+                                                                    <option value='101'>Limache</option>
+                                                                    <option value='88'>Llay Llay</option>
+                                                                    <option value='110'>Los Andes</option>
+                                                                    <option value='96'>Nogales</option>
+                                                                    <option value='90'>Olmu&#233;</option>
+                                                                    <option value='91'>Panquehue</option>
+                                                                    <option value='109'>Papudo</option>
+                                                                    <option value='84'>Petorca</option>
+                                                                    <option value='108'>Puchuncav&#237;</option>
+                                                                    <option value='120'>Putaendo</option>
+                                                                    <option value='97'>Quillota</option>
+                                                                    <option value='100'>Quilpu&#233;</option>
+                                                                    <option value='114'>Quintero</option>
+                                                                    <option value='92'>Rinconada</option>
+                                                                    <option value='111'>San Antonio</option>
+                                                                    <option value='102'>San Esteban</option>
+                                                                    <option value='93'>San Felipe</option>
+                                                                    <option value='86'>Santa Mar&#237;a</option>
+                                                                    <option value='103'>Santo Domingo</option>
+                                                                    <option value='106'>Valpara&#237;so</option>
+                                                                    <option value='95'>Villa Alemana</option>
+                                                                    <option value='113'>Vi&#241;a del Mar</option>
+                                                                    <option value='115'>Zapallar</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n Metropolitana'>
+                                                                    <option value='129'>Alhu&#233;</option>
+                                                                    <option value='170'>Buin</option>
+                                                                    <option value='145'>Calera de Tango</option>
+                                                                    <option value='144'>Cerrillos</option>
+                                                                    <option value='136'>Cerro Navia</option>
+                                                                    <option value='164'>Colina</option>
+                                                                    <option value='137'>Conchal&#237;</option>
+                                                                    <option value='159'>Curacav&#237;</option>
+                                                                    <option value='124'>El Bosque</option>
+                                                                    <option value='130'>El Monte</option>
+                                                                    <option value='150'>Estaci&#243;n Central</option>
+                                                                    <option value='163'>Huechuraba</option>
+                                                                    <option value='157'>Independencia</option>
+                                                                    <option value='127'>Isla de Maipo</option>
+                                                                    <option value='121'>La Cisterna</option>
+                                                                    <option value='167'>La Florida</option>
+                                                                    <option value='166'>La Granja</option>
+                                                                    <option value='165'>La Pintana</option>
+                                                                    <option value='152'>La Reina</option>
+                                                                    <option value='160'>Lampa</option>
+                                                                    <option value='153'>Las Condes</option>
+                                                                    <option value='169'>Lo Barnechea</option>
+                                                                    <option value='143'>Lo Espejo</option>
+                                                                    <option value='138'>Lo Prado</option>
+                                                                    <option value='151'>Macul</option>
+                                                                    <option value='158'>Maip&#250;</option>
+                                                                    <option value='134'>Mar&#237;a Pinto</option>
+                                                                    <option value='125'>Melipilla</option>
+                                                                    <option value='154'>&#209;u&#241;oa</option>
+                                                                    <option value='146'>Padre Hurtado</option>
+                                                                    <option value='128'>Paine</option>
+                                                                    <option value='142'>Pedro Aguirre Cerda</option>
+                                                                    <option value='131'>Pe&#241;aflor</option>
+                                                                    <option value='155'>Pe&#241;alol&#233;n</option>
+                                                                    <option value='126'>Pirque</option>
+                                                                    <option value='148'>Providencia</option>
+                                                                    <option value='161'>Pudahuel</option>
+                                                                    <option value='168'>Puente Alto</option>
+                                                                    <option value='162'>Quilicura</option>
+                                                                    <option value='139'>Quinta Normal</option>
+                                                                    <option value='149'>Recoleta</option>
+                                                                    <option value='172'>Renca</option>
+                                                                    <option value='123'>San Bernardo</option>
+                                                                    <option value='140'>San Joaqu&#237;n</option>
+                                                                    <option value='171'>San Jos&#233; de Maipo</option>
+                                                                    <option value='141'>San Miguel</option>
+                                                                    <option value='133'>San Pedro</option>
+                                                                    <option value='122'>San Ram&#243;n</option>
+                                                                    <option value='156'>Santiago</option>
+                                                                    <option value='132'>Talagante</option>
+                                                                    <option value='135'>Til til</option>
+                                                                    <option value='147'>Vitacura</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n del Libertador General Bernardo O&#39;Higgins'>
+                                                                    <option value='24'>Ch&#233;pica</option>
+                                                                    <option value='26'>Chimbarongo</option>
+                                                                    <option value='50'>Codegua</option>
+                                                                    <option value='354'>Coinco</option>
+                                                                    <option value='51'>Coltauco</option>
+                                                                    <option value='27'>Do&#241;ihue</option>
+                                                                    <option value='28'>Graneros</option>
+                                                                    <option value='29'>La Estrella</option>
+                                                                    <option value='30'>Las Cabras</option>
+                                                                    <option value='352'>Litueche</option>
+                                                                    <option value='45'>Lolol</option>
+                                                                    <option value='31'>Machal&#237;</option>
+                                                                    <option value='33'>Malloa</option>
+                                                                    <option value='34'>Marchihue</option>
+                                                                    <option value='49'>Mostazal</option>
+                                                                    <option value='48'>Nancagua</option>
+                                                                    <option value='353'>Navidad</option>
+                                                                    <option value='35'>Olivar</option>
+                                                                    <option value='36'>Palmilla</option>
+                                                                    <option value='46'>Paredones</option>
+                                                                    <option value='37'>Peralillo</option>
+                                                                    <option value='53'>Peumo</option>
+                                                                    <option value='38'>Pichidegua</option>
+                                                                    <option value='54'>Pichilemu</option>
+                                                                    <option value='47'>Placilla</option>
+                                                                    <option value='52'>Pumanque</option>
+                                                                    <option value='25'>Quinta de Tilcoco</option>
+                                                                    <option value='39'>Rancagua</option>
+                                                                    <option value='40'>Rengo</option>
+                                                                    <option value='41'>Requ&#237;noa</option>
+                                                                    <option value='42'>San Fernando</option>
+                                                                    <option value='43'>San Vicente</option>
+                                                                    <option value='44'>Santa Cruz</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n del Maule'>
+                                                                    <option value='189'>Cauquenes</option>
+                                                                    <option value='193'>Chanco</option>
+                                                                    <option value='200'>Colb&#250;n</option>
+                                                                    <option value='198'>Constituci&#243;n</option>
+                                                                    <option value='194'>Curepto</option>
+                                                                    <option value='199'>Curic&#243;</option>
+                                                                    <option value='182'>Empedrado</option>
+                                                                    <option value='174'>Huala&#241;&#233;</option>
+                                                                    <option value='202'>Licant&#233;n</option>
+                                                                    <option value='185'>Linares</option>
+                                                                    <option value='186'>Longav&#237;</option>
+                                                                    <option value='181'>Maule</option>
+                                                                    <option value='192'>Molina</option>
+                                                                    <option value='190'>Parral</option>
+                                                                    <option value='178'>Pelarco</option>
+                                                                    <option value='197'>Pelluhue</option>
+                                                                    <option value='177'>Pencahue</option>
+                                                                    <option value='175'>Rauco</option>
+                                                                    <option value='187'>Retiro</option>
+                                                                    <option value='191'>R&#237;o Claro</option>
+                                                                    <option value='195'>Romeral</option>
+                                                                    <option value='176'>Sagrada Familia</option>
+                                                                    <option value='196'>San Clemente</option>
+                                                                    <option value='180'>San Javier</option>
+                                                                    <option value='188'>San Rafael</option>
+                                                                    <option value='179'>Talca</option>
+                                                                    <option value='173'>Teno</option>
+                                                                    <option value='201'>Vichuqu&#233;n</option>
+                                                                    <option value='184'>Villa Alegre</option>
+                                                                    <option value='183'>Yerbas Buenas</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de &#209;uble'>
+                                                                    <option value='207'>Bulnes</option>
+                                                                    <option value='227'>Chill&#225;n</option>
+                                                                    <option value='206'>Chill&#225;n Viejo</option>
+                                                                    <option value='243'>Cobquecura</option>
+                                                                    <option value='242'>Coelemu</option>
+                                                                    <option value='244'>Coihueco</option>
+                                                                    <option value='210'>El Carmen</option>
+                                                                    <option value='230'>Ninhue</option>
+                                                                    <option value='229'>&#209;iqu&#233;n</option>
+                                                                    <option value='211'>Pemuco</option>
+                                                                    <option value='249'>Pinto</option>
+                                                                    <option value='203'>Portezuelo</option>
+                                                                    <option value='234'>Quill&#243;n</option>
+                                                                    <option value='228'>Quirihue</option>
+                                                                    <option value='204'>R&#225;nquil</option>
+                                                                    <option value='233'>San Carlos</option>
+                                                                    <option value='236'>San Fabi&#225;n</option>
+                                                                    <option value='208'>San Ignacio</option>
+                                                                    <option value='226'>San Nicol&#225;s</option>
+                                                                    <option value='248'>Trehuaco</option>
+                                                                    <option value='216'>Yungay</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n del Biob&#237;o'>
+                                                                    <option value='254'>Alto Biob&#237;o</option>
+                                                                    <option value='237'>Antuco</option>
+                                                                    <option value='240'>Arauco</option>
+                                                                    <option value='213'>Cabrero</option>
+                                                                    <option value='245'>Ca&#241;ete</option>
+                                                                    <option value='212'>Chiguayante</option>
+                                                                    <option value='209'>Concepci&#243;n</option>
+                                                                    <option value='225'>Contulmo</option>
+                                                                    <option value='241'>Coronel</option>
+                                                                    <option value='223'>Curanilahue</option>
+                                                                    <option value='205'>Florida</option>
+                                                                    <option value='256'>Hualp&#233;n</option>
+                                                                    <option value='214'>Hualqui</option>
+                                                                    <option value='221'>Laja</option>
+                                                                    <option value='251'>Lebu</option>
+                                                                    <option value='239'>Los &#193;lamos</option>
+                                                                    <option value='222'>Los &#193;ngeles</option>
+                                                                    <option value='246'>Lota</option>
+                                                                    <option value='232'>Mulch&#233;n</option>
+                                                                    <option value='231'>Nacimiento</option>
+                                                                    <option value='224'>Negrete</option>
+                                                                    <option value='247'>Penco</option>
+                                                                    <option value='235'>Quilaco</option>
+                                                                    <option value='220'>Quilleco</option>
+                                                                    <option value='252'>San Pedro de la Paz</option>
+                                                                    <option value='219'>San Rosendo</option>
+                                                                    <option value='255'>Santa B&#225;rbara</option>
+                                                                    <option value='218'>Santa Juana</option>
+                                                                    <option value='253'>Talcahuano</option>
+                                                                    <option value='238'>Tir&#250;a</option>
+                                                                    <option value='250'>Tom&#233;</option>
+                                                                    <option value='217'>Tucapel</option>
+                                                                    <option value='215'>Yumbel</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de la Araucan&#237;a'>
+                                                                    <option value='276'>Angol</option>
+                                                                    <option value='284'>Carahue</option>
+                                                                    <option value='288'>Cholchol</option>
+                                                                    <option value='273'>Collipulli</option>
+                                                                    <option value='265'>Cunco</option>
+                                                                    <option value='279'>Curacaut&#237;n</option>
+                                                                    <option value='285'>Curarrehue</option>
+                                                                    <option value='356'>Ercilla</option>
+                                                                    <option value='266'>Freire</option>
+                                                                    <option value='260'>Galvarino</option>
+                                                                    <option value='268'>Gorbea</option>
+                                                                    <option value='262'>Lautaro</option>
+                                                                    <option value='270'>Loncoche</option>
+                                                                    <option value='280'>Lonquimay</option>
+                                                                    <option value='271'>Los Sauces</option>
+                                                                    <option value='274'>Lumaco</option>
+                                                                    <option value='281'>Melipeuco</option>
+                                                                    <option value='287'>Nueva Imperial</option>
+                                                                    <option value='264'>Padre las Casas</option>
+                                                                    <option value='261'>Perquenco</option>
+                                                                    <option value='267'>Pitrufqu&#233;n</option>
+                                                                    <option value='278'>Puc&#243;n</option>
+                                                                    <option value='272'>Pur&#233;n</option>
+                                                                    <option value='275'>Renaico</option>
+                                                                    <option value='283'>Saavedra</option>
+                                                                    <option value='263'>Temuco</option>
+                                                                    <option value='286'>Teodoro Schmidt</option>
+                                                                    <option value='282'>Tolt&#233;n</option>
+                                                                    <option value='257'>Traigu&#233;n</option>
+                                                                    <option value='259'>Victoria</option>
+                                                                    <option value='277'>Vilc&#250;n</option>
+                                                                    <option value='269'>Villarrica</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Los R&#237;os'>
+                                                                    <option value='294'>Corral</option>
+                                                                    <option value='293'>Futrono</option>
+                                                                    <option value='300'>La Uni&#243;n</option>
+                                                                    <option value='297'>Lago Ranco</option>
+                                                                    <option value='289'>Lanco</option>
+                                                                    <option value='292'>Los Lagos</option>
+                                                                    <option value='290'>M&#225;fil</option>
+                                                                    <option value='295'>Mariquina</option>
+                                                                    <option value='291'>Paillaco</option>
+                                                                    <option value='296'>Panguipulli</option>
+                                                                    <option value='299'>R&#237;o Bueno</option>
+                                                                    <option value='298'>Valdivia</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de los Lagos'>
+                                                                    <option value='327'>Ancud</option>
+                                                                    <option value='316'>Calbuco</option>
+                                                                    <option value='328'>Castro</option>
+                                                                    <option value='330'>Chait&#233;n</option>
+                                                                    <option value='329'>Chonchi</option>
+                                                                    <option value='322'>Cocham&#243;</option>
+                                                                    <option value='324'>Curaco de V&#233;lez</option>
+                                                                    <option value='317'>Dalcahue</option>
+                                                                    <option value='318'>Fresia</option>
+                                                                    <option value='304'>Frutillar</option>
+                                                                    <option value='307'>Futaleuf&#250;</option>
+                                                                    <option value='325'>Hualaihu&#233;</option>
+                                                                    <option value='305'>Llanquihue</option>
+                                                                    <option value='310'>Los Muermos</option>
+                                                                    <option value='326'>Maull&#237;n</option>
+                                                                    <option value='302'>Osorno</option>
+                                                                    <option value='314'>Palena</option>
+                                                                    <option value='320'>Puerto Montt</option>
+                                                                    <option value='303'>Puerto Octay</option>
+                                                                    <option value='313'>Puerto Varas</option>
+                                                                    <option value='323'>Puqueld&#243;n</option>
+                                                                    <option value='311'>Purranque</option>
+                                                                    <option value='306'>Puyehue</option>
+                                                                    <option value='308'>Queil&#233;n</option>
+                                                                    <option value='315'>Quell&#243;n</option>
+                                                                    <option value='319'>Quemchi</option>
+                                                                    <option value='309'>Quinchao</option>
+                                                                    <option value='321'>R&#237;o Negro</option>
+                                                                    <option value='312'>San Juan de La Costa</option>
+                                                                    <option value='301'>San Pablo</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Ays&#233;n del General Carlos Ib&#225;&#241;ez del Campo'>
+                                                                    <option value='337'>Ays&#233;n</option>
+                                                                    <option value='336'>Chile Chico</option>
+                                                                    <option value='338'>Cisnes</option>
+                                                                    <option value='333'>Cochrane</option>
+                                                                    <option value='335'>Coyhaique</option>
+                                                                    <option value='334'>Guaitecas</option>
+                                                                    <option value='331'>Lago Verde</option>
+                                                                    <option value='340'>Ohiggins</option>
+                                                                    <option value='332'>R&#237;o Ib&#225;&#241;ez</option>
+                                                                    <option value='339'>Tortel</option>
+                                                        </optgroup>
+                                                        <optgroup label='Regi&#243;n de Magallanes y la Ant&#225;rtica Chilena'>
+                                                                    <option value='359'>Ant&#225;rtica</option>
+                                                                    <option value='348'>Cabo de Hornos</option>
+                                                                    <option value='342'>Laguna Blanca</option>
+                                                                    <option value='349'>Natales</option>
+                                                                    <option value='345'>Porvenir</option>
+                                                                    <option value='344'>Primavera</option>
+                                                                    <option value='346'>Punta Arenas</option>
+                                                                    <option value='350'>R&#237;o Verde</option>
+                                                                    <option value='357'>San Gregorio</option>
+                                                                    <option value='347'>Timaukel</option>
+                                                                    <option value='341'>Torres del Paine</option>
+                                                        </optgroup>
+                                                        <optgroup label='Interregional'>
+                                                        </optgroup>
+                                            </select>
+                                        </div>
+                                    </div>
+                            <button class="btn btn-default pull-right" type="button" onclick="limpiar();">Reiniciar Búsqueda</button>
+                            <button class="btn btn-default pull-right" type="button" onclick="buscar();">Buscar</button>
+                            <div class="clearfix"></div>
+</form>                            
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--CAMBIO LFI-->
+<div class="tipo-cu">
+<!--FIN CAMBIO LFI-->
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default panel-resultado-busqueda">
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>Resultados de la Búsqueda:</h3>
+                    </div>
+                </div>
+                <div>
+                    <!--CAMBIO LFI-->
+                    <div class="filtro-busqueda">
+                        <select id="sort">
+                            <option value="">Ordenar</option>
+                            <option value="1">Ordenar por Unidad Fiscalizable</option>
+                            <option value="2">Ordenar por Nombre o Razón Social</option>
+                            <option value="3">Ordenar por Región</option>
+                            <option value="4">Ordenar por Categoría</option>
+                            <option value="5">Ordenar por Comuna</option>
+                        </select>
+                    </div>
+                    <!--FIN CAMBIO -->
+                    <div class="ver-en-mapa">
+                        <a id="linkVerMapa" style="cursor: pointer;">
+                            <i class="fa fa-map-marker"></i> Ver en mapa
+                        </a>
+                    </div>
+                    <br>
+                    <table id="tResultado"  class="conBorde tabla-resultado-busqueda">
+                        <thead>
+                            <tr>
+                                <th class="th-contador">#</th>
+                                <th>Unidad Fiscalizable</th>
+                                <th>Nombre Razon Social</th>
+                                <th>Región</th>
+                                <th>Categoría</th>
+                                <th>Comuna</th>
+                                <th style="width: 10%;">Detalle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                                    <tr>
+                                        <td data-label="#">1</td>
+                                        <td data-label="Unidad Fiscalizable">
+                                            PRODATA
+                                        </td>
+                                        <td data-label="Nombre Razon Social">
+                                                <ul class="fa-ul">
+                                                </ul>
+                                        </td>
+                                        <td data-label="Región">
+                                            Regi&#243;n de los Lagos
+                                        </td>
+                                        <td data-label="Categoría">
+                                                <ul class="fa-ul">
+                                                        <li>Equipamiento</li>
+                                                </ul>
+                                        </td>
+
+                                        <td data-label="Comuna">
+                                            Osorno
+                                        </td>
+                                        <!--CAMBIO LFI data-label y span-->
+                                        <td data-label="Detalle">
+                                            <span></span>
+                                            <a href="/UnidadFiscalizable/Ficha/16931"><i class="fa fa-plus-circle"></i> Ver detalles</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="#">2</td>
+                                        <td data-label="Unidad Fiscalizable">
+                                            DATACENTER ODATA - LAMPA
+                                        </td>
+                                        <td data-label="Nombre Razon Social">
+                                                <ul class="fa-ul">
+                                                </ul>
+                                        </td>
+                                        <td data-label="Región">
+                                            Regi&#243;n Metropolitana
+                                        </td>
+                                        <td data-label="Categoría">
+                                                <ul class="fa-ul">
+                                                        <li></li>
+                                                </ul>
+                                        </td>
+
+                                        <td data-label="Comuna">
+                                            Lampa
+                                        </td>
+                                        <!--CAMBIO LFI data-label y span-->
+                                        <td data-label="Detalle">
+                                            <span></span>
+                                            <a href="/UnidadFiscalizable/Ficha/20619"><i class="fa fa-plus-circle"></i> Ver detalles</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="#">3</td>
+                                        <td data-label="Unidad Fiscalizable">
+                                            DATACENTER ODATA - SAN BERNARDO
+                                        </td>
+                                        <td data-label="Nombre Razon Social">
+                                                <ul class="fa-ul">
+                                                </ul>
+                                        </td>
+                                        <td data-label="Región">
+                                            Regi&#243;n Metropolitana
+                                        </td>
+                                        <td data-label="Categoría">
+                                                <ul class="fa-ul">
+                                                        <li></li>
+                                                </ul>
+                                        </td>
+
+                                        <td data-label="Comuna">
+                                            San Bernardo
+                                        </td>
+                                        <!--CAMBIO LFI data-label y span-->
+                                        <td data-label="Detalle">
+                                            <span></span>
+                                            <a href="/UnidadFiscalizable/Ficha/20632"><i class="fa fa-plus-circle"></i> Ver detalles</a>
+                                        </td>
+                                    </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--CAMBIO LFI-->
+</div>
+<!--FIN CAMBIO LFI-->
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: none;">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title" id="myModalLabel">Información</h4>
+            </div>
+            <div class="modal-body">
+                <p>No ha seleccionado ningun filtro.</p>
+                <p>El resultado de la busqueda puede tardar unos minutos.</p>
+                <p>¿Esta segura/o de realizar esta búsqueda?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal" onclick="$('#formularioCatastro').submit()">Buscar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+   // $("#tResultado").dataTable();
+
+    var dataTable = $('#tResultado').dataTable({ "sPaginationType": "full_numbers" });
+
+    $('#sort').change(function () {
+        var col = $(this).val();
+        dataTable.fnSort([ [ col, 'asc' ] ]);
+    });
+
+    function buscar() {
+        var nombre = $("#nombre").val();
+        var categoria = $("#categoria").val();
+        var region = $("#ddlRegion").val();
+        var comuna = $("#ddlComuna").val();
+
+        if (nombre === "" && categoria === "" && region === null && comuna === null) {
+            $('#myModal').modal();
+        } else {
+            $('#formularioCatastro').submit();
+        }
+    }
+    function limpiar() {
+        $("#nombre").val("");
+        $("#expediente").val("");
+        $('#categoria option:first').attr('selected', 'selected');
+        $('#ddlRegion').selectpicker('val', '');
+        $('#ddlComuna').selectpicker('val', '');
+    }
+    $(document).ready(function() {
+        $('#tablaResultado').dataTable();
+        var urlComuna = '/Home/ObtenerComunas';
+        var urlComunaPorRegion = '/Home/ObtenerComunasPorRegion';
+        function listarTotalComuna() {
+            var info = "";
+            $("#ddlComuna").empty();
+            $.ajax({
+                type: "post",
+                url: urlComuna,
+                async: false,
+                success: function (data) {
+                    $('#ddlComuna').empty();
+                    var inicio = true, regionId = 0;
+                    $.each(data.listadoComuna, function (i, item) {
+                        var grupo = "";
+                        if (i === 0) {
+                            grupo += '<optgroup label="' + item.Region.Nombre + '">';
+                            regionId = item.Region.RegionId;
+                        }
+                        if (!inicio && regionId != item.Region.RegionId) {
+                            grupo += '</optgroup>';
+                            grupo += '<optgroup label="' + item.Region.Nombre + '">';
+                            regionId = item.Region.RegionId;
+                        }
+                        grupo += '<option value="' + item.ComunaId + '">' + item.Nombre + '</option>';
+                        inicio = false;
+                        info = info + grupo;
+                    });
+                    info += '</optgroup>';
+                }
+            });
+            $("#ddlComuna").html(info);
+            $("#ddlComuna").selectpicker('refresh');
+        }
+
+        $('#ddlRegion').change(function () {
+            var regiones = $("#ddlRegion").val(), info = "";
+            if (regiones != null) {
+                for (var i = 0; i < regiones.length; i++) {
+                    $("#ddlComuna").empty();
+                    $.ajax({
+                        type: "post",
+                        url: urlComunaPorRegion,
+                        data: { regionId: regiones[i] },
+                        async: false,
+                        success: function (data) {
+                            $('#ddlComuna').empty();
+                            var inicio = true;
+                            $.each(data.listadoComuna, function (i, item) {
+                                var grupo = "";
+                                if (!inicio && i === 0) {
+                                    grupo += '</optgroup>';
+                                }
+                                if (i === 0) {
+                                    grupo += '<optgroup label="' + item.Region + '">';
+                                }
+                                grupo += '<option value="' + item.Id + '">' + item.Nombre + '</option>';
+                                inicio = false;
+                                info = info + grupo;
+                            });
+                            info += '</optgroup>';
+                            $("#ddlComuna").html(info);
+                            $("#ddlComuna").selectpicker('refresh');
+                        }
+                    });
+                }
+            } else {
+                listarTotalComuna();
+            }
+        });
+
+
+    });
+    $('#linkVerMapa').click(function () {
+        $('#formularioCatastro').attr('action', '/UnidadFiscalizable/Mapa');
+        $('#formularioCatastro').submit();
+    });
+</script>
+
+<script>
+    $("#categoria").val('0');
+</script>
+
+
+
+<script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            $modal.modal('hide');
+            menuActivo("cinco");
+        }, 1000);
+    });
+</script>
+    </div> <!--termina container principal-->
+
+   
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 datos-pie">
+                    <img src="/images/logo-pie.png" alt="" class="logo-pie" />
+                    <div class="info-pie">
+                        <span>Superintendencia del Medio Ambiente Gobierno de Chile</span>
+                        <p>
+                            Teatinos 280, pisos 7, 8 y 9, Santiago, Chile<br />
+                            Tel: +56 2 2617 1800
+                        </p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="col-md-6 nav_footer hidden-mobile">
+                    <ul>
+                        <li>
+                            <a href="https://transparencia.sma.gob.cl/doc/ssi/PoliticaGeneraldeSeguridadInformacion.pdf" target="_blank">
+                                <i class="fa fa-lock fa-2x hidden-xs"></i>
+                                Política de seguridad de la información
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="https://portal.sma.gob.cl" class="ir-sma" target="_blank">
+                                <i class="fa fa-home fa-2x hidden-xs"></i>
+                                Portal SMA
+                            </a>
+                        </li>
+                        <li>
+                            
+                            <a href="/Home/Novedades">
+                                <i class="fa fa-info-circle fa-2x hidden-xs"></i>
+                                Últimas novedades SNIFA
+                            </a>
+                        </li>
+                        <li>
+                            
+                            <a href="/Home/PreguntasFrecuentes">
+                                <i class="fa fa-question-circle fa-2x hidden-xs"></i>
+                                Preguntas frecuentes
+                            </a>
+                        </li>
+                    </ul>
+
+                        
+                    <div class="clearfix"></div>
+                </div>
+                <div class="col-md-12 hidden-desktop">
+                    <a href="http://www.sma.gob.cl" class="ir-sma" target="_blank">
+                        <i class="fa fa-home fa-2x"></i> Ir al sitio SMA
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+    </footer>
+    <script type="text/javascript">
+        (function ($) {
+            fakewaffle.responsiveTabs(['md', 'sm', 'xs']);
+        })(jQuery);
+    </script>
+
+</body>
+</html>

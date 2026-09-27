@@ -1,0 +1,82 @@
+
+=== PDF PAGE 1 ===
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+ www.coordinador.cl 1 
+Revisión de Ingeniería Conceptual para Acceso Abierto 
+Autor Departamento de Estándares y Normativa 
+Fecha 1 de octubre de 2025 
+Código 2510-DEN-RIC-PR6090 Versión 1 
+Realizado por Rodrigo Oróstica N. 
+Francisco Huerta G. 
+Revisado por Francisco Torres A. 
+Aprobado por Francisco Torres A. 
+Proyecto 6090 - BESS Antu 
+1 Introducción 
+Este documento entrega los resultados de la revisión de los antecedentes de ingeniería conceptual asociados 
+a la solicitud de  conexión bajo el régimen de Acceso Abierto, presentada por la empresa solicitante 
+Cielpanel SPA conforme lo dispuesto en el Reglamento de los Sistemas de Transmisión y de la Planificación de 
+la Transmisión. 
+Recordamos a Ud., que debe realizar las modificaciones, correcciones o complementos que resulten de los 
+procesos de observaciones por parte del Coordinador Eléctrico Nacional.  
+2 Resumen Ejecutivo 
+El proyecto consiste en una instalación de almacenamiento  BESS, de 80MW y 400MWh de almacenamiento 
+de energía, lo cual consiste en la instalación de un sistema de baterías en terrenos privados, en la comuna de 
+Lampa, región Metropolitana, distante aproximadamente a 0,56 km de la subestación Lampa. 
+El BESS solicita conexión al SEN a través del Tramo Tap Lampa-SE Lampa 220 kV, ubicado dentro de S/E Lampa, 
+de propiedad de SOCIEDAD TRANSMISORA METROPOLITANA S.A.  
+Es preciso mencionar que e l proyecto solicita conexión en una instalación perteneciente al Sistema de 
+Transmisión Dedicado. 
+Finalmente, de acuerdo con la revisión realizada a los antecedentes que se indican en el ítem 3.1 y a los 
+resultados que se presentan en el ítem 4 de este documento, se concluye que la ingeniería conceptual 
+asociada a su solicitud de conexión No Cumple con los requisitos y exigencias normativas vigentes y aplicables 
+para la etapa de Acceso Abierto. 
+3 Documentación 
+3.1 Los documentos en revisión emitidos por Cielpanel SPA corresponden al siguiente listado: 
+i. Documento Informe Descriptivo: “BESS Antü 80 MW  - Tramo Tap Lampa -SE Lampa”, Revisión 1, con 
+fecha de 01-09-2025. 
+ii. Antecedente 3.3 Plano de Planta : N° 250901-PL-PLANTA-SE-220-SUCTD_BESS_Antu, Revisión A, sin 
+fecha. 
+iii. Antecedente 3.4 Plano de Secciones: N° 250901-PL-PLANTA-SE-220-SUCTD_BESS_Antu, Revisión A, sin 
+fecha. 
+iv. Antecedente 2.2.  Plano Diagrama Unilineal : N° 250901-PL-DUF-SE-220-BESS_Antu, Revisión A, sin 
+fecha. 
+  
+=== PDF PAGE 2 ===
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+ www.coordinador.cl 2 
+3.2 Los documentos utilizados como referencia para esta revisión corresponden a los siguientes:  
+i. Norma Técnica de Seguridad y Calidad de Servicio, versión marzo de 2025, y sus Anexos Técnicos. 
+ii. Resolución Exenta N°33.277 de fecha 10 -09-2020 del Ministerio de Energía. Pliegos Técnicos 
+Normativos RPTD. 
+iii. Procedimiento Interno Criterios para la Aplicación del Régimen de Acceso Abierto  y Anexo 7.4 
+Antecedentes mínimos de la Solución de Conexión, Coordinador Eléctrico Nacional, abril 2023. 
+iv. Plano: DISPOSICIÓN DE EQUIPOS PATIO  PLANTA - S/E 220/23 kV LAMPA , código N°  CHI-19199-L, 
+revisión 1, con fecha 21-07-23, disponible en portal https://infotecnica.coordinador.cl. 
+v. Plano: DIAGRAMA UNILINEAL  FUNCIONAL- S/E 220/23 kV LAMPA , código N°  CHI-19201-001-L, 
+revisión 1, con fecha 03-07-23, disponible en portal https://infotecnica.coordinador.cl. 
+vi. Plano disponible en PGP, NUP 2129 - Odata Datacenter ST01 : DISPOSICIONES GENERAL DE EQUIPOS 
+220 kV – PLANTA - 220/23 kV DATA CENTER ODATA SE NUEVA LAMPA - SE LAMPA, código N° ODATA-
+ST01-3-SE-220-PLN-GE-0001, revisión B, con fecha 06-10-23. Link: https://pgp.coordinador.cl  
+4 Resultado de la revisión 
+De acuerdo con la revisión de los documentos listados en el punto 3.1, se concluye que la ingeniería 
+conceptual asociada a su solicitud de conexión No Cumple con los requisitos y exigencias normativas vigentes 
+y aplicables para la etapa de acceso abierto por el siguiente motivo: 
+▪ De acuerdo con los documentos utilizados como referencia para esta revisión Ref.  [3.2.i], así como 
+con la información pública disponible en la sección “Barras” de Infotecnica y en los planos Ref [3.2.iv], 
+Ref [3.2.v]  y Ref [3.2.vi], se constata que en la S/E Lampa no existe barra en 220 kV en el sector donde 
+se pretende conectar el presente proyecto , y por ende, no es punto de conexión válido conforme a 
+lo establecido en el Artículo 1-7, numeral 78) de la NTS&CS Ref [3.2.i]. 
+▪ En los antecedentes considerados en esta revisión Ref. [3.1] y Ref. [3.2] se observa que el proyecto 
+propone su conexión en un sector dentro del paño de línea J1 existente en S/E Lampa 220 kV, el cual 
+vincula la barra de 220 kV de dicha subestación, con ambos circuitos de la línea 2x220 kV Cerro Navia–
+Polpaico, en el Tap Lampa. Por lo tanto, el punto en dicha configuración no corresponde a un punto 
+de conexión válido, conforme a lo establecido en el Artículo 1 -7, numeral 78), de la NTS&CS Ref. 
+[3.2.i]. 
+▪ Dentro del artículo 8, literal j), del Anexo Técnico: Exigencias Mínimas para el Diseño de Instalaciones 
+de Transmisión , se establece que no se podrán realizar conexiones en derivación en líneas de 
+Transmisión de servicio Público. 
+5 Comentarios y Consideraciones 
+No se emiten comentarios o consideraciones en esta revisión. 
+FIN DEL DOCUMENTO 

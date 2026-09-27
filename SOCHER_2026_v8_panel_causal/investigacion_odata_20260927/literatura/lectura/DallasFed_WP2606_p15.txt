@@ -1,0 +1,19 @@
+There is a mass of observations along the 45-degree line, indicating that our simulated hourly
+dispatch instructions closely match actual market outcomes. In Appendix Table A3, we calculate
+correlations between the simulated and observed generation. For hourly generation, there is a
+correlation coefficient of .631, suggesting a strong positive relationship. Due to our application of
+stochastic outages and abstraction from transmission congestion, this number is expected to be less
+than 1, and is in line with similar applications in the literature (Hausman 2025; Ham et al. 2025).
+When we aggregate to month and yearly levels of generation, we see even stronger correlations
+between observed and simulated, reaching .863 for the unit-by-year level. This is further evidence
+that stochastic outages play a role in the hourly-level correlations.
+4.1 Additional Generation Costs
+We begin by calculating the difference in total generation costs between the simulated baseline
+and each no-data-center counterfactual, ∑i mcitqit − ∑i mcitq−DC
+it . We compare the simulated no-
+data-center counterfactuals to the simulated baseline, rather than to observed generation, so that
+the resulting differences reflect only changes in dispatch induced by removing data center load.3
+3Generator-specific production in the simulated baseline may differ from observed production for several rea-
+sons, including mismatch between simulated and realized outages, the omission of ramping constraints, and imperfect
+representation of the underlying transmission network.
+13

@@ -1,0 +1,20 @@
+[
+  {
+    "archivo": "SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+    "url": "https://api-ssa.sma.gob.cl/api/v1/documentos/incidente/descargar?nombre=b5ab75401f3a11ed89ae0242ac11000d",
+    "id_snifa": 1021717,
+    "method": "GET",
+    "bytes": 220519,
+    "sha256": "cc94aca016d23dc708c6ccdd20e85c3d262ecf9863174bb8037f73cdeeba80f4",
+    "consulta_utc": "2026-09-27T18:17:06.365792+00:00"
+  },
+  {
+    "archivo": "SMA_comprobante_inicio_operacion_20220818_original.pdf",
+    "url": "https://api-ssa.sma.gob.cl/api/v1/documentos/incidente/descargar?nombre=Comprobante_environmental_monitoring_b2f5e1be-1f3a-11ed-89ae-0242ac11000d",
+    "id_snifa": 1021718,
+    "method": "GET",
+    "bytes": 95496,
+    "sha256": "458bebd6273ce8b463b9436007dc772a6cb6edc696856c803cd2b1b4f8cde8ee",
+    "consulta_utc": "2026-09-27T18:17:07.040382+00:00"
+  }
+]

@@ -36,6 +36,11 @@
 - [x] Verificar ID703 durante la ventana E53 y documentar suministro Ascenty anterior a 2025.
 - [x] Recuperar 90.532 mediciones ET7 con ausencia de marzo de 2025 explícita y sin atribuirlas exclusivamente al campus.
 - [x] Documentar maniobras concurrentes con el episodio Las Canteras de junio de 2024.
+- [x] Recuperar aviso original ODATA Lampa: inicio de operación declarado para el 1 de agosto de 2022 y recepción SMA el 18 de agosto.
+- [x] Verificar soporte histórico Batuco13/110 y Quillota110/220: 105 días previos y 90 posteriores con firmas comunes de 24 etiquetas, sin estimar precios.
+- [x] Distinguir suministros iniciales propuestos de ODATA y conexión posterior de alta tensión; documentar corrección de Alto Jahuel2024.
+- [ ] Conseguir constancia del empalme inicial ODATA, su alimentador y vigencia, aclarando pruebas y transferencias previas.
+- [ ] Homologar la barra histórica correspondiente y justificar su contraste relativo antes de estimar ODATA.
 
 - [ ] Validar centros, campus y fases.
 - [ ] Adjudicar fechas realizadas y distinguirlas de previsiones.
@@ -54,6 +59,7 @@
 - [x] Registrar protocolo previo a las estimaciones v8; no equivale a prerregistro prospectivo.
 - [x] Ejecutar diagnóstico de elegibilidad y soporte: no hay ATT causal habilitado.
 - [x] Analizar episodio E53 con adenda, cinco escenarios y verificación independiente de 25 contrastes horarios; incorporar resultado descriptivo al manuscrito.
+- [x] Incorporar cuatro antecedentes sectoriales primarios de 2026 y delimitar una contribución que no dependa solo de aplicar DiD.
 - [ ] Archivar la versión que acompaña al artículo con un identificador citable.
 
 Los pendientes de tratamiento, comparación, exposición e inferencia se detallan en [el avance v8](docs/panel_causal_v8.md). La versión del manuscrito destinada a envío sigue pendiente.

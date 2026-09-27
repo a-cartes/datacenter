@@ -1,0 +1,37 @@
+The Hidden Cost of the Cloud:
+Data Centers and Electricity Market Inefficiency∗
+Jamal Mamkhezri, Xiaochen Sun, Yuting Yang†
+March 2026
+Abstract
+Concentrated demand growth is reshaping network industries worldwide. In electricity
+markets, localized load expansions interact with transmission constraints, potentially
+distorting price signals away from marginal generation costs. While rising demand
+increases average energy costs, binding transmission limits may generate spatial price
+differences that reflect congestion rather than underlying production costs. This paper
+estimates the causal effect of concentrated demand growth on spatial price distortions
+inanetwork-constrainedmarket. LeveragingtherapidexpansionofdatacentersinVir-
+ginia between 2015 and 2024 and a propensity score matching difference-in-differences
+design at the census-tract level, we show that transmission-induced inefficiencies in-
+crease wholesale electricity prices by $2.49 per MWh, approximately 70 percent rel-
+ative to pre-treatment levels. These distortions arise from the spatial misalignment
+between new load and generation capacity. Price effects increase with the distance
+between data centers and nearby generation. Within census tracts where load growth
+and generation are co-located, inefficient pricing is lower when generation is from fossil
+fuel sources but higher when it is from renewable resources. Effects are larger during
+peak demand periods, in areas with more intensive load expansion, and in predomi-
+nantly non-White communities. These results highlight how transmission constraints
+shape the distributional consequences of concentrated demand growth and inform load
+siting, generation placement, and transmission planning.
+Keywords: Data Centers; Electricity Demand; Market Inefficiency; Distributional
+Impact
+JEL Classification:Q41, Q48, L94, L86, R11
+∗Acknowledgment: This research received partial funding from the Department of Energy (Award #DE-
+AC02-05CH11231). We also acknowledge additional funding from Charlotte Gard, which funded the acqui-
+sition of the data center dataset used in this study. We thank Xuzhou Qin, Jiaqing Zhao, and Chloe Sullivan
+for their research assistance. We thank Stephanie Weber and the participants at the USAEE conference for
+their feedback on the paper.
+†Jamal Mamkhezri: New Mexico State University, jamalm@nmsu.edu & Georgia Institute of Technology,
+jmamkhzeri@gatech.edu. Xiaochen Sun: New Mexico State University, xsun@nmsu.edu. Yuting Yang:
+University of New Mexico, yutingyang@unm.edu. J.M., X.S., and Y.Y. contributed equally to this work.
+1
+9

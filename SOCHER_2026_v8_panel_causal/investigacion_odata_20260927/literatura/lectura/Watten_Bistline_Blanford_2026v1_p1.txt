@@ -1,0 +1,25 @@
+Have Data Centers Raised Your Electric Bill?
+Causal Evidence from the United States
+ByAsa W atten, John Bistline, and Geoffrey Blanford ∗
+We estimate that data centers caused average retail electricity
+rates to fall modestly in the United States from 2015 to 2024
+using an instrumental variables approach. Despite prevail-
+ing sentiment, the finding is consistent with economic reason-
+ing: existing large power system fixed costs, economies of scale
+in transmission and distribution, and declining unit costs for
+generation imply that durable demand growth lowers average
+prices. We find patterns of economies of scale for transmis-
+sion, distribution, and generation costs as well as within and
+across retail customer classes. We caution that future supply
+constraints could reverse the effect.
+In 2024, data centers used about 4.5% of electricity in the United States,
+more than double their consumption five years earlier, and are projected
+to account for 9-17% by 2030 (Electric Power Research Institute, 2026a).
+Driven by a rapid acceleration in artificial intelligence and other data-
+intensive services, this growth has provoked backlash from some commu-
+nities and their representatives in government. State legislatures have in-
+troduced bans on new data center construction, and numerous cities and
+towns have enacted moratoriums or resisted projects. Concerns about data
+∗ Watten: EPRI (awatten@epri.com); Bistline: Watershed; Blanford: EPRI
+1
+arXiv:2606.19777v1  [physics.soc-ph]  18 Jun 2026

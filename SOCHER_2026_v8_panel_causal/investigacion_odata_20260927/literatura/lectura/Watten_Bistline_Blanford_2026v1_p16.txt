@@ -1,0 +1,30 @@
+16
+infrastructure that drives data center siting) is the relevance pathway we
+exploit. The relevancy of the instrument comes from the observation that
+terrestrial fiber-optic infrastructure is typically located along interstate high-
+way corridors. This is clearly visible in Figure 3, which shows the original
+1947 Dwight D. Eisenhower National System of Interstate and Defense High-
+ways Plan overlain with the location of new or expanded data centers during
+the study period. Further, our instrument is positively correlated with data
+center capacity additions conditional on the controls (p ¡ 0.001). A regres-
+sion table for the first stage is provided in the Supplemental Appendix.
+Using IV, the first stage is then:
+(3) sinh −1 DCst =λ 1 lnT W hres
+st +λ 2zs +θ ′X+ζ t +η r +ϵ st.
+For the second stage, equation 2 becomes:
+(4) lnRev res
+st =β 1 lnT W hres
+st +β 2sinh−1 DCst
+V
++γ ′Xst +α t +δ r +ε st
+where:z s is the instrument and sinh −1 DCst
+V
+is the estimated quantity from
+the first stage. Note that state fixed effectsδ s are now omitted from the
+second stage, but regional effectsδ r are included. This is because the in-
+strument is time-invariant and therefore is collinear with state fixed effects.
+This creates a tradeoff. By using the instrument, we must rely more heavily
+on our controls.
+B. Results
+Table 2 presents our main OLS and IV estimation results for average resi-
+dential prices. The first three columns vary by the fixed effects. “Between”

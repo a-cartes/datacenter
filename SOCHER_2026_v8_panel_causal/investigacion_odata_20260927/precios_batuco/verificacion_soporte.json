@@ -1,0 +1,256 @@
+{
+  "estado": "COBERTURA_SIN_IDENTIFICACION_CAUSAL",
+  "fecha_operacional_candidata": "2022-08-01",
+  "g_convencion_condicional": "2022-08-02",
+  "ventanas": {
+    "pre": [
+      "2022-04-12",
+      "2022-07-25"
+    ],
+    "post": [
+      "2022-08-02",
+      "2022-10-30"
+    ]
+  },
+  "conteos_dias_24_etiquetas_por_barra_no_pares": {
+    "BATUCO________013": {
+      "pre": 105,
+      "post": 90
+    },
+    "BATUCO________110": {
+      "pre": 105,
+      "post": 90
+    },
+    "QUILLOTA______110": {
+      "pre": 105,
+      "post": 90
+    },
+    "QUILLOTA______220": {
+      "pre": 105,
+      "post": 90
+    }
+  },
+  "filas_soporte": 856,
+  "libros": [
+    {
+      "mes": "202204",
+      "archivo": "cmg2204_def.xlsm",
+      "sha256": "6b1097677b59978246f3f4820cb3a2feffb02e11e256ab96b2ce6ed35418ed6d",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 76428,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 77149,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 741190,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______220": {
+          "fila": 741911,
+          "columna_etiqueta": 4
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    },
+    {
+      "mes": "202205",
+      "archivo": "cmg2205_def.xlsm",
+      "sha256": "bc52e7f8a616e2886b9f9d00db30a3e4b929ca7f8db7321e5ef6aed008519bc3",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 78866,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 79610,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 245522,
+          "columna_etiqueta": 22
+        },
+        "QUILLOTA______220": {
+          "fila": 246266,
+          "columna_etiqueta": 22
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    },
+    {
+      "mes": "202206",
+      "archivo": "cmg2206_def.xlsm",
+      "sha256": "fcdef6ec6837741480a5c9d4b5ac4e0db77f2e6854cdd62711a93be86a1ae659",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 76322,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 77042,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 745922,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______220": {
+          "fila": 746642,
+          "columna_etiqueta": 4
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    },
+    {
+      "mes": "202207",
+      "archivo": "cmg2207_def.xlsm",
+      "sha256": "d9c6af27c15d68bfb21282f217488efbb34731b1657ddf3deb34ab17081eee96",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 78866,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 79610,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 774506,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______220": {
+          "fila": 775250,
+          "columna_etiqueta": 4
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    },
+    {
+      "mes": "202208",
+      "archivo": "cmg2208_def.xlsm",
+      "sha256": "12bdac246f109ccacfb5dd5f0556faaf6ec2ac69d97e978b48133072481f22de",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 78866,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 79610,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 250730,
+          "columna_etiqueta": 22
+        },
+        "QUILLOTA______220": {
+          "fila": 251474,
+          "columna_etiqueta": 22
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    },
+    {
+      "mes": "202209",
+      "archivo": "cmg2209_def.xlsm",
+      "sha256": "1d315f94022b4141806b0a3bc031664d73f405fdbc359d05867d3ecde9378cf1",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 76322,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 77042,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 244802,
+          "columna_etiqueta": 22
+        },
+        "QUILLOTA______220": {
+          "fila": 245522,
+          "columna_etiqueta": 22
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    },
+    {
+      "mes": "202210",
+      "archivo": "cmg2210_def.xlsm",
+      "sha256": "578e6a663ab7e45831d8768b4eccdc3f3bc598b3a56c09a1d543c2c94bcd41f6",
+      "etiquetas_en_diccionario": [
+        "BATUCO________013",
+        "BATUCO________110",
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "primeras_filas": {
+        "BATUCO________013": {
+          "fila": 78866,
+          "columna_etiqueta": 4
+        },
+        "BATUCO________110": {
+          "fila": 79610,
+          "columna_etiqueta": 4
+        },
+        "QUILLOTA______110": {
+          "fila": 255938,
+          "columna_etiqueta": 22
+        },
+        "QUILLOTA______220": {
+          "fila": 256682,
+          "columna_etiqueta": 22
+        }
+      },
+      "homologacion_mensual_disponible": false,
+      "magnitudes_precios_analizadas": false
+    }
+  ],
+  "sha256_soporte": "d22ab62dd0ad9390cf8805f52d97e76c7f571656852c474e8c93313462ab6acc",
+  "sha256_script": "19d6a6a9dfaad99726feab9a3eebf3ca1c589ae30f5ae21d41cbf857623a882e",
+  "nota": "No asigna códigos actuales a 2022 ni certifica empalme del campus. No calcula medias, diferenciales ni efectos."
+}

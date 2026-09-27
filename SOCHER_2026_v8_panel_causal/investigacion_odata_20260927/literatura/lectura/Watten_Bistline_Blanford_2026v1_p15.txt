@@ -1,0 +1,27 @@
+DATA CENTERS 15
+potentially biased if uncontrolled-for drivers of utility sales revenue corre-
+late with data center capacity. A particular concern is that data center
+siting decisions may be correlated with expectations about future electric-
+ity prices. Indeed, any profit-maximizing investor ought to consider these
+costs during site selection, which would bias estimates downwards. It is also
+possible that “speed to power” (the length of time for new facilities to be
+connected to the grid) may be correlated with higher costs, which would bias
+estimate upwards. The trade press consistently identify “speed-to-power”
+as the dominant factor in siting decisions.
+To the extent that these siting incentives are constant through our study
+period, the state fixed effects absorb their influence. Data centers could still
+be endogenous to average prices if the incentives to locate in one state over
+another are shifting over time. We expect this to be the case for two reasons:
+(1) the increased pace of data center additions has put new strain on the
+interconnection queue which would reveal or make relevant differences in
+utility interconnection ability; (2) recent investments to harden the grid
+for the warmer climate (e.g. wildfire hardening in California) could increase
+expected future prices. These developing phenomena are likely to shift price
+and “speed-to-power” expectations over the study period.
+To overcome these potential sources of endogeneity, we use the total length
+of the original interstate highway plan as an instrumental variable for data
+centers. We argue that the 1947 plan affects contemporary electricity prices
+only through its long-run effects on population, economic activity, and the
+location of communications infrastructure. By conditioning on state popula-
+tion and GDP, we block the first two channels, thus satisfying the exclusion
+restriction for instrumental variables. The remaining channel (fiber-optic

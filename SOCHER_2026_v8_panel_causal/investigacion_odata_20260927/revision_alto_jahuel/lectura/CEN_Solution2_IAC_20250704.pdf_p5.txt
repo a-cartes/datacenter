@@ -1,0 +1,42 @@
+ 
+ 
+ Página 5 de 8 
+ 
+2. OBSERVACIONES A ESTUDIOS Y/O ANTECEDENTES ADICIONALES 
+2.1 TRANSELEC S.A. 
+La empresa  Transelec S.A. presentó observaciones al Informe de Autorización de Conexión 
+Preliminar mediante el documento: 
+ 
+- “Observaciones_Transelec_5260.pdf” 
+2.2 ENSOLUTION SPA. 
+La empresa Ensolution SpA. no presentó observaciones al Informe de Autorización de Conexión 
+Preliminar. En dicho período la empresa solicitante respondió a las observaciones del propietario.  
+ 
+Los documentos anteriores se encuentran disponibles en el anexo 7.4. En la misma ubicación se 
+encuentra la minuta de respuestas a las observaciones, realizada por parte del Coordinador.  
+3. RESULTADOS DEL ANÁLISIS DE VIABILIDAD TÉCNICA 
+La solución de conexión propuesta por el proyecto Solution 2 no presenta observaciones para la 
+etapa de acceso abierto, según los resultados contenido s en la minuta “2410-DEN-RIC-PR5260-
+V4.pdf” disponible en el anexo 7.4.  
+ 
+No obstante, la empresa solicitante deberá atender las consideraciones y comentarios señalados en 
+la sección 5 y anexos de dicha minuta durante el proceso de conexión definido en el Anexo Técnico 
+“Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI”. 
+4. RESULTADOS DE LOS ESTUDIOS PREOPERATIVOS 
+Los Estudios Preoperativos del proyecto “Solution 2” no presentan observaciones para la etapa de 
+acceso abierto, según los resultados contenidos en las minutas “ 2503-DEN-EFP-PR5260-V2.pdf”, 
+“2503-DEN-ECB-PR5260-V2.pdf”, “ 2503-DEN-ECC-PR5260-V2.pdf” y “ 2503-DEN-EET-PR5260-
+V2.pdf”. 
+ 
+En el Estudio de Flujos de Potencia se han detectado sobrecargas en el transformador N°3 y N°4 de 
+la S/E Alto Jahuel ante la salida de servicio del transformador N°5 de la misma subestación, en los 
+escenarios de energía renovable variable (ERV) con los proyectos de almacenamiento en etapa de 
+Acceso Abierto en modo carga. El máximo nivel de carga se registra en el transformador N°4, 
+alcanzando un 120% en el escenario ERV máximo con los proyectos BESS en condición de consumo. 
+Cabe destacar, según se desprende  del estudio, que el origen de estas sobrecargas se relaciona al 
+ingreso de proyectos de almacenamiento en etapa de Acceso Abierto que pretenden conectarse en 
+S/E Alto Jahuel y S/E Maipo, con una potencia conjunta superior a 800 MW. 
+ 
+El Estudio de Capacidad de Barras muestra que no se presentan niveles de carga superiores a la 
+capacidad de la barra de 500 kV de la S/E Alto Jahuel, siendo el máximo nivel de carga de 61,8%, con 
+el proyecto Solution 2 en modo carga y con penetración ERV Mín. 

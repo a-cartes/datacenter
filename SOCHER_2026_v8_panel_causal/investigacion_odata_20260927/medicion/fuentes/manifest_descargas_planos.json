@@ -1,0 +1,23 @@
+[
+  {
+    "file": "Lampa_DUF_NUP3266_20240808.zip",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/694/documentos/433736/",
+    "sha256": "afd12d23a5d377896c868f8f653f8bac71cc92acbf574f2925f0ac23967e64ab",
+    "bytes": 3278190,
+    "downloaded": "2026-09-27T18:07:17.018847+00:00"
+  },
+  {
+    "file": "NuevaLampa_DUF_NUP3266_20240808.zip",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/2211/documentos/433735/",
+    "sha256": "a7f3f121b516a5ef3e4280d2287e76f5ec20d8346120b706667ac429153ced4b",
+    "bytes": 3580439,
+    "downloaded": "2026-09-27T18:07:17.805871+00:00"
+  },
+  {
+    "file": "Lampa_AsBuilt_202008.zip",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/694/documentos/206710/",
+    "sha256": "55789faec5598f59089a04a6752cc566e5838a1a227390fe234fa21bae370f4d",
+    "bytes": 7115577,
+    "downloaded": "2026-09-27T18:07:19.589063+00:00"
+  }
+]

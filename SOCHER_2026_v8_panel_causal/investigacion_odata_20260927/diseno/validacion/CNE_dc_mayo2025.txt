@@ -1,0 +1,1287 @@
+
+=== PDF PAGE 1 ===
+ 
+ 
+ 
+REF.: Declara y actualiza instalaciones  de generación y 
+transmisión en construcción. 
+ 
+ 
+SANTIAGO, 30 de abril de 2025 
+ 
+ 
+RESOLUCIÓN EXENTA Nº 220 
+ 
+ 
+VISTOS: 
+ 
+1) Las facultades establecidas en la letra h) del artículo 9° del 
+D.L. N° 2.224, de 1978, que crea el Ministerio de Energía y 
+la Comisión Nacional de Energía, en adelante “la Comisión”, 
+modificado por la Ley N°  20.402, que crea el Ministerio de 
+Energía; 
+ 
+2) Lo establecido en el artículo 72°-17 del D.F.L. N° 4, de 2006, 
+del Ministerio de Economía, Fomento y Reconstrucción, que 
+fija el texto refundido, coordinado y sistematizado del D.F.L. 
+N° 1, de 1982, del Ministerio de Minería, y sus 
+modificaciones posteriores, en particular , aquellas 
+introducidas por la Ley N ° 20.936, en adelante  e 
+indistintamente "Ley General de Servicios Eléctricos" o "la 
+Ley"; 
+ 
+3) El Decreto Supremo N° 125, de 2017, del Ministerio de 
+Energía, que  aprueba el reglamento de la Coordinación y 
+Operación del Sistema Eléctrico Nacional, publicado en el 
+Diario Oficial el 20 de diciembre de 2019 , en cuyo Capítulo 
+1 del Título II, fija plazos, requisitos y condiciones para 
+declarar en construcción las nuevas instalaciones de 
+generación y transmisión que se interconecten al sistema 
+eléctrico en los términos del artículo 72° -17 de la Ley 
+General de Servicios  Eléctricos, con excepción de los 
+pequeños medios de generación distribuida , en adelante, 
+“Reglamento de la Coordinación y Operación del Sistema 
+Eléctrico Nacional”; 
+ 
+4) El Decreto Supremo N° 88, de 2019, del Ministerio de 
+Energía, que aprueba el reglamento para Medios de 
+Generación de Pequeña Escala, publicado en el Diario Oficial 
+el 8 de octubre de 2020, en adelante “Reglamento de MGPE”, 
+modificado por Decreto Exento N° 27 , del Ministerio de 
+Energía, de 16 de marzo de 2022; 
+ 
+5) El Decreto Supremo N° 23, de 2015, del Ministerio de 
+Energía, que aprueba el reglamento de Operación y 
+Administración de los Sistemas Medianos establecidos en la 
+Ley General de Servicios Eléctricos, publicado en el Diario 
+Oficial el 23 de octubre de 2015,  modificado por el artículo 
+=== PDF PAGE 2 ===
+ 
+ 
+ 
+quinto del Decreto Supremo N° 125,  en adelante 
+“Reglamento de Sistemas Medianos”; 
+ 
+6) El Decreto Supremo N° 37, de 2019, del Ministerio de 
+Energía, que aprueba el reglamento de los Sistemas de 
+Transmisión y de la Planificación de la Transmisión, 
+publicado en el Diario Oficial el 25 de mayo de 2021 , en 
+adelante “Reglamento de Transmisión y Planificación”; 
+ 
+7) El Decreto Exento N° 373, del Ministerio de Energía, de 16 
+de mayo de 2016, que fija plan de expansión del Sistema de 
+Transmisión Nacional para los doce meses siguientes, 
+publicado en el Diario Oficial el 23 de mayo de 2016; 
+ 
+8) El Decreto Exento N° 418 , del Ministerio de Energía, de 04 
+de agosto de 2017,  que fija listado de instalaciones de 
+transmisión zonal de ejecución obligatoria necesarias para el 
+abastecimiento de la demanda, publicado en el Diario Oficial 
+el 19 de agosto de 2017, modificado por Decreto Exento N° 
+111, de 10 de abril de 2018 y Decreto Exento N° 38, de 18 
+de febrero de 2019,  y aclarado por el Decreto Exento N° 
+167, de 03 de julio de 2019, todos del Ministerio de Energía; 
+ 
+9) El Decreto Exento N° 422, del Ministerio de Energía, de 09 
+de agosto de 2017, que fija plan de expansión del Sistema 
+de Transmisión Nacional para los doce meses siguientes, 
+publicado en el Diario Oficial el 18 de agosto de 2017, 
+modificado por Decreto Exen to N° 23 del Ministerio de 
+Energía, de 01 de febrero de 2018; 
+ 
+10) La Resolución Exenta N° 512 , de la Comisión, de 15 de 
+septiembre de 2017, que indica instalaciones asociadas a la 
+interconexión del Sistema Interconectado Central con el 
+Sistema Interconectado del Norte Grande, para efectos de lo 
+establecido en el artículo 25° transitorio de la Ley N° 20.936 
+y en el artículo 115° de la Ley General de Servicios 
+Eléctricos; 
+ 
+11) La Resolución Exenta N°  668, de la C omisión, de 21 de 
+noviembre de 2017, que tiene por conformado, a partir de 
+la fecha que indica el Sistema Eléctrico Nacional por 
+interconexión del Sistema Interconectado del Norte Grande 
+con el Sistema Interconectado Central, para todos los 
+efectos legales; 
+ 
+12) El Decreto Exento N° 293 , del Ministerio de Energía, de 29 
+de octubre de 2018, que fija obras de ampliación de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso de licitación en los doce meses siguientes, 
+correspondientes al plan de expansión del año 2017, 
+publicado en el Diario Oficial el 8 de noviembre de 2018 , 
+modificado por Decreto Exento N ° 202 del Ministerio de 
+Energía, de 06 de agosto de 2019; 
+=== PDF PAGE 3 ===
+ 
+ 
+ 
+ 
+13) El Decreto Exento N° 4 , del Ministerio de Energía, de 3 de 
+enero de 2019 , que fija obras nuevas de los Sistemas de 
+Transmisión Nacional y Z onal que deben iniciar su proceso 
+de licitación o estudio de franja, seg ún corresponda, en los 
+doce meses siguientes, del plan de expansión del año 2017, 
+publicado en el Diario Oficial el 9 de enero de 2019; 
+ 
+14) El Decreto Exento N° 198 , del Ministerio de Energía, de 05 
+de agosto de 2019, que fija obras de ampliación de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso  de licitación en los doce meses siguientes, 
+correspondientes al plan de expansión del año 2018, 
+publicado en el Diario Oficial el 10 de agosto de 2019 , 
+modificado por Decreto Exento N° 75 del Ministerio de 
+Energía, de 05 de agosto de 2020; 
+ 
+15) El Decreto Exento N° 231 , del Ministerio de Energía, de 27 
+de agosto de 2019, que fija obras nuevas de los Sistemas de 
+Transmisión Nacional y Zonal que deben iniciar su proceso 
+de licitación o estudio de franja, según corresponda, en los 
+doce meses siguientes, del plan de expansión del año 2018, 
+publicado en el Diario Oficial el 24 de septiembre de 2019 , 
+modificado por Decreto Exento N° 114 del Ministerio de 
+Energía, de 19 de junio de 2020, parcialmente revocado por 
+el Decreto Exento N° 163 , del Ministerio de Energía, de 27 
+de agosto de 2020 y posteriormente modificado por Decreto 
+Exento N° 83, del Ministerio de Energía, de 06 de mayo de 
+2021; 
+ 
+16) El Decreto Exento N° 171, del Ministerio de Energía, de 7 de 
+septiembre de 2020, que fija obras de ampliación de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso de licitación en los doce meses siguientes, 
+correspondientes al plan de expansión del año 2019 , 
+publicado en el Diario Oficial el 14 de septiembre de 2020 , 
+rectificado por Decreto Exento N° 51 , del Ministerio de 
+Energía, de 16 de marzo de 2021; 
+ 
+17) El Decreto Exento N° 185 , del Ministerio de Energía, de 24 
+de septiembre de 2020, que fija obras nuevas de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso de licitación o estudio de franja, según 
+corresponda, en los doce meses siguientes, del plan de 
+expansión del año 2019, publicado en el Diario Oficial el 02 
+de octubre de 2020; 
+ 
+18) El Decreto Exento N° 185 , del Ministerio de Energía, de 31 
+de agosto de 2021, que fija obras de ampliación de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso de licitación en los doce meses siguientes, 
+correspondientes al p lan de expansión del año 20 20, 
+publicado en el Diario Oficial el 17 de noviembre de 2021; 
+=== PDF PAGE 4 ===
+ 
+ 
+ 
+ 
+19) El Decreto Exento N° 229, del Ministerio de Energía, de 4 de 
+agosto de 2021, que fija obras nuevas de los Sistemas de 
+Transmisión Nacional y Zonal que deben iniciar su proceso 
+de licitación o estudio de franja, según corresponda, en los 
+doce meses siguientes, correspondientes al plan de 
+expansión del año 2020, publicado en el Diario Oficial el 10 
+de septiembre de 2021; 
+ 
+20) El Decreto Exento N° 200, del Ministerio de Energía, de 7 de 
+octubre de 2022, que fija obras de ampliación de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso de licitación en los doce meses siguientes, 
+correspondientes al plan de expansión del año 2021, 
+publicado en el Diario Oficial el 04 de noviembre de 2022; 
+ 
+21) El Decreto Exento N° 257, del Ministerio de Energía, de 13 
+de diciembre de 2022, que fija obras nuevas de los Sistemas 
+de Transmisión Nacional y Zonal que deben iniciar su 
+proceso de licitación, en los doce meses siguientes, 
+correspondientes al plan de expansión del año 2021, 
+publicado en el Diario Oficial el 05 de enero de 2023; 
+ 
+22) El Decreto Exento N° 4, del Ministerio de Energía, de 9 de 
+enero de 2024, que fija obras nuevas de los Sistemas de 
+Transmisión Nacional y Zonal que deben iniciar su proceso 
+de licitación, en los doce meses siguientes, correspondientes 
+al plan de expansión del año 202 2, publicado en el Diario 
+Oficial el 22 de enero de 2024; 
+ 
+23) El Decreto Exento N° 58, del Ministerio de Energía, de 12 de 
+marzo de 2024, que fija obras nuevas de los Sistemas de 
+Transmisión Nacional y Zonal que deben iniciar su proceso 
+de licitación o estudio de franja, según corresponda, en los 
+doce meses siguientes, correspondientes al plan de 
+expansión del año 2022, publicado en el Diario Oficial el 10 
+de abril de 2024; 
+ 
+24) El Decreto Exento N° 266, del Ministerio de Energía, de 1 2 
+de diciembre de 2024, que fija obras de ampliación de los 
+Sistemas de Transmisión Nacional y Zonal que deben iniciar 
+su proceso de licitación en los doce meses siguientes, 
+correspondientes al plan de expansión del año 202 3, 
+publicado en el Diario Oficial el 5 de diciembre de 2024; 
+ 
+25) El Decreto Exento N° 13, del Ministerio de Energía, de 14 de 
+enero de 2025, que fija obras nuevas de los Sistemas de 
+Transmisión Nacional y Zonal que deben iniciar su proceso 
+de licitación en los doce meses siguientes, correspondientes 
+al plan de expansión del año 202 3, publicado en el Diario 
+Oficial el 18 de enero de 2025; 
+ 
+=== PDF PAGE 5 ===
+ 
+ 
+ 
+26) La Resolución Exenta N° 176, de la Comisión Nacional de 
+Energía, de 9 de abril de 2025, que autoriza ejecución de las 
+obras de transmisión del proyecto “Nueva S/E Seccionadora 
+Llanos de Rungue”, que se indican, de UKA Chile y Cía., de 
+acuerdo a lo establecido en el inciso segundo del artículo 
+102° de la Ley General de Servicios Eléctricos; 
+ 
+27) La Resolución Exenta N° 190, de la Comisión Nacional de 
+Energía, de 17 de abril de 2025, que autoriza ejecución de 
+las obras de transmisión del proyecto “Nuevo Transformador 
+AT/MT en S/E Chacabuco ”, que se indican, de Sociedad 
+Transmisora Metropolitana S.A., de acuerdo a lo establecido 
+en el inciso segundo del artículo 102° de la Ley General de 
+Servicios Eléctricos; 
+ 
+28) El Oficio Ordinario N° 041 , de la Comisión Nacional de 
+Energía, de 13 de enero de 2022, que establece 
+consideraciones extraordinarias para el proceso de 
+declaración en construcción de proyectos de generación y 
+deja sin efecto Oficio CNE N° 828 de 2021; 
+ 
+29) El Oficio Ordinario N° 235 , de la Comisión Nacional de 
+Energía, de 31 de marzo de 2022, que rectifica y aclara 
+Oficio CNE N° 041 de 2022 y deja sin efecto Oficio CNE N° 
+137 de 2022; 
+ 
+30) El Oficio Ordinario N° 107, de la Comisión Nacional de 
+Energía, de 9 de febrero de 2023, que Establece plazo para 
+el cumplimiento de condiciones asociadas a la declaración en 
+construcción de proyectos bajo criterio de flexibilidad; 
+ 
+31) El Oficio Ordinario N° 494, de la Comisión Nacional de 
+Energía, de 28 de julio de 2023, que  informa nuevo plazo 
+para el cumplimiento de condiciones asociadas a la 
+declaración en construcción de proyectos bajo criterio de 
+flexibilidad; 
+ 
+32) La Ley N° 21.180, sobre Transformación Digital del Estado; 
+ 
+33) El Decreto con Fuerza de Ley N° 1, del Ministerio Secretaría 
+General de la Presidencia, de 09 de noviembre de 2020, que 
+Establece Normas de Aplicación del Artículo N° 1 de la Ley 
+N° 21.180, de Transformación Digital del Estado, respecto 
+de los Procedimientos Administrativos regulados en leyes 
+especiales que se expresan a través de Medios Electrón icos 
+y determina la gradualidad para la aplicación de la misma 
+Ley, a los Órganos de la Administración del Estado que indica 
+y las materias que les resultan aplicables; 
+ 
+34) Lo señalado en la carta DE 02273-25 del Coordinador 
+Independiente del Sistema Eléctrico Nacional, en adelante 
+“el Coordinador”, de 15 de abril de 2025; 
+ 
+=== PDF PAGE 6 ===
+ 
+ 
+ 
+35) Las Resoluciones Exentas CNE N° 181 de 11 de abril de 
+2025, N° 188 de 17 de abril de 2025, N° 197 y N° 198 de 
+22 de abril de 2025, , N° 200, N° 206, N° 207 y N° 208 de 
+25 de abril de 2025  y N° 218 de 30 de abril de 2025, que 
+declaran instalaciones de generación y transmisión en 
+construcción, según corresponda; 
+ 
+36) La carta S/N de Parque Solar Numpay SpA, de fecha 23 de 
+abril de 2025, que informa el desistimiento del proyecto 
+Parque Numpay; 
+ 
+37) La carta S/N de Parque Solar del Sol SpA, de fecha 23 de 
+abril de 2025, que informa el desistimiento del proyecto 
+Parque del Sol; 
+ 
+38) La carta S/N de Parque Solar Barrancón SpA, de fecha 23 de 
+abril de 2025, que informa el desistimiento del proyecto PMG 
+Parque Barrancón; 
+ 
+39) La carta S/N de Parque Solar Santa Rebeca SpA, de fecha 
+23 de abril de 2025, que informa el desistimiento del 
+proyecto PMGD Parque PVP Santa Rebeca; 
+ 
+40) La carta S/N de Parque Solar Santa Marta SpA, de fecha 23 
+de abril de 2025, que informa el desistimiento del proyecto 
+PMGD Parque Santa Marta; 
+ 
+41) La carta S/N de Renato Solar SpA, de fecha 23 de abril de 
+2025, que informa el desistimiento del proyecto PMGD 
+Parque Santa Martita; 
+ 
+42) La carta S/N de Parque Solar Tara SpA, de fecha 23 de abril 
+de 2025, que informa el desistimiento del proyecto PMGD 
+Parque Tara; 
+ 
+43) La carta S/N de Compañía General de Electricidad S.A. y 
+Solar TI Treinta y Uno SpA, de fecha 7 de abril de 2025, que 
+informa el cambio de alimentador del proyecto PMGD Perla 
+del Norte por circunstancias atribuibles a CGE;  
+ 
+44) Lo dispuesto en el Decreto Supremo N° 12A, de 21 de 
+noviembre de 2022, del Ministerio de Energía, que nombra 
+a don Marco Antonio Mancilla Ayancán en el cargo de 
+Secretario Ejecutivo de la Comisión Nacional de Energía; y, 
+ 
+45) Lo señalado en la Resolución N° 36, de 20 24, de la 
+Contraloría General de la República. 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PDF PAGE 7 ===
+ 
+ 
+ 
+CONSIDERANDO: 
+ 
+1) Que el inciso primero del  artículo 72°-17 de la Ley señala 
+que los propietarios u operadores de nuevas instalaciones de 
+generación y transmisión que se interconecten al sistema 
+eléctrico deberán previamente presentar una solicitud a la 
+Comisión para que estas sean declaradas en construcción; 
+ 
+2) Que, en virtud del artículo citado precedentemente, la 
+Comisión declarará en construcción solo aquellas 
+instalaciones que cuenten con, al menos, los permisos 
+sectoriales, las órdenes de compra, el cronograma de obras 
+y los demás requisitos que establezca el reglamento, que 
+permitan acreditar fehacientemente la factibilidad de la 
+construcción de dichas instalaciones; 
+ 
+3) Que el inciso segundo del artículo 72°-17 de la Ley establece 
+que se considerarán también como instalaciones en 
+construcción aquellos proyectos de transmisión nacional, 
+zonal y para polos de desarrollo que formen parte de los 
+planes de expansión respectivos , conforme a las 
+características técnicas y plazos con los cuales los proyectos 
+señalados figuran en dichos planes; 
+ 
+4) Que el Reglamento de Coordinación y Operación del Sistema 
+Eléctrico Nacional fijó los plazos, requisitos y condiciones 
+para declarar en construcción las nuevas instalaciones de 
+generación y transmisión que se interconecten al sistema 
+eléctrico en los términos del artículo 72° -17 de la Ley 
+General de Servicios Eléctricos; 
+ 
+5) Que el Reglamento de  MGPE fijó los plazos, requisitos y 
+condiciones para declarar en construcción los nuevos 
+pequeños medios de generación distribuidos, en adelante 
+“PMGD”, que se interconecten al sistema de distribución en 
+los términos del artículo 72° -17 de la Ley General de 
+Servicios Eléctricos; 
+ 
+6) Que, en cumplimiento de lo dispuesto en el artículo 21° del 
+Reglamento de la Coordinación y Operación del Sistema 
+Eléctrico Nacional, esta Comisión debe declarar en 
+construcción los proyectos que cumplan las exigencias 
+establecidas en la Ley, en el referido reglamento y en el 
+Reglamento de MGPE respecto a los PMGD, mediante su 
+incorporación en la resolución exenta mensual que dicte al 
+efecto; 
+ 
+7) Que, asimismo, la resolución exenta mensual deberá indicar 
+aquellos proyectos a los que se les haya revocado dicha 
+declaración en los términos de los artículos 24° y 72° del 
+Reglamento de la Coordinación y Operación del Sistema 
+Eléctrico y del Reglamento de MGPE, respectivamente, y 
+aquellos proyectos que ya no se encuentren en construcción 
+=== PDF PAGE 8 ===
+ 
+ 
+ 
+por haber entrado en el periodo de puesta en servicio, según 
+lo informado por el Coordinador; 
+ 
+8) Que, conforme a lo dispuesto en los artículos 37° y 38° del 
+Reglamento de Sistemas Medianos, las empresas 
+propietarias de instalaciones de generación y transmisión 
+que hubiesen obtenido los antecedentes y documentos 
+justificativos establecidos en el artículo 37° recién citado, 
+deberán comunicar a la Comisión, c on copia a la 
+Superintendencia y a las empresas que operen en el Sistema 
+Mediano respectivo, los plazos estimados de entrada en 
+operación para efectos de que dichas instalaciones puedan 
+ser consideradas en construcción por la Comisión; 
+ 
+9) Que, a través de la carta individualizada en el numeral 34) 
+de vistos, el Coordinador informó a esta Comisión el estado 
+actualizado de los proyectos declarados en construcción, de 
+acuerdo con lo informado por las empresas desarrolladoras; 
+ 
+10) Que el Reglamento de Transmisión y Planificación establece 
+las disposiciones aplicables al régimen de acceso abierto a 
+que se encuentran sujetos los sistemas de transmisión, al 
+proceso de planificación de la transmisión y al proceso de 
+licitación de las obras de expansión, así como las demás 
+materias necesarias para el adecuado desarrollo de los 
+procesos señalados; 
+ 
+11) Que, en consideración a la situación mundial extraordinaria 
+producida por la pandemia sanitaria del virus COVID -19, y 
+las dificultades administrativas y logísticas de ella derivadas, 
+así como también lo indicado por la Contraloría General de 
+la República m ediante Dictamen N° 3610 , de 17 de marzo 
+de 2020, la Comisión emitió el oficio individualizado en el 
+numeral 28) de vistos, mediante el cual se establecieron 
+consideraciones extraordinarias para el proceso de 
+declaración en construcción, las que fueron pos teriormente 
+rectificadas, aclaradas y complementadas mediante los 
+oficios individualizados en los numerales 29), 30) y 31) de 
+vistos; 
+ 
+12) Que, teniendo presente la implementación de la Plataforma 
+Digital de Declaración en Construcción , con base en lo 
+establecido en los numerales 32) y 33) de vistos, con el 
+objeto de agilizar el proceso de declaración en construcción 
+de los distintos proyectos, esta Comisión consideró 
+razonable efectuar resoluciones de declaración en 
+construcción individuales o grupales y digitales por el o los 
+proyectos respectivos, las que son sistem atizadas en la 
+presente resolución exenta de carácter mensual; 
+ 
+13) Que, a la luz de lo establecid o en el considerando 
+precedente, esta Comisión ha emitido la s resoluciones 
+individualizadas en el numeral 35) de vistos, que declaran 
+=== PDF PAGE 9 ===
+ 
+ 
+ 
+en construcción los proyectos de generación y transmisión 
+que en ellas se indican; y, 
+ 
+14) Que, de acuerdo con lo establecido en los considerandos 
+anteriores, corresponde que esta Comisión dicte la 
+resolución exenta mensual mediante la cual se declaren en 
+construcción y actualicen los listados de  los proyectos de 
+generación y transmisión que cumplan con los req uisitos 
+para tal efecto, indicándose además en dicha resolución los 
+proyectos respecto de los cuales procede revocar  la 
+declaración en construcción. 
+ 
+ 
+RESUELVO: 
+ 
+I. Incorpórense en e l listado de proyectos de generación , transmisión y almacenamiento  
+declarados en construcción  los siguientes proyectos del Sistema Eléctrico Nacional  y 
+Sistemas Medianos, por haber sido declarados en construcción  mediante las Resoluciones 
+Exentas CNE identificadas en el numeral 35) de vistos: 
+ 
+Proyecto Propietario 
+Resolución 
+Exenta CNE 
+Individual 
+Fecha 
+Estimada de 
+Interconexión 
+Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Capacidad 
+Instalada 
+[MW] 
+Ubicación Punto de 
+Conexión 
+PRP Marver 
+Inmobiliaria 
+Marver 
+Ltda. 
+208/2025 jul-25 PMGD Diésel 9,0 9,0 Región de Los 
+Lagos 
+Alimentador 
+Cañal Bajo 23 
+kV, S/E Barro 
+Blanco 
+PMGD Diesel 
+Quetalmahue 
+Bepatagonia 
+Generación 
+S.A. 
+207/2025 dic-25 PMGD Diésel 3,0 3,0 Región de Los 
+Lagos 
+Alimentador 
+Quetalmahue 
+23 kV, S/E 
+Ancud 
+CRCA Luna 
+de Verano 
+PFV 
+Domeyko 
+SpA 
+197/2025 sep-26 
+Solar 
+Fotovoltaico + 
+BESS 
+82,0 82,1 Región de 
+Atacama 
+S/E Agua 
+Amarga 220 
+kV 
+Parque 
+fotovoltaico 
+El Peñón 
+El Peñón 
+SpA 206/2025 ene-27 
+PMGD 
+Fotovoltaico + 
+BESS 
+9.0 9.0 Región de 
+Coquimbo 
+Alimentador 
+Guanaqueros 
+23 kV, S/E El 
+Peñón 
+ 
+ 
+Proyecto Propietario 
+Resolución 
+Exenta 
+CNE 
+Individual 
+Fecha 
+estimada de 
+Interconexión 
+Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Capacidad de 
+Almacenamiento 
+[MWh] 
+Ubicación Punto de 
+Conexión 
+BESS 
+Santa 
+Marta 
+Consorcio 
+Santa 
+Marta 
+218/2025 jun-25 BESS 10,0 50,0 
+Región 
+Metropolitana 
+de Santiago 
+S/E Santa 
+Marta 23 kV 
+Arena 
+BESS 
+CI NMF I 
+Arena 
+ProjectCo 
+SpA 
+181/2025 dic-25 BESS 220 1100 Región de 
+Antofagasta 
+Seccionamiento 
+de línea de 
+transmisión 
+1x220 kV 
+Parinas-Central 
+Lalackama 
+=== PDF PAGE 10 ===
+ 
+ 
+ 
+Proyecto Propietario 
+Resolución 
+Exenta 
+CNE 
+Individual 
+Fecha 
+estimada de 
+Interconexión 
+Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Capacidad de 
+Almacenamiento 
+[MWh] 
+Ubicación Punto de 
+Conexión 
+BESS Los 
+Loros 
+ENGIE 
+Energía 
+Chile S.A. 
+188/2025 mar-26 BESS 46 230 Región de 
+Atacama 
+S/E Central 
+Parque Solar Los 
+Loros 
+BESS Lile 
+Engie 
+Energía 
+Chile S.A. 
+200/2025 abr-26 BESS 140,0 798,0 Región de 
+Antofagasta 
+Paños existentes 
+J1 y J2 de S/E 
+TEN GIS 
+BESS 
+Luna de 
+Verano 
+PFV 
+Domeyko 
+SpA 
+197/2025 sep-26 BESS 300,0 600,1 Región de 
+Atacama 
+S/E Agua Amarga 
+220 kV 
+ 
+ 
+Proyecto 
+Resolución 
+Exenta CNE 
+Individual 
+Descripción Propietario 
+Fecha 
+Estimada de 
+Interconexión 
+Tensión 
+[kV] Potencia 
+SynCon U15 
+Tocopilla 198/2025 
+El proyecto consiste en la 
+reconversión de la unidad U15, 
+de una unidad de generación 
+impulsada por una turbina de 
+vapor a un condensador 
+sincrónico mediante el desacople 
+de la turbina de vapor, la 
+instalación de un motor de 
+partida y volante de inercia, 
+entre otras modificaciones. 
+Engie 
+Energía 
+Chile S.A. 
+abr-27 220 7,0 
+ 
+ 
+II. Exclúyanse del listado de proyectos de generación declarados en construcción, por haber 
+iniciado el per íodo de puesta en servicio, según lo informado por el Coordinador  y las 
+respectivas empresas, conforme a lo establecido en el artículo 72°-17 de la Ley, el artículo 
+21° del Reglamento de la Coordinación y Operación del Sistema Eléctrico Nacional  y el 
+artículo 74° del Reglamento de MGPE, los proyectos que se indican a continuación: 
+ 
+Proyecto Propietario Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Ubicación Punto de Conexión 
+Ramirez del 
+Verano Solar 
+Poike del Verano 
+SpA 
+PMGD 
+Fotovoltaico 3,0 Región de Coquimbo Alimentador Quebrada 
+Seca 23 kV, S/E Ovalle 
+Malloa Sunlight Malloa Solar SpA PMGD 
+Fotovoltaico 9,0 
+Región del Libertador 
+General Bernardo 
+O’Higgins 
+Alimentador Santa Rosa 15 
+kV, S/E Pelequén 
+Fotovoltaica 
+Esmeralda 
+Fotovoltaica 
+Ciprés SpA 
+PMGD 
+Fotovoltaico 3,0 Región del Maule Alimentador Ajial 13,2 kV, 
+S/E Parral 
+Fénix Fénix SpA PMGD 
+Fotovoltaico 9,0 Región Metropolitana 
+de Santiago 
+Alimentador Las Lomas 12 
+kV, S/E Lo Aguirre 
+Parque 
+Fotovoltaico 
+Cauce 
+Cauce Solar SpA PMGD 
+Fotovoltaico 9,0 Región de Antofagasta Alimentador Chorrillos 23 
+kV, S/E Calama 
+Collanco P2  Blue solar Uno 
+SpA 
+PMGD 
+Fotovoltaico 9,0 Región del Maule Alimentador Falucho 23 kV, 
+S/E Constitución 
+=== PDF PAGE 11 ===
+ 
+ 
+ 
+Proyecto Propietario Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Ubicación Punto de Conexión 
+Millahue Blue Solar Cinco 
+SpA 
+PMGD 
+Fotovoltaico 9,0 Región del Maule Alimentador Vaquería 23 
+kV, S/E San Javier 
+Planta 
+Fotovoltaica 
+Tutuvén 
+Parque Solar 
+Tangua SpA 
+PMG 
+Fotovoltaico 9,0 Región del Maule S/E Cauquenes 13,8 kV 
+Los Olmos 
+(capacidad 
+adicional 10 MW) 
+Energía Eólica 
+Los Olmos SpA Eólico 10,0 Región del Biobío S/E Los Olmos 220 kV 
+PMG Llancay Solar TI Treinta y 
+Cuatro SpA 
+PMG 
+Fotovoltaico 9,0 Región Metropolitana 
+de Santiago S/E El Peumo 23 kV 
+ 
+ 
+Proyecto Propietario Tipo de 
+Proyecto 
+Potencia 
+Neta [MW] 
+Capacidad de 
+Almacenamiento 
+[kWh] 
+Ubicación Punto de Conexión 
+BESS del 
+Desierto 
+BESS del 
+Desierto SpA BESS 200,0 800,0 Región de 
+Antofagasta 
+S/E Central Sol del 
+Desierto 33 kV 
+ 
+ 
+III. Exclúyase del listado de proyectos de generación y transmisión declarados en construcción, 
+por haberse revocado su Declaración en Construcción de acuerdo a lo indicado en los 
+numerales del 36) al 42) de vistos, los proyectos que se indican a continuación: 
+ 
+Proyecto Propietario 
+Resolución 
+Exenta 
+CNE 
+Individual 
+Fecha 
+Estimada de 
+Interconexión 
+Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Capacidad 
+Instalada 
+[MW] 
+Ubicación Punto de 
+Conexión 
+PMGD 
+Parque 
+Barrancón 
+Parque 
+Solar 
+Barrancón 
+SpA 
+236/2022 may-22 PMGD 
+Fotovoltaico 9,0 10,6 
+Región 
+Metropolitana 
+de Santiago 
+Alimentador 
+Barrancón 
+12 kV, S/E 
+San 
+Bernardo 
+PMGD 
+Parque del 
+Sol 
+Parque 
+Solar del 
+Sol SpA 
+384/2022 ene-23 PMGD 
+Fotovoltaico 9,0 10,6 
+Región 
+Metropolitana 
+de Santiago 
+Alimentador 
+Autopista 
+del Sol 23 
+kV, S/E 
+Malloco 
+PMGD 
+Parque Tara 
+Parque 
+Solar Tara 
+SpA 
+563/2022 feb-23 PMGD 
+Fotovoltaico 6,0 7,1 
+Región 
+Metropolitana 
+de Santiago 
+Alimentador 
+Manuel 
+Castillo 12 
+kV, S/E 
+Malloco 
+PMGD 
+Parque 
+Santa 
+Martita 
+Renato 
+Solar SpA 720/2022 mar-23 PMGD 
+Fotovoltaico 2,7 3,0 Región del 
+Maule 
+Alimentador 
+La Obra 
+Zapallar 
+13,2 kV, S/E 
+Curicó 
+=== PDF PAGE 12 ===
+ 
+ 
+ 
+Proyecto Propietario 
+Resolución 
+Exenta 
+CNE 
+Individual 
+Fecha 
+Estimada de 
+Interconexión 
+Tipo de 
+Proyecto 
+Potencia 
+Neta 
+[MW] 
+Capacidad 
+Instalada 
+[MW] 
+Ubicación Punto de 
+Conexión 
+PMGD 
+Parque 
+Santa 
+Marta 
+Parque 
+Solar 
+Santa 
+Marta 
+SpA 
+385/2022 mar-23 PMGD 
+Fotovoltaico 5,8 6,3 
+Región 
+Metropolitana 
+de Santiago 
+Alimentador 
+Terminales 
+23 kV, S/E 
+Santa Marta 
+Parque 
+Numpay 
+Parque 
+Solar 
+Numpay 
+SpA 
+574/2022 abr-23 PMGD 
+Fotovoltaico 9,0 10,6 Región del 
+Maule 
+Alimentador 
+Pucará 15 
+kV, S/E 
+Piduco 
+PMGD 
+Parque PVP 
+Santa 
+Rebeca 
+Parque 
+Solar 
+Santa 
+Rebeca 
+SpA 
+596/2022 oct-23 PMGD 
+Fotovoltaico 8,9 9,8 
+Región 
+Metropolitana 
+de Santiago 
+Alimentador 
+Autopista 
+del Sol 23 
+kV, S/E 
+Malloco 
+ 
+ 
+IV. Exclúyanse del listado de proyectos de transmisión declarados en construcción, por haber 
+iniciado el período de puesta en servicio, según lo informado por el Coordinador, conforme 
+a lo establecido en el artículo 72° -17 de la Ley y el artículo 21° del Reglamento de la 
+Coordinación y Operación del Sistema Eléctrico Nacional, los siguientes proyectos: 
+ 
+Proyecto Decreto de Adjudicación Responsable 
+Ampliación en S/E Apoquindo (NTR ATMT) 11T/2021 Enel Transmisión Chile 
+S.A. 
+Ampliación en S/E Nueva Lampa (NTR 
+ATMT) 11T/2021 Enel Transmisión Chile 
+S.A. 
+Ampliación en S/E Batuco (NTR ATMT) 11T/2021 Enel Transmisión Chile 
+S.A. 
+Ampliación en S/E Traiguén (RTR ATMT) 13T /2022 
+Andaluza de Montajes 
+Eléctricos y Telefónicos 
+S.A. Agencia en Chile 
+S/E Nueva Casablanca 220/66 kV 5T/2019 Casablanca Transmisora 
+de Energía S.A. 
+ 
+ 
+Proyecto Resolución Exenta CNE Responsable 
+Ampliación Barra N°2 220 kV SE Chicureo 407/2023 Sociedad Transmisora 
+Metropolitana II S.A. 
+ 
+ 
+=== PDF PAGE 13 ===
+ 
+ 
+ 
+Proyecto Descripción Propietario Tensión 
+[kV] Potencia 
+Ampliación Subestación 
+Mantoverde Proyecto 
+Desarrollo Mantoverde 
+El proyecto consiste en la 
+instalación de dos nuevos 
+equipos de transformación 
+110/13,8 kV en la 
+subestación Mantoverde, de 
+capacidad 60 MVA cada uno, 
+con sus respectivos paños de 
+conexión en ambos niveles 
+de tensión, que conectan el 
+proyecto de consumo 
+“Ampliación Mantoverde” de 
+50 MW. Ambos equipos se 
+conectan al patio de 110 kV 
+de la subestación 
+Mantoverde, en 
+configuración barra simple. El 
+proyecto incluye también la 
+instalación de una nueva sala 
+de celdas en 13,8 kV, en 
+configuración barra simple 
+seccionada, que conectan los 
+equipos de transformación 
+recientemente mencionados, 
+y la conexión de 
+alimentadores en media 
+tensión para el 
+abastecimiento del proyecto 
+de consumo. Además, el 
+proyecto incluye la 
+normalización de la línea 
+1x110 kV Mantoverde - Diego 
+de Almagro y la instalación de 
+TTCC en la S/E Diego de 
+Almagro, de acuerdo a lo 
+indicado en la Resolución 
+Exenta CNE N° 687 de 2022. 
+Mantoverde S.A. 
+ 110/23 50 MVA 
+=== PDF PAGE 14 ===
+ 
+ 
+ 
+Proyecto Descripción Propietario Tensión 
+[kV] Potencia 
+Nueva S/E Caliche y línea 
+de transmisión 2x220 kV 
+Caliche – Geoglifos 
+El proyecto consiste en la 
+construcción de una nueva 
+S/E en configuración 
+interruptor y medio, en 
+tecnología GIS, que tendrá 
+dos transformadores 220/6,9 
+kV de 40 MVA cada uno y se 
+conectará al SEN a través de 
+la línea 2x220 kV Geoglifos – 
+Caliche. 
+Cía. Minera 
+Doña Inés de 
+Collahuasi SCM 
+220 60,0 MW 
+S/E Puerto Collahuasi y 
+línea de transmisión 1x220 
+kV Tarapacá – Puerto 
+Collahuasi 
+El proyecto consiste en la 
+construcción de una nueva 
+S/E en configuración 
+interruptor y medio, en 
+tecnología GIS, que tendrá 
+dos transformadores 
+220/23/6,9 kV de 50 MVA 
+cada uno y se conectará al 
+SEN a través de la línea 1x220 
+kV Tarapacá – Puerto 
+Collahuasi. 
+Cia Minera Doña 
+Inés de 
+Collahuasi SCM 
+220 80,0 MW 
+Nueva S/E Seccionadora 
+Cahuiza 
+El proyecto consiste en la 
+construcción de una nueva 
+S/E que seccionará la línea 
+2x220 Lagunas – Collahuasi. 
+Esta S/E tendrá configuración 
+interruptor y medio, en 
+tecnología GIS y tendrá dos 
+transformadores 220/6,9 kV 
+de 30 MVA cada uno. 
+Cia Minera Doña 
+Inés de 
+Collahuasi SCM 
+220 60,0 MW 
+ODATA Datacenter ST01 
+El proyecto consiste en la 
+instalación de un nuevo 
+transformador 220/23 de 50 
+MVA en la S/E Nueva Lampa. 
+El transformador se conecta 
+mediante una nueva bahía 
+GIS en configuración 
+interruptor y medio. 
+ODATA Chile 
+S.A. 220 30,0 MW 
+=== PDF PAGE 15 ===
+ 
+ 
+ 
+Proyecto Descripción Propietario Tensión 
+[kV] Potencia 
+Suministro de Agua 
+Desalada CODELCO Distrito 
+Norte - Cordillera 
+El proyecto consiste en la 
+construcción de una nueva 
+S/E EB3, que seccionará la LT 
+1x220 Palpana – Radomiro 
+Tomic. El seccionamiento 
+será en tecnología GIS en 
+configuración interruptor y 
+medio, con tres paños uno de 
+ellos conectará la estación 
+EB4. 
+Corporación 
+Nacional del 
+Cobre de Chile 
+220 31,8 MVA 
+ 
+ 
+V. Modifíquese la fecha estimada de interconexión de los siguientes proyectos de generación 
+y transmisión declarados en construcción, en virtud del artículo 26° del Reglamento de la 
+Coordinación y Operación del Sistema Eléctrico Nacional y del artículo 71° del Reglamento 
+de MGPE: 
+ 
+ 
+Proyectos de Pequeños Medios de Generación Distribuidos en Construcción 
+ 
+Proyecto Propietario 
+Nueva fecha 
+estimada de 
+interconexión 
+Tipo de 
+tecnología 
+Potencia 
+Neta 
+[MW] 
+Capacidad 
+Instalada 
+[MW] 
+Ubicación Punto de conexión 
+PMGD La Perla 
+del Norte 
+Solar TI 
+Treinta y 
+Uno SpA 
+abr-25 PMGD 
+Fotovoltaico 9,0 11,4 Región de 
+Antofagasta 
+Alimentador 
+Industrial 23 kV, 
+S/E La Negra 
+Mulchén Santa 
+Bárbara 1 
+Tierra Solar 
+SpA jul-25 PMGD 
+Fotovoltaico 9,0 12,0 Región del 
+Biobío 
+Alimentador 
+Picoltué Santa 
+Bárbara 23 kV, 
+S/E Picoltué 
+Paihuen Yumbrel 
+Solar SpA ago-26 PMGD 
+Fotovoltaico 9,0 10,1 Región de 
+Coquimbo 
+Alimentador 
+Cerrillos 13,2 kV, 
+S/E El Peñón 
+Parque Sg Inés 
+- Montaña 
+Parque 
+Solar 
+Montaña 
+SpA 
+feb-27 PMGD 
+Fotovoltaico 9,0 10,6 
+Región 
+Metropolitana 
+de Santiago 
+Alimentador 
+Batuco 23 kV, 
+S/E Batuco 
+ 
+ 
+ 
+ 
+ 
+=== PDF PAGE 16 ===
+ 
+ 
+ 
+VI. Modifíquese el punto de conexión del siguiente pr oyecto de generación declarados en 
+construcción, en virtud de los antecedentes aportados en  la carta indicada en el numeral 
+43) de Vistos, en concordancia con  los términos del artículo 72 °-17 de la Ley del artículo 
+69° del Reglamento de Medios de Generación de Pequeña Escala: 
+ 
+Proyecto Propietario 
+Nueva fecha 
+estimada de 
+interconexión 
+Tipo de 
+tecnología 
+Potencia 
+neta 
+[MW] 
+Capacidad 
+Instalada 
+[MW] 
+Ubicación Punto de 
+conexión 
+PMGD La Perla del 
+Norte 
+Solar TI 
+Treinta y Uno 
+SpA 
+abr-25 PMGD 
+Fotovoltaico 9,0 11,4 Región de 
+Antofagasta 
+Alimentador 
+Industrial 23 
+kV, S/E La 
+Negra 
+ 
+ 
+VII. En consistencia con lo señalado precedentemente, actualí cese el listado de proyectos de 
+generación y transmisión declarados en construcción en los términos del artículo 72° -17 
+de la Ley , el artículo 21 ° del Reglamento de la Coordinación y Operación del Sistema 
+Eléctrico Nacional y el inciso final del artículo 72° del Reglamento de MGPE, el cual se deja 
+a disposición en documento anexo a la presente resolución. 
+ 
+VIII. En conformidad a lo establecido en el inciso segundo del artículo 72° -17 de la Ley, 
+considérense en construcción los proyectos correspondientes a las obras de ampliación y 
+nuevas que forman parte del Plan de Expansión del Sistema de Transmisión Nacional fijado 
+mediante Decreto Exento N° 373 del Ministerio de Energía, de 2016, individualizado en el 
+numeral 7) de vistos; los proyectos correspondientes a las obras de ampliación y nuevas 
+que forman parte del Plan de Expansión del Sistema de Transmisión Nacional fijado 
+mediante Decreto Exento N° 422 del Ministerio de Energía, de 2017,  individualizado en el 
+numeral 9) de vistos; y los proyectos correspondientes a las obras de ampliación y nuevas 
+del Sistema de Transmisión Zonal contenidas en el Decreto  Exento N° 418  del mismo 
+Ministerio, de 2017, referido en el numeral 8) de vistos, los que no han sido reproducidos 
+en la presente resolución por encontrarse comprendidos en los decretos recién señalados 
+y ya publicados en el Diario Oficial. 
+ 
+Sin perjuicio de lo anterior, los proyectos de transmisión señalados precedentemente serán 
+debidamente incorporados a las tablas del documento anexo una vez que se publique en 
+el Diario Oficial el decreto de adjudicación de dichas obras, de acuerdo con lo establecido 
+en el artículo 96° de la Ley y la normativa vigente. 
+ 
+IX. Asimismo, se consideran en construcción todas aquellas obras de ejecución obligatoria 
+individualizadas en el artículo 1° del Decreto Exento N° 418. 
+ 
+X. De igual forma, conforme a lo establecido en el inciso segundo del artículo 72° -17 de la 
+Ley, considérense en construcción los proyectos correspondientes a las obras de ampliación 
+y nuevas que forman parte de los Planes de Expansión del Sistema de Transmisión Nacional 
+y Zonal de los años del 2017 al 2021, fijados mediante los Decretos Exentos N° 293 de 
+2018, N° 4 de 2019, N° 198 de 2019, N° 231 de 2019, N° 171 de 2020, N° 185 de 2020, 
+N° 185 de 2021, N° 229 de 2021, N° 200 de 2022, N° 257 de 2022, N° 4 de 2024, N° 58 
+de 2024 y N° 13 de 2025 , todos del Ministerio de Energía, que  se encuentran 
+individualizados en los numerales 1 2) al 25) de vistos. Estos proyectos no han sido 
+reproducidos en la presente resolución por encontrarse comprendidos en los decretos 
+recién señalados y ya publicados en el Diario Oficial. 
+=== PDF PAGE 17 ===
+ 
+ 
+ 
+ 
+Sin perjuicio de lo anterior, los proyectos de transmisión señalados precedentemente serán 
+debidamente incorporados a las tablas del documento anexo  una vez que se  publique en 
+el Diario Oficial el decreto de  adjudicación de dichas obras, de acuerdo con lo establecido 
+en el artículo 96° de la Ley y la normativa vigente. 
+ 
+XI. Por último, considérense también en construcción las obras autorizadas por la Comisión en 
+virtud del inciso segundo del artículo 102 º de la Ley , que regula aquellas obras de 
+transmisión necesarias y urgentes que se interconecten al sistema eléctrico, sin que formen 
+parte de la planificación de que trata el artículo 87º de dicho cuerpo legal , y cuyo 
+procedimiento de aprobación, plazos, requisitos y condiciones se encuentra establecido en 
+el Reglamento de Transmisión y Planificación, individualizado en el numeral 6) de vistos. 
+ 
+XII. Notifíquese la presente resolución exenta al Coordinador Independiente del Sistema 
+Eléctrico Nacional y publíquese en la página web de la Comisión Nacional de Energía. 
+ 
+ 
+ 
+ 
+Anótese y archívese. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECRETARIO EJECUTIVO 
+COMISIÓN NACIONAL DE ENERGÍA 
+ 
+ 
+ 
+MFH/FCP/PMP/AAA/LAN/MCL/EMA 
+ 
+ 
+DISTRIBUCIÓN:  
+- Ministerio de Energía 
+- Superintendencia de Electricidad y Combustibles 
+- Coordinador Independiente del Sistema Eléctrico Nacional 
+- Departamento Eléctrico CNE 
+- Departamento Jurídico CNE 
+- Oficina de Partes CNE 
+ 
+INCL.: 
+- Tablas Declaración en Construcción Formato Excel 

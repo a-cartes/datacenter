@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AJ01",
+    "archivo": "fuentes/CEN_Solution2_IAC_20250704.pdf",
+    "url": "https://cartas.coordinador.cl/download_anexos/68684eee3563571479b32843/0",
+    "fecha_consulta": "2026-09-27",
+    "estado": "ARCHIVADO",
+    "bytes": 500153,
+    "sha256": "6247af6d024347c2bb6da84106fa0760aef470af4e50f14ccdbbd01e7fd8408b"
+  },
+  {
+    "id": "AJ02",
+    "archivo": "fuentes/CEN_DE04070_20250704.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/68684eee3563571479b32843",
+    "fecha_consulta": "2026-09-27",
+    "estado": "ARCHIVADO",
+    "bytes": 248842,
+    "sha256": "a410a8cc56bec975a779cfffde00642a23dd307c734eca05c21977acd8cfe358"
+  }
+]

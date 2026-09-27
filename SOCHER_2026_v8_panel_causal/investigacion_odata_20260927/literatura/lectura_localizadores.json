@@ -1,0 +1,44 @@
+[
+  {
+    "archivo": "MIT_CEEPR_WP2026_13.pdf",
+    "paginas_documento": 90,
+    "paginas_inspeccionadas": [
+      1,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "archivo": "Mamkhezri_2026_en_anexo_TURN04.pdf",
+    "paginas_documento": 79,
+    "paginas_inspeccionadas": [
+      24,
+      34,
+      35,
+      41
+    ]
+  },
+  {
+    "archivo": "Watten_Bistline_Blanford_2026v1.pdf",
+    "paginas_documento": 45,
+    "paginas_inspeccionadas": [
+      1,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "archivo": "DallasFed_WP2606.pdf",
+    "paginas_documento": 58,
+    "paginas_inspeccionadas": [
+      1,
+      2,
+      3,
+      14,
+      15
+    ]
+  }
+]

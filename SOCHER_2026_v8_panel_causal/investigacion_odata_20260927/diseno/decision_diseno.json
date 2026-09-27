@@ -1,0 +1,98 @@
+{
+  "fecha": "2026-09-27",
+  "tipo": "propuesta_no_registro_estimacion",
+  "estimacion_ejecutada": false,
+  "nuevos_outcomes_consultados": false,
+  "evento_prioritario": "ODATA_LAMPA_entrada_2022",
+  "fecha_diaria_habilitada": false,
+  "ruta_vigente_2022_habilitada": false,
+  "efecto_relativo_admite_spillovers_comparadores": true,
+  "no_requiere_exposicion_cero_todo_SEN": true,
+  "contrafactual_requerido": "Evolución de la brecha entre nodos sin la intervención particular ODATA, bajo supuestos explícitos y concurrencias revisadas",
+  "evento_2025": {
+    "naturaleza": "conexion_y_posible_ampliacion_o_transferencia_por_cerrar",
+    "inicio_pes_cota_superior": "2025-04-30",
+    "fuente": "ODD06",
+    "localizador": "Sección IV PDF pp12–14",
+    "precision": "cota_superior_sin_fecha_exacta",
+    "primera_carga_probada": false,
+    "nueva_demanda_neta_probada": false,
+    "concurrencias_nominadas": [
+      "Ampliación Nueva Lampa NTR ATMT",
+      "Ampliación Batuco NTR ATMT"
+    ],
+    "cota_pes_no_equivale_realizacion_simultanea": true
+  },
+  "rutas_siguientes": [
+    "Cerrar las dos alternativas de suministro de la Adenda2020 y sus vigencias con documentación realizada; resolver discrepancia operación SMA1ago2022 versus OGPoct2022, sin seleccionar fecha o barra por resultados.",
+    "Si evento y diseño se cierran, adenda y contraste relativo sobre soporte idéntico; inferencia revisada por separado",
+    "Si solo se cierra nueva conexión, estimando distinto, sin renombrar como primera entrada"
+  ],
+  "documentos": {
+    "memo_sha256": "cee5bc49abfb6cc9d233b3b01f6de4485144fc6c12b1c4a838813c00ef638b1e",
+    "catalogo_sha256": "ad5a83418d7242fdd88d5987c66ffd21ce2e497ccf7437c4e4b1755a8ab94808",
+    "actualizacion_SNIFA_sha256": "c72df25b6ca6a39778064dc2740185c2cc7db7676430e820d6c8e6d62b57008e",
+    "calendario_condicional_sha256": "4e6857f110bda81121f6747d0f777e6e330697f5ed7d587a0ca3e825fb78fd51"
+  },
+  "actualizacion_SNIFA": {
+    "documento": "ODCH-ST01-061-2022",
+    "fecha_carta": "2022-08-18",
+    "fecha_operacion_declarada": "2022-08-01",
+    "precision_declaracion": "diaria",
+    "fuente_relativa": "../entrada/fuentes/SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+    "sha256": "cc94aca016d23dc708c6ccdd20e85c3d262ecf9863174bb8037f73cdeeba80f4",
+    "primera_energizacion_medida": false,
+    "MW_en_carta": null,
+    "ruta_en_carta": null,
+    "g_condicional": "2022-08-02",
+    "pre": [
+      "2022-04-12",
+      "2022-07-25"
+    ],
+    "base": "2022-07-25",
+    "anticipacion_y_transicion": [
+      "2022-07-26",
+      "2022-08-01"
+    ],
+    "post": [
+      "2022-08-02",
+      "2022-10-30"
+    ],
+    "n_pre_calendario": 105,
+    "n_post_calendario": 90,
+    "habilita_calendario": true,
+    "habilita_ATT": false,
+    "calendario_estado": "ESCENARIO_CONDICIONAL_CON_DISCREPANCIA_OGP_NO_RESUELTA",
+    "g_requiere_resolver_discrepancia_temporal": true
+  },
+  "fecha_diaria_habilitada_significado": "Fecha del tratamiento eléctrico no habilitada; sí fecha declarada de operación del proyecto.",
+  "discrepancia_OGP": {
+    "fuente_relativa": "../entrada/fuentes/OGP_cartera_abril2023.pdf",
+    "sha256": "58a4ffb5b226205077b814e7e1b2088d016957feef4d619427380cff107ed8ce",
+    "documento": "Cartera OGP abril2023",
+    "pagina_pdf": 47,
+    "fila": "ODATA",
+    "inversion_MMUS": 217,
+    "etapa": "Operación",
+    "columna": "Fecha inicio operación",
+    "fecha_reportada": "2022-10",
+    "precision": "mensual",
+    "discrepa_con_SMA_20220801": true,
+    "mera_actualizacion_administrativa_acreditada": false,
+    "mismo_hito_y_fase_acreditados": false,
+    "fecha_causal_habilitada": false,
+    "regla": "Resolver definición, alcance y fase antes de nuevos outcomes; si corresponde al mismo evento y sigue incierto, registrar intervalo/transición y sensibilidades previas completas. No elegir por resultado ni inventar un día de octubre."
+  },
+  "suministro_Adenda2020": {
+    "fuente_relativa": "../entrada/fuentes/SEA_Adenda20201001.pdf",
+    "sha256": "e51fe8128cae0f4fe937e0626cab3baa8d8d73d53e8260cc73723ac044d14e1e",
+    "localizador": "PDFp7, respuesta6",
+    "fuentes_previstas": [
+      "Distribución pública para ST01",
+      "Línea dedicada23kVdesdeS/ELampa para campus completo"
+    ],
+    "elimina_distribucion_publica_Batuco": false,
+    "vigencia_2022_demostrada": false,
+    "ninguna_ruta_adjudicada_por_defecto": true
+  }
+}

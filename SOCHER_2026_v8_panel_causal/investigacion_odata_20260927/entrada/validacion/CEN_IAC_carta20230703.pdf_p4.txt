@@ -1,0 +1,60 @@
+ 
+Av. Parque Isidora N°1061, Pudahuel, Santiago de Chile. Teléfono: (+562) 2424 6300 
+www.coordinador.cl 
+Anexo 1 
+Condiciones de aprobación de la Solicitud de Autorización de Conexión 
+Conforme lo establecen, tanto el Artículo 79° de la Ley General de Servicios Eléctricos como 
+el Artículo 24° del Reglamento de los Sistemas de Transmisión y de la Planificación de la 
+Transmisión, el Coordinador Eléctrico Nacional Aprueba de Solución de Conexión del 
+proyecto Odata Datacenter ST01, sujeto al cumplimiento de las siguientes condiciones: 
+Punto de conexión 
+aprobado 
+El punto de conexión aprobado para la conexión del proyecto 
+corresponde al nuevo paño J9 con tecnología GIS en la S/E 
+Nueva Lampa 220 kV. 
+Requisitos técnicos 
+mínimos de la solución 
+de conexión 
+Los resultados de la revisión del diseño conceptual del Proyecto 
+se encuentran contenidos en el documento 2 305-DEN-RIC-
+PR2129-V1.pdf disponible en el Anexo 8.4. 
+ 
+La empresa solicitante deberá desarrollar las etapas de 
+ingeniería posteriores a la aprobación de la SAC dando 
+cumplimiento a la normativa vigente, entre otras, a la Norma 
+Técnica de Seguridad y Calidad del Servicio (NT SyCS) y al 
+Anexo Técnico: Exigencias Mínimas de Diseño de Instalaciones 
+de Transmisión, lo que será verificado al iniciar el proceso de 
+conexión del proyecto. 
+Condiciones de 
+conexión 
+Durante el proceso definido en el Anexo Técnico “Requisitos 
+Técnicos Mínimos de Instalaciones que se Interconectan al SI”, 
+el Solicitante deberá: 
+ 
+a) Atender las consideraciones y comentarios señalados 
+en el documento 2305-DEN-RIC-PR2129-V1.pdf 
+disponible en Anexo 8.4. 
+ 
+Ampliaciones, 
+adecuaciones, 
+modificaciones y 
+refuerzos 
+Conforme a lo indicado por el Solicitante y el Propietario no se 
+requiere realizar obras de ampliación, adecuaciones, 
+modificaciones y refuerzos para la conexión del Proyecto. 
+ 
+Las obras a las que se refiere el artículo 31° del Reglamento y 
+que serán de cargo y responsabilidad de la empresa solicitante 
+corresponden a las siguientes: 
+ 
+• Construcción de una media diagonal en 220 kV con 
+tecnología GIS, para la habilitación del paño J9. 
+• Instalación de un transformador de poder 220/23 kV 
+(30/40/50 MVA). 
+• Construcción de una sala de celda 23 kV desde donde se 
+proyectan dos circuitos de 23 kV que se conectaran al 
+Datacenter.  
+• Instalación de mufas. 
+• Instalación de desconectador trifásico. 
+• Instalación de transformadores de corriente. 

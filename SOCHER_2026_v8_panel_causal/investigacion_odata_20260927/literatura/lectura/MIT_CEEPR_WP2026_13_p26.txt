@@ -1,0 +1,32 @@
+tion is not directly testable, we assess its plausibility from the dynamic pattern of effects in
+the years leading up to data center activation. The pre-treatment event-study coefficients
+(ATT(e) for e<− 1) are small and statistically indistinguishable from zero across all main
+outcomes, indicating no meaningful differential trends between treated and never-treated
+pairs prior to the first large data center activation.
+SUTV A.Another threat to our DID design is a potential violation of SUTVA. The entry
+of a data center in one service territory may affect how the utility allocates costs and sets
+rates for customers in its other service territories. To partially mitigate this concern, we
+conduct the analysis at the utility-state level. The networked structure of the electricity
+grid, however, generates two further spillover channels.
+First, in regions with wholesale markets, data center entry might raise wholesale prices,
+which can ultimately pass through to retail rates. Because multiple utilities participate in
+the same wholesale market, the control group is exposed to the same price shock at the
+wholesale market level. This is not a first-order concern for our analysis, though, since this
+would mean that our estimated treatment effect is likely attenuated, if anything.
+Second, utilities that operate in multiple states but receive data centers in only a subset
+of those states may allocate the resulting infrastructure costs beyond the states of direct
+entry—particularly transmission costs allocated through FERC-approved regional tariffs. 20
+A utility-state pair without data-center entry is therefore a problematic control if the same
+utility experiences data-center entry in another state, because cost allocation across states
+implies the “control” pair is in fact partially treated. In our sample, only 14 of 112 utilities
+are exposed to this channel. As a robustness check, we exclude from the control group any
+utility-state pair without data-center entry whose utility experiences data-center entry in a
+different state; our baseline price estimates are essentially unchanged.
+6 Main Results
+6.1 Retail Prices and Customer Class Incidence
+We begin by examining the average effect of data center entry on retail electricity prices.
+Figure 2 presents event study estimates tracing the evolution of electricity rates before and
+after initial data center activation, and Table 2 reports corresponding average treatment
+20Cross-state cost allocation is governed by FERC’s regional transmission planning rules (Orders 1000 and
+1920) and, for shared corporate costs at multi-state holding companies, by 18 CFR Part 367.
+23

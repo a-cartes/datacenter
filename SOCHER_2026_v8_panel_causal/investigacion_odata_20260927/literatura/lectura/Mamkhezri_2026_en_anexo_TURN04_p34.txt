@@ -1,0 +1,32 @@
+the share of census tracts within each bin. Adequate common support requires similar
+distributions across treated and untreated tracts. As shown in the figure, both groups present
+right-skewed distributions, though untreated tracts are considerably more concentrated at
+very low propensity scores. In addition, one treated tract has a propensity score that exceeds
+the support of the untreated group.
+Using the estimated propensity scores, we implementk−nearest neighbor (kNN) match-
+ing with replacement, matching each treated tract to its ten nearest untreated neighbors
+(10NN). This process pairs treated tracts with similar untreated tracts based on observed
+pre-treatment characteristics, restricting the sample to comparable units.
+Appendix FigureA.3b presents the distribution of propensity scores after matching. The
+distributions of treated and untreated tracts become substantially more comparable, and the
+treated tract outside common support is excluded from the matched sample.5
+Table1 columns 3-4 report the summary statistics of census tracts with and without data
+centers after matching. Differences in demographic characteristics are substantially reduced
+andnolongerstatisticallysignificantaftermatching. Incontrast, differencesinLMPspersist:
+treated tracts have higher average inefficient pricing ($5.34 vs. $3.62 per MWh).
+5.2 Second Stage: Staggered Difference-in-Differences Models
+In the second stage, we estimate the impact of data center entry on transmission-related
+price distortions using a staggered difference-in-differences design. The specification is:
+Yit =α+βDCit +γi +ωt +ϵit, (3)
+where Yit denotes inefficient pricing, defined as the combination of congestion and marginal
+loss components of LMP in census tracti and yeart. The indicatorDCit equals one for tract
+i in all yearst at or after its first data center entry and zero otherwise. The model includes
+tractfixedeffects γi andyearfixedeffects ωt. Becausepropensityscorematchingisconducted
+with replacement, some untreated census tracts may appear multiple times in the matched
+sample. To account for this, we weight each observation by the inverse of the number
+of times a tract appears in the matched dataset. Identification relies on variation in the
+congestion and marginal loss components, which reflect spatial price distortions associated
+with transmission constraints. Standard errors are clustered at the census tract level.
+5Appendix FigureA.4 shows the locations of the treated and untreated census tracts after matching.
+11
+19

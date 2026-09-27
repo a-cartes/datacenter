@@ -1,7 +1,7 @@
 {
   "estado": "OK",
   "carpeta_canonica": "SOCHER_2026_v8_panel_causal",
-  "copias_verificadas": 328,
+  "copias_verificadas": 538,
   "csv_diario_recuperado_sha256": "0fe7976c91a61f8b4e8af35b94b6d7d4608e172c5b6518248ddb20ea1e737d73",
   "omitidos_regenerables": [
     "panel/panel_diario.csv",
@@ -22,18 +22,18 @@
   "archivos": [
     {
       "ruta": "README.md",
-      "bytes": 5075,
-      "sha256": "b0f7909763f2ff05bd8057d655457464060b5960f0e999cf21debafefb6105c2"
+      "bytes": 5777,
+      "sha256": "bfed21a8f4c5f810ce2e1157c17c1b72b0dda4fcef48ace9eb976ed632197f43"
     },
     {
       "ruta": "documentos/bibliografia_verificada.md",
-      "bytes": 5495,
-      "sha256": "ba15eb2a396135839632169a8cfe9affa576a37085d62c2e4ee3f5604f6ee9a3"
+      "bytes": 6218,
+      "sha256": "da426dc4ca2ab537ac7b6a9da3209f4d6a4b6e7b2e82159d2b6e89fafd31f1ac"
     },
     {
       "ruta": "documentos/manuscrito_v8.md",
-      "bytes": 39767,
-      "sha256": "ec0d51ac4344e531495b7dee4e07672f93e547c39df7ca1298092b79f192a2aa"
+      "bytes": 43150,
+      "sha256": "c0066795117696fa628644c011750fd4c6de5af0b52fd5bdcaeb647a8f9b6083"
     },
     {
       "ruta": "documentos/protocolo_config.json",
@@ -1494,6 +1494,1056 @@
       "ruta": "investigacion_e53_20260927/mediciones/verificacion_tabular.json",
       "bytes": 425,
       "sha256": "3a552b7aea1e2dd183bb1b3daeb66b6e20dcc85824dc51fdbaf088bd77d4fd84"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/README.md",
+      "bytes": 7764,
+      "sha256": "b8b761abf380a85cab85b909f98f9c6a62bf2b4824a6f6d6b95d8f5af19e82e8"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/actualizacion_fecha_SNIFA.md",
+      "bytes": 8856,
+      "sha256": "c72df25b6ca6a39778064dc2740185c2cc7db7676430e820d6c8e6d62b57008e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/busqueda_concurrencias_focalizada.csv",
+      "bytes": 837,
+      "sha256": "a1787f932adb3963995835db1f36b05d371557be605d760adc4bbf6de1c9e66b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/calendario_ventana_operacion_declarada_20220801.csv",
+      "bytes": 10773,
+      "sha256": "4e6857f110bda81121f6747d0f777e6e330697f5ed7d587a0ca3e825fb78fd51"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/catalogo_diseno.csv",
+      "bytes": 2401,
+      "sha256": "ad5a83418d7242fdd88d5987c66ffd21ce2e497ccf7437c4e4b1755a8ab94808"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/decision_diseno.json",
+      "bytes": 4423,
+      "sha256": "3097ed0c6fc8cf4fb3efd08a74ee6a6edb153eb3b28c760ae1f48f81475d6810"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/descargar_fuentes.py",
+      "bytes": 2309,
+      "sha256": "5ff39188c98af8bc60d86cecf5d8ee28f8b92d6202e9ed28b8bbda75365c2b71"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/CEN_EAF013_2021.pdf",
+      "bytes": 3012514,
+      "sha256": "fa49ba47aa4e878aee72dbb3c61f187938028f4b344fd8da7f2911d90597f1c1"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/CEN_EAF067_2021.pdf",
+      "bytes": 5434842,
+      "sha256": "dd838d8e6007aa04b04a90effa35963d414d00220e56da0a0e29c6bd15605cc9"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/CEN_revision_Lampa_2025.pdf",
+      "bytes": 222186,
+      "sha256": "15214f86a52a90d8a925ef6b099735b53b8bb3b179dc9210369da823ac878a9e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/CEN_solicitudes_junio2020.pdf",
+      "bytes": 349799,
+      "sha256": "b77b5dfa5f150192f4d66f449d8831df13d3e49f694674a6f381c3a62320d045"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/CNE_ITP_expansion2022.pdf",
+      "bytes": 6688132,
+      "sha256": "2c6880d19a088d302e00e7fbd3cf4ca93f1a0478fbc3983a9e7a9ec83065f364"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/CNE_dc_mayo2025.pdf",
+      "bytes": 341523,
+      "sha256": "b6f87e929a3905a7bf8a86273f87b3e2168747421f918eb97587e357e0a742c3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/lobby_ODATA_obras_20220721.html",
+      "bytes": 28184,
+      "sha256": "2ee5cc52cb4434cdeab142c0e2e17653414f7bdfabcb536f1afba2385f6b73c6"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/fuentes/manifest.json",
+      "bytes": 3436,
+      "sha256": "7e3bbbaf140eaddffdfc794dd9a47c551f4788613b69a0908177abafbaede7cd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/memo_identificacion.md",
+      "bytes": 12951,
+      "sha256": "cee5bc49abfb6cc9d233b3b01f6de4485144fc6c12b1c4a838813c00ef638b1e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CEN_EAF013_2021.txt",
+      "bytes": 454801,
+      "sha256": "51e87fcd9a9b98e02a1fee5bde0a68d605748f53456815584b7a255b9e8027a4"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CEN_EAF067_2021.txt",
+      "bytes": 450254,
+      "sha256": "dd6fcadf00f4323c311267517814f971ed45483ba68f2e7314d745434fb75844"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CEN_revision_Lampa_2025.txt",
+      "bytes": 5588,
+      "sha256": "26d6a574e1e761f36feff61848dc6c2525d2d1f7a2cce9614f016ae51e2cfcdc"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CEN_solicitudes_junio2020.txt",
+      "bytes": 36231,
+      "sha256": "cafbf020848ef4628a161308f7a12e501d7356cd7c749886558177cd59cb59bd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CNE220-12.png",
+      "bytes": 143844,
+      "sha256": "f3e44bb76558e7253a7769fbf347ca7491ec3ff5a38f4c7c52ed343bc97023a2"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CNE220-13.png",
+      "bytes": 108881,
+      "sha256": "14f4132aad86fc266be2aabc10dfb572cdc875b4455709c5fa8bb668f8fe12f7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CNE220-14.png",
+      "bytes": 131006,
+      "sha256": "8e5944db0b1fd67caeb8f94ab96bd9f15be11759bf666d66e48263a5f38536ac"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CNE_ITP_expansion2022.txt",
+      "bytes": 532863,
+      "sha256": "9cf543e74cc06a42ffa4fda69c0d9d32cf108ef7d20e5d1874a5398812ab2864"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/CNE_dc_mayo2025.txt",
+      "bytes": 38049,
+      "sha256": "5936dc0b88aecb2d5e501c13ed0d0ba0d50905cde2e15ae9418391d3a032a8d5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/EAF067-06.png",
+      "bytes": 244073,
+      "sha256": "5b1c007ac36d52b0cf1417ddae04d8012e2eb7604ad78f8f8b88eccd836161d5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/EAF067-07.png",
+      "bytes": 217700,
+      "sha256": "3837c21ab15066f6811f01eedacff3a5fc3f0dedc7333b873e7809a195f85f41"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/revisionLampa-2.png",
+      "bytes": 224581,
+      "sha256": "8b47672048d0a00e23419393afaf63be596bb6893567e338b4847f7f7f2fcee6"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/diseno/validacion/verificacion_fuentes.json",
+      "bytes": 478,
+      "sha256": "b002909b2bf45ca2484f3896b6c583824d98060b68a0e72cbfcae2e388f1d1c3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/bitacora_busqueda.md",
+      "bytes": 3201,
+      "sha256": "e1b5a6c038f1a86a118392f09ee12ac48fdaac1c82cd669e99e0d01ee3093910"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/catalogo_fuentes_entrada.json",
+      "bytes": 3210,
+      "sha256": "0ec0f58deda7bb6edc7ab8bac6e76a8a16fb24e1ff05180823b9418de4885a5c"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/cronologia_entrada_odata.json",
+      "bytes": 3543,
+      "sha256": "4ffa176a99b41a4c911683057140198bd242c41669c15b5658e7fe7c70be6706"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/descargar_fuentes.py",
+      "bytes": 1430,
+      "sha256": "2f3286849a954184707d2738ff91746f401dcec06dd02b465b3fc566bbc79f1f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/CEN_EAF318_2025.pdf",
+      "bytes": 9338594,
+      "sha256": "79d44ded801d8fd4371e218ccea3d065f3976210eff5d023ac1a1907a2b1ce70"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/CEN_IAC_anexo20230703_0",
+      "bytes": 471678,
+      "sha256": "e0434aa3a6ee85d755d92cba901f167c1a9a4c6f7b711310155be70af52d4402"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/CEN_IAC_carta20230703.pdf",
+      "bytes": 205884,
+      "sha256": "9e43b4f037a822e5dacb2315a82fa8bc294d49f22c493b0134afd208838d3f69"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/ODATA_DIA_2020_pagina.html",
+      "bytes": 114643,
+      "sha256": "5897e5ced0173072a64b27202272fa20b3b70f5a6d3c5cb13da9df1522b81547"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/ODATA_pertinencia20231026.html",
+      "bytes": 13808,
+      "sha256": "3b1e369446b2f5e42a76e4c2e803d4b19ef4d3ab283d169e83a728c7ae9712b2"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/OGP_cartera_abril2023.pdf",
+      "bytes": 15602799,
+      "sha256": "58a4ffb5b226205077b814e7e1b2088d016957feef4d619427380cff107ed8ce"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/RCA098_2021.pdf",
+      "bytes": 19181353,
+      "sha256": "55471d508cba842e3c4c4d0059b8de56fe0df5ed1787c21097bd8cb55766546b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SEA_Adenda20201001.pdf",
+      "bytes": 4275089,
+      "sha256": "e51fe8128cae0f4fe937e0626cab3baa8d8d73d53e8260cc73723ac044d14e1e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SEA_DIA2020_Cap1.pdf",
+      "bytes": 4604779,
+      "sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SEA_pertinencia20231026_CdP.pdf",
+      "bytes": 1663908,
+      "sha256": "7d70a4f386d246bff08e900105154deeba6a29d4074afc910782d06989dc67bc"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+      "bytes": 220519,
+      "sha256": "cc94aca016d23dc708c6ccdd20e85c3d262ecf9863174bb8037f73cdeeba80f4"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SMA_carta_inicio_redireccion_SPA.html",
+      "bytes": 872,
+      "sha256": "92f395043648df68941d1f5c224979cc23290038a674cc05a39d65b8a770f8f0"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SMA_comprobante_inicio_operacion_20220818_original.pdf",
+      "bytes": 95496,
+      "sha256": "458bebd6273ce8b463b9436007dc772a6cb6edc696856c803cd2b1b4f8cde8ee"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SMA_comprobante_inicio_redireccion_SPA.html",
+      "bytes": 872,
+      "sha256": "92f395043648df68941d1f5c224979cc23290038a674cc05a39d65b8a770f8f0"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_1005711.html",
+      "bytes": 29962,
+      "sha256": "5103bac98c8368e3d490c52f4d7ebc15a93fe1687edecbe7a5d79c6e70bb6134"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_1009005.html",
+      "bytes": 49466,
+      "sha256": "45564f494801d2960d35de5d19c7f6e4fda16e98707db9d073048e92766b8af5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_1035289.html",
+      "bytes": 30011,
+      "sha256": "6ad86d50925d6cce0f419ca9edc3e5b9023ace4c14fd19ea7210295958660690"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_1046276.html",
+      "bytes": 30043,
+      "sha256": "9471fc972107e172ad481f80846fdc87e23e6b5ed2b824e91eb12d050acb1db1"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_110885.html",
+      "bytes": 29360,
+      "sha256": "aeacb5ac1f9b3f9bb703cba7ee08f3e481d93b9db474406d763576611bfbf19e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_110886.html",
+      "bytes": 29208,
+      "sha256": "ae176ad6e66f139c58d334ab1496e606906fa02ce635b9013e19d97323f413cd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_113446.html",
+      "bytes": 30248,
+      "sha256": "68b08a264cf10ba774f8d722fa37b884014fa62a2ca6049ff6352a5a9da83a96"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_113447.html",
+      "bytes": 29254,
+      "sha256": "523ea0610906b3adeefdc7a9e15c0e2a5c8279fa2a295759718a7f6551c73f01"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_ODATA_LAMPA_UF20619.html",
+      "bytes": 40350,
+      "sha256": "1dc42808b446d2f96c66a4f3d54be93316d2d461e34aee6ec39c7148e1b99543"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_ODATA_resultado.html",
+      "bytes": 78629,
+      "sha256": "48958e7312e5df7a79ddbf06eea0364a392f12d2b3cc8048e5bbc75ab3880c92"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_ODATA_resultado.json",
+      "bytes": 246,
+      "sha256": "803673a301a8d7ca2204ada64d73736dd11b0caca14699a12765c495150d4a91"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SNIFA_UnidadFiscalizable_busqueda.html",
+      "bytes": 66450,
+      "sha256": "c1d848dcb8c236dce843684786cd9d11640995b127d871dbcf5928eb62c4b5c5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SSA_descarga_chunk4.js",
+      "bytes": 2090,
+      "sha256": "0ca3362a7fab6ab4ca27de4192ea04f070df5549075601e7479e076e735a536f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SSA_documento_1021717.json",
+      "bytes": 465,
+      "sha256": "4d0c582259184cb12b6ff02dce6fe3feeb60cc800f1bc015ab4270649973183c"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SSA_documento_1021718.json",
+      "bytes": 607,
+      "sha256": "c5d81f6968540c51999fe71011004347e7b6c690dd57a12ce26f8c5f321d53a3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SSA_manifest.js",
+      "bytes": 2986,
+      "sha256": "2bcdbfe6155325a412ea9ffa44c68c75590c89b6db736913fa0448a24dba8598"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SSA_public_app.js",
+      "bytes": 158819,
+      "sha256": "972f0bbc57bdca2134d33f83beea4b2c32d9a5396dbcec0e924d7ef51d8db705"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/SSA_shared_chunk0.js",
+      "bytes": 210237,
+      "sha256": "dd8a4b2b74737d7632a66b869323305aa7d9e35692875e6fa8768645b6763971"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/manifest_SMA_PDF.json",
+      "bytes": 856,
+      "sha256": "a2047ed0416864de0c2b1a6ac833ee49621c5a5990ad3545ffe67a57bd8df99d"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes/manifest_descarga.json",
+      "bytes": 12276,
+      "sha256": "3f304bac17ec1bcfe364ad2f79b1a573713c8b17dfe754474e397d2433439c2d"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/fuentes_seleccionadas.json",
+      "bytes": 3594,
+      "sha256": "af5fa4d34a6a91aa2830367599bcbd6a066a7e49b344995b22ca656a09c70dd0"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/memo_entrada_odata.md",
+      "bytes": 12845,
+      "sha256": "05fba7660d0c6a26de2f83e52a63b4ea0db47848d2070b2d5947a8f1e428a824"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/preparar_evidencia.py",
+      "bytes": 2728,
+      "sha256": "728ff2a56eebb337e8174a85c4abea5ddf9400365171d9f7323804427a18bfc6"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_EAF318_2025.pdf_p114.png",
+      "bytes": 98684,
+      "sha256": "f1b0db0a3890a3bcb804160b289da309bebc8bcc819ffbeacd05b2c8f331ca9b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_EAF318_2025.pdf_p114.txt",
+      "bytes": 7200,
+      "sha256": "9c2d723c03f30a628fe52e974d799c4b43f4a35ed4222628d768ea8ad7e94ade"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_IAC_anexo20230703_0_p4.png",
+      "bytes": 168111,
+      "sha256": "7d36ed5d0cada2988f08e4b523c44d0b2084ebaf2c259b3809c8681313763d1a"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_IAC_anexo20230703_0_p4.txt",
+      "bytes": 1982,
+      "sha256": "6bc98c904b7d2c6336f9331c4704a5d78838ecd810fae4d427773ffd63977f04"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_IAC_carta20230703.pdf_p1.png",
+      "bytes": 182044,
+      "sha256": "b21e6b0cca2001cda1fac15ac1ae1b71c775b6dbe6b144cc1ed90d09ab4d35e3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_IAC_carta20230703.pdf_p1.txt",
+      "bytes": 1620,
+      "sha256": "f73e43702af15ce7cc1c88e0ad3da6d4c5c4a2066f69027ea80254f7204286d8"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_IAC_carta20230703.pdf_p4.png",
+      "bytes": 253186,
+      "sha256": "f31dbacd169d43fe631f75fbc9e171f2a0cc5fc0582416e27c3c91ea5aeed15d"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/CEN_IAC_carta20230703.pdf_p4.txt",
+      "bytes": 2521,
+      "sha256": "3a1292acd87c1c6337ec30efbe4b76e74913b660102d971445739b9c86be8c53"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/ODATA_DIA_2020_pagina.html.txt",
+      "bytes": 10399,
+      "sha256": "2a60eaa34784a795c6c86803d9e3afbc62af1f7f16d7d6584616254f1f6db2cd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/ODATA_pertinencia20231026.html.txt",
+      "bytes": 7190,
+      "sha256": "7fac09bfc96e436e371bdffab7b5fc0b68c91e1a594741fea4eb39b13fdbde00"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/OGP_cartera_abril2023.pdf_p47.png",
+      "bytes": 374587,
+      "sha256": "e5c6ac5766a33cf0ed1cc5762ecdc1dbc4dce8fd31dd8e77d4c12cadb3bbf39f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/OGP_cartera_abril2023.pdf_p47.txt",
+      "bytes": 5155,
+      "sha256": "69b659a67d7f8d46a73e956a07ffa45b212305817c54a4a2cadf38a144bc05a3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/RCA098_2021.pdf_p1.png",
+      "bytes": 526210,
+      "sha256": "c5a5e73645ba30f9852a766974a8dc045c1cbbfd80842dee7c28e293b63e92c2"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/RCA098_2021.pdf_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_Adenda20201001.pdf_p7.png",
+      "bytes": 268091,
+      "sha256": "4caeeb7c5e19716798030e32342629276abfa7233c56aec8c7406de4c0322642"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_Adenda20201001.pdf_p7.txt",
+      "bytes": 3707,
+      "sha256": "425ca56a3de677f2be7c6f55d5d7c3e0c4e3a8f8035bd57d2c618458b38bfdf9"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p10.png",
+      "bytes": 192191,
+      "sha256": "a192f0efa745375a8704ea80ebcb00965e618afd10c83d9afc8c5e4d75402cbd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p10.txt",
+      "bytes": 2444,
+      "sha256": "746cf19deba76e1031e594c9b6ab0a33ac5ebef9f465e907e00a6592ad2c6063"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p11.png",
+      "bytes": 247741,
+      "sha256": "db71a4d1548c4447f1ccb5e2eb9971f0f01c3c05a51dd6167489e813ce9a0f20"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p11.txt",
+      "bytes": 3263,
+      "sha256": "b786cbfdae6db8e6e08b4312b4941346755a2b4c26d0edb9eb8d1b617692387f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p31.png",
+      "bytes": 140944,
+      "sha256": "62701896dd09b5fe532fbee090e751a7988a0a214cb3a91b6f2583a4a2f875ba"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p31.txt",
+      "bytes": 1771,
+      "sha256": "818732ffc5e19458297246901611d1c3008e5d34a18a0a09247d920781fafb96"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p32.png",
+      "bytes": 343594,
+      "sha256": "f19a322d181b65312a3971a6c0f905d39e6d1bdbbdc6e7101406fc1db806c9fb"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p32.txt",
+      "bytes": 724,
+      "sha256": "a891e19ddd28d60791e232f6c7c91ffd31353257e295163328d2c3ae437f5e13"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p61.png",
+      "bytes": 220548,
+      "sha256": "e81f3ec54d5815857da2bbd7d94265bc8a915a9a80b673d1fee8c13ee70e6d58"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_DIA2020_Cap1.pdf_p61.txt",
+      "bytes": 2883,
+      "sha256": "c9f2007ffba9617a4b9028ae9725892cafc4854b827be5b6159fa452619e0fae"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_pertinencia20231026_CdP.pdf_p13.png",
+      "bytes": 198066,
+      "sha256": "d43caf2ce69e14009f9f619088e4b102c02ba636db8bf61a6a004ff11c1683ec"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_pertinencia20231026_CdP.pdf_p13.txt",
+      "bytes": 2433,
+      "sha256": "2ec4738df55edb513703a8b4ba118bf560edb54b581af325ef4db1cbb5057788"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_pertinencia20231026_CdP.pdf_p23.png",
+      "bytes": 312222,
+      "sha256": "9284ef3100781d474623c50f504c4b0bf1b93109a4cef95e71261e3da5808c81"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_pertinencia20231026_CdP.pdf_p23.txt",
+      "bytes": 167,
+      "sha256": "6f620e9eb8cdfdb13315cb184bb3e95e58ee365df368381e99fdef2001763d6e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_pertinencia20231026_CdP.pdf_p24.png",
+      "bytes": 207868,
+      "sha256": "0f079e4436312fe6bba5b30893e3e160d91aaf1dd30fee57b013c12fc6206f72"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SEA_pertinencia20231026_CdP.pdf_p24.txt",
+      "bytes": 2626,
+      "sha256": "b8a51759c8a8c660e0bb3a0801bc542271b021679f0f87832a5648c844f59e10"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf_p1.png",
+      "bytes": 166226,
+      "sha256": "1d26b24cccb82c373c0d87a1c4e1bed2a72f03eccba917e609c2d0c03831a38e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf_p1.txt",
+      "bytes": 1444,
+      "sha256": "2aeeb756b498cf6fdc40dd4a75b947fc1c6d24f6aa37a8710e90d7b20240f0db"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SMA_comprobante_inicio_operacion_20220818_original.pdf_p1.png",
+      "bytes": 158755,
+      "sha256": "dd1a71fb8c27ba83bd697b3ec4032890eb6532298554905d8d483d5da03825a1"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/SMA_comprobante_inicio_operacion_20220818_original.pdf_p1.txt",
+      "bytes": 1292,
+      "sha256": "7f4703f434610101843e86c525e3237c9c3f8e365c561429db0f57ed91a31c55"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/paginas_citadas.json",
+      "bytes": 4927,
+      "sha256": "3e231880df9208e0df604a76843de5db0079bb2eba75eff951642de8cbbc56fd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/entrada/validacion/verificacion_archivos.json",
+      "bytes": 409,
+      "sha256": "086e9cd5b8b6882443e26bf9d86b08ac90e1078ea519ac3077c5862253ca73de"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/README.md",
+      "bytes": 4544,
+      "sha256": "f3cb67e0332a1e27885db2eb58ceab4b5cf99f1754a8cf9601d01ef10dd980ef"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/fuentes/DallasFed_WP2606.pdf",
+      "bytes": 12960798,
+      "sha256": "3504b27b50baa360db666e6e8778ddc3b991311c51a3123e637b48ae69acb43b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/fuentes/MIT_CEEPR_WP2026_13.pdf",
+      "bytes": 4411748,
+      "sha256": "b90d17db3759dec4cffa5460cbf31b09d84099f2e51e1e319e6c4baab4465b5e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/fuentes/Mamkhezri_2026_en_anexo_TURN04.pdf",
+      "bytes": 7926520,
+      "sha256": "80548d0fe62f98d78c5553e246e7ac4b49c5f6027fed15213db34d8f1181bd04"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/fuentes/Watten_Bistline_Blanford_2026v1.pdf",
+      "bytes": 2050113,
+      "sha256": "447008bb03ac95da096c5d9c4d1ec23d6983b332f570a184e740f24d0c448b2b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/DallasFed_WP2606_p1.txt",
+      "bytes": 565,
+      "sha256": "024e3a4118e5e941e2c4357a5c9afd97969d8e9b633af9a2ca5267cc167eb5f9"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/DallasFed_WP2606_p14.txt",
+      "bytes": 2539,
+      "sha256": "03928a9638eef4131d284d837caac2079a25062ec9250240a090e35528a032d8"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/DallasFed_WP2606_p15.txt",
+      "bytes": 1564,
+      "sha256": "780973437a34175edba7a958aa0949ca68ef2cab1f176ab1fdc5cab6de9ede46"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/DallasFed_WP2606_p2.txt",
+      "bytes": 1856,
+      "sha256": "dfbbdb97ff2ab9f8d0a12af4030517057e1137df5fadbd2213178ab4f3494b53"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/DallasFed_WP2606_p3.txt",
+      "bytes": 2272,
+      "sha256": "d8033a629d27c6264674d57c0cd786666e0e3ba3cd5717ac35541d148653becc"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/MIT_CEEPR_WP2026_13_p1.txt",
+      "bytes": 172,
+      "sha256": "0807ccfc2c51bd4cf84370039704b6d3e07f73cb4f44653dbb5640d3571b1d44"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/MIT_CEEPR_WP2026_13_p23.txt",
+      "bytes": 2755,
+      "sha256": "80a026a7bf442375e3a53d95df798d8750c1c733e10a01325f983a58d7d34ba7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/MIT_CEEPR_WP2026_13_p24.txt",
+      "bytes": 2327,
+      "sha256": "23754f936d636bd32243659b8e22497bdecd81c10270983b17ed598318b67e39"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/MIT_CEEPR_WP2026_13_p25.txt",
+      "bytes": 2914,
+      "sha256": "e473358b3725e94c017d64f7914e7eac00bded6c5101b1521a3cd33d70daaa1e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/MIT_CEEPR_WP2026_13_p26.txt",
+      "bytes": 2656,
+      "sha256": "c8ba69d52ed7a32ae1c165040d79e2bac41ebee65e8ab6d37b3c0141b5ca5ca5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Mamkhezri_2026_en_anexo_TURN04_p24.txt",
+      "bytes": 2604,
+      "sha256": "1bf87f9478fcfd0ce2ff137129f7ea5c85659ba7163ab073ea5e5e8bf661bd03"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Mamkhezri_2026_en_anexo_TURN04_p34.txt",
+      "bytes": 2538,
+      "sha256": "145e7bd69d17786dcba482787d96dae47df931f0272a7305ba79f6c5a1bf3ce2"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Mamkhezri_2026_en_anexo_TURN04_p35.txt",
+      "bytes": 2646,
+      "sha256": "2b7ce3c7b76a7daad74bc4c4860d4e369acbf7b73d23b9d4434391a7b0a5877a"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Mamkhezri_2026_en_anexo_TURN04_p41.txt",
+      "bytes": 2717,
+      "sha256": "b6c8bba1bd106d50fdb4e550ac2367139c350ed3fd0cd68a62a32ef95e0f7520"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Watten_Bistline_Blanford_2026v1_p1.txt",
+      "bytes": 1509,
+      "sha256": "4721c78e536355221614c427e21cfcd21b0c632f259609cb4e64d105e7265304"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Watten_Bistline_Blanford_2026v1_p15.txt",
+      "bytes": 1958,
+      "sha256": "568dc6e7631dcec79cd9fbe66bdb2a8d2a0f6bf48a911e382510c7c9c096d1a7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Watten_Bistline_Blanford_2026v1_p16.txt",
+      "bytes": 1500,
+      "sha256": "e48e5e3ca76997cbd92bd3d195bfc3250fd26898261cdfec9ed7222fff3e5a27"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura/Watten_Bistline_Blanford_2026v1_p17.txt",
+      "bytes": 2085,
+      "sha256": "e17dc61aef4632db282841f64991720d9cb9473b52eab5cf039ccd163f61d1c6"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/lectura_localizadores.json",
+      "bytes": 666,
+      "sha256": "fed3c9634bc0f8e2e73eb1f287277b27ede885e3e5e89665b4bc5aae00462b47"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/manifest_fuentes.json",
+      "bytes": 1291,
+      "sha256": "487c97e635c2ed44bea9b19ef1f082c7ad7f06f2016236e50f008a86d2fcfcd7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/literatura/preservar_fuentes.py",
+      "bytes": 1727,
+      "sha256": "72e75b0f5adda444a90f7b3b95507f7ebe6376c6e1dfc61065a00087c2b27621"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/README_medicion_conexion.md",
+      "bytes": 11345,
+      "sha256": "8bc0dd968623d7753c8e223a56ca254f163da4ce526e1a6f9a431ff8316167ee"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/busqueda_empalme_2022.csv",
+      "bytes": 1397,
+      "sha256": "f64456b3c79d99527f5373675acdb7be8d7345935ee16c7604f7804df7ec1cb4"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/canales_odata_diarios.csv",
+      "bytes": 87688,
+      "sha256": "5cae773c19adc6d1a602f98fe9d2a8b5c704394bd98d63af97dad23a216a6ffa"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/catalogo_fuentes_medicion.csv",
+      "bytes": 3119,
+      "sha256": "af4c41be978f10f2448f980913faafd3040064eb091c3e96e17038852f3d8981"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/catalogo_sockets_lampa_odata.csv",
+      "bytes": 9924,
+      "sha256": "3b9c81af096e9cfbfb3a64eeddabdd4d00770c66f0049fd798119edf55188de7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/cobertura_canales_odata_mensual.csv",
+      "bytes": 14968,
+      "sha256": "09781257108834f84dbd9720c2166974192a2ecb29a4fb2953a8fdfba640b8d5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_678_documentos.json",
+      "bytes": 7667,
+      "sha256": "c69ab2c2adfd2e78899bd96f895583d98a6ffb76de600784e4f1e6b748376002"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_678_elementos.json",
+      "bytes": 150459,
+      "sha256": "6863fc4d7ce9cf4bf43622a0f9e3772d26da32e0db6d86b8a7a856be1311834c"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704/DU-BATUCO-110_23_12KV- LAM.01.pdf",
+      "bytes": 360723,
+      "sha256": "a6789282bf0ab2c2ff35723eddc260f8e7e9ff76e8d395a6999c94ab33c7c4ea"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704/DU-BATUCO-110_23_12KV- LAM.01.png",
+      "bytes": 1597054,
+      "sha256": "36871864bfeb3b7be812a68e6641227b732d37b9ff9641c7e0304c70d6d5752c"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704/DU-BATUCO-110_23_12KV- LAM.02.pdf",
+      "bytes": 340563,
+      "sha256": "2b97026b41fb5f21d306d4238474dc0a4c2f216b8b367f54bcbe917dd6de68ae"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704/DU-BATUCO-110_23_12KV- LAM.02.png",
+      "bytes": 1163318,
+      "sha256": "8c02b3dc731de9e5a88319b88c6bf7b97783ec2d49312876e5c17099bf93a6b3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704/detalle_batuco_alimentador22.png",
+      "bytes": 313751,
+      "sha256": "322c5ecf3b9ba200a55dec98f349fd3e2a31df3c8c82736dbd7073264e3d8be2"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704/detalle_batuco_transformador3.png",
+      "bytes": 135366,
+      "sha256": "a7f6abc049fabb9c5a09f1cc1ba5c41500b2da8d8b3ba563f47e7e7f8c71c5a5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_NUP3120_20220704.zip",
+      "bytes": 1106953,
+      "sha256": "e92663931d4160f653ead140143a818b13aaf0696131028285e526b14dc4efa5"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Batuco_DUF_manifest.json",
+      "bytes": 193,
+      "sha256": "df6d561b2286433fae8a8ff286243ee9189a89f0c90d407851d286b5625ee88d"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/GridEnergy_experiencia_202501.pdf",
+      "bytes": 624288,
+      "sha256": "fc5c95a23d523de499fb5c42f00b46422048f40559f3cd95d8240b9db754a32f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/GridEnergy_experiencia_202501.txt",
+      "bytes": 6288,
+      "sha256": "2d1e4876026ea56f04e69a2b7bc4900d637d0c9e63e398563774644de366e2bd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/GridEnergy_experiencia_manifest.json",
+      "bytes": 217,
+      "sha256": "a48b3d294b352b58155b0e0d70edb30d70593727a7b382a54e5a81b31472df78"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/GridEnergy_experiencia_p4.png",
+      "bytes": 220470,
+      "sha256": "c2cff0add4079aa90fe22b6d5f721942a832c0d465c7025986401553dfe19cf7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Informe_diario_20250706.pdf",
+      "bytes": 533837,
+      "sha256": "fb7fecfa31bda7a25e3078ed8f01e1530ce7b2177e78a8e1b459b6305e4d17dd"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Informe_diario_20250706.txt",
+      "bytes": 78669,
+      "sha256": "c27bb6e5e040d24a4d5f74cb4b5c289926873d43c4741c2cb7168f3c7c33de45"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Informe_diario_20250706_manifest.json",
+      "bytes": 197,
+      "sha256": "be5a0b6942c78b68264dc706262be3b4441e9c7f2f5aeae64cb86632b3d94df4"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Informe_diario_20250706_p24.png",
+      "bytes": 105688,
+      "sha256": "61d3476219e737601daf3ab7124d43322535e874b4d9e95a375eed09ff183a77"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008/DU-LAMPA-220_23KV.pdf",
+      "bytes": 196003,
+      "sha256": "29c73b3cf2f419a1e791dece974489bf79cd84e99122ee9b34300d28b3c36cab"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008/DU-LAMPA-220_23KV.png",
+      "bytes": 1416107,
+      "sha256": "2d27d0dc6d46502c31c31dc48b9e784b51532d892ad8245792236ce5b4942bf3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008/DU-LAMPA-220_23KV.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008/PLANTA-LAMPA-220_23KV.pdf",
+      "bytes": 274707,
+      "sha256": "2edb512f210f2cd3840551ee098f9a83826c22fc1f5921b3a3c27f75b6e11383"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008/PLANTA-LAMPA-220_23KV.png",
+      "bytes": 954648,
+      "sha256": "bb73b49df39812faedd64eb3df817e4fb4e262d09b30b30d3c56ea48b144f090"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008/PLANTA-LAMPA-220_23KV.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_AsBuilt_202008.zip",
+      "bytes": 7115577,
+      "sha256": "55789faec5598f59089a04a6752cc566e5838a1a227390fe234fa21bae370f4d"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808/CHI-19201-001-L_11.pdf",
+      "bytes": 627082,
+      "sha256": "7d662150b33a59d7f2f62fb53bdcbad6ecda5969c819e838f258fba44bcecc20"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808/CHI-19201-001-L_11.png",
+      "bytes": 1185125,
+      "sha256": "430519d352a718eb0d9a276692a89ade9b1ee035184dbf0cdb40662fdc7b7bbf"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808/CHI-19201-001-L_11.txt",
+      "bytes": 85,
+      "sha256": "42ebb4b7778bd2ee9cbffbd56a7602172eff43b27b6d8e439d71bf7fb0742349"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808/CHI-19201-002-L_11.pdf",
+      "bytes": 1025635,
+      "sha256": "bc8d15b75b2b5d37745bf2e12588a8f02cfb06f65cdd9a56549b5a2fdd8782ae"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808/CHI-19201-002-L_11.png",
+      "bytes": 2326928,
+      "sha256": "8cadc90d65c314297375c4e92ab95df7f0f4aa36df1037c09d96e6f0c00ea05a"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808/CHI-19201-002-L_11.txt",
+      "bytes": 123,
+      "sha256": "a1954b147e468c0a8e8f456d010270958435d9bf79f21f5c0e27490c7f8ced23"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/Lampa_DUF_NUP3266_20240808.zip",
+      "bytes": 3278190,
+      "sha256": "afd12d23a5d377896c868f8f653f8bac71cc92acbf574f2925f0ac23967e64ab"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/CHI-28840-001-NL_7.pdf",
+      "bytes": 1180909,
+      "sha256": "3d3d88baa77dfe6e5a1e26014f1749868b48faa3163a8d7b59a99866a92bb676"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/CHI-28840-001-NL_7.png",
+      "bytes": 2864460,
+      "sha256": "b6cb3d12af75c9342a9c6a78e29a4ff31f7b8300cd5bddb76261131017cbf0a7"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/CHI-28840-001-NL_7.txt",
+      "bytes": 89,
+      "sha256": "a94daed62bedbf1bef3f784c58bf4f8cf69922d0eab01261b84c474884fed999"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/CHI-28840-002-NL_7.pdf",
+      "bytes": 876953,
+      "sha256": "8456ef378cd0bf5d1f46dbdc5618f755fb57a0470491af9b9e5c0230ec5ad16f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/CHI-28840-002-NL_7.png",
+      "bytes": 1823544,
+      "sha256": "40ff49fcb5fc6f1dfb0f0580b7385828a1cebb2599b84c928a672272634dce31"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/CHI-28840-002-NL_7.txt",
+      "bytes": 89,
+      "sha256": "a94daed62bedbf1bef3f784c58bf4f8cf69922d0eab01261b84c474884fed999"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/detalle_j9_destino_t5.png",
+      "bytes": 60095,
+      "sha256": "e333f043c79f6820697b0d578ade4779b8bad9465579fdfd9fc16dd25ba82b75"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808/detalle_leyenda_odata.png",
+      "bytes": 32471,
+      "sha256": "7e7def4bb0254557657020eedad369216f3cf4b629352f7e2fd09bb7558afcf0"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/NuevaLampa_DUF_NUP3266_20240808.zip",
+      "bytes": 3580439,
+      "sha256": "a7f3f121b516a5ef3e4280d2287e76f5ec20d8346120b706667ac429153ced4b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/lampa_documentos.json",
+      "bytes": 4921,
+      "sha256": "d58c551f8ed599db070c61327f2dea22d722ad3bac1e4791ce496ed866c81d05"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/lampa_elementos.json",
+      "bytes": 82059,
+      "sha256": "514ff86c963a3e9409853d2c681c40669c75184e5aaf06d1983ae812229cfd7b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/manifest_descargas_planos.json",
+      "bytes": 917,
+      "sha256": "068f088ba297696bc03b58365ba53019951597613b2ce6d3a28f4cf8c2e96e8c"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/medidores_busqueda_Lampa.json",
+      "bytes": 5976,
+      "sha256": "2b253b43b40d4a676ecb803b01f68da98b15560292c7350a714b7218c09c051d"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/nuevalampa_documentos.json",
+      "bytes": 6817,
+      "sha256": "c8d47701e290358e454906270daf12ead07bd9d00c2259d381088650de3f7a76"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/odata_medidores.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/odata_subestaciones.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/subestaciones_busqueda_Batuco.json",
+      "bytes": 430,
+      "sha256": "cef5d2c9066e2c972a2ad404fdc55e892909bd6ed85f965f9d0cd62fae185824"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/fuentes/subestaciones_busqueda_Lampa.json",
+      "bytes": 865,
+      "sha256": "2da7bffce71bed6353404d925f6219c2f902f32025c0e6f29b452696e28145d2"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/mapa_conexion.csv",
+      "bytes": 3899,
+      "sha256": "8204591bb855f6be04f55aaebb532a039215095aff42a94056758f9a13f2dd52"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/resumir_mediciones_odata.py",
+      "bytes": 5930,
+      "sha256": "4cff0db7b5b56050c0d658e4608c3b1d2833d478d283f84c7562db3cd42a1945"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/medicion/verificacion_mediciones.json",
+      "bytes": 12332,
+      "sha256": "b5dbb75ed00fba912cb61fef48d352668f2bea1040aac7788ffbd476391b6b35"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/precios_batuco/README.md",
+      "bytes": 2545,
+      "sha256": "8b636b7a71ff8aef5dc9043a72f7dacb4d22e1f93968e4650704da85b9d6e980"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/precios_batuco/soporte_diario_etiquetas.csv",
+      "bytes": 89966,
+      "sha256": "d22ab62dd0ad9390cf8805f52d97e76c7f571656852c474e8c93313462ab6acc"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/precios_batuco/validacion_pares_comunes.json",
+      "bytes": 360,
+      "sha256": "8ef60fface49f3eae02ec744e6078f3e50bb448c5fb408b92fa225853149f612"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/precios_batuco/verificacion_soporte.json",
+      "bytes": 6861,
+      "sha256": "391a40a669fee189f53e16d15a2b24f0b06b27620f1494551d0e20ca0a412304"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/precios_batuco/verificar_soporte.py",
+      "bytes": 5527,
+      "sha256": "19d6a6a9dfaad99726feab9a3eebf3ca1c589ae30f5ae21d41cbf857623a882e"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/README.md",
+      "bytes": 1728,
+      "sha256": "2f66d67e2fef181f8745754b5ff04aed8cabc7d615114c33c3d83ca1d1f23b26"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/fuentes/CEN_DE04070_20250704.pdf",
+      "bytes": 248842,
+      "sha256": "a410a8cc56bec975a779cfffde00642a23dd307c734eca05c21977acd8cfe358"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/fuentes/CEN_Solution2_IAC_20250704.pdf",
+      "bytes": 500153,
+      "sha256": "6247af6d024347c2bb6da84106fa0760aef470af4e50f14ccdbbd01e7fd8408b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/lectura/CEN_DE04070_20250704.pdf_p1.txt",
+      "bytes": 1643,
+      "sha256": "574a82e7e5498ce5fe1ce4b24216c56c7383fef85d13b72bfc397a68ad64220b"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/lectura/CEN_Solution2_IAC_20250704.pdf_p1.txt",
+      "bytes": 305,
+      "sha256": "4eaceba936ec03c5484946359df8bfc81b02aab8a80fe43ce6ef9dbad15d8c3f"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/lectura/CEN_Solution2_IAC_20250704.pdf_p4.txt",
+      "bytes": 1359,
+      "sha256": "f3028f4020ecdabfba3cfa95acc6e27b815cc050348844df37768bfb399f7e55"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/lectura/CEN_Solution2_IAC_20250704.pdf_p5.txt",
+      "bytes": 2645,
+      "sha256": "1acae10d8f6166762d181fede8a2d9237f23070c516b8e71146db0fe346f63e3"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/lectura/CEN_Solution2_IAC_20250704.pdf_p7.txt",
+      "bytes": 2415,
+      "sha256": "b84da4bd884b5499ab9bb441fc803a6fd9dd138976804bc200d2bfb355cd8212"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/manifest_fuentes.json",
+      "bytes": 671,
+      "sha256": "4c700ae096bf1ddc64a0cc9c1c6c90b2c4e7b56bbdd3056f2c7c6c0347d01a2a"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_alto_jahuel/preservar_fuentes.py",
+      "bytes": 1055,
+      "sha256": "e9d39a5085aae94ca877805409aa2eb689ceb7ad61cc4620af97efa4df8c6320"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/revision_independiente/revision_alcance.md",
+      "bytes": 3671,
+      "sha256": "df03b440eb530cc334bc57de1fbebd9e1c6f4ad15f126446ed12fc2a70b065e1"
+    },
+    {
+      "ruta": "investigacion_odata_20260927/solicitud_antecedente_empalme.md",
+      "bytes": 2437,
+      "sha256": "b56879afa2424ea26e8bc833f08e8ebd208db894ab6f12ac5343db0c0037bc70"
     },
     {
       "ruta": "panel/LEEME_panel.md",

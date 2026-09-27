@@ -1,0 +1,30 @@
+that net exports between the various regions match observed net exports. In our no-data-center
+counterfactuals, we subtract the hourly assumed data center load from observed generation. Thus,
+we also fix transmission flows between regions to their observed levels, even in the counterfactual
+without data center demand. This implies that the marginal data center electron is always generated
+within the same region. In reality, if a neighboring region had cheaper generation available and
+transmission lines between regions were not at capacity, we would expect incremental data center
+load to be partially met by the neighboring region.
+These considerations motivate our use of eGRID subregions to define our geographic markets.
+EPA’s methodology for assigning plants to eGRID regions is intended to limit imports and exports
+within an aggregated area in order to produce regional emissions rates that reflect the electricity
+consumption within that geographic area. To the extent that the eGRID subregion boundaries
+successfully limit bias introduced by imports and exports, our main results can be interpreted as
+the additional costs, emissions, and price impacts of data center load. Because we fix historic trade
+flows, our model does not capture inter-regional re-dispatch that would occur in a no-data-center
+counterfactual. In that respect, our cost estimates will understate the true impacts of data center
+load. The direction of the bias on emissions and local price impacts is ambiguous. Changes to
+emissions depend on the regional generation mix. Local price impacts would be biased up in cases
+where a region is a net-importer and biased down for net-exporters.
+We then compute counterfactual dispatch under “no-data-center” counterfactual demand sce-
+narios. To do so, we subtract data center electricity demand from the measure of total conventional
+generator electricity demand used in the base case. We only observe capacities for existing data
+centers, not utilization rates, so we calculate total data center electricity demand under a number of
+alternative assumptions of utilization rates described in Section 2. For each “no-data-center” de-
+mand scenario, we solve the dispatch model for generator production levels,q −DC
+it , and wholesale
+prices,λ −DC
+rt , at each hour had there been no data center demand.
+The model is able to recover market outcomes accurately. In Appendix Figure A5, we show a
+plot of observed vs. simulated dispatch at the plant-hour level for a random subset of the sample.
+12

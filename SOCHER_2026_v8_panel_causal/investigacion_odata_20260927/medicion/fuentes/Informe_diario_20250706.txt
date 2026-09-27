@@ -1,0 +1,6404 @@
+INFORME DIARIO
+Domingo 06 de Julio del 2025
+
+1
+DESVIACIONES DE LA PROGRAMACION
+1
+.
+1
+. 
+Centrales
+Centrales
+Prog.
+Real
+Desv %
+Estado
+BESS Alfalfal VR1
+0.0
+0.0
+-
+DF
+BESS Alfalfal VR2
+112.2
+90.2
+-19.59 %
+LF
+BESS Andes
+-
+0.0
+-
+LF
+BESS Andes IV
+390.3
+522.2
++33.80 %
+LF
+BESS Andes Solar IIA
+159.7
+259.0
++62.18 %
+RO
+BESS Andes Solar IIB
+378.6
+490.5
++29.56 %
+LF
+BESS Andes Solar III
+-
+0.0
+-
+BESS Angamos
+-
+2.7
+GNP
+LF
+BESS Arica
+2.0
+2.0
++0.25 %
+BESS Capricornio
+156.9
+166.1
++5.86 %
+BESS Cochrane
+-
+0.0
+-
+LF
+BESS Coya
+337.1
+344.3
++2.14 %
+BESS Desierto de Atacama
+-
+0.0
+-
+P
+BESS Diego de Almagro Sur
+16.0
+35.1
++119.38 %
+BESS Don Humberto
+101.0
+102.0
++0.97 %
+RO
+BESS El Manzano
+120.0
+102.2
+-14.87 %
+BESS Fragata
+-
+0.0
+-
+BESS La Cabaña
+101.1
+96.1
+-4.89 %
+BESS María Elena
+60.6
+0.0
+-100.00 %
+BESS Nueva Imperial
+0.0
+2.7
+GNP
+BESS Nuevo Quillagua
+399.2
+374.1
+-6.30 %
+P
+BESS Nuevo Quillagua II
+0.0
+14.8
+GNP
+P
+BESS Punta Sierra
+2.8
+5.2
++83.35 %
+BESS Salvador
+182.9
+156.3
+-14.55 %
+BESS San Andrés
+70.0
+118.2
++68.80 %
+BESS Tamaya
+288.8
+290.1
++0.43 %
+BESS Uribe Solar
+0.0
+2.1
++24247.99 %
+BESS del Desierto
+797.0
+876.8
++10.02 %
+CSP Cerro Dominador
+0.0
+0.0
+-
+DF
+GEO Cerro Pabellon
+360.0
+343.0
+-4.73 %
+RO
+HE Angostura
+1909.8
+330.0
+(*)
+ -82.72 %
+DF
+HE Antuco
+5247.6
+4482.3
+-14.58 %
+RO
+HE Canutillar
+3271.7
+2793.0
+-14.63 %
+HE Cipreses
+1290.6
+588.6
+-54.39 %
+MM, 
+LF
+HE Colbún
+590.4
+361.0
+-38.85 %
+RO
+HE El Toro
+8496.1
+7533.9
+-11.33 %
+RO
+HE Los Cóndores
+0.0
+0.0
+-
+RO
+HE Machicura
+288.0
+456.0
++58.33 %
+LF
+HE Pangue
+1320.0
+640.2
+-51.50 %
+RO
+HE Pehuenche
+3096.8
+3047.4
+-1.59 %
+RO
+HE Pilmaiquén
+816.0
+821.6
++0.68 %
+RO
+HE Ralco
+1140.3
+197.2
+-82.70 %
+RO
+Centrales
+Prog.
+Real
+Desv %
+Estado
+PMG HP Florida
+0.0
+0.0
+-
+PMG
+PMG HP Florida III
+55.2
+53.3
+-3.44 %
+PMG
+PMG HP Juncalito
+0.0
+0.0
+-
+PMG
+PMG HP La Confianza
+0.0
+0.0
+-
+PMG
+PMG HP Las Nieves
+0.0
+0.0
+-
+PMG
+PMG HP Llauquereo
+21.3
+37.8
++77.26 %
+PMG
+PMG HP MC1
+102.8
+96.3
+-6.38 %
+PMG
+PMG HP MC2
+32.9
+30.0
+-8.60 %
+PMG
+PMG HP MC3
+31.2
+33.6
++7.53 %
+PMG
+PMG HP Mariposas
+72.0
+66.2
+-8.06 %
+PMG
+PMG HP Nalcas
+81.6
+80.4
+-1.50 %
+PMG
+PMG HP Ojos de Agua
+119.7
+118.1
+-1.28 %
+PMG
+PMG HP Palacios
+0.0
+0.0
+-
+PMG
+PMG HP Piedras Negras
+42.0
+39.7
+-5.41 %
+PMG
+PMG HP Pulelfu
+143.0
+151.5
++5.92 %
+PMG
+PMG HP Punta del Viento
+53.2
+57.2
++7.53 %
+PMG
+PMG HP Renaico
+115.8
+125.8
++8.66 %
+PMG
+PMG HP Río Huasco
+0.0
+23.5
+-
+PMG
+PMG HP San Clemente
+0.0
+0.0
+-
+PMG
+PMG PE La Esperanza
+63.1
+155.7
++146.77 %
+PMG
+PMG PFV Alto del Sol
+39.2
+7.6
+-80.59 %
+PMG
+PMG PFV Antay
+49.5
+55.7
++12.53 %
+PMG
+PMG PFV Calderaza
+-
+0.0
+-
+PMG
+PMG PFV Caleu
+-
+0.0
+-
+PMG
+PMG PFV Caracas II
+50.5
+51.7
++2.42 %
+PMG
+PMG PFV Castilla
+9.9
+12.1
++22.42 %
+PMG
+PMG PFV Chercan
+44.6
+45.0
++0.96 %
+PMG
+PMG PFV De los Andes
+38.6
+9.9
+-74.24 %
+PMG
+PMG PFV Del Desierto
+39.1
+10.3
+-73.64 %
+PMG
+PMG PFV Don Oscar
+45.7
+47.2
++3.15 %
+PMG
+PMG PFV Emilia
+0.0
+0.0
+-
+PMG
+PMG PFV Espiga de Oro
+9.3
+0.0
+-100.00 %
+PMG
+PMG PFV Guindo Santo
+0.0
+0.0
+-
+PMG
+PMG PFV Llancay
+37.5
+29.9
+-20.20 %
+PMG
+PMG PFV Loma Los Colorados
+5.9
+3.8
+-35.66 %
+PMG, 
+P
+PMG PFV Lucas Solar
+42.9
+46.4
++8.26 %
+PMG
+PMG PFV Machicura
+25.5
+11.8
+-53.73 %
+PMG
+PMG PFV North West
+46.6
+56.1
++20.22 %
+PMG
+PMG PFV Palermo
+36.0
+26.7
+-25.78 %
+PMG
+PMG PFV Pataguilla
+31.4
+41.9
++33.56 %
+PMG
+PMG PFV Peumo Yungay
+0.0
+0.0
+-
+PMG
+PMG PFV Pilar Los Amarillos
+10.2
+11.5
++12.68 %
+PMG
+HE Rapel
+628.8
+1009.7
++60.59 %
+RO
+HP Abanico
+681.9
+679.2
+-0.39 %
+RO
+HP Alfalfal
+176.8
+298.4
++68.79 %
+RO
+HP Alfalfal 2
+0.0
+0.0
+-
+DF
+HP Ancoa
+28.8
+27.5
+-4.51 %
+HP Blanco
+0.0
+0.0
+-
+MM
+HP Capullo
+204.2
+210.9
++3.28 %
+HP Carilafquen
+72.0
+73.9
++2.58 %
+HP Chacabuquito
+186.6
+206.4
++10.61 %
+HP Chacayes
+1053.7
+664.4
+-36.95 %
+HP Chapiquina
+79.5
+80.8
++1.67 %
+HP Convento Viejo
+48.0
+53.1
++10.67 %
+MM
+HP Coya
+0.0
+0.0
+-
+HP Cumbres
+187.2
+214.8
++14.76 %
+HP Curillinque
+1471.4
+848.3
+-42.35 %
+HP Digua
+0.0
+0.0
+-
+HP El Paso
+129.0
+122.8
+-4.81 %
+HP El Pinar
+0.0
+0.0
+-
+P
+HP Florida II
+96.0
+56.1
+-41.56 %
+HP Guayacán
+123.9
+136.0
++9.78 %
+HP Hornitos
+232.5
+242.4
++4.26 %
+HP Isla
+966.4
+696.3
+-27.95 %
+HP Itata
+120.0
+197.3
++64.42 %
+RO
+HP Juncal
+154.3
+160.2
++3.82 %
+HP La Confluencia
+500.0
+448.3
+-10.34 %
+MM
+HP La Higuera
+725.0
+664.3
+-8.37 %
+HP La Mina
+0.0
+0.0
+-
+HP Laja I
+556.9
+476.5
+-14.44 %
+HP Las Lajas
+0.0
+0.0
+-
+HP Lican
+0.0
+0.0
+-
+MM
+HP Lircay
+216.0
+223.1
++3.29 %
+HP Loma Alta
+655.6
+310.0
+-52.72 %
+RO
+HP Los Hierros
+480.0
+524.2
++9.20 %
+RO
+HP Los Hierros II
+81.6
+82.7
++1.37 %
+HP Los Molles
+71.2
+69.7
+-2.17 %
+RO
+HP Los Quilos
+334.5
+370.1
++10.64 %
+HP Maitenes
+0.0
+0.0
+-
+DF
+HP Malalcahuello
+0.0
+45.8
+GNP
+HP Mampil
+238.0
+290.3
++21.97 %
+HP Mocho
+141.6
+193.1
++36.34 %
+HP Palmucho
+545.3
+548.0
++0.50 %
+HP Peuchen
+288.0
+332.3
++15.39 %
+DF
+HP Providencia
+168.0
+161.7
+-3.75 %
+HP Pullinque
+395.0
+449.0
++13.68 %
+HP Puntilla
+269.6
+234.4
+-13.06 %
+RO
+HP Queltehues
+0.0
+289.1
+GNP
+MM, 
+RO
+HP Quilleco
+919.9
+766.0
+-16.73 %
+HP Rio Picoiquen
+139.2
+357.2
++156.61 %
+HP Rucatayo
+941.0
+908.4
+-3.47 %
+HP Rucue
+2140.8
+2151.0
++0.48 %
+MM
+HP Río Colorado
+74.4
+95.0
++27.69 %
+Centrales
+Prog.
+Real
+Desv %
+Estado
+PMG PFV Piloto Cardones
+0.4
+0.0
+-100.00 %
+PMG
+PMG PFV Puerto Seco
+63.6
+64.9
++2.04 %
+PMG
+PMG PFV Quilmo
+34.1
+5.3
+-84.55 %
+PMG
+PMG PFV Raulí
+-
+0.0
+-
+PMG
+PMG PFV Rucasol
+43.8
+44.3
++1.16 %
+PMG
+PMG PFV SDGx01
+4.7
+0.0
+-100.00 %
+PMG, 
+DF
+PMG PFV Sol del Norte
+36.7
+10.3
+-71.93 %
+PMG
+PMG PFV Teno Solar
+10.2
+30.7
++200.69 %
+PMG
+PMG PFV Tutuvén
+0.0
+0.0
+-
+PMG
+PMG PFV Venezia
+12.2
+35.8
++194.24 %
+PMG
+PMG PFV Villa Longaví
+16.4
+9.9
+-39.51 %
+PMG
+PMG TER Aguas Blancas
+0.0
+0.0
+-
+PMG, 
+DF
+PMG TER CMPC Tissue
+-
+25.5
+-
+PMG
+PMG TER Calle Calle
+0.0
+0.0
+-
+PMG, 
+DF
+PMG TER Celco
+93.5
+99.8
++6.72 %
+PMG, 
+LF
+PMG TER Chiloé
+0.0
+0.0
+-
+PMG
+PMG TER Concón
+0.0
+0.0
+-
+PMG
+PMG TER Constitución
+3.4
+0.0
+-100.00 %
+PMG
+PMG TER El Totoral
+0.0
+0.0
+-
+PMG, 
+RO
+PMG TER Las Vegas
+0.0
+0.0
+-
+PMG, 
+DF
+PMG TER Licantén
+0.0
+0.0
+-
+PMG, 
+DF
+PMG TER Linares Norte
+0.0
+0.0
+-
+PMG
+PMG TER Maule
+0.0
+0.0
+-
+PMG
+PMG TER Placilla
+0.0
+0.0
+-
+PMG
+PMG TER Quintay
+0.0
+-
+-
+PMG
+PMG TER San Gregorio
+0.0
+0.0
+-
+PMG, 
+DF
+PMGD PFV EL TRIUNFO
+0.0
+0.0
+-
+TER Andes Generación Diésel
+0.0
+0.0
+-
+TER Angamos-ANG1
+5070.4
+5158.2
++1.73 %
+RO
+TER Angamos-ANG2
+5140.8
+5222.4
++1.59 %
+RO
+TER Antilhue
+0.0
+0.0
+-
+TER Arauco
+576.0
+0.0
+-100.00 %
+TER Arauco MAPA
+600.0
+929.8
++54.97 %
+P
+TER Arica-GMAR
+0.0
+0.0
+-
+TER Arica-M1AR
+0.0
+0.0
+-
+LF
+TER Arica-M2AR
+0.0
+0.0
+-
+TER Atacama 1 Diésel
+0.0
+0.0
+-
+LF
+TER Atacama 1 GNL
+4353.1
+3192.7
+(*)
+ -26.66 %
+TER Atacama 1 Gas Arg
+0.0
+0.0
+-
+TER Atacama 2 Diésel
+0.0
+0.0
+-
+TER Atacama 2 GNL
+1579.8
+1837.0
++16.28 %
+DF, 
+LF
+TER Atacama 2 Gas Arg
+0.0
+0.0
+-
+TER CBB Centro Diésel
+0.0
+0.0
+-
+LF
+TER CBB Centro FO6
+0.0
+0.0
+-
+TER CMPC Bucalemu
+123.0
+59.9
+-51.30 %
+TER CMPC Cordillera GNL
+0.0
+0.0
+-
+TER CMPC Cordillera Gas Arg
+0.0
+0.0
+-
+DF, 
+LF
+TER CMPC Laja
+556.0
+319.8
+-42.48 %
+TER CMPC Pacífico
+551.8
+447.4
+-18.93 %
+TER CMPC Santa Fe
+120.0
+219.9
++83.25 %
+TER Campiche
+6360.5
+6288.0
+-1.14 %
+Centrales
+Prog.
+Real
+Desv %
+Estado
+HP San Andres
+103.3
+67.2
+-34.95 %
+HP San Ignacio
+0.0
+0.0
+-
+DF
+HP Sauzal
+802.0
+595.6
+-25.74 %
+HP Sauzal 60 Hz
+-
+0.0
+-
+HP Sauzalito
+75.7
+0.0
+-100.00 %
+MM
+HP Volcán
+0.0
+108.4
+GNP
+RO
+PE ANTOFAGASTA
+1077.1
+297.3
+-72.40 %
+P
+PE Alena
+687.0
+1386.3
++101.79 %
+PE Atacama
+1453.4
+1132.5
+-22.08 %
+PE Aurora
+1289.2
+1089.7
+-15.47 %
+PE Cabo Leones 1
+863.7
+1258.2
++45.68 %
+PE Cabo Leones 2
+825.1
+1243.4
++50.70 %
+PE Cabo Leones 3
+1081.0
+1257.4
++16.32 %
+PE Calama
+636.6
+553.9
+-13.00 %
+PE Campo Lindo
+675.6
+1058.5
++56.68 %
+RO
+PE Canela
+20.4
+14.0
+-31.70 %
+PE Canela 2
+78.7
+27.5
+-65.05 %
+PE Cardonal
+190.2
+341.6
++79.59 %
+PE Cerro Tigre
+622.0
+335.6
+-46.04 %
+PE Ckhúri
+-
+0.0
+-
+PE Cuel
+225.4
+453.8
++101.32 %
+LF
+PE El Arrayán
+392.1
+318.0
+-18.90 %
+PE El Maitén
+58.0
+51.0
+-12.07 %
+PE Horizonte Norte
+594.4
+688.4
++15.82 %
+PE Horizonte Sur
+682.7
+792.4
++16.07 %
+P
+PE Kallpa
+777.3
+748.8
+-3.67 %
+RO
+PE La Cabaña
+762.0
+1421.4
++86.53 %
+PE La Estrella
+241.8
+474.4
++96.14 %
+PE La Flor
+237.5
+365.7
++53.97 %
+PE Lebu
+68.5
+0.0
+-100.00 %
+PE Llanos del Viento
+351.9
+437.1
++24.20 %
+PE Lomas de Duqueco
+498.1
+653.4
++31.17 %
+RO
+PE Los Buenos Aires
+241.1
+354.0
++46.85 %
+LF
+PE Los Cerrillos
+244.9
+450.8
++84.05 %
+PE Los Cururos
+94.9
+340.9
++259.39 %
+PE Los Olmos
+882.3
+2116.8
+(*)
+ +139.91 %
+PE Malleco Norte
+1151.4
+2350.3
+(*)
+ +104.12 %
+PE Malleco Sur
+1275.7
+2481.9
+(*)
+ +94.55 %
+PE Manantiales
+95.8
+284.9
++197.50 %
+PE Mesamavida
+586.8
+949.6
++61.83 %
+PE Monte Redondo
+107.3
+113.3
++5.56 %
+PE Negrete
+240.1
+581.3
++142.14 %
+PE Puelche Sur
+1543.6
+1516.0
+-1.79 %
+PE Punta Colorada
+0.0
+0.2
+GNP
+PE Punta Palmeras
+88.2
+61.2
+-30.68 %
+PE Punta Sierra
+248.0
+315.6
++27.25 %
+PE Punta de Talca
+212.4
+157.3
+-25.93 %
+P
+PE Renaico
+520.2
+926.2
++78.04 %
+PE Renaico II
+1012.6
+2377.3
+(*)
+ +134.76 %
+PE San Gabriel
+1487.1
+2978.7
+(*)
+ +100.30 %
+Centrales
+Prog.
+Real
+Desv %
+Estado
+TER Candelaria 1 Diésel
+0.0
+0.0
+-
+TER Candelaria 1 GNL
+0.0
+0.0
+-
+TER Candelaria 1 Gas Arg
+0.0
+0.0
+-
+TER Candelaria 2 Diésel
+0.0
+0.0
+-
+TER Candelaria 2 GNL
+0.0
+8.0
+GNP
+TER Candelaria 2 Gas Arg
+0.0
+38.0
+GNP
+TER Cardones
+0.0
+0.0
+-
+TER Cenizas
+0.0
+0.0
+-
+TER Chagual
+1.1
+0.0
+-100.00 %
+TER Cholguán
+201.4
+254.6
++26.42 %
+TER Chuyaca
+0.0
+0.0
+-
+TER Cochrane-CCH1
+4448.9
+5047.8
++13.46 %
+RO
+TER Cochrane-CCH2
+4523.4
+5021.4
++11.01 %
+RO
+TER Cogeneradora Aconcagua
+631.0
+296.0
+-53.09 %
+RO
+TER Cogeneradora Biobío
+492.0
+1156.0
++134.96 %
+TER Colihues Diésel
+0.0
+-
+-
+TER Colihues HFO
+0.0
+-
+-
+TER Colmito Diésel
+0.0
+0.0
+-
+LF
+TER Colmito GNL
+0.0
+0.0
+-
+TER Colmito Gas Arg
+0.0
+321.7
+GNP
+TER Combarbala
+0.0
+0.0
+-
+TER Coronel Diésel
+0.0
+0.0
+-
+TER Coronel GNL
+0.0
+0.0
+-
+TER Coronel Gas Arg
+0.0
+28.4
+GNP
+TER Degañ
+1.5
+0.0
+-100.00 %
+TER Degañ 2
+0.0
+0.0
+-
+TER Diego de Almagro
+0.0
+0.0
+-
+TER El Peñón
+0.0
+0.0
+-
+TER El Salvador
+0.0
+0.0
+-
+TER Emelda
+0.0
+0.0
+-
+TER Energía Pacífico
+374.4
+334.7
+-10.62 %
+RO
+TER Escuadrón
+19.2
+24.5
++27.75 %
+TER Esperanza-DS1
+0.0
+0.0
+-
+TER Esperanza-DS2
+0.0
+0.0
+-
+TER Esperanza-TG1
+0.0
+0.0
+-
+TER Guacolda 1
+0.0
+0.0
+-
+MM, 
+LF, 
+RO
+TER Guacolda 2
+2185.0
+2275.8
++4.16 %
+LF, 
+RO
+TER Guacolda 3
+2545.3
+2745.4
++7.86 %
+RO
+TER Guacolda 4
+2507.7
+2584.9
++3.08 %
+RO
+TER Guacolda 5
+2712.5
+2703.9
+-0.32 %
+RO
+TER Horcones Diésel
+0.0
+0.0
+-
+TER Huasco Diésel
+6.0
+0.0
+-100.00 %
+TER Huasco IFO
+0.0
+0.0
+-
+TER IEM
+6609.2
+6104.1
+-7.64 %
+RO
+TER Kelar Diésel
+0.0
+0.0
+-
+TER Kelar GNL
+0.0
+0.0
+-
+TER Kelar Gas Arg
+0.0
+0.0
+-
+TER La Portada
+0.0
+0.0
+-
+TER Lautaro I
+504.6
+468.5
+-7.16 %
+RO
+TER Lautaro II
+456.0
+408.6
+-10.40 %
+RO
+Centrales
+Prog.
+Real
+Desv %
+Estado
+PE San Juan
+1756.8
+1387.8
+-21.00 %
+RO
+PE San Matías
+1008.9
+1465.3
++45.24 %
+LF
+PE San Pedro
+344.5
+250.1
+-27.41 %
+PE San Pedro 2
+473.9
+291.7
+-38.45 %
+PE Sarco
+1705.7
+1426.4
+-16.37 %
+PE Sierra Gorda Este
+937.7
+626.4
+-33.20 %
+RO
+PE Talinay Oriente
+228.0
+282.1
++23.71 %
+PE Talinay Poniente
+269.5
+306.6
++13.76 %
+PE Taltal
+137.7
+95.1
+-30.97 %
+PE Tchamma
+1311.7
+1120.4
+-14.58 %
+PE Tolpan Sur
+626.7
+1066.3
++70.15 %
+PE Totoral
+29.8
+40.2
++34.90 %
+RO
+PE Ucuquer 2
+45.6
+60.3
++32.30 %
+PE Valle de los Vientos
+395.0
+274.0
+-30.64 %
+PFV Almeyda
+150.5
+102.2
+-32.08 %
+RO
+PFV Andes Solar
+96.9
+77.6
+-19.88 %
+PFV Andes Solar II-A
+174.0
+399.6
++129.66 %
+PFV Andes Solar II-B
+0.0
+27.3
+GNP
+LF
+PFV Andes Solar III
+-
+0.0
+-
+PFV Andes Solar IV
+54.5
+308.1
++465.36 %
+LF
+PFV Atacama Solar II
+656.8
+495.2
+-24.60 %
+PFV Azabache
+237.9
+224.3
+-5.71 %
+PFV Bolero
+815.4
+495.9
+-39.19 %
+PFV CEME 1
+1867.4
+1452.0
+-22.25 %
+PFV Campos del Sol
+1680.1
+1380.8
+-17.82 %
+PFV Capricornio
+146.4
+140.0
+-4.39 %
+PFV Carrera Pinto
+173.9
+230.2
++32.37 %
+LF
+PFV Cerro Dominador
+468.8
+364.3
+-22.28 %
+LF
+PFV Chañares
+79.7
+174.2
++118.56 %
+PFV Conejo
+499.5
+489.0
+-2.12 %
+PFV Coya
+390.8
+230.6
+-41.00 %
+PFV Desierto de Atacama
+1118.7
+195.1
+-82.56 %
+P
+PFV Diego de Almagro
+66.3
+89.5
++34.98 %
+PFV Diego de Almagro Sur
+845.6
+887.4
++4.94 %
+PFV Domeyko
+707.5
+660.1
+-6.71 %
+PFV Don Humberto
+199.6
+256.3
++28.40 %
+PFV Doña Antonia
+65.0
+65.4
++0.58 %
+PFV Doña Carmen
+90.4
+73.0
+-19.24 %
+PFV El Aguila
+11.4
+11.5
++0.44 %
+PFV El Manzano
+222.6
+319.5
++43.58 %
+PFV El Pelicano
+416.7
+382.9
+-8.11 %
+PFV El Romero
+331.5
+270.7
+-18.36 %
+PFV Elena
+304.8
+243.6
+-20.06 %
+PFV Finis Terrae
+1085.0
+922.7
+-14.96 %
+PFV Gran Teno
+0.0
+0.0
+-
+DF
+PFV Granja Solar
+494.0
+419.8
+-15.03 %
+RO
+PFV Guanchoi
+79.6
+476.4
++498.20 %
+LF, 
+RO
+PFV Huatacondo
+394.0
+325.3
+-17.43 %
+PFV Jama
+224.2
+176.4
+-21.31 %
+PFV Javiera
+288.0
+239.7
+-16.76 %
+Centrales
+Prog.
+Real
+Desv %
+Estado
+TER Llanos Blancos
+0.0
+0.0
+-
+TER Loma Los Colorados II
+535.9
+284.1
+-46.98 %
+TER Los Espinos
+0.0
+0.0
+-
+TER Los Guindos TG1
+0.0
+0.0
+-
+TER Los Guindos TG2
+0.0
+0.0
+-
+TER Los Pinos
+54.9
+81.0
++47.62 %
+TER Los Vientos Diésel
+0.0
+0.0
+-
+TER Los Vientos GNL
+527.0
+529.0
++0.38 %
+TER Los Vientos Gas Arg
+0.0
+0.0
+-
+TER Maitencillo
+0.0
+0.0
+-
+TER Mantos Blancos
+0.0
+0.0
+-
+DF
+TER Masisa
+264.0
+183.3
+-30.56 %
+TER Mejillones-CTA
+3312.4
+3245.7
+-2.01 %
+TER Mejillones-CTH
+3356.7
+3280.5
+-2.27 %
+TER Mejillones-CTM1
+0.0
+0.0
+-
+TER Mejillones-CTM2
+0.0
+0.0
+-
+TER Mejillones-CTM3 Diesel
+0.0
+0.0
+-
+TER Mejillones-CTM3 GNL
+2906.7
+3136.5
++7.90 %
+TER Mejillones-CTM3 Gas Arg
+0.0
+0.0
+-
+TER Nehuenco 9B Diésel
+0.0
+0.0
+-
+LF, 
+RO
+TER Nehuenco 9B GNL
+0.0
+0.0
+-
+LF, 
+RO
+TER Nehuenco 9B Gas Arg
+0.0
+0.0
+-
+TER Nehuenco I Diésel
+0.0
+0.0
+-
+TER Nehuenco I GNL
+3432.6
+3317.0
+-3.37 %
+TER Nehuenco I Gas Arg
+3230.6
+3454.0
++6.92 %
+TER Nehuenco II Diésel
+0.0
+0.0
+-
+TER Nehuenco II GNL
+0.0
+0.0
+-
+MM
+TER Nehuenco II Gas Arg
+0.0
+0.0
+-
+TER Newen Diésel
+0.0
+0.0
+-
+TER Newen GNL
+0.0
+0.0
+-
+TER Newen Gas Arg
+0.0
+16.0
+GNP
+TER Newen Otros
+0.0
+0.0
+-
+TER Norgener-NTO1
+0.0
+-
+-
+TER Norgener-NTO2
+0.0
+-
+-
+TER Nueva Aldea
+1224.0
+1019.8
+-16.68 %
+TER Nueva Aldea I
+0.0
+-
+-
+TER Nueva Aldea II
+0.0
+0.0
+-
+TER Nueva Aldea III
+0.0
+-
+-
+TER Nueva Renca Diésel
+0.0
+0.0
+-
+TER Nueva Renca GNL
+4956.2
+5083.0
++2.56 %
+RO
+TER Nueva Renca Gas Arg
+1687.3
+2072.0
++22.80 %
+RO
+TER Nueva Ventanas
+0.0
+0.0
+-
+DF, 
+RO
+TER Olivos
+0.0
+0.0
+-
+TER PAS Mejillones
+408.0
+532.8
++30.58 %
+TER Pajonales
+0.0
+0.0
+-
+TER Punta Colorada Diésel
+0.0
+0.0
+-
+TER Punta Colorada IFO
+0.0
+0.0
+-
+TER Quintero 1A Diésel
+0.0
+0.0
+-
+RO
+TER Quintero 1A GNL
+1217.1
+1322.0
++8.62 %
+RO
+TER Quintero 1A Gas Arg
+0.0
+0.0
+-
+Centrales
+Prog.
+Real
+Desv %
+Estado
+PFV LOS NARANJOS
+0.0
+0.0
+-
+PFV La Cruz Solar
+235.2
+192.2
+-18.28 %
+PFV La Huayca II
+121.1
+54.4
+-55.07 %
+PFV La Huella
+314.4
+303.1
+-3.58 %
+PFV La Silla
+3.7
+8.1
++120.44 %
+PFV Lalackama
+232.7
+200.7
+-13.73 %
+PFV Lalackama II
+68.6
+59.3
+-13.56 %
+PFV Las Salinas
+1132.5
+666.5
+-41.14 %
+PFV Leyda
+456.2
+278.9
+-38.86 %
+P
+PFV Llano de Llampos
+392.6
+241.4
+-38.53 %
+LF
+PFV Los Loros
+252.8
+180.5
+-28.61 %
+PFV Luz del Norte
+213.4
+507.7
++137.90 %
+RO
+PFV Malgarida
+918.1
+838.9
+-8.62 %
+RO
+PFV María Elena
+295.2
+0.0
+-100.00 %
+LF
+PFV Meseta de los Andes
+542.9
+714.0
++31.52 %
+PFV Nuevo Quillagua
+413.6
+610.9
++47.69 %
+PFV Nuevo Quillagua II
+487.8
+617.0
++26.48 %
+PFV Pampa Camarones
+40.2
+42.2
++4.88 %
+PFV Pampa Solar Norte
+268.3
+251.2
+-6.36 %
+PFV Pampa Tigre
+440.0
+380.3
+-13.57 %
+PFV Pozo Almonte Solar II
+30.6
+40.1
++31.00 %
+PFV Pozo Almonte Solar III
+101.8
+74.9
+-26.42 %
+PFV Quilapilun
+402.5
+0.0
+-100.00 %
+PFV Rio Escondido
+656.5
+575.9
+-12.29 %
+LF
+PFV Salvador
+27.1
+16.3
+-39.90 %
+RO
+PFV San Andres
+12.8
+5.1
+-60.45 %
+LF
+PFV San Pedro
+478.5
+375.0
+-21.64 %
+PFV Santa Isabel
+706.3
+357.3
+-49.40 %
+LF
+PFV Santiago
+424.1
+406.0
+-4.27 %
+PFV Sol de Lila
+130.5
+82.6
+-36.69 %
+LF
+PFV Sol de los Andes
+387.5
+307.5
+-20.64 %
+PFV Sol del Desierto
+991.9
+850.0
+-14.31 %
+PFV Taira
+980.9
+730.0
+-25.58 %
+PFV Tamango
+65.9
+54.9
+-16.63 %
+PFV Tamarico Etapa 2
+390.4
+521.0
++33.46 %
+PFV Tamaya Solar
+12.7
+173.2
++1267.79 %
+PFV Uribe Solar
+312.5
+135.6
+-56.61 %
+PFV Usya
+92.2
+78.1
+-15.30 %
+PFV Valle Escondido
+437.5
+349.3
+-20.17 %
+LF
+PFV Valle del Sol
+676.9
+478.3
+-29.35 %
+PFV Willka
+455.6
+359.4
+-21.11 %
+PMG Cauquenes
+35.8
+17.5
+-51.16 %
+PMG
+PMG HP Aillin
+13.2
+16.9
++28.25 %
+PMG
+PMG HP Alto Renaico
+28.7
+25.8
+-10.03 %
+PMG, 
+RO
+PMG HP Callao
+22.0
+18.0
+-18.19 %
+PMG
+PMG HP Carena
+0.0
+0.0
+-
+PMG, 
+DF, 
+RO
+PMG HP Chiburgo
+0.0
+24.0
+-
+PMG
+PMG HP Cipresillos
+28.8
+31.2
++8.33 %
+PMG
+PMG HP Corrales
+39.9
+40.2
++0.83 %
+PMG
+PMG HP Correntoso
+43.2
+42.9
+-0.74 %
+PMG
+Centrales
+Prog.
+Real
+Desv %
+Estado
+TER Quintero 1B Diésel
+0.0
+0.0
+-
+RO
+TER Quintero 1B GNL
+1124.4
+1216.0
++8.14 %
+TER Quintero 1B Gas Arg
+200.8
+212.0
++5.60 %
+TER Renca
+0.0
+0.0
+-
+TER San Isidro I Diésel
+0.0
+0.0
+-
+TER San Isidro I GNL
+6681.9
+5988.7
+-10.37 %
+RO
+TER San Isidro I Gas Arg
+1285.1
+1004.6
+-21.82 %
+TER San Isidro II Diésel
+0.0
+0.0
+-
+TER San Isidro II GNL
+5195.1
+5200.5
++0.11 %
+TER San Isidro II Gas Arg
+2401.9
+2723.4
++13.39 %
+TER San Javier 1
+1.4
+0.0
+-100.00 %
+TER San Javier 2
+1.4
+0.0
+-100.00 %
+TER San Lorenzo 1
+0.0
+0.0
+-
+DF
+TER San Lorenzo 2
+0.0
+0.0
+-
+DF
+TER San Lorenzo 3
+0.0
+0.0
+-
+DF
+TER Santa Fe
+1442.9
+762.0
+-47.19 %
+RO
+TER Santa Lidia
+0.0
+0.0
+-
+TER Santa Marta
+360.2
+203.9
+-43.40 %
+TER Santa María
+0.0
+0.0
+-
+DF
+TER Taltal 1 Diesel
+0.0
+0.0
+-
+TER Taltal 1 GNL
+0.0
+413.0
+GNP
+RO
+TER Taltal 1 Gas Arg
+0.0
+0.0
+-
+TER Taltal 2 Diesel
+0.0
+0.0
+-
+TER Taltal 2 GNL
+0.0
+304.0
+GNP
+RO
+TER Taltal 2 Gas Arg
+0.0
+0.0
+-
+TER Tarapacá-TGTAR
+0.0
+0.0
+-
+TER Teno
+0.0
+8.0
+GNP
+TER Teno Gas GLP
+67.9
+72.0
++5.96 %
+LF
+TER Termopacifico
+0.0
+0.0
+-
+TER Tocopilla-TG1
+0.0
+0.0
+-
+TER Tocopilla-TG2
+0.0
+0.0
+-
+TER Tocopilla-TG3 Diesel
+0.0
+0.0
+-
+TER Tocopilla-TG3 GNL
+0.0
+0.0
+-
+DF, 
+LF
+TER Tocopilla-TG3 Gas Arg
+0.0
+0.0
+-
+TER Tocopilla-U16 Diesel
+0.0
+0.0
+-
+TER Tocopilla-U16 GNL
+3059.2
+2500.7
+-18.26 %
+RO
+TER Tocopilla-U16 Gas Arg
+0.0
+0.0
+-
+TER Trapen
+7.8
+41.1
++427.18 %
+TER Trincao
+0.0
+0.0
+GNP
+MM
+TER Ujina Diésel
+0.0
+0.0
+-
+TER Ujina HFO
+0.0
+0.0
+-
+TER Valdivia
+120.0
+113.1
+-5.72 %
+LF
+TER Viñales
+507.6
+522.7
++2.97 %
+TER Yungay U1 Diesel
+0.0
+0.0
+-
+LF
+TER Yungay U1 GNL
+0.0
+0.0
+-
+TER Yungay U1 Gas Arg
+0.0
+12.6
+GNP
+TER Yungay U2 Diesel
+0.0
+0.0
+-
+TER Yungay U2 GNL
+0.0
+0.0
+-
+TER Yungay U2 Gas Arg
+0.0
+15.7
+GNP
+TER Yungay U3 Diesel
+0.0
+0.0
+-
+Centrales
+Prog.
+Real
+Desv %
+Estado
+PMG HP Don Eugenio
+-
+0.0
+-
+PMG
+PMG HP Dos Valles
+0.0
+0.0
+-
+PMG, 
+P
+PMG HP El Rincón
+6.2
+6.2
+-0.06 %
+PMG
+Centrales
+Prog.
+Real
+Desv %
+Estado
+TER Yungay U3 GNL
+0.0
+0.0
+-
+TER Yungay U3 Gas Arg
+0.0
+13.5
+GNP
+TER Yungay U4
+0.0
+0.0
+-
+DF
+Total
+216595.5
+215026.5
+-0.72 %
+Centrales
+Prog.
+Real
+Desv %
+Estado
+1
+.
+2
+. 
+PMGD
+Centrales
+Prog.
+Real
+Desv %
+PMGD Cóndor La Ligua
+20.6
+22.2
++7.42 %
+PMGD HP Allipén
+64.1
+63.4
+-1.03 %
+PMGD HP Alto Hospicio
+22.4
+21.9
+-2.23 %
+PMGD HP Arrayán
+-
+0.7
+-
+PMGD HP Auxiliar del Maipo
+59.7
+69.8
++16.79 %
+PMGD HP Boquiamargo
+8.8
+11.4
++29.87 %
+PMGD HP Bureo
+35.7
+35.3
+-1.09 %
+PMGD HP Calíboro
+19.1
+13.1
+-31.40 %
+PMGD HP Cavancha
+0.0
+0.0
+-
+PMGD HP Chanleufu II
+79.4
+77.6
+-2.36 %
+PMGD HP Collil
+85.4
+34.8
+-59.26 %
+PMGD HP Contra
+-
+0.0
+-
+PMGD HP Cosapilla
+9.1
+6.6
+-27.06 %
+PMGD HP Cumpeo
+61.1
+65.2
++6.68 %
+PMGD HP Curileufu
+-
+0.0
+-
+PMGD HP Don Tito
+-
+9.5
+-
+PMGD HP Don Walterio
+70.8
+70.4
+-0.61 %
+PMGD HP Dongo
+75.7
+40.0
+-47.12 %
+PMGD HP Donguil
+3.8
+5.5
++45.63 %
+PMGD HP Dosal
+-
+0.0
+-
+PMGD HP Doña Hilda
+0.1
+0.0
+-100.00 %
+PMGD HP El Agrio
+15.0
+17.0
++13.35 %
+PMGD HP El Arrayán
+-
+14.3
+-
+PMGD HP El Atajo
+15.6
+14.2
+-8.71 %
+PMGD HP El Brinco
+1.4
+1.4
+-3.36 %
+PMGD HP El Canelo
+52.0
+59.4
++14.26 %
+PMGD HP El Colorado
+17.5
+19.5
++11.30 %
+PMGD HP El Diuto
+59.9
+38.9
+-35.14 %
+PMGD HP El Galpón
+25.9
+21.9
+-15.43 %
+PMGD HP El Llano
+0.0
+0.0
+-
+PMGD HP El Manzano
+0.0
+0.0
+-
+PMGD HP El Mirador
+0.0
+0.0
+-
+PMGD HP El Portal
+8.5
+7.0
+-17.41 %
+PMGD HP El Toro Nº2
+22.8
+20.8
+-8.89 %
+PMGD HP El Tártaro
+0.0
+0.0
+-
+PMGD HP Ensenada
+24.0
+23.9
+-0.81 %
+PMGD HP Eyzaguirre
+0.0
+0.0
+-
+PMGD HP La Arena
+105.3
+68.4
+-35.02 %
+PMGD HP La Bifurcada
+2.4
+2.2
+-7.87 %
+PMGD HP La Compañía II
+24.0
+37.1
++54.19 %
+PMGD HP La Montaña
+9.6
+10.1
++5.34 %
+PMGD HP La Montaña II
+17.8
+19.3
++8.33 %
+PMGD HP La Paloma
+0.0
+0.0
+-
+PMGD HP La Viña-Alto La Viña
+8.2
+7.6
+-6.85 %
+PMGD HP Las Flores
+63.8
+70.3
++10.24 %
+PMGD HP Las Vertientes
+39.5
+38.2
+-3.18 %
+PMGD HP Los Bajos
+77.1
+87.6
++13.64 %
+PMGD HP Los Colonos
+-
+0.0
+-
+PMGD HP Los Corrales
+20.3
+44.3
++118.20 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Lluta Solar
+8.2
+13.4
++63.04 %
+PMGD PFV Lo Boza
+0.5
+0.4
+-17.65 %
+PMGD PFV Lo Chacón
+10.6
+8.5
+-19.83 %
+PMGD PFV Lo Miguel
+44.1
+42.0
+-4.63 %
+PMGD PFV Lo Miranda
+17.5
+0.0
+-100.00 %
+PMGD PFV Lo Sierra
+12.1
+8.2
+-32.43 %
+PMGD PFV Lockma
+55.0
+57.6
++4.73 %
+PMGD PFV Loica
+8.0
+5.2
+-34.87 %
+PMGD PFV Loma Tendida
+11.7
+12.0
++2.13 %
+PMGD PFV Lomas Coloradas
+9.1
+8.5
+-6.40 %
+PMGD PFV Loncura
+41.8
+42.9
++2.66 %
+PMGD PFV Loreto
+10.2
+6.2
+-39.37 %
+PMGD PFV Los Banos
+23.1
+0.0
+-100.00 %
+PMGD PFV Los Cisnes
+24.8
+22.9
+-7.43 %
+PMGD PFV Los Gorriones
+2.9
+3.8
++32.98 %
+PMGD PFV Los Jotes
+12.1
+11.4
+-5.39 %
+PMGD PFV Los Lagos
+7.7
+5.6
+-26.89 %
+PMGD PFV Los Libertadores
+25.9
+34.6
++33.44 %
+PMGD PFV Los Lirios
+38.0
+41.2
++8.47 %
+PMGD PFV Los Magnolios
+8.2
+6.9
+-15.28 %
+PMGD PFV Los Molinos
+49.6
+41.2
+-16.88 %
+PMGD PFV Los Morros I
+6.3
+7.6
++22.04 %
+PMGD PFV Los Nogales
+18.2
+42.5
++133.53 %
+PMGD PFV Los Paltos
+9.1
+10.0
++9.67 %
+PMGD PFV Los Patos
+4.8
+6.4
++34.17 %
+PMGD PFV Los Perales
+13.8
+11.9
+-13.73 %
+PMGD PFV Los Puquios
+0.0
+0.0
+-
+PMGD PFV Los Robles
+5.3
+2.3
+-56.37 %
+PMGD PFV Los Tauretes
+12.0
+0.0
+-100.00 %
+PMGD PFV Los Tilos
+12.5
+12.6
++1.12 %
+PMGD PFV Los Tordos
+14.5
+8.5
+-41.52 %
+PMGD PFV Luce Solar
+8.0
+6.2
+-22.75 %
+PMGD PFV Luders
+10.5
+9.8
+-7.14 %
+PMGD PFV Lumbreras
+11.6
+12.2
++5.36 %
+PMGD PFV Luna
+8.9
+0.7
+-91.91 %
+PMGD PFV Luna del Norte
+14.5
+14.6
++1.04 %
+PMGD PFV Macao
+35.2
+38.2
++8.67 %
+PMGD PFV Macarena Solar
+7.2
+7.2
+-0.56 %
+PMGD PFV Maikono
+11.1
+11.3
++1.53 %
+PMGD PFV Maimalicán
+58.5
+59.1
++0.96 %
+PMGD PFV Maitenlahue
+11.8
+7.1
+-39.23 %
+PMGD PFV Malaquita II
+38.6
+28.9
+-25.34 %
+PMGD PFV Malinke
+8.3
+7.6
+-8.99 %
+PMGD PFV Malloco
+10.4
+11.4
++9.40 %
+PMGD PFV Malvilla
+11.9
+9.0
+-24.12 %
+PMGD PFV Manao
+12.4
+12.3
+-1.21 %
+PMGD PFV Mandinga
+22.0
+18.7
+-15.12 %
+PMGD PFV Marambio
+8.8
+7.6
+-13.47 %
+PMGD PFV Marañon
+58.8
+57.8
+-1.65 %
+PMGD HP Los Corrales II
+17.3
+18.2
++5.69 %
+PMGD HP Los Morros
+15.5
+13.2
+-14.42 %
+PMGD HP Los Padres
+13.9
+29.0
++108.91 %
+PMGD HP Los Portones
+17.2
+17.1
+-0.53 %
+PMGD HP MSA-I
+44.4
+50.5
++13.93 %
+PMGD HP Maisán
+4.9
+5.4
++11.26 %
+PMGD HP Mallarauco
+2.7
+0.0
+-100.00 %
+PMGD HP Maria Elena
+0.0
+1.4
+-
+PMGD HP Melo
+40.3
+30.2
+-25.00 %
+PMGD HP Molinera Villarrica
+4.8
+11.1
++132.70 %
+PMGD HP Muchi
+9.7
+8.0
+-17.31 %
+PMGD HP Munilque
+0.0
+0.0
+-
+PMGD HP Munilque II
+9.2
+8.7
+-5.41 %
+PMGD HP Palmar
+31.2
+94.2
++201.96 %
+PMGD HP Panguipulli
+-
+0.0
+-
+PMGD HP Pehui
+12.9
+11.7
+-9.85 %
+PMGD HP Pichilonco
+15.0
+15.3
++2.31 %
+PMGD HP Picoltué
+-
+0.0
+-
+PMGD HP Puclaro
+2.6
+0.0
+-100.00 %
+PMGD HP Purísima
+9.2
+9.5
++2.34 %
+PMGD HP Quillaileo
+9.4
+6.6
+-30.12 %
+PMGD HP Reca
+23.6
+23.4
+-0.71 %
+PMGD HP Robleria
+0.0
+0.0
+-
+PMGD HP Río Mulchén
+22.5
+20.5
+-9.04 %
+PMGD HP Río Trueno
+0.0
+85.9
+-
+PMGD HP Santa Elena
+25.7
+26.3
++2.23 %
+PMGD HP Santa Isabel
+2.0
+0.4
+-82.18 %
+PMGD HP Santa Rosa
+11.7
+11.2
+-3.98 %
+PMGD HP Sauce Andes
+7.5
+2.9
+-61.15 %
+PMGD HP Trailelfú
+25.9
+26.7
++3.05 %
+PMGD HP Tranca del Toro
+16.9
+14.9
+-11.57 %
+PMGD HP Tranquil
+43.4
+49.1
++13.01 %
+PMGD HP Truful Truful
+1.9
+0.0
+-100.00 %
+PMGD PE El Arrebol
+79.9
+0.0
+-100.00 %
+PMGD PE El Nogal
+73.1
+193.2
++164.47 %
+PMGD PE Huajache
+0.0
+0.0
+-
+PMGD PE Las Peñas
+51.2
+168.8
++229.66 %
+PMGD PE Lebu III
+33.6
+24.0
+-28.53 %
+PMGD PE Raki
+0.0
+0.0
+-
+PMGD PE Ucuquer
+9.1
+0.0
+-100.00 %
+PMGD PFV Abastible Concon
+0.0
+0.0
+-
+PMGD PFV Alameda
+40.5
+39.7
+-1.90 %
+PMGD PFV Albatros
+2.2
+5.5
++151.83 %
+PMGD PFV Albor Solar
+23.2
+2.8
+-87.86 %
+PMGD PFV Alcaldesa
+25.7
+6.3
+-75.60 %
+PMGD PFV Alcon Solar
+0.0
+0.0
+-
+PMGD PFV Aldebaran
+2.3
+23.7
++921.12 %
+PMGD PFV Algarrobo
+-
+1.8
+-
+PMGD PFV Alhué
+27.1
+23.2
+-14.70 %
+PMGD PFV Alianza
+20.1
+24.7
++22.70 %
+PMGD PFV Alicahue
+18.0
+13.5
+-24.78 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Marchigue II
+36.7
+16.5
+-54.94 %
+PMGD PFV Marchigue VII
+10.7
+3.8
+-64.51 %
+PMGD PFV Margarita X
+16.5
+13.6
+-17.25 %
+PMGD PFV Marin
+23.2
+26.0
++12.07 %
+PMGD PFV María Dolores
+22.3
+5.3
+-76.33 %
+PMGD PFV María Pinto
+10.4
+9.9
+-4.89 %
+PMGD PFV Meco Chillan
+25.0
+3.6
+-85.76 %
+PMGD PFV Meli
+32.5
+30.9
+-5.01 %
+PMGD PFV Membrillo
+0.0
+0.0
+-
+PMGD PFV Mercurio Sur
+3.0
+2.2
+-27.30 %
+PMGD PFV Millahue
+0.0
+0.0
+-
+PMGD PFV Milán A
+3.6
+12.5
++243.41 %
+PMGD PFV Mitchi
+35.4
+57.3
++61.97 %
+PMGD PFV Montt
+10.2
+12.7
++24.61 %
+PMGD PFV Mora
+-
+9.9
+-
+PMGD PFV Mostazal
+23.7
+24.8
++4.73 %
+PMGD PFV Moya
+9.6
+3.7
+-61.35 %
+PMGD PFV Mutupín
+27.6
+8.1
+-70.58 %
+PMGD PFV Nahuén
+52.4
+35.2
+-32.92 %
+PMGD PFV Nan
+11.6
+19.1
++64.40 %
+PMGD PFV Nazarino Verano
+10.3
+10.6
++2.93 %
+PMGD PFV Newentun
+28.2
+21.9
+-22.29 %
+PMGD PFV Nihue
+8.3
+0.9
+-89.81 %
+PMGD PFV Norte Chico
+10.3
+10.0
+-2.91 %
+PMGD PFV Ocoa
+13.7
+12.3
+-10.07 %
+PMGD PFV Olivia
+14.8
+14.8
+-0.27 %
+PMGD PFV Olivier
+10.1
+13.9
++37.74 %
+PMGD PFV Olivillo
+31.9
+31.2
+-2.32 %
+PMGD PFV Orion
+8.6
+1.7
+-80.68 %
+PMGD PFV Orquidea Solar
+12.3
+12.4
++0.90 %
+PMGD PFV Ovalle Norte
+38.4
+28.8
+-24.95 %
+PMGD PFV Ovejería
+35.4
+38.8
++9.63 %
+PMGD PFV PAS1
+62.2
+63.1
++1.45 %
+PMGD PFV PSF El Peral
+45.5
+32.5
+-28.57 %
+PMGD PFV PSF Horizonte
+24.5
+24.8
++1.10 %
+PMGD PFV PVP La Rosa
+9.9
+19.4
++95.17 %
+PMGD PFV PVP Unihue
+7.5
+4.7
+-37.10 %
+PMGD PFV Pachira
+19.7
+7.9
+-60.14 %
+PMGD PFV Paillihue
+38.2
+5.6
+-85.34 %
+PMGD PFV Paine
+53.9
+61.2
++13.62 %
+PMGD PFV Palto Sunlight
+40.9
+37.7
+-7.78 %
+PMGD PFV Pama
+10.7
+11.0
++2.43 %
+PMGD PFV Panguilemo Aerop.
+9.1
+8.5
+-6.60 %
+PMGD PFV Panquehue II
+23.1
+27.2
++17.68 %
+PMGD PFV Paraguay
+18.0
+0.0
+-100.00 %
+PMGD PFV Paranal
+9.6
+10.1
++5.53 %
+PMGD PFV Parque Bicentenario
+7.3
+3.7
+-49.25 %
+PMGD PFV Parque Curicura
+10.4
+24.8
++138.67 %
+PMGD PFV Parque El Olivar
+36.7
+5.1
+-86.14 %
+PMGD PFV Parque Farol Solar
+27.6
+34.9
++26.35 %
+PMGD PFV Parque Jotabeche
+28.1
+33.6
++19.46 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Alto Bellavista
+28.8
+32.3
++12.18 %
+PMGD PFV Alto Solar
+8.5
+0.0
+-100.00 %
+PMGD PFV Altos de Til Til
+5.7
+10.6
++86.14 %
+PMGD PFV Altos del Paico
+0.0
+-
+-
+PMGD PFV Alturas de Ovalle
+22.0
+23.6
++7.37 %
+PMGD PFV Amparo del Sol
+10.2
+11.5
++12.65 %
+PMGD PFV Anakena
+60.5
+57.7
+-4.63 %
+PMGD PFV Ancahual
+22.2
+3.8
+-83.04 %
+PMGD PFV Antonia
+11.2
+11.3
++0.80 %
+PMGD PFV Argomedo
+34.1
+27.2
+-20.31 %
+PMGD PFV Arica
+27.9
+50.5
++81.16 %
+PMGD PFV Ariztía
+9.3
+4.7
+-49.57 %
+PMGD PFV Armazones
+24.9
+28.5
++14.38 %
+PMGD PFV Aromo del Verano
+10.6
+0.0
+-100.00 %
+PMGD PFV Astillas
+53.4
+53.6
++0.28 %
+PMGD PFV Avel Solar
+0.0
+4.5
+-
+PMGD PFV Avellano
+0.0
+3.1
+-
+PMGD PFV Aviles
+28.0
+23.3
+-16.80 %
+PMGD PFV Axel Solar
+10.1
+12.5
++24.06 %
+PMGD PFV Ayla
+0.0
+47.8
+-
+PMGD PFV Añuñuca del Verano
+11.9
+12.2
++2.69 %
+PMGD PFV Barcelona
+0.0
+36.1
+-
+PMGD PFV Belenos Til Til
+38.5
+34.9
+-9.45 %
+PMGD PFV Bellavista
+13.6
+7.8
+-42.42 %
+PMGD PFV Bellavista
+0.0
+0.0
+-
+PMGD PFV Belén
+27.9
+28.3
++1.54 %
+PMGD PFV Berrueco
+33.5
+5.7
+-82.86 %
+PMGD PFV Blu
+13.5
+2.8
+-79.10 %
+PMGD PFV Boix
+-
+0.0
+-
+PMGD PFV Buenas Yerbas
+38.3
+35.9
+-6.07 %
+PMGD PFV Bulnes
+31.9
+7.6
+-76.17 %
+PMGD PFV Bulnes Barones
+9.7
+1.6
+-83.26 %
+PMGD PFV Bérgamo
+3.5
+11.9
++236.16 %
+PMGD PFV CE Caldera
+37.4
+48.7
++30.22 %
+PMGD PFV CUARZO
+-
+11.0
+-
+PMGD PFV Cabildo Sunlight
+43.9
+43.7
+-0.41 %
+PMGD PFV Cabilsol
+14.2
+14.3
++0.63 %
+PMGD PFV Cabimas
+0.2
+0.2
++6.67 %
+PMGD PFV Cabrero
+10.9
+4.1
+-62.51 %
+PMGD PFV Cachiyuyo II
+51.2
+41.4
+-19.00 %
+PMGD PFV Caimi
+0.8
+0.6
+-20.00 %
+PMGD PFV Calama
+63.5
+63.8
++0.44 %
+PMGD PFV Calle Larga
+10.5
+4.7
+-54.86 %
+PMGD PFV Candelaria Solar
+14.2
+13.5
+-5.48 %
+PMGD PFV Canelillo
+13.3
+13.6
++2.34 %
+PMGD PFV Canesa
+10.9
+14.4
++32.39 %
+PMGD PFV Canquén
+0.2
+0.5
++95.83 %
+PMGD PFV Cantera
+11.3
+9.3
+-17.99 %
+PMGD PFV Cantillana
+37.4
+5.0
+-86.67 %
+PMGD PFV Cara De Gallo
+3.8
+3.9
++0.79 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Parque La Colonia
+43.5
+31.2
+-28.30 %
+PMGD PFV Parque La Travesía
+13.0
+36.2
++177.68 %
+PMGD PFV Parque Nancagua
+28.4
+12.7
+-55.36 %
+PMGD PFV Parque PVP Itihue
+26.2
+6.8
+-73.88 %
+PMGD PFV Parque PVP Mayos
+9.6
+10.4
++7.92 %
+PMGD PFV Parque San Javier
+11.2
+6.5
+-41.94 %
+PMGD PFV Parque Santa Fe
+26.6
+9.6
+-63.91 %
+PMGD PFV Parque Valparaiso
+26.2
+25.6
+-2.36 %
+PMGD PFV Pastrán
+59.7
+56.6
+-5.16 %
+PMGD PFV Patagua
+34.7
+35.8
++3.26 %
+PMGD PFV Patricia Del Verano
+26.0
+35.8
++37.71 %
+PMGD PFV Pedreros
+9.9
+12.9
++30.00 %
+PMGD PFV Pegasus
+8.7
+1.7
+-79.88 %
+PMGD PFV Pellin
+33.1
+5.7
+-82.88 %
+PMGD PFV Pelumpen
+4.9
+3.3
+-33.20 %
+PMGD PFV Penaflor
+35.2
+37.9
++7.68 %
+PMGD PFV Pencahue
+20.2
+16.8
+-16.67 %
+PMGD PFV Pencahue Este
+7.0
+5.1
+-27.18 %
+PMGD PFV Pepa
+53.0
+38.7
+-26.98 %
+PMGD PFV Pequen
+3.5
+11.4
++221.47 %
+PMGD PFV Peralillo
+7.3
+0.0
+-100.00 %
+PMGD PFV Perla del Norte
+36.4
+51.4
++41.26 %
+PMGD PFV Perséfone
+23.0
+23.2
++0.87 %
+PMGD PFV Pesaro
+10.6
+9.4
+-10.62 %
+PMGD PFV Pica
+0.0
+0.0
+-
+PMGD PFV Pichon
+5.8
+3.5
+-40.55 %
+PMGD PFV Picunche
+49.9
+49.1
+-1.60 %
+PMGD PFV Piduco
+10.2
+6.6
+-35.68 %
+PMGD PFV Pilpilen
+6.4
+6.2
+-3.59 %
+PMGD PFV Piquero
+38.8
+40.3
++3.82 %
+PMGD PFV Pirque
+8.8
+11.8
++34.09 %
+PMGD PFV Pitotoy
+11.2
+7.0
+-37.49 %
+PMGD PFV Pitra
+12.1
+10.5
+-13.20 %
+PMGD PFV Placilla
+14.0
+19.3
++37.61 %
+PMGD PFV Playerito
+11.4
+4.2
+-63.49 %
+PMGD PFV Playero
+10.7
+4.2
+-60.39 %
+PMGD PFV Playeron
+10.7
+4.3
+-59.83 %
+PMGD PFV Plaza Sunlight
+31.2
+39.1
++25.25 %
+PMGD PFV Plomo Verano
+10.3
+11.0
++6.67 %
+PMGD PFV Población
+8.1
+5.5
+-32.59 %
+PMGD PFV Pocillas
+5.9
+4.5
+-23.94 %
+PMGD PFV Pomuyeto
+7.8
+1.9
+-75.10 %
+PMGD PFV Portezuelo
+12.2
+6.7
+-45.22 %
+PMGD PFV Pretty Field
+10.9
+13.1
++19.29 %
+PMGD PFV Puangue
+16.9
+18.0
++6.81 %
+PMGD PFV Pueblo Hundido
+9.9
+11.2
++14.11 %
+PMGD PFV Pueblo Seco
+33.0
+7.5
+-77.22 %
+PMGD PFV Puelche
+9.9
+1.2
+-87.51 %
+PMGD PFV Puente Solar
+10.3
+10.4
++0.97 %
+PMGD PFV Pullalli
+10.7
+6.3
+-41.59 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Caracoles
+0.0
+0.0
+-
+PMGD PFV Caranca
+10.7
+9.5
+-11.36 %
+PMGD PFV Casa de Lata
+-
+0.0
+-
+PMGD PFV Casabermeja
+21.3
+23.8
++11.64 %
+PMGD PFV Casuto
+9.4
+10.6
++12.98 %
+PMGD PFV Catemu
+6.4
+8.5
++33.12 %
+PMGD PFV Cato Solar
+8.6
+2.1
+-75.76 %
+PMGD PFV Catán
+0.0
+0.0
+-
+PMGD PFV Cauce Solar
+51.1
+68.4
++33.77 %
+PMGD PFV Cauquenes
+10.6
+5.5
+-48.58 %
+PMGD PFV Cañones Sunlight
+40.8
+30.5
+-25.27 %
+PMGD PFV Cefalu Solar
+10.5
+8.4
+-19.50 %
+PMGD PFV Centauro Solar
+31.0
+6.9
+-77.63 %
+PMGD PFV Cetus
+9.2
+4.0
+-56.55 %
+PMGD PFV Chacabuco
+50.1
+32.4
+-35.33 %
+PMGD PFV Chacaico
+26.0
+0.0
+-100.00 %
+PMGD PFV Chalinga
+11.1
+12.3
++10.34 %
+PMGD PFV Chamonate Solar
+-
+35.2
+-
+PMGD PFV Champa
+15.3
+40.6
++164.86 %
+PMGD PFV Chancon
+8.2
+10.1
++23.66 %
+PMGD PFV Chañar del Verano
+12.6
+17.5
++39.49 %
+PMGD PFV Chequen Solar
+36.6
+37.6
++2.62 %
+PMGD PFV Chicauma Verano
+43.8
+45.2
++3.20 %
+PMGD PFV Chilener
+0.0
+2.0
+-
+PMGD PFV Chillán Huambali
+8.6
+2.4
+-71.99 %
+PMGD PFV Chimbarongo
+6.4
+3.2
+-49.32 %
+PMGD PFV Chinchorro
+27.9
+0.0
+-100.00 %
+PMGD PFV Cholguan
+9.3
+1.4
+-84.67 %
+PMGD PFV Chuchiñi
+10.6
+0.0
+-100.00 %
+PMGD PFV Cintac
+0.0
+0.0
+-
+PMGD PFV Cipres
+16.0
+8.3
+-47.99 %
+PMGD PFV Citrino
+9.3
+10.3
++10.86 %
+PMGD PFV Ckilir
+59.7
+58.3
+-2.34 %
+PMGD PFV Clementina
+26.2
+26.5
++1.30 %
+PMGD PFV Cocharcas
+8.5
+2.0
+-75.90 %
+PMGD PFV Cocinillas
+12.5
+12.8
++1.75 %
+PMGD PFV Coinco
+11.1
+10.7
+-2.81 %
+PMGD PFV Colchagua
+11.1
+8.0
+-28.01 %
+PMGD PFV Colibri
+0.0
+0.0
+-
+PMGD PFV Colina
+45.0
+45.6
++1.24 %
+PMGD PFV Collanco
+-
+0.0
+-
+PMGD PFV Coltauco Almendro
+10.3
+10.4
++1.16 %
+PMGD PFV Condor Chepica
+10.8
+10.1
+-6.48 %
+PMGD PFV Condor Pelvin
+9.1
+8.4
+-7.94 %
+PMGD PFV Condor Petorca
+7.5
+12.7
++70.78 %
+PMGD PFV Cordillerilla
+5.8
+3.2
+-44.69 %
+PMGD PFV Corso
+0.0
+0.0
+-
+PMGD PFV Cortijo
+41.1
+5.9
+-85.69 %
+PMGD PFV Covadonga
+52.7
+51.5
+-2.37 %
+PMGD PFV Coyunche
+0.0
+1.4
+-
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Pumas
+-
+0.0
+-
+PMGD PFV Punta Baja
+7.8
+9.2
++17.69 %
+PMGD PFV Quebrada de Talca
+35.8
+0.0
+-100.00 %
+PMGD PFV Queltehue
+7.7
+6.2
+-18.90 %
+PMGD PFV Quemados
+31.3
+30.5
+-2.34 %
+PMGD PFV Quetena
+47.5
+55.1
++16.09 %
+PMGD PFV Quillay
+9.7
+10.3
++6.41 %
+PMGD PFV Quilmo Solar
+18.5
+3.6
+-80.77 %
+PMGD PFV Quinantu
+26.8
+2.7
+-89.78 %
+PMGD PFV Quinta
+9.6
+14.2
++47.35 %
+PMGD PFV Quinta Cabrero
+12.4
+0.0
+-100.00 %
+PMGD PFV RDCL SAN
+38.0
+38.5
++1.10 %
+PMGD PFV REN
+21.5
+0.6
+-97.45 %
+PMGD PFV RLA
+8.2
+8.4
++2.20 %
+PMGD PFV Ranguil
+0.0
+5.0
+-
+PMGD PFV Ranguil Solar Norte
+-
+5.3
+-
+PMGD PFV Ratulemus
+10.3
+5.0
+-51.70 %
+PMGD PFV Rauquen
+9.7
+29.2
++200.21 %
+PMGD PFV Rcu
+6.7
+21.1
++216.82 %
+PMGD PFV Recoleta
+33.0
+41.4
++25.35 %
+PMGD PFV Rengo
+27.2
+29.6
++9.06 %
+PMGD PFV Rexner
+11.9
+11.8
+-1.34 %
+PMGD PFV Rimini
+40.1
+34.7
+-13.33 %
+PMGD PFV Rinconada
+33.8
+27.8
+-17.64 %
+PMGD PFV Rinconada Alcones
+43.9
+20.8
+-52.71 %
+PMGD PFV Rinconada Norte
+14.4
+14.5
++0.69 %
+PMGD PFV Rodeo
+6.3
+0.7
+-88.39 %
+PMGD PFV Roma
+10.4
+10.8
++3.85 %
+PMGD PFV Romeria
+23.2
+25.6
++10.40 %
+PMGD PFV Rosario
+7.2
+22.1
++206.25 %
+PMGD PFV Rovián
+20.2
+25.2
++24.70 %
+PMGD PFV Rucapaine
+43.0
+44.4
++3.21 %
+PMGD PFV Río Peuco
+11.5
+11.2
+-2.09 %
+PMGD PFV S. Antonio Monte
+26.0
+26.5
++1.93 %
+PMGD PFV S. Francisco Parral
+7.2
+4.1
+-42.10 %
+PMGD PFV SDSI
+10.0
+1.2
+-88.52 %
+PMGD PFV SF Fortuna 15
+0.0
+6.8
+-
+PMGD PFV SGT Catapilco
+39.6
+36.9
+-6.87 %
+PMGD PFV SGT Tucapel
+29.0
+4.4
+-84.94 %
+PMGD PFV SLK CB Nueve
+10.0
+12.7
++27.54 %
+PMGD PFV SP Malloa
+11.0
+11.1
++0.45 %
+PMGD PFV SP Villa Alemana
+11.7
+11.9
++1.54 %
+PMGD PFV Salerno Solar
+10.1
+8.9
+-12.28 %
+PMGD PFV Samo Bajo
+12.9
+12.9
++0.47 %
+PMGD PFV San Alberto
+0.0
+4.1
+-
+PMGD PFV San Antonio
+5.9
+9.5
++61.56 %
+PMGD PFV San Camilo
+4.7
+8.3
++78.49 %
+PMGD PFV San Carlos
+7.9
+2.1
+-73.13 %
+PMGD PFV San Eduardo
+1.4
+0.8
+-38.97 %
+PMGD PFV San Emilio I
+3.3
+9.2
++184.00 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Crucero
+14.3
+1.4
+-90.28 %
+PMGD PFV Cruz
+14.3
+13.8
+-3.50 %
+PMGD PFV Curacavi
+12.0
+10.6
+-11.86 %
+PMGD PFV Curaco
+39.9
+39.4
+-1.48 %
+PMGD PFV Cuz Cuz
+11.0
+6.6
+-39.64 %
+PMGD PFV Dadinco
+10.1
+2.7
+-72.87 %
+PMGD PFV Darlin
+29.9
+38.9
++30.03 %
+PMGD PFV Diego de Almagro
+46.1
+45.8
+-0.72 %
+PMGD PFV Don Andrónico
+9.2
+8.4
+-8.89 %
+PMGD PFV Don Enrique
+59.2
+57.8
+-2.30 %
+PMGD PFV Don Eugenio
+9.6
+7.1
+-25.81 %
+PMGD PFV Don Jorge
+13.5
+8.1
+-39.84 %
+PMGD PFV Don Mariano
+11.7
+9.9
+-15.57 %
+PMGD PFV Don Martín
+10.9
+1.3
+-88.39 %
+PMGD PFV Don Matías
+11.6
+10.9
+-6.36 %
+PMGD PFV Don Rodrigo
+13.3
+1.7
+-87.02 %
+PMGD PFV Don Simón
+24.8
+25.4
++2.46 %
+PMGD PFV Doña Igna
+9.2
+9.6
++4.36 %
+PMGD PFV Doña Regina
+10.0
+1.0
+-89.59 %
+PMGD PFV Doña Rubena
+-
+8.3
+-
+PMGD PFV Doñihue
+23.6
+29.2
++23.77 %
+PMGD PFV Duqueco Solar
+31.6
+4.2
+-86.74 %
+PMGD PFV Dínamo
+-
+0.0
+-
+PMGD PFV EA SF Graneros
+0.0
+11.5
+-
+PMGD PFV EA SF Pichilemu
+11.5
+5.9
+-49.00 %
+PMGD PFV Ea Maiten
+6.8
+5.5
+-19.44 %
+PMGD PFV Eclipse
+48.3
+27.2
+-43.66 %
+PMGD PFV El Boco
+14.1
+27.7
++96.52 %
+PMGD PFV El Caiquén
+26.2
+13.7
+-47.71 %
+PMGD PFV El Cardenal
+9.2
+3.6
+-60.72 %
+PMGD PFV El Carpintero
+47.8
+3.1
+-93.47 %
+PMGD PFV El Castaño
+30.3
+26.3
+-13.01 %
+PMGD PFV El Cernicalo
+1.4
+1.7
++18.18 %
+PMGD PFV El Cernicalo II
+1.4
+1.6
++10.49 %
+PMGD PFV El Chercan
+12.1
+23.2
++91.91 %
+PMGD PFV El Chincol
+4.0
+3.2
+-21.25 %
+PMGD PFV El Chucao
+8.7
+3.4
+-61.29 %
+PMGD PFV El Cuervo
+0.0
+6.6
+-
+PMGD PFV El Cóndor
+2.3
+3.6
++57.58 %
+PMGD PFV El Divisadero
+13.6
+13.8
++1.91 %
+PMGD PFV El Estero
+7.5
+0.0
+-100.00 %
+PMGD PFV El Flamenco
+15.2
+10.8
+-29.09 %
+PMGD PFV El Gaviotin
+52.9
+53.8
++1.63 %
+PMGD PFV El Huaso
+8.7
+8.6
+-1.15 %
+PMGD PFV El Ingenio
+38.8
+38.6
+-0.64 %
+PMGD PFV El Interlocutor
+10.9
+11.1
++1.93 %
+PMGD PFV El Laurel
+23.5
+21.2
+-9.78 %
+PMGD PFV El Litre
+40.5
+41.2
++1.85 %
+PMGD PFV El Loro Choroy
+14.2
+0.0
+-100.00 %
+PMGD PFV El Mirlo
+34.0
+38.4
++12.86 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV San Eugenio
+25.3
+4.1
+-83.76 %
+PMGD PFV San Francisco
+12.6
+13.5
++7.06 %
+PMGD PFV San Isidro
+8.6
+10.2
++18.26 %
+PMGD PFV San José II
+8.7
+2.3
+-73.13 %
+PMGD PFV San Pedro
+14.3
+9.9
+-31.05 %
+PMGD PFV San Rafael
+7.0
+6.4
+-8.30 %
+PMGD PFV San Ramiro
+49.4
+28.4
+-42.43 %
+PMGD PFV San Vicente TT
+8.8
+9.0
++2.38 %
+PMGD PFV Sand Solar
+7.1
+4.7
+-33.80 %
+PMGD PFV Santa Adriana
+10.0
+10.7
++7.00 %
+PMGD PFV Santa Amelia
+7.6
+12.0
++57.74 %
+PMGD PFV Santa Blanca
+7.6
+8.1
++7.11 %
+PMGD PFV Santa Carolina
+9.6
+11.1
++16.53 %
+PMGD PFV Santa Cecilia
+10.0
+9.6
+-4.40 %
+PMGD PFV Santa Clara
+6.3
+4.4
+-30.63 %
+PMGD PFV Santa Cruz
+35.5
+28.5
+-19.73 %
+PMGD PFV Santa Elizabeth
+38.1
+36.9
+-3.31 %
+PMGD PFV Santa Emilia
+0.0
+20.3
+-
+PMGD PFV Santa Ester
+8.6
+1.9
+-77.45 %
+PMGD PFV Santa Francisca
+24.0
+26.6
++10.97 %
+PMGD PFV Santa Inés
+6.3
+11.5
++82.25 %
+PMGD PFV Santa Julia
+14.2
+0.0
+-100.00 %
+PMGD PFV Santa Laura
+8.6
+10.5
++22.21 %
+PMGD PFV Santa Lucía
+41.6
+0.0
+-100.00 %
+PMGD PFV Santa Luisa
+8.3
+2.0
+-75.88 %
+PMGD PFV Santa Margarita
+11.4
+6.0
+-47.63 %
+PMGD PFV Santa Pamela
+10.6
+3.6
+-66.35 %
+PMGD PFV Santa Rita
+8.1
+2.0
+-74.88 %
+PMGD PFV Santa Teresita
+34.2
+30.2
+-11.71 %
+PMGD PFV Santuario
+13.3
+13.7
++2.78 %
+PMGD PFV Saturno Norte
+4.6
+3.1
+-33.19 %
+PMGD PFV Siete Colores
+27.8
+29.0
++4.21 %
+PMGD PFV Sirimavo
+10.4
+13.2
++26.85 %
+PMGD PFV Sofia
+12.3
+15.3
++24.17 %
+PMGD PFV Sol de Septiembre
+44.9
+45.4
++1.02 %
+PMGD PFV Sol del Maule
+8.4
+3.0
+-64.57 %
+PMGD PFV Sol del Norte
+14.5
+15.3
++5.53 %
+PMGD PFV Solar Del Bueno
+3.2
+2.2
+-31.11 %
+PMGD PFV Solaris
+-
+0.0
+-
+PMGD PFV Soy Solar
+12.6
+13.8
++8.87 %
+PMGD PFV Sunhunter
+54.0
+54.2
++0.37 %
+PMGD PFV Sunray
+28.5
+0.0
+-100.00 %
+PMGD PFV Tabolango
+40.2
+45.3
++12.67 %
+PMGD PFV Talagante
+35.0
+38.5
++9.90 %
+PMGD PFV Talca
+13.6
+9.2
+-32.77 %
+PMGD PFV Talhuén
+15.3
+14.0
+-8.63 %
+PMGD PFV Tallado
+31.0
+0.0
+-100.00 %
+PMGD PFV Tamarama
+34.0
+41.1
++20.69 %
+PMGD PFV Tamarugo
+15.1
+0.0
+-100.00 %
+PMGD PFV Tambo Real
+14.3
+12.1
+-15.91 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV El Monte
+9.4
+8.7
+-7.06 %
+PMGD PFV El Palqui
+8.5
+10.5
++23.86 %
+PMGD PFV El Picurio
+7.1
+12.1
++70.56 %
+PMGD PFV El Pilpen
+8.4
+9.7
++15.36 %
+PMGD PFV El Pitio
+2.5
+2.9
++17.20 %
+PMGD PFV El Piuquen
+7.0
+1.7
+-75.99 %
+PMGD PFV El Queltehue
+10.0
+10.4
++3.90 %
+PMGD PFV El Quemado
+17.5
+15.8
+-10.00 %
+PMGD PFV El Queule
+20.8
+0.0
+-100.00 %
+PMGD PFV El Rayador
+42.5
+48.8
++14.93 %
+PMGD PFV El Reconquistador
+11.5
+2.9
+-75.20 %
+PMGD PFV El Resplandor
+9.8
+1.2
+-87.32 %
+PMGD PFV El Roble
+34.5
+23.4
+-32.32 %
+PMGD PFV El Romeral
+9.2
+31.0
++237.69 %
+PMGD PFV El Salitral
+18.6
+19.5
++4.78 %
+PMGD PFV El Sauce
+9.3
+6.3
+-32.15 %
+PMGD PFV El Sharon
+10.0
+6.7
+-33.76 %
+PMGD PFV El Tiuque
+4.2
+2.3
+-45.54 %
+PMGD PFV El Trigal
+47.5
+0.0
+-100.00 %
+PMGD PFV El Trile
+22.9
+14.1
+-38.37 %
+PMGD PFV El Trébol
+13.4
+8.8
+-34.75 %
+PMGD PFV El Turpial
+11.4
+12.0
++5.84 %
+PMGD PFV El Zorzal
+5.8
+5.8
+-
+PMGD PFV El Ñandú
+11.6
+14.3
++23.73 %
+PMGD PFV Enami Solar
+21.9
+21.9
++0.14 %
+PMGD PFV Encina III
+-
+23.1
+-
+PMGD PFV Encino
+10.0
+10.4
++3.29 %
+PMGD PFV Encon
+28.6
+2.7
+-90.52 %
+PMGD PFV Erinome
+7.4
+4.6
+-37.38 %
+PMGD PFV Escorial del Verano
+7.9
+11.7
++48.04 %
+PMGD PFV Esfena
+23.0
+31.4
++36.59 %
+PMGD PFV Esmeralda
+-
+3.1
+-
+PMGD PFV Esperanza
+9.1
+0.0
+-100.00 %
+PMGD PFV FRAGATA
+-
+12.2
+-
+PMGD PFV Falcón
+-
+7.4
+-
+PMGD PFV Faramalla
+10.1
+9.7
+-4.24 %
+PMGD PFV Fardela Negra
+9.8
+7.7
+-20.96 %
+PMGD PFV Filomena
+11.1
+11.0
+-0.36 %
+PMGD PFV Flor del Llano
+12.4
+0.0
+-100.00 %
+PMGD PFV Florencia Solar
+50.3
+51.3
++2.01 %
+PMGD PFV Foster
+11.3
+9.2
+-18.67 %
+PMGD PFV Fotovolt
+0.0
+0.0
+-
+PMGD PFV Fotovolt Lin
+10.9
+4.9
+-54.91 %
+PMGD PFV Francisco
+13.8
+9.4
+-31.81 %
+PMGD PFV Fulgor
+10.7
+0.9
+-91.57 %
+PMGD PFV Fuster del Verano
+46.7
+45.0
+-3.51 %
+PMGD PFV Fénix
+41.5
+38.8
+-6.60 %
+PMGD PFV GR Lemu
+14.1
+5.3
+-62.63 %
+PMGD PFV GR Peumo
+19.4
+28.1
++44.91 %
+PMGD PFV GR Pitao
+43.8
+42.9
+-2.12 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV Taranto
+36.2
+0.0
+-100.00 %
+PMGD PFV Taruca
+31.0
+33.2
++7.14 %
+PMGD PFV Techos de Altamira
+0.5
+0.0
+-100.00 %
+PMGD PFV Tes Solar
+10.2
+1.4
+-85.87 %
+PMGD PFV Tierra
+33.0
+0.0
+-100.00 %
+PMGD PFV Tijeral
+9.6
+9.7
++1.56 %
+PMGD PFV Til Til
+11.6
+11.2
+-3.55 %
+PMGD PFV Topacio
+9.3
+1.3
+-85.58 %
+PMGD PFV Torino
+9.5
+30.3
++220.42 %
+PMGD PFV Tortolas del Verano
+10.8
+10.9
++0.46 %
+PMGD PFV Tortuga
+1.7
+2.0
++15.47 %
+PMGD PFV Tranque del Sol
+0.0
+40.0
+-
+PMGD PFV Trebal
+13.2
+13.8
++4.70 %
+PMGD PFV Trebo
+10.6
+10.2
+-3.78 %
+PMGD PFV Trica-Dos
+4.4
+3.0
+-31.36 %
+PMGD PFV Tricahue II
+49.9
+5.6
+-88.86 %
+PMGD PFV Trinidad
+11.2
+6.4
+-43.46 %
+PMGD PFV Tucuquere
+9.9
+13.6
++36.97 %
+PMGD PFV Turquia
+4.3
+0.6
+-85.95 %
+PMGD PFV UTFSM V. Valdés
+0.2
+0.3
++87.50 %
+PMGD PFV UTFSM Vitacura
+0.0
+0.0
+-
+PMGD PFV UTFSM Viña
+0.7
+0.7
+-7.04 %
+PMGD PFV VELASCO SOLAR
+0.0
+0.0
+-
+PMGD PFV Valle Este II
+51.0
+49.6
+-2.75 %
+PMGD PFV Valle Oeste II
+51.7
+47.7
+-7.74 %
+PMGD PFV Valle de la Luna II
+5.6
+5.7
++2.32 %
+PMGD PFV Ventisquero
+10.3
+39.0
++280.39 %
+PMGD PFV Venturada
+32.2
+5.5
+-82.89 %
+PMGD PFV Verona
+3.9
+10.2
++159.95 %
+PMGD PFV Vicente
+13.3
+13.3
++0.60 %
+PMGD PFV Victoria
+49.7
+58.4
++17.54 %
+PMGD PFV Villa Alegre
+16.8
+8.8
+-47.86 %
+PMGD PFV Villa CVE
+-
+15.1
+-
+PMGD PFV Villa Cruz
+4.9
+4.2
+-13.67 %
+PMGD PFV Villa Moscoso
+9.3
+12.1
++29.90 %
+PMGD PFV Villa Prat
+0.0
+0.0
+-
+PMGD PFV Villa Seca
+3.9
+3.1
+-21.54 %
+PMGD PFV Villa Solar
+0.0
+4.9
+-
+PMGD PFV Violeta
+30.7
+34.5
++12.49 %
+PMGD PFV Vituco 2B
+11.0
+6.9
+-37.61 %
+PMGD PFV Viñas del Sol
+21.9
+22.7
++3.70 %
+PMGD PFV Yahutela
+21.1
+21.7
++2.79 %
+PMGD PFV Ñilhue
+3.8
+4.6
++23.73 %
+PMGD PFV Ñiquén
+4.1
+2.7
+-33.90 %
+PMGD TER Aggreko 01
+-
+0.0
+-
+PMGD TER Agni
+-
+0.0
+-
+PMGD TER Alerce
+-
+0.0
+-
+PMGD TER Almendrado
+-
+0.0
+-
+PMGD TER Ancalí
+-
+0.0
+-
+PMGD TER Aromos
+-
+0.0
+-
+Centrales
+Prog.
+Real
+Desv %
+PMGD PFV GR Rauli
+12.9
+23.4
++81.73 %
+PMGD PFV GR Santa Rosa
+27.9
+0.0
+-100.00 %
+PMGD PFV Gabardo del Verano
+23.2
+35.0
++51.01 %
+PMGD PFV Gabriela
+51.1
+53.1
++3.94 %
+PMGD PFV Girasoles
+11.0
+10.7
+-2.83 %
+PMGD PFV Granada
+24.2
+8.4
+-65.41 %
+PMGD PFV Granate
+62.8
+58.9
+-6.18 %
+PMGD PFV Guadalao
+8.7
+9.9
++13.68 %
+PMGD PFV Guadalupe
+30.7
+30.5
+-0.55 %
+PMGD PFV Guanaco Solar
+36.1
+39.6
++9.74 %
+PMGD PFV Guarana
+9.3
+8.0
+-14.24 %
+PMGD PFV Génova
+24.2
+4.4
+-81.63 %
+PMGD PFV Helios
+9.6
+9.4
+-1.78 %
+PMGD PFV Hijuela 4
+8.3
+4.5
+-45.24 %
+PMGD PFV Homero
+9.8
+9.1
+-7.24 %
+PMGD PFV Hormiga
+8.7
+8.4
+-2.77 %
+PMGD PFV Hornitos
+1.2
+0.2
+-84.75 %
+PMGD PFV Huape
+9.5
+1.9
+-80.44 %
+PMGD PFV Huaquelon
+54.1
+53.9
+-0.46 %
+PMGD PFV Huigan
+40.5
+44.4
++9.69 %
+PMGD PFV Hurtado
+10.0
+1.3
+-86.84 %
+PMGD PFV ICB
+0.0
+0.0
+-
+PMGD PFV ISIDRO
+35.3
+36.0
++2.16 %
+PMGD PFV Idahue del Verano
+10.5
+10.8
++3.25 %
+PMGD PFV Illapel 5X
+18.4
+14.0
+-24.18 %
+PMGD PFV Independencia
+11.1
+11.3
++1.72 %
+PMGD PFV Itahue Solar
+9.3
+16.7
++79.61 %
+PMGD PFV Jahuel
+25.2
+25.2
++0.16 %
+PMGD PFV Jardin Solar Petorca
+40.9
+40.1
+-1.84 %
+PMGD PFV Jaururo
+9.5
+11.2
++17.58 %
+PMGD PFV Javiera Carrera
+42.0
+0.0
+-100.00 %
+PMGD PFV Jilguero
+3.9
+8.7
++122.05 %
+PMGD PFV José Soler Mallafré
+2.7
+4.4
++65.06 %
+PMGD PFV Kaufmann
+0.0
+0.0
+-
+PMGD PFV Konda
+10.1
+12.1
++20.00 %
+PMGD PFV La Acacia
+37.2
+28.0
+-24.78 %
+PMGD PFV La Blanquina
+36.8
+36.3
+-1.14 %
+PMGD PFV La Chapeana
+10.3
+0.0
+-100.00 %
+PMGD PFV La Chimba Bis
+10.7
+9.8
+-7.95 %
+PMGD PFV La Esperanza II
+36.7
+24.6
+-33.02 %
+PMGD PFV La Estancia
+10.6
+9.9
+-5.87 %
+PMGD PFV La Foresta
+0.0
+4.0
+-
+PMGD PFV La Frontera
+19.6
+9.2
+-52.99 %
+PMGD PFV La Gamboina
+21.4
+23.8
++10.98 %
+PMGD PFV La Gonzalina de
+Tuniche Sunlight
+1.3
+1.4
++1.50 %
+PMGD PFV La Huerta
+0.0
+0.0
+-
+PMGD PFV La Lajuela
+19.2
+17.6
+-8.44 %
+PMGD PFV La Ligua
+10.5
+14.6
++39.14 %
+PMGD PFV La Manga
+14.3
+7.2
+-49.65 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD TER Bellet
+-
+0.0
+-
+PMGD TER Berlioz
+-
+0.0
+-
+PMGD TER Bio Cruz
+-
+0.0
+-
+PMGD TER Bluegate
+-
+0.0
+-
+PMGD TER Boldos
+-
+0.0
+-
+PMGD TER Calafate
+-
+0.0
+-
+PMGD TER Calfuco
+-
+0.0
+-
+PMGD TER Camping
+-
+0.0
+-
+PMGD TER Casablanca
+-
+0.0
+-
+PMGD TER Casablanca II
+-
+0.0
+-
+PMGD TER Cañete
+-
+0.0
+-
+PMGD TER Chile
+-
+0.0
+-
+PMGD TER Chillan
+-
+0.0
+-
+PMGD TER Chorrillos
+-
+0.0
+-
+PMGD TER Chufkén
+-
+0.0
+-
+PMGD TER Ciruelillo
+-
+0.0
+-
+PMGD TER Coelemu
+-
+54.4
+-
+PMGD TER Conchalí
+-
+0.0
+-
+PMGD TER Contulmo
+-
+0.0
+-
+PMGD TER Copiulemu
+-
+0.0
+-
+PMGD TER Cortés
+-
+0.0
+-
+PMGD TER Curacautín
+-
+0.0
+-
+PMGD TER Curauma
+-
+0.0
+-
+PMGD TER Dagoberto
+-
+0.0
+-
+PMGD TER Deuco
+-
+0.0
+-
+PMGD TER Diesel Cerezo
+-
+0.0
+-
+PMGD TER Diesel Coya
+-
+0.0
+-
+PMGD TER Diésel Colaco
+Pargua
+-
+0.0
+-
+PMGD TER Don Pedro
+-
+0.0
+-
+PMGD TER Doña Javiera
+-
+0.6
+-
+PMGD TER Egido
+-
+0.0
+-
+PMGD TER El Campesino
+-
+0.7
+-
+PMGD TER El Canelo
+-
+0.0
+-
+PMGD TER El Faro
+-
+0.0
+-
+PMGD TER El Jardin
+-
+0.0
+-
+PMGD TER El Molle
+-
+0.0
+-
+PMGD TER El Nogal
+-
+0.0
+-
+PMGD TER Ermitaño
+-
+0.0
+-
+PMGD TER Estancilla
+-
+0.0
+-
+PMGD TER Estandartes
+-
+0.0
+-
+PMGD TER Etersol
+-
+0.0
+-
+PMGD TER Exequiel Fernández
+-
+0.0
+-
+PMGD TER Gami
+-
+0.0
+-
+PMGD TER HBS
+-
+0.0
+-
+PMGD TER HBS GNL
+-
+0.0
+-
+PMGD TER Holley
+-
+0.0
+-
+PMGD TER La Gloria-21
+-
+3.2
+-
+PMGD TER Lagunitas
+-
+0.0
+-
+PMGD TER Las Dalias
+-
+0.0
+-
+Centrales
+Prog.
+Real
+Desv %
+CSE:
+Conectada a Sistema Externo
+DF:
+Desconexión Forzada
+LF:
+Limitación Forzada
+MM:
+Mantenimiento Mayor
+Abreviaturas:
+PMGD PFV La Muralla
+9.7
+10.0
++2.89 %
+PMGD PFV La Palma Solar
+39.1
+8.1
+-79.27 %
+PMGD PFV La Paz
+45.4
+46.3
++1.80 %
+PMGD PFV La Perla
+8.3
+0.0
+-100.00 %
+PMGD PFV La Vendimia
+40.3
+15.4
+-61.85 %
+PMGD PFV La Victoria
+28.9
+5.6
+-80.62 %
+PMGD PFV Lagunilla
+10.8
+6.5
+-39.76 %
+PMGD PFV Laja Andino
+28.9
+3.9
+-86.48 %
+PMGD PFV Las Arboledas
+4.0
+12.9
++225.57 %
+PMGD PFV Las Bandurrias
+4.5
+3.8
+-14.09 %
+PMGD PFV Las Cabras
+11.1
+9.2
+-16.79 %
+PMGD PFV Las Cachañas
+32.2
+35.1
++9.10 %
+PMGD PFV Las Catitas
+19.0
+10.4
+-45.15 %
+PMGD PFV Las Chacras
+10.6
+7.0
+-33.68 %
+PMGD PFV Las Chilcas
+29.4
+32.7
++11.31 %
+PMGD PFV Las Codornices
+2.1
+2.6
++24.76 %
+PMGD PFV Las Golondrinas
+7.6
+9.1
++20.74 %
+PMGD PFV Las Lechuzas
+2.1
+2.2
++6.19 %
+PMGD PFV Las Majadas
+36.8
+37.6
++2.32 %
+PMGD PFV Las Mercedes
+10.8
+10.1
+-5.95 %
+PMGD PFV Las Mollacas
+10.3
+0.0
+-100.00 %
+PMGD PFV Las Palmas Verano
+11.3
+9.2
+-19.03 %
+PMGD PFV Las Palomas
+2.3
+1.8
+-22.61 %
+PMGD PFV Las Perdices
+5.7
+6.5
++13.86 %
+PMGD PFV Las Rojas
+11.8
+0.0
+-100.00 %
+PMGD PFV Las Tacas
+-
+14.9
+-
+PMGD PFV Las Taguas
+0.0
+51.6
+-
+PMGD PFV Las Tencas
+37.7
+38.7
++2.65 %
+PMGD PFV Las Terrazas
+6.8
+10.6
++56.18 %
+PMGD PFV Las Torcazas
+11.4
+6.0
+-47.14 %
+PMGD PFV Las Tortolas
+9.5
+2.0
+-79.31 %
+PMGD PFV Las Turcas
+13.5
+5.1
+-62.59 %
+PMGD PFV Lenga
+0.0
+0.0
+-
+PMGD PFV Liebre Verano
+33.0
+39.8
++20.81 %
+PMGD PFV Lima
+9.8
+9.6
+-1.23 %
+PMGD PFV Linares
+18.6
+8.6
+-53.47 %
+PMGD PFV Lingue
+11.7
+10.1
+-13.90 %
+PMGD PFV Lipangue
+9.5
+13.5
++41.58 %
+PMGD PFV Liquidambar
+36.0
+35.4
+-1.45 %
+PMGD PFV Lirio del Campo
+8.5
+10.7
++26.83 %
+PMGD PFV Litoral Sunlight
+41.2
+36.0
+-12.61 %
+PMGD PFV Llanos de Potroso
+8.2
+6.3
+-23.82 %
+PMGD PFV Llay Llay
+46.4
+46.0
+-1.03 %
+PMGD PFV Lloica
+11.9
+11.7
+-1.32 %
+Centrales
+Prog.
+Real
+Desv %
+PMGD TER Las Pampas
+-
+0.0
+-
+PMGD TER Lebu
+-
+0.0
+-
+PMGD TER Lepanto
+-
+0.0
+-
+PMGD TER Lipigas Concón
+-
+0.0
+-
+PMGD TER Lomas Coloradas
+-
+20.7
+-
+PMGD TER Lonquimay
+-
+0.0
+-
+PMGD TER Los Pinos
+-
+56.6
+-
+PMGD TER Los Sauces
+-
+0.0
+-
+PMGD TER Los Álamos
+-
+0.0
+-
+PMGD TER Louisiana Pacific
+-
+0.0
+-
+PMGD TER Lousiana Pacific II
+-
+0.0
+-
+PMGD TER Mayor Power
+-
+0.0
+-
+PMGD TER Mimbre
+-
+0.0
+-
+PMGD TER Monte Patria
+-
+0.0
+-
+PMGD TER Multiexport
+-
+0.0
+-
+PMGD TER Multiexport II
+-
+0.0
+-
+PMGD TER Orafti
+-
+3.6
+-
+PMGD TER PRP Campesina
+-
+0.0
+-
+PMGD TER PRP Chifin
+-
+0.0
+-
+PMGD TER PRP Las Quemas
+-
+0.0
+-
+PMGD TER PRP Los Negros
+-
+0.0
+-
+PMGD TER PRP Tambores
+-
+0.0
+-
+PMGD TER Pinares
+-
+0.0
+-
+PMGD TER Punitaqui
+-
+0.0
+-
+PMGD TER Quitralman
+-
+0.0
+-
+PMGD TER Ramadilla
+-
+0.0
+-
+PMGD TER Rapaco
+-
+0.0
+-
+PMGD TER Raso Power
+-
+0.0
+-
+PMGD TER Rey
+-
+0.0
+-
+PMGD TER Río Azul
+-
+0.0
+-
+PMGD TER Salmofood
+-
+0.0
+-
+PMGD TER Santa Irene
+-
+0.0
+-
+PMGD TER Sepultura
+-
+0.0
+-
+PMGD TER Tamm
+-
+0.0
+-
+PMGD TER Tapihue
+-
+0.0
+-
+PMGD TER Tigre
+-
+0.0
+-
+PMGD TER Tirúa
+-
+0.0
+-
+PMGD TER Tomaval
+-
+0.0
+-
+PMGD TER Trebal Mapocho
+-
+14.5
+-
+PMGD TER TrongolCuranilahue
+-
+0.0
+-
+PMGD TER Yumbel
+-
+0.0
+-
+PMGD TER Zapallar
+-
+0.0
+-
+PMGD TER Zofri
+-
+0.0
+-
+Total
+12278.9
+11358.1
+-7.50 %
+Centrales
+Prog.
+Real
+Desv %
+ERE:
+Estado de Reserva Estratégica
+FE:
+Falla Externa
+P:
+Prueba de Puesta en Servicio
+RO:
+Restricción Operativa
+SI:
+Sin información
+2
+JUSTIFICACIÓN DE PRINCIPALES DESVIACIONES (*)
+HE Angostura
+Menor generación real por control Cota.
+PE Los Olmos
+Mayor generación real por mayor carga Eólica.
+PE Malleco Norte
+Mayor generación real por mayor carga Eólica.
+PE Malleco Sur
+Mayor generación real por mayor carga Eólica.
+PE Renaico II
+Mayor generación real por mayor carga Eólica.
+PE San Gabriel
+Mayor generación real por mayor carga Eólica.
+TER Atacama 1 GNL
+Menor generación real por retraso en el proceso de partida.
+3
+ESTADO DE LAS CENTRALES
+3
+.
+1
+. 
+Desconexión Forzada
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+CSP Cerro Dominador
+0.0
+Indisponible. Causa informada: Inspección y reparación de rotura de tubería correspondiente al generador de vapor. Condiciones
+requeridas, según SDCF 2023045296.
+HE Angostura
+0.0
+U3 Indisponible. Causa informada: Falla en sistema de control, según IF 2025004460.
+HP Alfalfal 2
+0.0
+U-1 y U-2 indisponibles. Causa Informada: Inspección por detección de desprendimientos focalizados en un sector del túnel Las
+Lajas, según SDCF 2023012245 y 2023012246.
+PFV Gran Teno
+0.0
+Indisponible. Causa informada: Falla transformador de poder por daño en aisladores, según IF 2024004680.
+TER Atacama 2 GNL
+50.0
+TG2A indisponible. Causa informada: Alta temperatura de escape de gas, según IF 2025002715.
+TER Nueva Ventanas
+0.0
+Con solicitud de desconexión de curso forzoso. Causa informada: Tubo roto de caldera, según SDCF 2025074297.
+TER Santa María
+0.0
+Indisponible. Causa informada: Bloqueo del eje de turbina, según IF 2025002519.
+3
+.
+2
+. 
+Limitación Forzada
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+BESS Andes IV
+99.7
+Limitada a 121.48 MW. Causa informada: Indisponibilidad de COREs: 13, 19, 43, 46, 3 y 4, según IL 2025001492 e IL
+2025001493.
+BESS Andes Solar IIB
+94.0
+Limitada a 121.3 MW. Causa informada: Indisponibilidad de COREs: 46, 51 y 52, según IL 2025001495 e IL 2025001496.
+HE Cipreses
+69.0
+U3 limitada a 15 MW. Causa informada: limitaciones de generación: 15 MW como Potencia máxima y 0 MVAR en reactivos. Esto
+debido a las intervenciones técnicas en el bobinado estatórico de la unidad generadora. En rangos de 0 a 15 MW No podrá
+aportar los siguientes SSCC: CPF, CSF y CT., según IL 2025001067.
+PFV Andes Solar II-B
+96.1
+Limitada a 121.3 MW. Causa informada: Indisponibilidad de COREs: 46, 51 y 52, según IL 2025001495 e IL 2025001496.
+PFV Andes Solar IV
+98.9
+Limitada a 121.48 MW. Causa informada: Indisponibilidad de COREs: 13, 19, 43, 46, 3 y 4, según IL 2025001492 e IL
+2025001493.
+PFV Carrera Pinto
+80.0
+Limitada a 75 MW. Causa informada: Anormalidad en un circuito de generación, según IL 2025001198 y limitada a 80 MW. Causa
+informada: Se tiene control con el PPC de la planta, condicionado a 80 MW. Queda pendiente recuperar la comunicación con el
+30% de los Trakers, para alcanzar la potencia nominal, según IL 2025000116.
+PFV Cerro Dominador
+98.0
+Limitado a 98 MW. Causa informada: Anormalidad en circuitos de generación, según IL 2025001202.
+PFV Guanchoi
+100.0
+Limitado a 146 MW. Causa informada: Líneas de generación indisponibles por cambios de equipos primarios, según IL
+2025001169.
+PFV Llano de Llampos
+64.0
+limitada a plena carga provisoria de 65 MW. Causa informada: desvinculación de Transformador T2D de S/E Central Llano de
+Llampos paño JT1 por fuga de aceite en Bushing lado 220 kV asociado, según IL 2025001385
+PFV Rio Escondido
+81.0
+Limitada a 130 MW. Causa informada: Limitación de inversores a raíz de incendio presentado el día 30.01.2025, según IL
+2025000550.
+PFV Santa Isabel
+74.0
+Limitada a 68.75 MW. Causa informada: Desconexión de barra 3 para puesta en marcha generador de respaldo por pérdida de
+SSAA conectados a la barra 2, según IL 2025001459.
+PFV Sol de Lila
+14.75
+Limitada a 22 MW. Causa informada: Retiro y reparación de 24 transformadores de cabinas, según IL 2025000362.
+PFV Valle Escondido
+98.0
+Limitada a 98.46 MW. Causa informada: Falla en Inversor 11 del circuito 3 e inversor 19 del circuito 7, según IL 2025000024.
+TER Atacama 1 Diésel
+35.0
+TG1B limitada a 31 MW con combustible diésel. Causa informada: Alta presión diferencial de cámaras en circuito secundario,
+según IL 2025000355.
+TER Atacama 2 GNL
+96.0
+Limitada a 340 MW. Causa informada: Falla de bomba de vacío del condensador, según IL 2024001947.
+TER Guacolda 1
+81.1
+Limitada a 125 MW. Causa informada: Alta diferencial en los filtros de manga, indispone control secundario y terciario de
+frecuencia, según IL 2025000925.
+TER Guacolda 2
+89.6
+Limitada a 130 MW. Causa informada: Máxima apertura de válvula de turbina (TMD), según IL 2025000179.
+TER Nehuenco 9B Diésel
+0.0
+Limitada a mantenerse por 3 horas diarias en servicio al MT.
+TER Nehuenco 9B GNL
+87.9
+Limitada a 95 MW. Causa informada: Por degradación de la unidad, según IL 2025000641.
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+3
+.
+3
+. 
+Mantenimiento Mayor
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+HE Cipreses
+69.0
+U-3 Mantenimiento mayor.
+HP La Confluencia
+50.0
+U-1 Mantenimiento mayor.
+HP Rucue
+50.0
+U-1 Mantenimiento mayor.
+TER Guacolda 1
+0.0
+Mantenimiento mayor.
+TER Nehuenco II GNL
+0.0
+Mantenimiento mayor.
+3
+.
+4
+. 
+Prueba de Puesta en Servicio
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+BESS Desierto de Atacama
+0.0
+En periodo de puesta en servicio.
+BESS Nuevo Quillagua
+0.0
+En periodo de puesta en servicio.
+BESS Nuevo Quillagua II
+0.0
+En periodo de puesta en servicio.
+PE ANTOFAGASTA
+0.0
+En periodo de puesta en servicio.
+PE Horizonte Sur
+0.0
+En periodo de puesta en servicio.
+PFV Desierto de Atacama
+0.0
+En periodo de puesta en servicio.
+TER Arauco MAPA
+0.0
+En periodo de puesta en servicio.
+3
+.
+5
+. 
+Restricción Operativa
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+HE Antuco
+100.0
+Debido al inicio de la temporada de riego 2024 - 2025, la central deberá generar en forma constante todo el caudal del afluente
+natural más el caudal que la DOH solicite turbinar por la central El Toro, según IL 2025000880 e IL 2025000881.
+HE Colbún
+100.0
+Limitada. Causa informada: Bajo la cota 418 msnm, las unidades 1 y 2 no podrán prestar SS/CC de control primario ni secundario
+de frecuencia. Para alcanzar los valores de potencia asignados, las tomas de carga de las unidades sólo podrán realizarse en
+forma sucesiva, de modo que, al efectuar la toma de carga de una de las unidades, la otra esté detenida, o bien funcionando
+enclavada en una potencia fija. Esta condición deberá cumplirse cualquiera sea la magnitud de la toma de carga y su grado de
+rapidez. Una vez alcanzada la carga asignada, estas deberán permanecer enclavadas, según IL 2025000940.
+HE El Toro
+100.0
+Limitada. Causa informada: Sin prestar servicio de AGC por difícil forma de sostener los sistemas hidro-mecánicos que regulan la
+generación , según IL 2021001180.
+HE Los Cóndores
+100.0
+De acuerdo con el marco operativo global de la Central Los Cóndores, todas las variaciones en el caudal son determinadas por la
+Dirección de Obras Hidráulicas (DOH), previa solicitud de la Junta de Vigilancia del Río Maule o, en su caso, por la generación.
+En consecuencia, las extracciones de agua de la Laguna del Maule deben realizarse preferentemente desde la Central Los
+Cóndores, de acuerdo con los principios de uso eficiente del recurso hídrico. Cabe destacar que tanto los ajustes operativos de la
+Central Los Cóndores como las compuertas de extracción de la Laguna del Maule están bajo el control y supervisión directa de la
+DOH, lo que impide que la central pueda modular su generación de manera autónoma, según IL 2025000512.
+HE Pangue
+100.0
+Limitada. Causa informada: Por compromisos en periodo de riego podrá operar por debajo de su valor de mínimo técnico
+declarado. Para lo anterior, unidades deberán ser despachadas según lo siguiente: De lunes a domingo de 09.00 hrs. a 19.00 hrs:
+Generar a una potencia mínima de 20 MW con unidades enclavadas para cumplir con caudal mínimo de 40 m3/s (variaciones
+bruscas de caudal). El horario de inicio y término de la bajada y subida de carga podría variar ± una hora, siempre y cuando se
+logre cumplir con las cotas objetivo del embalse Ralco declaradas en el convenio con la JVBB. Se debe respetar en todo
+momento un caudal mínimo de 40 m3/s y un caudal promedio diario de 65 m3/s, según IL 2025000184.
+HE Pehuenche
+100.0
+Sistema ERAG/EDAG con limitación. Causa informada: Se detecta falla presente en los equipos de la celda maestra del
+esquema, según IL 2025000101.
+HE Ralco
+100.0
+Debido a restricciones en las obras del túnel de aducción para nivel del embalse entre las cotas 700,00 y 696,00 msnm y según
+lo descrito en Orden de Operación local B-08 "Regulación de frecuencia y AGC del SEN", la central puede participar del control
+de frecuencia bajo las siguientes condiciones: 1.- Control primario de frecuencia: Las unidades de Central Ralco podrán operar
+con estatismo base 2 equivalente a 7%. 2.- Control secundario de frecuencia (modo AGC): Las unidades de Central Ralco podrán
+operar con estatismo en base 2 equivalente a 7%. Para niveles del embalse inferiores a la cota 696,00 m.s.n.m. la central deberá
+operar de la siguiente forma: 1.- Unidades no podrán operar en modo AGC y se deberá seleccionar toma de carga lenta en el
+regulador de velocidad. 2.- Se deberá trabajar con ambas unidades enclavadas de manera que, frente a oscilaciones del SEN, no
+se produzcan variaciones bruscas de carga que puedan provocar disminución considerable en nivel de chimenea de equilibrio y/o
+fallas civiles en túnel de aducción, según IL 2024000660.
+HE Rapel
+100.0
+En atención a los compromisos con las comunidades ribereñas, y adicionalmente a que el caudal afluente está tendiendo a cero,
+se requiere cerrar 2 (dos) compuertas de toma de las unidades generadoras cuando estas estén detenidas, de preferencia
+Unidades 1 y 3. Lo anterior permiten disminuir filtraciones propias asociadas a conjunto turbina/generador estimándose un ahorro
+de recurso hídrico por las 2 unidades que se encuentren con sus compuertas cerradas de 1,2 m3/s en total, equivalente a 18
+MWh/día aprox. Debido a esto, los tiempos de partida de las unidades que se encuentren con sus compuertas de toma cerradas,
+aumentará de 3 minutos (compuerta abierta) a 14 minutos (compuerta cerrada), según IL 2022002402. Rapel U4 con mínimo
+técnico provisorio de 50 MW, cuando preste el servicio de "control segundario de frecuencia" (AGC), este deberá consignarse
+como mínimo una carga de 58 MW. Esto con el fin de mantenerla garantía post repowering. Además esta Unidad NO puede
+participar como condensador síncrono, según IL 2024001288.
+HP Abanico
+100.0
+No se puede retirar completamente de servicio, para alimentar cliente externo Frontel, que alimenta la zona de Antuco, Abanico y
+lago Laja, como tambén alimenta los SS/AA de central El Toro y respalda SS/AA de la central Antuco, según IL 2020002320.
+HP Alfalfal
+100.0
+Limitada no pueden ser sujetas a reducción de generación (curtailment) y no podrán participar de la prestación de SSCC, debido
+a que dichas acciones provocan movimientos de caudales y golpes de agua no planificados que pueden afectar a otros usuarios
+del río, según IL 2024000725.
+PE Kallpa
+100.0
+Limitada a operar en AGC, según IL 2025000827.
+PE San Juan
+100.0
+Mínimo técnico para funcionar con todos las WTG´s sin detención de ninguna de estas es de 19,32 MW. Por contraparte, el
+Mínimo Técnico para que una WTG se encuentre operativa y todas las demás detenidas es de 2,32 MW, según IL 2025000121.
+PE Sierra Gorda Este
+100.0
+limitada a variar reactivos. Causa informada: Parque Eólico con limitación para absorber o inyectar Potencia Reactiva, debido a
+falla en Controlador de cambiador de tap del transformador de poder en S/E El Arriero, según IL 2025000784.
+PFV Granja Solar
+100.0
+Limitada e inyectar o absorber 17 MVAr, según IL 2024000700.
+PFV Guanchoi
+100.0
+Limitada a prestar SSCC de CPF. Causa informada: Debido a bloqueo del sistema Under/Over Frecuency a nivel de SW del PPC,
+se informa la imposibilidad de disponer la función de SSCC CPF, según IL 2025000738.
+PFV Luz del Norte
+100.0
+Limitada a prestar servicio de control secundario con AGC y control primario. Causa informada: Producto del mal funcionamiento
+en la aplicación del servicio complementario, según IL 2025000953 e IL 2025000954.
+PFV Malgarida
+100.0
+Limitada para participar en SSCC-CPF debido a comportamiento irregular de la potencia activa al realizar su activación según
+programa, según IL 2025000612.
+TER Angamos-ANG1
+100.0
+Limitada para prestar servicios complementarios de CPF debido a la necesidad de mejoras en los sistemas de control, según IL
+2023001864.
+TER Angamos-ANG2
+100.0
+Limitada para prestar servicios complementarios de CPF debido a la necesidad de mejoras en los sistemas de control, según IL
+2024000416.
+TER Cochrane-CCH1
+100.0
+Limitada a prestar servicios complementarios de CPF. Causa informada: debido a que los ensayos de verificación de SSCC dan
+cuenta que la unidad no puede asegurar la adecuada entrega de CPF en modo "Coordinado" y "Caldera sigue" afectando la
+seguridad del SEN, acorde con lo descrito en la comunicación COC 0074-2022, según IL 2024000732.
+TER Cochrane-CCH2
+100.0
+Limitada a prestar servicios complementarios de CPF. Causa informada: Debido a que los ensayos de verificación de SSCC dan
+cuenta que la unidad no puede asegurar la adecuada entrega de CPF en modo "Coordinado" y "Caldera sigue" afectando la
+seguridad del SEN, acorde con lo descrito en la comunicación COC 0085-2022, según IL 2025001353.
+TER Guacolda 1
+0.0
+C. Guacolda U-1 con limitación. Causa informada: Para dar cumplimiento al DS13/2011 se actualizan los tiempos mínimos de
+operación en ciclaje persistente para las Unidades de Central Guacolda. Unidad TER Guacolda U1, partida en frío (mayor a 48
+horas F/S): 9 horas, partida en tibio (entre 8 y 48 horas F/S): 9 horas y partida en caliente (menor a 8 horas F/S): 5 horas. Según
+IL 2025001401.
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+TER Guacolda 2
+89.6
+C. Guacolda U-2 con limitación. Causa informada: Para dar cumplimiento al DS13/2011 se actualizan los tiempos mínimos de
+operación en ciclaje persistente para las Unidades de Central Guacolda. Unidad TER Guacolda U2, partida en frío (mayor a 48
+horas F/S): 6 horas, partida en tibio (entre 8 y 48 horas F/S): 6 horas y partida en caliente (menor a 8 horas F/S): 6 horas. Según
+IL 2025001402.
+TER Guacolda 3
+100.0
+C. Guacolda U-3 con limitación. Causa informada: Para dar cumplimiento al DS13/2011 se actualizan los tiempos mínimos de
+operación en ciclaje persistente para las Unidades de Central Guacolda. Unidad TER Guacolda U3, partida en frío (mayor a 48
+horas F/S): 25 horas, partida en tibio (entre 8 y 48 horas F/S): 25 horas y partida en caliente (menor a 8 horas F/S): 15 horas.
+Según: IL 2025001403.
+TER Guacolda 4
+100.0
+C. Guacolda U-4 con limitación. Causa informada: Para dar cumplimiento al DS13/2011 se actualizan los tiempos mínimos de
+operación en ciclaje persistente para las Unidades de Central Guacolda. Unidad TER Guacolda U4, partida en frío (mayor a 48
+horas F/S): 20 horas, partida en tibio (entre 8 y 48 horas F/S): 20 horas y partida en caliente (menor a 8 horas F/S): 11 horas.
+Según: IL 2025001404.
+TER Guacolda 5
+100.0
+C. Guacolda U-5 con limitación. Causa informada: Para dar cumplimiento al DS13/2011 se actualizan los tiempos mínimos de
+operación en ciclaje persistente para las Unidades de Central Guacolda. Unidad TER Guacolda U5, partida en frío (mayor a 48
+horas F/S): 15 horas, partida en tibio (entre 8 y 48 horas F/S): 15 horas y partida en caliente (menor a 8 horas F/S): 15 horas.
+Según IL 2025001405.
+TER IEM
+100.0
+Imposibilidad de dar AGC. Causa informada: Afecta solo el SSCC de CSF. Se esta investigando el origen del problema. CDC no
+tiene señales relacionadas con el CSF llegando a scada en extremo del coordinador, según IL 2025001138.
+TER Nehuenco 9B Diésel
+0.0
+Limitada para arrancar con diésel, motivos descritos en la carta GO Carta N°012-2023. Compresor de aire atomizador (CAA)
+queda con un bypass temporal, disponibilizando la unidad solo con gas, según IL 2025000643.
+TER Nehuenco 9B GNL
+87.9
+Limitada a mantenerse a MT de 3 horas por día, según IL 2025000642.
+TER Nueva Renca Gas Arg
+100.0
+Limitada sin disponibilidad de gas Argentino de la serie B y C. Causa informada: Restricción por trabajos de empresa de
+gaseoducto argentina TGN, según IL 2025001155.
+TER Nueva Renca GNL
+100.0
+Limitada a dar CTF de bajada en forma parcial. Causa informada: Con "Fuegos adicionales" sólo puede prestar servicios con
+valores mayores y/o iguales a 40 MW, según IL 2024000680.
+TER Nueva Ventanas
+100.0
+Entre 22:00 hrs. y las 05:00 hrs. Central no puede realizar proceso de puesta en servicio debido limites de ruido ambiental
+(comunidad aledaña), según 
+IL 2021002403.
+TER Quintero 1A Diésel
+0.0
+Limitada a no generar con diesel. Causa informada: Restricción medio ambiental. Disponible con Gas, continuación del
+documento IL1035/2019, según IL 2020000259.
+TER Quintero 1A GNL
+100.0
+Limitada en rango para prestar CSF - AGC. Causa informada: Debido a falla en válvula VA20-1 IBH, se necesita mantener la
+potencia de la unidad entre 90 MW y 120 MW, ya que a esa potencia no necesita la válvula VA20-1 IBH, según IL 2025001050.
+TER Quintero 1B Diésel
+0.0
+Limitada a no generar con diesel. Causa informada: Restricción medio ambiental. Disponible con Gas, continuación del
+documento IL1036/2019, según IL 2020000260.
+TER San Isidro I GNL
+100.0
+Limitación en ciclo combinado, es posible prestar servicios complementarios de AGC sólo en cargas inferiores a 260 MW (Ciclo) y
+superiores a 200 MW (Ciclo), con una pendiente de carga de 6 MW/min, según IL 2024000720.
+TER Taltal 1 GNL
+100.0
+Limitada a prestar SSCC de AGC. Causa informada: Aumento en la temperatura del tunel de carga entre 70 MW y 90 MW, según
+IL 2025001152.
+TER Taltal 2 GNL
+100.0
+Limitación. Causa informada: Unidad TG2 no puede realizar AGC entre 70 MW y 85 MW por aumento en la T° del túnel de carga.
+Unidad no podrá prestar servicios complementarios entre 70 MW y 85 MW, según IL 2025000441.
+TER Tocopilla-U16 GNL
+100.0
+Limitada a un mínimo técnico provisorio de 140 MW. Causa informada: Anormalidad mecánica de la TG, según IL 2025001171 y
+limitada a operar con Diesel. Causa informada: por problema en sistema de combustión, queda 100% disponible con gas, según
+IL 2023001906.
+CENTRALES (≥100 MW)
+Disponibilidad (%)
+Observaciones
+4
+ANTECEDENTES DE LA OPERACIÓN DIARIA 
+SEN
+4
+.
+1
+. 
+Observaciones
+Hora
+Centro de
+Control
+Observación
+00:00
+CDC
+Cs. PFV Desierto de Atacama, PFV Leyda, PE Horizonte Sur, PFV Loma Los Colorados, PE Lebu (Ampliación de 6,5 a 10 MW), Dos Valles, El Pinar U-1, PE Punta de Talca, PE
+Antofagasta, Cogeneradora Mapa continúan en período de puesta en servicio.
+01:09
+Engie
+Generación
+C. Mejillones IEM disponible para realizar AGC, cancelada IL 2025001138.
+02:17
+Puntilla
+C. Puntilla U-2 sale del servicio en forma intempestiva con 6.5 MW, según IF 2025004598.
+04:06
+Nexpertia
+S/E El Rosal línea de 220 kV EL Rosal - Los Varones interrupción forzada por protecciones, según IF 2025004601.
+04:14
+Nexpertia
+S/E El Rosal línea de 220 kV EL Rosal - Los Varones cerrada, cancelado IF 2025004601.
+05:42
+Colbún
+C. Quilleco U-1 sale de servicio en forma intempestiva con 34 MW, según IF 2025004599.
+05:42
+Colbún
+C. Quilleco U-2 indisponible. Causa informada: Falla en el proceso de partida, según IF 2025004600.
+06:00
+Colbún
+C. Nehuenco cancelada limitación de disponibilidad de gas. Cancelada IL 2025001501.
+06:00
+Enel
+Generación
+C. San Isidro 1, San Isidro 2, Quintero U-1 y Quintero U-2 con limitación. Causa informada: Debido al control de suministro de gas argentino, se cuenta con un volumen de 1.8 millones
+de metros cúbicos, según IL 2025001500. Cancelada limitación IL 2025001497.
+06:00
+Interchile
+Línea de 500 kV Nueva Pan de Azúcar - Polpaico 2 con solicitud de desconexión de curso forzoso. Causa informada: Cambio de aisladores dañados, según SDCF 2025074302.
+06:28
+Nexpertia
+S/E El Rosal línea de 220 kV EL Rosal - Los Varones interrupción forzada por protecciones, según IF 2025004602.
+06:30
+Interchile
+Líneas de 500 kV Nueva Pan de Azúcar - Polpaico 1 y 2 teleprotección TPS1 vía OPLAT deshabilitada. Causa informada: Mientras se encuentre desconectada y aterrizada LT 500 kV
+Nueva Pan de Azúcar - Polpaico 2. teleprotección secundaria TPS2 vía OPGW se encuentra 100% operativa, según IL 2025001499.
+06:32
+Nexpertia
+S/E El Rosal línea de 220 kV EL Rosal - Los Varones cerrada, cancelado IF IF 2025004602.
+07:27
+Colbún
+C. Quilleco U-2 disponible, cancelada IF 2025004600.
+07:47
+CGE -
+Transmisión
+S/E Pelequén interruptor B1 con limitación. Causa informada: Sin control local por falla en botonera, según IL 2025001502.
+08:00
+Nexpertia
+Línea de 500 kV Changos - Kimal 1 y 2 con solicitud de intervención de curso forzoso. Causa informada: Medición y reparación de fibra óptica cortada entre las torres 217 y 218 para
+normalización de función 87L según IL 2025001479. Los trabajos no afectarán las protecciones de respaldo operativas, según SICF 2025074364.
+08:09
+Nexpertia
+S/E El Rosal línea de 220 kV EL Rosal - Los Varones interrupción forzada por protecciones, según IF 2025004603.
+11:43
+Colbún
+C. Quilleco U-1 disponible, cancelado IF 2025004599.
+14:00
+Engie
+Generación
+C. Tocopilla U16 indisponible. Falla en el proceso de partida, según IF 2025004604.
+14:44
+Puntilla
+C. Puntilla U-2 disponible y en servicio, cancelado IF 2025004598.
+15:53
+Nexpertia
+S/E El Rosal línea de 220 kV EL Rosal - Los Varones cerrada, cancelado IF 2025004603.
+15:57
+Interchile
+Línea de 500 kV Nueva Pan de Azúcar - Polpaico 1 y 2 teleprotección TPS1 vía OPLAT habilitada y cancelada IL 2025001499.
+15:57
+Interchile
+Línea de 500 kV Nueva Pan de Azúcar - Polpaico 2 cerrada y cancelada solicitud de desconexión de curso forzoso, según SDCF 2025074302.
+17:11
+Transelec
+Línea de 500 kV Los Changos - Jadresic 1 con solicitud de intervención de curso forzoso. Causa informada: Normalización de la protección de línea 87L en extremo de S/E Jadresic en
+forma alternada S1 y S2 por reparación de Fibra Óptica, según SICF 2025074367.
+17:26
+Engie
+Generación
+C. Mejillones IEM limitada a 124 MW. Causa informada: Problema con pulverizador, según IL 2025001504.
+17:55
+Transelec
+Línea de 500 kV Los Changos - Jadresic 1 cancelada solicitud de intervención de curso forzoso, según SICF 2025074367.
+17:55
+Transelec
+Línea de 500 kV Los Changos - Jadresic 2 con solicitud de intervención de curso forzoso. Causa informada: Normalización de la protección de línea 87L en extremo de S/E Jadresic en
+forma alternada S1 y S2 por reparación de Fibra Óptica, según SICF 2025074368.
+18:00
+Enel
+Generación
+Cs. San Isidro 1, San Isidro 2, Quintero U-1 y Quintero U-2 sin limitación, cancelada IL 2025001500.
+18:19
+Transelec
+Línea de 500 kV Los Changos - Jadresic 2 cancelada solicitud de intervención de curso forzoso, según SICF 2025074368.
+19:08
+Nexpertia
+Líneas de 500 kV Changos - Kimal 1 y 2 cancelada solicitud de intervención de curso forzoso, según SICF 202507436 y SICF 2025074364. Cancelada limitación IL 2025001479.
+Protección 87L S1 y S2 quedan en servicio.
+19:15
+Engie
+Generación
+C. Tocopilla U16 disponible y en servicio, cancelado IF 2025004604.
+20:38
+Innergex
+S/E Central Peuchén Transformador N°2 220/13.8 kV y 42 MVA con interrupción forzada por protecciones, según IF 2025004606.
+20:38
+Innergex
+C. Peuchén U-1 sale del servicio en forma intempestiva con 32 MW. Causa informada: Falla en transformador N° 2 de 220/13.8 kV, 42 MVA, según IF 2025004607.
+20:38
+Innergex
+C. Peuchén U-2 sale del servicio en forma intempestiva con 34 MW. Causa informada: Falla en transformador N° 2 de 220/13.8 kV, 42 MVA, según IF 2025004608.
+21:46
+Innergex
+C. Peuchén U-1 disponible y en servicio, cancelado IF 2025004607.
+23:10
+Engie
+Generación
+C. Mejillones IEM cancelada limitación IL 2025001504.
+23:45
+Engie
+Generación
+C. Tocopilla U16 sin limitación de 260 MW, cancelada IL 2025001408.
+Hora
+Centro de
+Control
+Observación
+4
+.
+2
+. 
+Otras Observaciones
+Hora
+Centro de
+Control
+Observación
+03:00
+CDC
+La mayor disminución de generación Bruta horaria fue de 
+-464,5 [MW].
+08:00
+STS
+CDC solicita reducir 7.2 MW de inyección de centrales PMGD de acuerdo al criterio de potencia máxima en S/E Cabrero por control de transferencia del transformador N° 2 de
+66/23 kV, 16 MVA.
+10:10
+CGE -
+Transmisión
+CDC solicita reducir 20 MW de inyección de centrales PMGD de acuerdo al criterio de prorrata máxima por control transferencia de la línea de 110 kV El Peñón - La Ruca - Ovalle.
+16:35
+CGE -
+Transmisión
+CDC finaliza reducción de inyección de centrales PMGD de acuerdo al criterio de prorrata máxima por control transferencia de la línea de 110 kV El Peñón - La Ruca - Ovalle.
+17:00
+CDC
+El mayor aumento de generación Bruta horaria fue de 
+883,5 [MW].
+17:55
+CDC
+La mayor tasa de aumento de generación Bruta, calculada cada 5 minutos, fue de 
+24,5 [MW/m].
+18:00
+STS
+CDC finaliza reducción de inyección de centrales PMGD de acuerdo al criterio de potencia máxima en S/E Cabrero por control de transferencia del transformador N° 2 de 66/23
+kV, 16 MVA.
+19:58
+Colbún
+C. Angostura finaliza vertimiento.
+23:50
+CDC
+La mayor tasa de disminución de generación Bruta, calculada cada 5 minutos, fue de 
+-14,3 [MW/m].
+4
+.
+3
+. 
+Primera Energización de Instalaciones
+Hora
+Centrol de Control
+Empresa
+Instalación
+20:05
+STM
+STS
+S/E Lampa transformador 220/23 kV 60 MVA, interruptor ET5 de 23 kV y Barra de MT de 23 kV.
+5
+INDISPONIBILIDAD SCADA 
+SEN
+Centro de Control
+Instalación
+Fecha F/S
+Hora F/S
+Fecha E/S
+Hora E/S
+Cenizas
+S/E Cenizas sin datos SCADA.
+06/02/2017
+18:50
+Elektragen Constitución
+Cs. Constitución y Maule datos SCADA.
+07/11/2017
+08:00
+Energía Pacífico
+C. Energía Pacífico datos SCADA.
+23/06/2020
+21:30
+Enel Generación
+C. Ralco sin datos de temperatura.
+04/06/2021
+14:00
+Colbún
+C. Carena datos SCADA.
+25/10/2022
+06:50
+Innergex
+C. PFV San Andrés sin señal de generación actual y generación disponible.
+28/10/2024
+07:30
+AES Andes
+C. PFV Bolero 1 señal SITR de potencia disponible con valor errónea, según IL 2024001807.
+18/11/2024
+14:30
+AES Andes
+C. PFV Andes 4 señal SITR de potencia disponible con valor erroneo, según IL 2024001808.
+18/11/2024
+14:30
+AES Andes
+C. PFV Andes 2B señal SITR de potencia disponible con valor erróneo, según IL 2024001917.
+07/12/2024
+09:31
+Enor Chile
+C. PFV JAMA con informe de limitación. Causa informada: Central presenta problema de reportabilidad de potencia
+disponible hacia el coordinador, según IL 2024001918.
+07/12/2024
+10:00
+Engie Generación
+C. PFV Los Loros con informe de limitación. Causa informada: Central con problema en dato de disponibilidad enviado
+hacia el SITR del Coordinador. Según IL 2024001919.
+07/12/2024
+11:50
+SUN Power
+C. PFV Luz del Norte datos SCADA F/S.
+21/12/2024
+17:10
+Enor Chile
+C. PFV Santa Isabel con informe de limitación. Causa informada: Central con problema en dato de disponibilidad
+enviado hacia el SITR del Coordinador, según IL 2024002013.
+24/12/2024
+00:17
+Enor Chile
+Minera Mantos blancos datos SCADA F/S.
+23/01/2025
+12:40
+Nexpertia
+S/E Tesoro datos SCADA F/S.
+15/05/2025
+11:30
+RNE
+S/E Faenas Pangue 52CT11 sin telemetría, según IL 2025001080.
+22/05/2025
+07:00
+ENAP Aconcagua
+C. Cogeneradora Aconcagua datos scada F/S
+23/06/2025
+18:12
+Angloamerican
+S/E Maitenes data SCADA F/S.
+03/07/2025
+13:20
+SWC
+Data SCADA correspondiente al lado AT del TR2, asociado a la generación de la Central El Salvador se encuentra
+pegada
+03/07/2025
+16:00
+Enlasa
+Medida LT 110 kV Diego de Almagro - Mantos Verdes, y medidas en 110 kV de S/E Mantos Verdes se encuentran con
+mala calidad
+03/07/2025
+16:00
+RNE
+S/E Pastora datos Scada F/S
+04/07/2025
+19:37
+6
+COMUNICACIONES 
+SEN
+Centro de Control
+Instalación
+Fecha F/S
+Hora F/S
+Fecha E/S
+Hora E/S
+Imelsa -Crell
+Hot Line F/S.
+22/12/2022
+14:30
+Hidro Maule
+Hot Line Principal y Respaldo F/S.
+25/12/2023
+00:00
+Santa Marta
+Hot Line Principal y Respaldo F/S.
+01/04/2024
+00:00
+LAP
+Hot Line Principal F/S.
+08/01/2025
+09:08
+Newen
+Hot Line Principal y Respaldo F/S dirección CC a CDC.
+19/06/2025
+21:57
+On Group
+Hot Line Principal y Respaldo F/S.
+03/07/2025
+00:00
+7
+CAMBIOS TOPOLÓGICOS RELEVANTES 
+SEN
+Centro de Control
+Instalación
+Fecha F/S
+Hora F/S
+Fecha E/S
+Hora E/S
+Celeoredes
+S/E Esperanza 52H1 abierto
+29/04/2025
+01:54
+CGE - Transmisión
+S/E El Peñon HS abierto para disminuir profundidad de falla asociado al 52 HT1 de S/E El Peñon.
+05/06/2025
+20:47
+CGE - Transmisión
+Línea de 66 kV Linares - Parral hacia S/E Parral por control transferencia del transformador N° 1 de 154/66 kV, 75 MVA
+en S/E Linares.
+24/06/2025
+01:48
+Nexpertia
+S/E C. Tocopilla interruptor JAT2 abierto por control de transferencia del ATR-2 de 220/110 kV de 100 MVA.
+02/07/2025
+15:47
+CGE - Transmisión
+S/E Chillán interruptor B2 y S/E Monterrico interruptor B4 cerrados para disminuir profundidad de falla ante eventual
+robo de conductor.
+06/07/2025
+00:44
+CGE - Transmisión
+S/E Talcahuano 52BT2 cerrado por control de transferencias del Transformador 154/69/14.8 kV y 75 MVA N°1.
+06/07/2025
+15:42
+Transelec
+S/E Monte Mina líneas de 220 kV Jadresic - Monte Mina 1 y 2 abiertas, por control transferencias líneas de 220 kV
+Monte Mina - Nueva Zaldivar 1 y 2.
+06/07/2025
+19:20
+06/07/2025
+20:15
+Colbún
+S/E Jadresic interruptores J14 y J10 abiertos. PE Horizonte Norte y Sur inyectando hacia S/E 220 kV Jadresic
+06/07/2025
+20:11
+Transelec
+S/E Jadresic interruptores J2 y J7 abiertos. Las C.PE Taltal y PE Kallpa quedan inyectando hacia S/E 220 kV Jadresic.
+06/07/2025
+20:16
+8
+REGULACIÓN DE TENSIÓN 
+SEN
+Centro de Control
+Instalación
+Fecha F/S
+Hora F/S
+Fecha E/S
+Hora E/S
+Celeoredes
+Línea de 220 kV Santa María - Charrúa 1.
+25/04/2025
+02:26
+Transelec
+S/E Nueva Pichirropulli Línea de 220 kV Nueva Pichirropulli - Tineo 2.
+16/06/2025
+18:18
+Nexpertia
+Línea de 220 kV Nueva Pozo Almonte - Roncacho.
+25/06/2025
+13:45
+Ferrovial
+Línea de 220 kV Punta Sierra - Centella 1.
+27/06/2025
+12:25
+Transelec
+Línea de 220 kV Ciruelos - Valdivia 1
+28/06/2025
+01:23
+Chilquinta
+Línea de 220 kV Cerros de Huichahue - Nueva Pichirropulli 2.
+02/07/2025
+00:10
+Chilquinta
+Línea de 220 kV Ciruelos - Cerros de Huichahue 2.
+02/07/2025
+00:10
+Nexpertia
+S/E Changos CCSS de línea de 500 kV Changos - Jadresic 1 y 2.
+04/07/2025
+14:56
+Nexpertia
+S/E Cumbre CCSS de línea de 500 kV Cumbre - Nueva Cardones 1 y 2.
+04/07/2025
+17:32
+Transelec
+Línea de 220 kV Nueva Pichirropulli - Tineo 1.
+04/07/2025
+17:55
+06/07/2025
+02:54
+Celeoredes
+Línea de 500 kV Ancoa - Alto Jahuel 4.
+05/07/2025
+02:12
+06/07/2025
+17:43
+STS
+Línea de 220 kV Chiloé - Gamboa 2.
+05/07/2025
+03:03
+Celeoredes
+S/E Ancoa CCSS de línea de 500 kV Ancoa - Alto Jahuel 3.
+05/07/2025
+03:17
+06/07/2025
+04:06
+Transelec
+S/E Ancoa CCSS de línea de 500 kV Ancoa - Alto Jahuel 1.
+05/07/2025
+03:18
+06/07/2025
+04:06
+Transelec
+Línea de 220 kV Ciruelos - Valdivia 1
+05/07/2025
+03:19
+06/07/2025
+08:15
+Transelec
+Línea de 220 kV El Laurel - Nueva Pichirrupulli 2.
+05/07/2025
+03:21
+06/07/2025
+08:15
+Interchile
+S/E Nueva Pan de Azúcar CCSS de línea de 500 kV Nueva Pan de Azúcar - Polpaico 1 y 2.
+05/07/2025
+17:43
+06/07/2025
+17:04
+Transelec
+Línea de 500 kV Ancoa - Alto Jahuel 2.
+05/07/2025
+21:58
+Interchile
+Línea de 500 kV Nueva Maitencillo - Nueva Pan de Azúcar 2.
+06/07/2025
+05:36
+06/07/2025
+16:03
+Transelec
+S/E Ancoa CCSS de línea de 500 kV Ancoa - Alto Jahuel 1.
+06/07/2025
+08:27
+06/07/2025
+17:40
+Celeoredes
+S/E Ancoa CCSS de línea de 500 kV Ancoa - Alto Jahuel 3.
+06/07/2025
+08:28
+06/07/2025
+17:40
+Transelec
+Línea de 500 kV Changos - Kimal 2.
+06/07/2025
+14:31
+06/07/2025
+17:42
+Interchile
+S/E Nueva Pan de Azúcar CCSS de línea de 500 kV Nueva Pan de Azúcar - Polpaico 1 y 2.
+06/07/2025
+17:38

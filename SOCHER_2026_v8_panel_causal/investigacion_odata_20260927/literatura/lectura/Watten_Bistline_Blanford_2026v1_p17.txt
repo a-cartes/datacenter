@@ -1,0 +1,29 @@
+DATA CENTERS 17
+indicates only year fixed effects were used while “Within” adds state fixed
+effects and “Within region” swaps state with regional fixed effects. 7 The
+next two columns are estimated with 2SLS. “2019-24” reduces the sample
+years to those years. All standard errors are robust to heteroskedasticity
+and are clustered by state to account for serial correlation. Weak instru-
+mental variables are known to cause size inflation. The first-stage F statistic
+is less than 10 (a commonly used though imperfect critical value for weak
+instruments) in the first IV estimate, though substantially larger than 10 for
+“2019-24”. We compute Anderson-Rubin (Anderson and Rubin, 1949) p-
+values and 95% confidence intervals, which are robust to weak-instruments.
+These results suggest that data centers did not increase residential rates
+on average. The OLS estimates are all negative and small. Point estimates
+for within state and within region are nearly identical (-0.003 and -0.001
+respectively). This suggests that the regional fixed effects are doing an
+adequate job at controlling for the selection on states with lower price levels.
+If developers only sited data centers based on static attributes of states, state
+fixed-effects would be sufficient for estimating a causal effect, and we would
+conclude that we could not reject no effect.
+7Region definitions are collections of states taken from the 2025 U.S. Regional Econ-
+omy, Greenhouse Gas, and Energy Model (US-REGEN) energy-economy quantitative
+equilibrium model developed and maintained by EPRI. The 16 regions in US-REGEN
+are Pacific: WA, OR; California: CA; Mountain-S: NV, UT, NM, AZ; Mountain-N: ID,
+MT, CO, WY; MISO-N: ND, MN, IA, WI; SPP: SD, NE, KS, OK; MISO-S: LA, AR,
+MO; Southeast: MS, AL, GA, TN; Florida: FL; South Atlantic: SC, NC, VA; Ohio
+Valley: OH, KY, WV; Mid Atlantic: PA, NJ, MD, DE, DC; New York: NY; North East:
+ME, NH, VT, MA, CT, RI; Texas: TX; MISO-E: IL, MI, IN. These regions roughly
+correspond to North American Electric Reliability Corp (NERC) Reliability Assessment
+Areas.

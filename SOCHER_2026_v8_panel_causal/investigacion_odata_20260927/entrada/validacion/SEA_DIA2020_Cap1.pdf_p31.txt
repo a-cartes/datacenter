@@ -1,0 +1,28 @@
+ 
+DECLARACIÓN DE IMPACTO AMBIENTAL 
+ “PROYECTO ODATA DATACENTER” 
+ 
+Capítulo 1 – Descripción del Proyecto 1-18 
+ 
+Contará con un sistema de detección de incendio, el que funcionará por medio de: 
+• Sensores (detectores de humo - precoces y normales, de calor instalados), dentro de los 
+bloques de Data Center, Bloques Auxiliares y Bloques Administrativos, así como en las centrales 
+de enfriamiento, zonas de generadores, patios eléctricos y subestación. 
+• Este sistema de detección operará de forma independiente a la red eléctrica general, 
+conectándose a la vez con el sistema de generación de electricidad de emergencia, asegurando 
+así el funcionamiento toda vez que haya una emergencia. 
+• El sistema contará con sprinklers automáticos (double interlock pre-action), así como también 
+se contará con extintores manuales y red húmeda. 
+Para suministrar agua a la red, se contará con  bombas externa s a los edificios,  las que tendrán un 
+reservorio de agua dedicado para cada edificio. 
+ 
+1.4.1.13 Descripción suministro de Energía 
+Tal como se ha indicado con anterioridad, el Data Center requiere de abastecimiento eléctrico para su 
+operación. 
+En virtud de lo anterior, el proyecto contempla dos vías para el suministro eléctrico. 
+Para el abastecimiento eléctrico del edificio ST01, se considera la conexión a la línea BATUCO, con un 
+empalme aéreo, ya que la línea pasa por el frente del terreno de empl azamiento del Data Center (Av 
+Eduardo Frei Montalva ). La acometida de la línea en el terreno será vía subterránea, hasta una sala 
+(transformador) dedicada para ubicación del cubículo de medición por parte de la concesionaria dueña 
+de la línea. 
+Lo anterior, se puede ver en la imagen siguiente:

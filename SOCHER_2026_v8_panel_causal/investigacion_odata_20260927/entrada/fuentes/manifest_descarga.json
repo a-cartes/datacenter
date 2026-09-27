@@ -1,0 +1,292 @@
+[
+  {
+    "archivo": "RCA098_2021.pdf",
+    "url": "https://seia.sea.gob.cl/archivos/2021/02/09/ba2_RCA_Res.098-2021_Cargada_en_el_Expediente.pdf",
+    "consulta_utc": "2026-09-27T18:07:05.244707+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 19181353,
+    "sha256": "55471d508cba842e3c4c4d0059b8de56fe0df5ed1787c21097bd8cb55766546b"
+  },
+  {
+    "archivo": "ODATA_DIA_2020_pagina.html",
+    "url": "https://seia.sea.gob.cl/documentos/documento.php?idDocumento=2147474028",
+    "consulta_utc": "2026-09-27T18:07:08.005345+00:00",
+    "status": 200,
+    "mime": null,
+    "bytes": 114643,
+    "sha256": "5897e5ced0173072a64b27202272fa20b3b70f5a6d3c5cb13da9df1522b81547"
+  },
+  {
+    "archivo": "CEN_IAC_carta20230703.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/64a328c53563574eab7a4eca",
+    "consulta_utc": "2026-09-27T18:07:08.564804+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 205884,
+    "sha256": "9e43b4f037a822e5dacb2315a82fa8bc294d49f22c493b0134afd208838d3f69"
+  },
+  {
+    "archivo": "CEN_IAC_anexo20230703_0",
+    "url": "https://cartas.coordinador.cl/download_anexos/64a328c53563574eab7a4eca/0",
+    "consulta_utc": "2026-09-27T18:07:08.830297+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 471678,
+    "sha256": "e0434aa3a6ee85d755d92cba901f167c1a9a4c6f7b711310155be70af52d4402"
+  },
+  {
+    "archivo": "ODATA_pertinencia20231026.html",
+    "url": "https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docId=2023%2F10%2F26%2Fc59a-d1f1-46ff-ac00-8c532781193c",
+    "consulta_utc": "2026-09-27T18:07:09.132184+00:00",
+    "status": 200,
+    "mime": null,
+    "bytes": 13808,
+    "sha256": "3b1e369446b2f5e42a76e4c2e803d4b19ef4d3ab283d169e83a728c7ae9712b2"
+  },
+  {
+    "archivo": "CEN_EAF318_2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/07/EAF-318-2025.pdf",
+    "consulta_utc": "2026-09-27T18:07:09.400478+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 9338594,
+    "sha256": "79d44ded801d8fd4371e218ccea3d065f3976210eff5d023ac1a1907a2b1ce70"
+  },
+  {
+    "archivo": "SEA_DIA2020_Cap1.pdf",
+    "url": "https://seia.sea.gob.cl/archivos/2020/07/17/4c1_Cap_1_Descripcion_de_proyecto.pdf",
+    "consulta_utc": "2026-09-27T18:09:01.498835+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 4604779,
+    "sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b"
+  },
+  {
+    "archivo": "SEA_pertinencia20231026_CdP.pdf",
+    "url": "https://pertinencia.sea.gob.cl/api/public/documentos/descargarBlade/E24E5B87-0F70-4C4E-8698-781FA72FA46F",
+    "consulta_utc": "2026-09-27T18:09:02.292936+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 1663908,
+    "sha256": "7d70a4f386d246bff08e900105154deeba6a29d4074afc910782d06989dc67bc"
+  },
+  {
+    "archivo": "ODATA_historia.html",
+    "url": "https://odatacolocation.com/es/sobre-nos-2/",
+    "consulta_utc": "2026-09-27T18:12:58.930223+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "archivo": "SNIFA_UnidadFiscalizable_busqueda.html",
+    "url": "https://snifa.sma.gob.cl/UnidadFiscalizable",
+    "consulta_utc": "2026-09-27T18:11:08.446196+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 66450,
+    "sha256": "c1d848dcb8c236dce843684786cd9d11640995b127d871dbcf5928eb62c4b5c5"
+  },
+  {
+    "archivo": "Enel_DX_Memoria2021.pdf",
+    "url": "https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-distribucion-chile/reportes/memorias/2021/memoria-enel-dx-2021.pdf",
+    "consulta_utc": "2026-09-27T18:13:00.483529+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "archivo": "Enel_DX_Memoria2022.pdf",
+    "url": "https://www.enel.cl/content/dam/enel-cl/inversionistas/enel-distribucion-chile/reportes/memorias/2022/Memoria-Anual-Enel-Distribucion-2022.pdf",
+    "consulta_utc": "2026-09-27T18:13:00.664373+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "archivo": "SNIFA_ODATA_LAMPA_UF20619.html",
+    "url": "https://snifa.sma.gob.cl/UnidadFiscalizable/Ficha/20619",
+    "consulta_utc": "2026-09-27T18:13:00.817539+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 40350,
+    "sha256": "1dc42808b446d2f96c66a4f3d54be93316d2d461e34aee6ec39c7148e1b99543"
+  },
+  {
+    "archivo": "SNIFA_1046276.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1046276",
+    "consulta_utc": "2026-09-27T18:13:52.062761+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 30043,
+    "sha256": "9471fc972107e172ad481f80846fdc87e23e6b5ed2b824e91eb12d050acb1db1"
+  },
+  {
+    "archivo": "SNIFA_1035289.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1035289",
+    "consulta_utc": "2026-09-27T18:13:52.356508+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 30011,
+    "sha256": "6ad86d50925d6cce0f419ca9edc3e5b9023ace4c14fd19ea7210295958660690"
+  },
+  {
+    "archivo": "SNIFA_1009005.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1009005",
+    "consulta_utc": "2026-09-27T18:13:52.617373+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 49466,
+    "sha256": "45564f494801d2960d35de5d19c7f6e4fda16e98707db9d073048e92766b8af5"
+  },
+  {
+    "archivo": "SNIFA_1005711.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1005711",
+    "consulta_utc": "2026-09-27T18:13:52.882386+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 29962,
+    "sha256": "5103bac98c8368e3d490c52f4d7ebc15a93fe1687edecbe7a5d79c6e70bb6134"
+  },
+  {
+    "archivo": "SNIFA_113447.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/113447",
+    "consulta_utc": "2026-09-27T18:13:53.138837+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 29254,
+    "sha256": "523ea0610906b3adeefdc7a9e15c0e2a5c8279fa2a295759718a7f6551c73f01"
+  },
+  {
+    "archivo": "SNIFA_113446.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/113446",
+    "consulta_utc": "2026-09-27T18:13:53.364576+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 30248,
+    "sha256": "68b08a264cf10ba774f8d722fa37b884014fa62a2ca6049ff6352a5a9da83a96"
+  },
+  {
+    "archivo": "SNIFA_110886.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/110886",
+    "consulta_utc": "2026-09-27T18:13:53.581695+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 29208,
+    "sha256": "ae176ad6e66f139c58d334ab1496e606906fa02ce635b9013e19d97323f413cd"
+  },
+  {
+    "archivo": "SNIFA_110885.html",
+    "url": "https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/110885",
+    "consulta_utc": "2026-09-27T18:13:53.839506+00:00",
+    "status": 200,
+    "mime": "text/html; charset=utf-8",
+    "bytes": 29360,
+    "sha256": "aeacb5ac1f9b3f9bb703cba7ee08f3e481d93b9db474406d763576611bfbf19e"
+  },
+  {
+    "archivo": "SMA_carta_inicio_redireccion_SPA.html",
+    "url": "https://snifa.sma.gob.cl/General/DescargarInformeSeguimiento/1021717",
+    "consulta_utc": "2026-09-27T18:14:40.932601+00:00",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 872,
+    "sha256": "92f395043648df68941d1f5c224979cc23290038a674cc05a39d65b8a770f8f0",
+    "nota": "La URL SNIFA devuelve el HTML del visor SPA; no es el PDF."
+  },
+  {
+    "archivo": "SMA_comprobante_inicio_redireccion_SPA.html",
+    "url": "https://snifa.sma.gob.cl/General/DescargarInformeSeguimiento/1021718",
+    "consulta_utc": "2026-09-27T18:14:41.271081+00:00",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 872,
+    "sha256": "92f395043648df68941d1f5c224979cc23290038a674cc05a39d65b8a770f8f0",
+    "nota": "La URL SNIFA devuelve el HTML del visor SPA; no es el PDF."
+  },
+  {
+    "archivo": "SSA_public_app.js",
+    "url": "https://ssa.sma.gob.cl/static/js/app.b1c1afbe5a2b88c50c10.js",
+    "consulta_utc": "2026-09-27T18:15:30.686621+00:00",
+    "status": 200,
+    "mime": "application/javascript",
+    "bytes": 158819,
+    "sha256": "972f0bbc57bdca2134d33f83beea4b2c32d9a5396dbcec0e924d7ef51d8db705"
+  },
+  {
+    "archivo": "SSA_manifest.js",
+    "url": "https://ssa.sma.gob.cl/static/js/manifest.fc8257fb7a9ac3e6819c.js",
+    "consulta_utc": "2026-09-27T18:18:56.218099+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 2986,
+    "sha256": "2bcdbfe6155325a412ea9ffa44c68c75590c89b6db736913fa0448a24dba8598"
+  },
+  {
+    "archivo": "SSA_descarga_chunk4.js",
+    "url": "https://ssa.sma.gob.cl/static/js/4.5cf4db556ce189aaaf67.js",
+    "consulta_utc": "2026-09-27T18:18:56.218231+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 2090,
+    "sha256": "0ca3362a7fab6ab4ca27de4192ea04f070df5549075601e7479e076e735a536f"
+  },
+  {
+    "archivo": "SSA_shared_chunk0.js",
+    "url": "https://ssa.sma.gob.cl/static/js/0.40fe2ce97768cbc5922b.js",
+    "consulta_utc": "2026-09-27T18:18:56.218311+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 210237,
+    "sha256": "dd8a4b2b74737d7632a66b869323305aa7d9e35692875e6fa8768645b6763971"
+  },
+  {
+    "archivo": "SSA_documento_1021717.json",
+    "url": "https://api-ssa.sma.gob.cl/api/v1/GetDocumentoById/1021717",
+    "consulta_utc": "2026-09-27T18:18:56.218422+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 465,
+    "sha256": "4d0c582259184cb12b6ff02dce6fe3feeb60cc800f1bc015ab4270649973183c"
+  },
+  {
+    "archivo": "SSA_documento_1021718.json",
+    "url": "https://api-ssa.sma.gob.cl/api/v1/GetDocumentoById/1021718",
+    "consulta_utc": "2026-09-27T18:18:56.218457+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 607,
+    "sha256": "c5d81f6968540c51999fe71011004347e7b6c690dd57a12ce26f8c5f321d53a3"
+  },
+  {
+    "archivo": "SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+    "url": "https://api-ssa.sma.gob.cl/api/v1/documentos/incidente/descargar?nombre=b5ab75401f3a11ed89ae0242ac11000d",
+    "consulta_utc": "2026-09-27T18:18:56.218524+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 220519,
+    "sha256": "cc94aca016d23dc708c6ccdd20e85c3d262ecf9863174bb8037f73cdeeba80f4"
+  },
+  {
+    "archivo": "SMA_comprobante_inicio_operacion_20220818_original.pdf",
+    "url": "https://api-ssa.sma.gob.cl/api/v1/documentos/incidente/descargar?nombre=Comprobante_environmental_monitoring_b2f5e1be-1f3a-11ed-89ae-0242ac11000d",
+    "consulta_utc": "2026-09-27T18:18:56.218666+00:00",
+    "nota": "Recuperado siguiendo únicamente rutas públicas expuestas por el visor SMA; sin autenticación. Hora de catalogación posterior a descarga.",
+    "status": 200,
+    "bytes": 95496,
+    "sha256": "458bebd6273ce8b463b9436007dc772a6cb6edc696856c803cd2b1b4f8cde8ee"
+  },
+  {
+    "archivo": "OGP_cartera_abril2023.pdf",
+    "url": "https://ogp.economia.cl/wp-content/uploads/2023/05/202304.pdf",
+    "consulta_utc": "2026-09-27T18:22:40.072676+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 15602799,
+    "sha256": "58a4ffb5b226205077b814e7e1b2088d016957feef4d619427380cff107ed8ce"
+  },
+  {
+    "archivo": "SEA_Adenda20201001.pdf",
+    "url": "https://seia.sea.gob.cl/archivos/2020/10/01/5bf_Adenda_Odata_Datacenter.pdf",
+    "consulta_utc": "2026-09-27T18:24:02.003751+00:00",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 4275089,
+    "sha256": "e51fe8128cae0f4fe937e0626cab3baa8d8d73d53e8260cc73723ac044d14e1e"
+  }
+]

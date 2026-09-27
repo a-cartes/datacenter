@@ -1,0 +1,40 @@
+Event Study Specification
+To assess the parallel trends assumption and examine dynamic treatment effects, we estimate
+an event study specification:
+Yit =
+( ∑
+τ∈{−q,...,−2,0,...,+p}
+δτ·DCi,t−τ
+)
++γi +ωt +ϵit (4)
+The summation allows forq leads (δ−2,...,δ−q) andp lags (δ0,...,δ+p), whereDCi,t−τ
+is an indicator for event timeτ. It equals one if calendar yeart isτyears before census tract
+i introduces its first data center. Theδτterms forτ≥0 capture the dynamic impact of the
+treatment over time since the first year of data center entry. Theδτterms forτ <0 provide
+a placebo test, showing the treatment effect before the event occurs. If no confounding
+variables are omitted, these pre-event terms (δτforτ <0) should be statistically insignificant
+from zero. In other words, we should not observe a trend during the pre-treatment period.
+Estimation Approach
+Our preferred estimator follows Sun and Abraham (2021), which addresses the negative
+weighting problem that can arise in standard two-way fixed effects (TWFE) models under
+staggered treatment timing (Goodman-Bacon,2021). For robustness, we also estimate the
+model using the TWFE specification and the approach ofCallaway and Sant’Anna(2021).
+The estimated effects are qualitatively similar across methods. This consistency is expected
+given the presence of a large never-treated group, such that most of the identifying variation
+comes from comparisons between treated and untreated tracts.
+Identification relies on two key assumptions. First, we assume parallel trends: in the
+absence of data center entry, inefficient pricing in treated and untreated tracts would have
+evolved along similar trajectories. We provide evidence on this assumption through pre-
+treatment event-study coefficients in Section6.1. Second, we assume no anticipation: out-
+comes do not respond to data center entry before the facility becomes operational. Although
+data centers involve long planning and permitting timelines, grid-level impacts- particularly
+congestion and marginal loss effects, are driven by actual electricity consumption rather than
+the announcement or construction of a facility. We therefore define treatment as the year a
+data center begins drawing power from the grid.
+We note one additional consideration. Our staggered difference-in-differences design as-
+sumes that the Stable Unit Treatment Value Assumption (SUTVA) holds—specifically, that
+data center entry in one tract does not affect outcomes in other tracts. In a meshed transmis-
+sion network, congestion at one node can affect flows and prices at other nodes, potentially
+12
+ 
+20

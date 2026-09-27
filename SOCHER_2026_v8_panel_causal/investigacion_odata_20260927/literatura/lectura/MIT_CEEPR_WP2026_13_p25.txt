@@ -1,0 +1,35 @@
+and investment, including system size, generation portfolio, regulatory environment, and
+the industrial composition of load. We address this concern in four ways.
+Within-Pair Variation.Our DID design exploits within utility-state pair variation
+over time, so any time-invariant differences across pairs—commission structure, fuel mix,
+baseline industrial load, persistent rate-level disparities—are absorbed by the pair fixed
+effects. Year fixed effects further absorb common shocks that move all utilities together,
+such as wholesale fuel price movements and federal policy changes.
+Sample Restrictions.To make treated and comparison pairs more comparable, we
+impose several restrictions when constructing the analysis sample. We drop utilities
+that file the EIA-861 short form, which captures small distribution utilities that differ
+systematically from the full-form filers in size, customer composition, and reporting detail.
+We keep only utility-state pairs with a retail component, and further restrict to pairs serving
+all three primary customer classes—residential, commercial, and industrial—so that the
+cross-class composition of load does not vary mechanically across pairs.
+Region- and Pair-Specific Time Trends.Another concern is that time-varying shocks—
+renewable portfolio standards, state-level electricity market reforms, regional grid con-
+ditions, or differential demand growth—may correlate with both data center siting and
+our outcomes. We address this in robustness checks by augmenting the specification with
+utility-specific and grid-region-specific trends. We also estimate specifications that interact
+year fixed effects with pre-period utility-state characteristics, including customer base,
+average retail price, and total sales, as well as pre-period regional characteristics, including
+manufacturing establishments per capita, population, and GDP per capita. These specifi-
+cations allow utilities and regions with different baseline profiles to follow different time
+paths. Our estimates remain similar across these alternative specifications.
+Matched Difference-in-Differences.We also conduct a robustness check to directly im-
+prove the balance between treated and never-treated utility-state pairs using entropy
+balancing. This procedure re-weights the never-treated comparison group to match treated
+pairs on pre-period characteristics, including average retail price, customer count, man-
+ufacturing establishments per capita, and GDP per capita. We then apply the Callaway
+and Sant’Anna (2021) estimator to the weighted sample. The estimated effects after re-
+weighting become generally larger.
+Parallel Trends Assumption.The key identifying assumption of a DID design is parallel
+trends: in the absence of large data center entry, outcomes in treated utility-state pairs
+would have evolved in parallel with outcomes in never-treated pairs. While this assump-
+22

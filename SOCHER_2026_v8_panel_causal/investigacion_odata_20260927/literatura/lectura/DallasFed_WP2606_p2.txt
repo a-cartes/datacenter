@@ -1,0 +1,35 @@
+                                                                         
+Processing Power: The Effect of Data Centers on Wholesale 
+Electricity Markets* 
+ 
+                        Owen Kay†, Robert Reaser‡ and Reid Taylor§ 
+    
+          March 17, 2026 
+ 
+     
+                   Abstract 
+ 
+Artificial-intelligence-driven data centers are reversing two decades of flat U.S. electricity 
+demand and have generated questions about how this growth will impact electricity prices. 
+We quantify this effect using an hourly, unit-level least -cost dispatch model covering 
+wholesale electricity markets in the continental United States. We find that existing data 
+centers have already increased wholesale prices by 2 to 6% on average nationwide, with 
+substantially larger effects in regions hosting major data center corridors. Extending the 
+model through 2028, we show that if proposed construction proceeds  under high-
+utilization scenarios, wholesale prices could rise dramatically (50%), while more moderate 
+build-out yields smaller (20%) but still  meaningful effects. Impacts vary due to utilization 
+and build-out assumptions. Finally, we use  the model to address several policy 
+discussions including optimal data center siting decisions  and renewable build-out 
+uncertainty. 
+ 
+JEL code: L94, P18, Q41, Q42, Q48 
+ 
+Keywords: electricity prices, energy, data centers, artificial intelligence 
+ 
+ 
+*The views expressed in this presentation are those of the authors and do not necessarily reflect the views of the Federal 
+Reserve Bank of Dallas or the Federal Reserve System. 
+†Owen Kay, Federal Reserve Bank of Dallas, owen.a.kay@gmail.com. 
+‡Robert Reaser, Department of Economics, University of California, Davis, rreaser@ucdavis.edu. 
+§Corresponding Author: Reid Taylor, Federal Reserve Bank of Dallas, reidbtaylor@gmail.com.   
+ 

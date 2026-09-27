@@ -1,0 +1,41 @@
+ 
+DECLARACIÓN DE IMPACTO AMBIENTAL 
+ “PROYECTO ODATA DATACENTER” 
+ 
+Capítulo 1 – Descripción del Proyecto 1-2 
+ 
+1.2.2 Breve descripción del proyecto 
+El Proyecto “PROYECTO ODATA DATACENTER”, corresponde a la construcción y operación de un centro 
+de almacenamiento de información de datos tecnológicos , en  la Comuna de Lampa,  Provincia de 
+Chacabuco, Región Metropolitana. 
+El Proyecto considera la construcción de una infraestructura de alto nive l tecnológico, donde se 
+albergarán equipos electrónicos necesarios para mantener una red de ordenadores, los cuales tendrán 
+la energía necesaria, ventilación adecuada y un sistema de seguridad para funcionar de manera óptima. 
+El emplazamiento del proyecto se encuentra en un sector regulado por el Plan Regulador 
+Metropolitano de Santiago (PRMS), en el cual se permiten actividades productivas y de servicio de 
+carácter industrial inofensivo o molesto. 
+El proyecto se ubicará en un sitio eriazo, a la altura del km 17 de la Panamericana Norte,  cuyo acceso 
+será por el costado Poniente de Av. Presidente Eduardo Frei Montalva, tal como se ilustra en la Figura 
+1-3 del presente documento. 
+La superficie predial es de 6 há aproximadamente. Además, el proyecto contempla la construcción de 
+una línea de alimentación eléctrica de aproximadamente 3 km que , considerando las fajas de 
+seguridad, abarca una  superficie de aproximadamente 4,24 ha, correspondiente a las obras 
+permanentes. 
+El proyecto se ejecutará mediante la construcción de 2 edificios, compuestos por 5 módulos en total, 
+tal como se indica en la tabla siguiente: 
+Tabla 1-2. Subetapas proyecto Data Center 
+Edificio Módulos MW TI 
+ST01 1A 6 MW de TI 
+1B 6 MW de TI 
+ST02 
+2A 4 MW de TI 
+2B 6 MW de TI 
+2C 6 MW de TI 
+ 
+Los edificios y módulos que componen el proyecto  se irán desarrollando de forma secuencial, en un 
+periodo de 7 años aproximadamente, entre el módulo 1A y el módulo 2C 
+Dadas las características del servicio que prestan este tipo de proyectos, su funcionamiento es 
+ininterrumpido, funcionando 24/7 los 365 días del año, para lo cual, se requiere de una autonomía de, 
+a lo menos, 48 horas en caso de corte de suministro eléctrico. 
+En virtud de lo anterior, el Proyecto requerirá de un suministro continuo de energía, que será provisto 
+por dos sistemas de abastecimiento eléctrico. Para el edificio ST01 se considerará su abastecimiento a 

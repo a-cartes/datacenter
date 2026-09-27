@@ -1,0 +1,218 @@
+{
+  "script_sha256": "4cff0db7b5b56050c0d658e4608c3b1d2833d478d283f84c7562db3cd42a1945",
+  "catalogue_sha256": "3769183216b19f14fcf793b4e9244ea12e37b0e2144f712b7c023c374c1924d0",
+  "sources": [
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_05.csv.gz",
+      "sha256": "5aa9fc423d07d46d847c4f353a8b92ca3bbec4ee5d73d7b50038fbc9401b906f",
+      "manifest_sha256": "e3d7a9b90d073644a28368ce4366e5d6bbef8ab96413965dbb06bde3d212b2e5"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_06.csv.gz",
+      "sha256": "13a1a192c878677768c8378cca78ebdfb07ea169962d839552bac107b04630e7",
+      "manifest_sha256": "395cb0c13f8af6c69eb596bac2710b0ba97d508dc4ae8db54b1a0e4f4b24fb62"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_07.csv.gz",
+      "sha256": "923d5bf8ad9c07606d75e4bc6a3bc3e0b9ed543273589dc4fc6e6f92cbf1fc4f",
+      "manifest_sha256": "3816f5db0fcc787d2b9b78df3a072f7b5b7354527ff5b1038c92010ce40fce21"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_08.csv.gz",
+      "sha256": "3ca863cd55feef369393c9407fa2722f52179c5a85c0950a30aa0b289db161b9",
+      "manifest_sha256": "08bdc2481ccb07530a33bacc6f892bb8283feb4b72d6e9b1f1112247f992e2cb"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_09.csv.gz",
+      "sha256": "28e528ec773ae76960486fd1fb4992697829a2071a82e4bf5bb2b9896690b10c",
+      "manifest_sha256": "f0324f48d2d577606e0ca0421ee6056f2caadaaf4fc238754f336284c8c24ea2"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_10.csv.gz",
+      "sha256": "d6fa197f0529900c996d0d659c155b7b3f3a18731d9d37a1ff0dcacaf4810090",
+      "manifest_sha256": "388f75faae081ff4463e44f1d865a3969772ed969cd8770aa70764eaec667780"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_11.csv.gz",
+      "sha256": "31dad378bc8b63be7946ed09e1dbeb68ee28085219e8c021f33ec6d19514f8a5",
+      "manifest_sha256": "c9471a87253c7229d3acf9b002051db53bcf17cdfc12b2b00df29303cb5a9900"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2023_12.csv.gz",
+      "sha256": "a02ada9540355c4807dc05586bd05dbafc03c8f9aa0d4193ae49b39429f5a150",
+      "manifest_sha256": "f7b0fe4b49fb42022489c5f96bfd0af8336a1961701400ac6898b1ac7cc8a468"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_01.csv.gz",
+      "sha256": "2f8f8eece22e13777cb29faa8acd8d290fec76849c2ddc9ace6af63a368322ac",
+      "manifest_sha256": "1861a1f52c55ce03a27f5ec24d353b22e79422fab860599ab4b2ca6af601b68d"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_02.csv.gz",
+      "sha256": "ed206c04d1cefeed002a21231d07a818ff269466e2d39f5f8bf0e95b3c58f4fc",
+      "manifest_sha256": "3fae1ec1a84f783b50665b3b700ea8b467f1eb51bf3fe9754fcf2e1a53b040b4"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_03.csv.gz",
+      "sha256": "b43f5f398bb26d56d9ea551e2c7044e9c9d660f9be2f63bb3b8b8292a6354387",
+      "manifest_sha256": "21778df4aeeeaadb8cc714f0a736aee5f9d1eb1bd7b69f655f176a9db19e8ed3"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_04.csv.gz",
+      "sha256": "cfa6578987f6e4be2b5bcc6460593cd2204fe91b86f7fe3d8a9ec66cea41dfbc",
+      "manifest_sha256": "c11290f802e9dd248880cf40850ecac9b4dc1c4ea15c9280f540914f8dd6bded"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_05.csv.gz",
+      "sha256": "b6dde64ec8c9cd6035d3c388da5fca8ac5e264a365a2003de57e13f313015588",
+      "manifest_sha256": "a08a4996438aed0fee1623a3d23a8313c400bf48e10885155dbba2634794d41b"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_06.csv.gz",
+      "sha256": "3f8d7a04334302eafdf3b8c2e3edbec69b13b577e2c5e273d6ea0594fdbbbfa9",
+      "manifest_sha256": "39bd2efe465e7fd6baeff1b1ef56375a34f7993a7db8a85ea51c25f7686dcaaa"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_07.csv.gz",
+      "sha256": "598923df96994eb830b29b0ff0ff4e8fe44d97862c20705f5e4bf98f3622f301",
+      "manifest_sha256": "c8eb193511b21a721b031def97cbbb4f2b7631f50696125b8088744064fc03ee"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_08.csv.gz",
+      "sha256": "8babe839f822395507afd600a2aac9082fb6feb0f623a057604b2690454d2ba0",
+      "manifest_sha256": "29ced3883b3e7e9416fa160ebb910fc30141c72b99abf1de097b9cf531b17999"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_09.csv.gz",
+      "sha256": "bcc0f53a198eb592616706fa8b32a7714d0933f54d235fb8326ebd62fb53fe46",
+      "manifest_sha256": "10ed66dc685c4dac37ebbfbd36d777f31e4d1be0f8f6319a017eae64ce227105"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_10.csv.gz",
+      "sha256": "065dc17847065aaa1555ca1407f1dc837db216b5ebbeeb17e6ded8b5a2d0f987",
+      "manifest_sha256": "3a291601af3ab22116bd17ce1510efb679064447e9c6d11f468aafdfbdd76cbb"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_11.csv.gz",
+      "sha256": "243ea251d9e6b5949aac3453a1ba4dd277c781ff7c8040483ffee1bb0895345b",
+      "manifest_sha256": "3b6c1e76e72911523ca7a9112ea203ac084ed4e3b2df19d377d7bf3f58605c1b"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2024_12.csv.gz",
+      "sha256": "5a7599609a026fb524e0eba57c681ea4cb087c720d57a069a5af84ff2f458b04",
+      "manifest_sha256": "3c341931b212464e5c1c3d77938eef3041ab36634266c23fbe1e012bb156b118"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_01.csv.gz",
+      "sha256": "9d33ce5a14b64886ba9b7bdb1c8d6fdfd36761bc6af864f6bd8ea42a2d127f73",
+      "manifest_sha256": "fb2e1a4d36b8f661e425b9ee0cc4e1ead6f284de93cbdfc42d789f4953a49d1f"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_02.csv.gz",
+      "sha256": "f5ba4a916a4a72cda6c8b52849b2514f0d8aea7183c1027300265a9cf86bddb6",
+      "manifest_sha256": "b2fa0e560c85424fc3cfcf2a4c78a69b5431058fffcc5cb385253da105fdb11d"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_03.csv.gz",
+      "sha256": "56afeeb2087de2831210b2b520d329db9f8fc25565789e8869b26225c04f8212",
+      "manifest_sha256": "a958308122813f54884b2bca73c1c7c7fb7319f8b670691aa156ad3f4f398ea4"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_04.csv.gz",
+      "sha256": "860b0c05fdb22345189a3390f9f43afb42099967f86f6ca05f8c32b0c3e9fd89",
+      "manifest_sha256": "953ed2f7ead94d0ee469707f22b95a822fb1e7b128f2c7d6901976e6159435de"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_05.csv.gz",
+      "sha256": "f83c60dda3c6a9663c16f08446db29237212b295338ba0c7b416dd8aa8a8ce42",
+      "manifest_sha256": "c37d808115c19b3e7dea4729b872d3da50fc64439578e4dd49a3cb3bf7011660"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_06.csv.gz",
+      "sha256": "9b001d8319ca22d6b5ea9f0f2be400899a87ea9f80682b5966aa88f8037fed68",
+      "manifest_sha256": "4a0beb313a577ee93bbca57505a19c39af2173d21e005ec4a256efd0e8ef2565"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_07.csv.gz",
+      "sha256": "0b125cb06f511d998533c849e73f2c52ebbb95a12c06c7438b5b7f5d60f2b923",
+      "manifest_sha256": "60cb8d319781d4ec5e6a21729ab5a3d48c1bb81f2a5eb44fc821fd38382843ae"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_08.csv.gz",
+      "sha256": "be5be4ec009be470a5f4b6c0181f0202b5709199e85b81a7dc07130704b43403",
+      "manifest_sha256": "30f74fb9543efe1260f191152dd505bcf91c0bed5298b2c7df51715f329b6594"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_09.csv.gz",
+      "sha256": "360ac4da4f23edd7249fa38480d697e2f618d5bc6bd12f1a77a4a1eb58eabd2c",
+      "manifest_sha256": "062cde85202f7b6280ded43c4ce0532ee9c92afa2632b23bcb8eaa4442896883"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_10.csv.gz",
+      "sha256": "609dc8ea3189e5ea41c5f776d6924da2693c84fd6a3eb828e8f916e8942f3dae",
+      "manifest_sha256": "86375bc805d02907cd3fe1bd025602f863c52a3d68cf1e72d9a526b51cff2208"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_11.csv.gz",
+      "sha256": "3312841c3fecc23d21697a172a9481206eb21e67cce34e3cc285834728e9b2ed",
+      "manifest_sha256": "282903da1070fdbca183f42a5a6a1834c4df5b0c67e594a4d779946ff3c7782f"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2025_12.csv.gz",
+      "sha256": "b31f829c870a747e570cc5177f7cb90289ce6eea926e7c385b8abd9244b1fb4d",
+      "manifest_sha256": "d4b67c5a92222778120958ac448b0054bf8b5aacefd3fbc989001daf73fbe8fa"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_01.csv.gz",
+      "sha256": "14332f786be0049da6aaefe1e14c0b535eb0c07720df882a01fbe775b1edd835",
+      "manifest_sha256": "88e18e5956a02c0cf1b75c60cd33e19b35813c3545c00997885e9d7a5cbd6709"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_02.csv.gz",
+      "sha256": "7299f081024e067b690989b2120a133ddc36d9bc401d980bf08e92d8a2f97d89",
+      "manifest_sha256": "4f98fe8b621b038d84489535dc321543d739ba4891019146238929218c7337c6"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_03.csv.gz",
+      "sha256": "70f94349e30238b181a99ef471b776b11663a06ba2c693e4cd60c2161e38c82c",
+      "manifest_sha256": "48ef22f21acd1205e8ae86a17dba6760c35b5bc760ad24be98b9207af9c7b103"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_04.csv.gz",
+      "sha256": "d381545fab3a41c4fc7e337a36de8ee9e0c2bf00d9f79b99b097e1b96e3f9af8",
+      "manifest_sha256": "707a637bef6aa23550bb3d739e34f075a0256e6178b123bd67d2e1aa710286cf"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_05.csv.gz",
+      "sha256": "c9dacbf769986ea1184db8e56197d82819c5476f86ac6a44fce7eb2e557b8e50",
+      "manifest_sha256": "4467ec1113dcdfded9fe62824f81168543b1f229d3ce9b4e1d66360b0a42b062"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_06.csv.gz",
+      "sha256": "73d03ef321d00a92a4caef0950ebe7bae209e418d27ca6d68df689da25c268db",
+      "manifest_sha256": "be7272f64e995994de8db4756df90ccd622a9b321aa898893de973fff5f7f4b3"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_07.csv.gz",
+      "sha256": "11205c1de4277c40b731bf57d7fc86230402fbdaa09c4809ed2bde45d50a64c0",
+      "manifest_sha256": "d70a732f67c072592626eaeeb4847ae7960d6e7794c59bee146e79087cb5b1fa"
+    },
+    {
+      "file": "SOCHER_2026_v7_2020_2026/mediciones/extractos/medidores_candidatos_2026_08.csv.gz",
+      "sha256": "5b48b518ce431e65e9c0f45b538c6f07bec075c0345b85d1315fb9852cee6aca",
+      "manifest_sha256": "8376fb6f4c63120718deffc73bfbfda0b1f389f38ba55332794fefa71454fa90"
+    }
+  ],
+  "months": 40,
+  "socket_months": 120,
+  "rows_observed": 128736,
+  "daily_rows": 1341,
+  "reconciliacion_v7_error_max_D_kWh": 0.0,
+  "reconciliacion_v7_error_max_R_kWh": 4.440892098500626e-16,
+  "rule": "No sumar sockets ni interpretar primera observación como entrada",
+  "outputs": {
+    "cobertura_canales_odata_mensual.csv": "09781257108834f84dbd9720c2166974192a2ecb29a4fb2953a8fdfba640b8d5",
+    "canales_odata_diarios.csv": "5cae773c19adc6d1a602f98fe9d2a8b5c704394bd98d63af97dad23a216a6ffa",
+    "catalogo_sockets_lampa_odata.csv": "3b9c81af096e9cfbfb3a64eeddabdd4d00770c66f0049fd798119edf55188de7"
+  }
+}

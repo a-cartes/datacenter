@@ -8,6 +8,8 @@ La entrega de precios **v0.2.0 permanece congelada**: 3.411.527 filas, 31 column
 
 Los descriptivos utilizan 139.277 barra-días de 24 pares, excluyendo la propia referencia. El diagnóstico ejecutado mantiene **cero eventos y comparadores habilitados**: no se estima ATT, dinámica causal ni spillovers con expedientes incompletos. Ascenty E53 tiene fecha realizada y ruta nominal a Chacabuco 110 kV; faltan naturaleza de la carga, fase/campus y comparación defendible.
 
+**Investigación posterior ODATA:** se recuperó el aviso del titular de inicio de operación para el **1 de agosto de 2022** y se verificó disponibilidad de precios históricos de Batuco para 105 días previos y 90 posteriores. Falta acreditar el suministro vigente, conciliar la discrepancia con el inicio de octubre registrado por OGP y justificar la comparación causal. [Hallazgos, fuentes y siguiente pieza concreta](investigacion_odata_20260927/README.md). Esta carpeta y el [episodio E53](investigacion_e53_20260927/README.md) tienen catálogos propios posteriores a la matriz inicial de 24 hitos y 33 fuentes. El Excel conserva su carácter de instantánea anterior a estas investigaciones.
+
 ## Productos
 
 - `panel/`: panel diario y mensual, cobertura y diccionario. Las identidades observacionales no certifican continuidad física.

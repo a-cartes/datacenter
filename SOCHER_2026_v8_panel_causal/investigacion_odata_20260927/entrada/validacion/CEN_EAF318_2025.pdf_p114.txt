@@ -1,0 +1,293 @@
+Reporte Desconexión/Intervención Subestacion 
+Fecha generación reporte: 28-07-2025 17:23:57
+Estados: Ejecución Exitosa, Ejecución Exitosa
+Total registros General: 438
+Total registros Subestacion: 231
+Número Tipos Estado Empresa Id Coordinado Tipo Solicitud Origen Tipo Programación ID(s) SubEstación ID(s) Elemento(s) Tipo Trabajo Potencia Trabajos a Realizar Descripción Nivel 
+Riesgo Comentario Adicional Consumo Empresas Afectadas Trabajo 
+Requiere
+Estado 
+Operativo
+Estado 
+Operativo 
+Efectivo
+Fecha Inicio
+DI2025070947 Subestacion Ejecución 
+Exitosa
+ODATA CHILE SPA 
+[EN_REVISION] 2390 Desconexión Origen Externo Programada 2211 S/E NUEVA LAMPA 35188 PA S/E NUEVA LAMPA J9 [EN_REVISION] Otro Tipo de Trabajo Sin Limitaciones
+Trabajos de armado y 
+Montaje conectores Tyco 
+en lado línea del paño J9 
+para unir el cable HV GIS 
+ODATA ST01, SE Nueva 
+Lampa. Al terminar estos 
+trabajos se realizará 
+pruebas de puesta en 
+servicio del cable 220 kV 
+desde el Paño J9 de S/E 
+Nueva Lampa,  hasta el 
+Transformador de poder 
+N°0 y Celdas 23 kV 
+ubicadas en SE Lampa. 
+quedando las nuevas 
+instalaciones en servicio 
+Trabajos sin riesgos 
+para el sistema 
+Trabajos enmarcados 
+en proyecto NUP 2129.
+No tiene consumo 
+afectado ninguno 30-06-25 02:00
+DI2025070600 Subestacion Ejecución 
+Exitosa
+SONNEDIX DON GOYO 
+TRANSMISIÓN S.A. 546 Intervención Origen Interno Programada 1697 S/E DON GOYO
+4318
+4316
+4317
+1487
+1488
+2862
+3051
+BA S/E DON GOYO 220KV BP2 [En_Revision]
+BA S/E DON GOYO 220KV BP1 [En_Revision]
+BA S/E DON GOYO 220KV BT1 [En_Revision]
+BA S/E DON GOYO 220KV BP2
+BA S/E DON GOYO 220KV BT2
+BA S/E DON GOYO 220KV BP1
+BA S/E DON GOYO 220KV BT1
+Otro Tipo de Trabajo Sin Limitaciones
+Instalación cadenas de 
+aisladores, medición de 
+distancia para 
+conductores y 
+preparativos para 
+instalación de puentes en 
+S/E Don Goyo. Trabajos 
+asociados a proyecto de 
+ampliación S/E Don Goyo 
+(BPS+BT). NUP 3866. Sin 
+condiciones requeridas.
+     
+       
+       
+       
+El riesgo del trabajo es 
+bajo siguiendo los 
+procedimientos 
+respectivos.
+Trabajos con ejecución 
+diaria. 
+No tiene consumo 
+afectado ninguno 28-06-25 09:00
+DI2025070382 Subestacion Ejecución 
+Exitosa TRANSELEC S.A. 82 Intervención Origen Interno Programada 2061 S/E ENTRE RIOS
+grupo_e
+mergenci
+a
+otros: grupo_emergencia Otro Tipo de Trabajo Sin Limitaciones
+Trabajos previos 
+asociados a Proyecto 
+Nuevo equipo de 
+compensación reactiva en 
+S/E Entre Ríos (STATCOM 
+AT), NUP 3885.
+Bajo
+Actividades: SE Entre 
+Ríos: Realizar la 
+configuración, Pruebas 
+SAT, Protocolización y 
+comisionamiento de 
+los equipos de control 
+en la diagonal 7 en S/E 
+ENTRE RIOS de 500kV. 
+Incluye: Pruebas 
+verificacion de 
+protecciones, 
+verificacion de 
+sincronización horaria, 
+pruebas efectivas de 
+enclavamiento y 
+condiciones de 
+maniobra, verificacion 
+pruebas sincronismo, 
+pruebas disparo 
+efectivo, conexionado 
+de FO en Sala de 
+SSGG, configuracion 
+de SICAM (a. 
+Integracion de rele 
+C&P, b. Pruebas de 
+C&P Nivel 2 HMI, c. 
+Pruebas verificacion 
+control Nivel 3), 
+verificacion EME, 
+No tiene consumo 
+afectado ninguno 27-06-25 08:00
+DI2025070381 Subestacion Ejecución 
+Exitosa TRANSELEC S.A. 82 Intervención Origen Interno Programada 2061 S/E ENTRE RIOS telecomu
+nicacionotros: telecomunicacion Otro Tipo de Trabajo Sin Limitaciones
+Trabajos previos 
+asociados a Proyecto 
+Nuevo equipo de 
+compensación reactiva en 
+S/E Entre Ríos (STATCOM 
+AT), NUP 3885.
+Bajo
+Actividades: SE Entre 
+Ríos: Realizar la 
+configuración, Pruebas 
+SAT, Protocolización y 
+comisionamiento de 
+los equipos de control 
+en la diagonal 7 en S/E 
+ENTRE RIOS de 500kV. 
+Incluye: Pruebas 
+verificacion de 
+protecciones, 
+verificacion de 
+sincronización horaria, 
+pruebas efectivas de 
+enclavamiento y 
+condiciones de 
+maniobra, verificacion 
+pruebas sincronismo, 
+pruebas disparo 
+efectivo, conexionado 
+de FO en Sala de 
+SSGG, configuracion 
+de SICAM (a. 
+Integracion de rele 
+C&P, b. Pruebas de 
+C&P Nivel 2 HMI, c. 
+Pruebas verificacion 
+control Nivel 3), 
+verificacion EME, 
+No tiene consumo 
+afectado ninguno 27-06-25 08:00
+DI2025066487 Subestacion Ejecución 
+Exitosa AR TCHAMMA SPA 1947 Intervención Origen Externo Programada 2227 S/E PALLATA 28664
+28665
+S/E PALLATA J1
+S/E PALLATA J2 Lavado de Aislación Sin Limitaciones
+Lavado de aislación a 
+estructuras LT 220 kV 
+Pallata - SGO, método 
+energizado pitón remoto. 
+Trabajos realizados por 
+minera Spence. 
+Condiciones requeridas: 
+No reconectar 52J1 y 52J2 
+en S/E Pallata.
+El riesgo del trabajo es 
+bajo ya que se ejecuta 
+en instalaciones de 
+terceros.
+Trabajos de terceros 
+con ejecución diaria.
+No tiene consumo 
+afectado ninguno 26-06-25 08:00
+DI2025068206 Subestacion Ejecución 
+Exitosa
+ALFA TRANSMISORA DE 
+ENERGÍA S.A. 2050 Intervención Origen Interno Programada 283 S/E CALERA CENTRO
+351
+353
+354
+S/E CALERA CENTRO B5
+S/E CALERA CENTRO B6
+S/E CALERA CENTRO B1
+Otro Tipo de Trabajo Sin Limitaciones
+Operaciones en S/E 
+Calera Centro, por 
+Cambio de Arranque a 
+Clientes Cementos 
+Melón, se considera 
+dejarlos abastecidos 
+desde LT 66 kV Cerro 
+Calera - Calera Centro 
+mientras se ejecutan los 
+trabajos de Tendido de 
+cables de fuerza y control 
+por escalerillas en 
+trinchera e interior de 
+sala de control de S/E 
+Esperanza por proyecto 
+NUP 3278 Aumento 
+Capacidad de Línea 1x110 
+kV Las Vegas - Esperanza
+Sin riesgo para el 
+sistema, cambio de 
+Topología 
+Trabajos asociados a 
+NUP 3278. Para ello se 
+considera operaciones 
+de Cierre de 52B1 y 
+Aperturas de  52B5 y 
+52B6 en S/E Cerro 
+Calera. Finalizando los 
+trabajos se 
+normalizará topología.
+No tiene consumo 
+afectado ninguno 26-06-25 08:00
+DI2025069068 Subestacion Ejecución 
+Exitosa
+ENGIE ENERGÍA CHILE 
+S.A. 1744 Intervención Origen Interno Programada 1839 S/E CENTRAL TOCOPILLA 1985 BA S/E CENTRAL TOCOPILLA 110KV BP1-1 Otro Tipo de Trabajo Sin Limitaciones Trabajo de preparación 
+mufas a nivel de piso
+Se toman todas las 
+medidas de 
+precaución, 
+controlando todos los 
+riesgos existentes, de 
+acuerdo a 
+procedimiento de 
+trabajo, riesgo bajo.
+No reconectar 
+52HT1,52HT2,52H3,52
+H4,52HT141, ABIERTO 
+HS-1. ENCARGADO DE 
+MANIOBRA 
+OPERADOR 
+TRANSMISION. 
+sociado a Proyecto 
+BESS Tocopilla
+No tiene consumo 
+afectado ninguno 25-06-25 08:00
+DI2025070275 Subestacion Ejecución 
+Exitosa AMANECER SOLAR SPA 1966 Desconexión Origen Interno Curso Forzoso 1669 S/E CENTRAL LLANO DE 
+LLAMPOS 1327 T2D S/E CENTRAL LLANO DE LLAMPOS JT1 Otro Tipo de Trabajo Sin Limitaciones
+Se requiere la 
+desconexión de de 
+transformador T2D de 
+S/E Central Llano de 
+LLampos paño JT1 por 
+fuga de aceite en Bushing 
+lado 220 kV. Se requiere 
+abierto 52JT1 y 52ET1 de 
+S/E Central Llano de 
+Llampos. 
+El riesgo del trabajo es 
+bajo. Se requiere 
+instalaciones sin 
+energía para actividad.
+Se requiere la 
+desconexión de de 
+transformador T2D de 
+S/E Central Llano de 
+LLampos paño JT1 por 
+fuga de aceite en 
+Bushing lado 220 kV. 
+Se requiere abierto 
+52JT1 y 52ET1 de S/E 
+Central Llano de 
+Llampos. NOTA: 
+Circuitos de Media 
+Tensión E1, E2 y E3 
+quedaran acoplados a 
+Barra 2, Cerrado 89JS-
+1, 89JS-2 y 52JS de S/E 
+Central Llano de 
+Llampos.
+No tiene consumo 
+afectado ninguno 24-06-25 18:07

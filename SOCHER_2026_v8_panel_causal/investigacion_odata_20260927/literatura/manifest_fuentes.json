@@ -1,0 +1,38 @@
+[
+  {
+    "id": "LIT01",
+    "archivo": "fuentes/MIT_CEEPR_WP2026_13.pdf",
+    "url": "https://ceepr.mit.edu/wp-content/uploads/2026/06/MIT-CEEPR-WP-2026-13.pdf",
+    "consulta": "2026-09-27",
+    "estado": "ARCHIVADO",
+    "bytes": 4411748,
+    "sha256": "b90d17db3759dec4cffa5460cbf31b09d84099f2e51e1e319e6c4baab4465b5e"
+  },
+  {
+    "id": "LIT02",
+    "archivo": "fuentes/Mamkhezri_2026_en_anexo_TURN04.pdf",
+    "url": "https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2411007/9108/604536651.pdf",
+    "consulta": "2026-09-27",
+    "estado": "ARCHIVADO",
+    "bytes": 7926520,
+    "sha256": "80548d0fe62f98d78c5553e246e7ac4b49c5f6027fed15213db34d8f1181bd04"
+  },
+  {
+    "id": "LIT03",
+    "archivo": "fuentes/Watten_Bistline_Blanford_2026v1.pdf",
+    "url": "https://arxiv.org/pdf/2606.19777v1",
+    "consulta": "2026-09-27",
+    "estado": "ARCHIVADO",
+    "bytes": 2050113,
+    "sha256": "447008bb03ac95da096c5d9c4d1ec23d6983b332f570a184e740f24d0c448b2b"
+  },
+  {
+    "id": "LIT04",
+    "archivo": "fuentes/DallasFed_WP2606.pdf",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2606.pdf",
+    "consulta": "2026-09-27",
+    "estado": "ARCHIVADO",
+    "bytes": 12960798,
+    "sha256": "3504b27b50baa360db666e6e8778ddc3b991311c51a3123e637b48ae69acb43b"
+  }
+]

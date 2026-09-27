@@ -1,0 +1,95 @@
+{
+  "as_of": "2026-09-27",
+  "primary_documents": [
+    {
+      "file": "RCA098_2021.pdf",
+      "url": "https://seia.sea.gob.cl/archivos/2021/02/09/ba2_RCA_Res.098-2021_Cargada_en_el_Expediente.pdf",
+      "sha256": "55471d508cba842e3c4c4d0059b8de56fe0df5ed1787c21097bd8cb55766546b",
+      "pages_cited": [
+        1
+      ]
+    },
+    {
+      "file": "CEN_IAC_carta20230703.pdf",
+      "url": "https://cartas.coordinador.cl/download_saved_file/64a328c53563574eab7a4eca",
+      "sha256": "9e43b4f037a822e5dacb2315a82fa8bc294d49f22c493b0134afd208838d3f69",
+      "pages_cited": [
+        1,
+        4
+      ]
+    },
+    {
+      "file": "CEN_IAC_anexo20230703_0",
+      "url": "https://cartas.coordinador.cl/download_anexos/64a328c53563574eab7a4eca/0",
+      "sha256": "e0434aa3a6ee85d755d92cba901f167c1a9a4c6f7b711310155be70af52d4402",
+      "pages_cited": [
+        4
+      ]
+    },
+    {
+      "file": "CEN_EAF318_2025.pdf",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2025/07/EAF-318-2025.pdf",
+      "sha256": "79d44ded801d8fd4371e218ccea3d065f3976210eff5d023ac1a1907a2b1ce70",
+      "pages_cited": [
+        114
+      ]
+    },
+    {
+      "file": "SEA_DIA2020_Cap1.pdf",
+      "url": "https://seia.sea.gob.cl/archivos/2020/07/17/4c1_Cap_1_Descripcion_de_proyecto.pdf",
+      "sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b",
+      "pages_cited": [
+        10,
+        11,
+        31,
+        32,
+        61
+      ]
+    },
+    {
+      "file": "SEA_pertinencia20231026_CdP.pdf",
+      "url": "https://pertinencia.sea.gob.cl/api/public/documentos/descargarBlade/E24E5B87-0F70-4C4E-8698-781FA72FA46F",
+      "sha256": "7d70a4f386d246bff08e900105154deeba6a29d4074afc910782d06989dc67bc",
+      "pages_cited": [
+        13,
+        23,
+        24
+      ]
+    },
+    {
+      "file": "SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+      "url": "https://api-ssa.sma.gob.cl/api/v1/documentos/incidente/descargar?nombre=b5ab75401f3a11ed89ae0242ac11000d",
+      "sha256": "cc94aca016d23dc708c6ccdd20e85c3d262ecf9863174bb8037f73cdeeba80f4",
+      "pages_cited": [
+        1
+      ]
+    },
+    {
+      "file": "SMA_comprobante_inicio_operacion_20220818_original.pdf",
+      "url": "https://api-ssa.sma.gob.cl/api/v1/documentos/incidente/descargar?nombre=Comprobante_environmental_monitoring_b2f5e1be-1f3a-11ed-89ae-0242ac11000d",
+      "sha256": "458bebd6273ce8b463b9436007dc772a6cb6edc696856c803cd2b1b4f8cde8ee",
+      "pages_cited": [
+        1
+      ]
+    },
+    {
+      "file": "OGP_cartera_abril2023.pdf",
+      "url": "https://ogp.economia.cl/wp-content/uploads/2023/05/202304.pdf",
+      "sha256": "58a4ffb5b226205077b814e7e1b2088d016957feef4d619427380cff107ed8ce",
+      "pages_cited": [
+        47
+      ]
+    },
+    {
+      "file": "SEA_Adenda20201001.pdf",
+      "url": "https://seia.sea.gob.cl/archivos/2020/10/01/5bf_Adenda_Odata_Datacenter.pdf",
+      "sha256": "e51fe8128cae0f4fe937e0626cab3baa8d8d73d53e8260cc73723ac044d14e1e",
+      "pages_cited": [
+        7
+      ]
+    }
+  ],
+  "access_manifest": "fuentes/manifest_descarga.json",
+  "SMA_chain_manifest": "fuentes/manifest_SMA_PDF.json",
+  "scope": "No outcomes or frozen registry changes"
+}

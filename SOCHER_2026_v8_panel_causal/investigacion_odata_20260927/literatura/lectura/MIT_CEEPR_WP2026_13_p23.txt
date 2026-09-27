@@ -1,0 +1,40 @@
+data center was activated before our sample starts in 2010; for these pairs the pre-period is
+unobserved.
+The pair fixed effects αi absorb time-invariant differences across utility-state pairs—
+commission structure, generation mix, climate, baseline industrial composition, and per-
+sistent rate-level disparities—that could otherwise confound the relationship between
+data center entry and utility outcomes. The year fixed effects δt absorb shocks that hit all
+utilities in a given year, including wholesale fuel price movements, federal policy changes,
+macroeconomic conditions, and secular trends in electricity demand and generation tech-
+nology. Identification of β therefore comes from within-pair variation after netting out
+common annual shocks. We cluster standard errors at the utility-state pair level, which
+is the level of treatment assignment and outcome measurement and allows for arbitrary
+serial correlation in εit driven by rate-setting cycles, regulatory decisions, and pair-specific
+cost recovery mechanisms.
+Equation (1) is a useful baseline, but it is unlikely to deliver a clean causal estimand
+in our setting. Data centers activate in different years across territories, and the effects of
+entry on rates, capital spending, and rate case activity are likely to evolve over event time
+and differ across cohorts as utilities recover costs through subsequent rate proceedings.
+A growing literature documents that the TWFE estimator can be biased in settings with
+precisely this combination of staggered adoption and heterogeneous treatment effects (e.g.,
+Baker et al., 2026). The bias arises because the TWFE coefficient is a weighted average of
+all available two-group, two-period comparisons, including comparisons that usealready-
+treatedpairs as controls forlater-treatedpairs. When treatment effects evolve over event
+time, the outcomes of the already-treated “controls” are still moving in response to their
+own past treatment, so some group-by-period average treatment effects enter the TWFE
+estimand with negative weights.
+We therefore employ the difference-in-differences framework developed by Callaway
+and Sant’Anna (2021) (hereafter CSDID). The CSDID estimator constructs group–time
+average treatment effects:
+ATT(g,t) =E
+
+Yit(g)−Y it(∞)
+ Gi =g
+
+,t≥g, (2)
+where Gi denotes the year in which pair i first receives a large data center exposure, Yit(g)
+is the potential outcome under first treatment in year g, and Yit(∞) is the never-treated
+potential outcome. Each ATT(g, t) compares the outcome change between g− 1 and t
+for cohort g to the analogous change among never-treated pairs. Because comparisons
+are made within cohort and against pairs that remain untreated throughout the sample
+20

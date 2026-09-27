@@ -1,0 +1,44 @@
+ 
+DECLARACIÓN DE IMPACTO AMBIENTAL 
+ “PROYECTO ODATA DATACENTER” 
+ 
+Capítulo 1 – Descripción del Proyecto 1-3 
+ 
+partir de la línea Batuco, y a través de una Línea de media tensión para el Edificio ST02, en base a una 
+subestación eléctrica ubicada al interior del predio del proyecto, como abastecimiento principal, y 
+grupos electrógenos de emergencia, en caso de que el sistema principal de abastecimiento de energía 
+falle. 
+ 
+1.2.3 Objetivo general del proyecto o actividad 
+El Proyecto tiene por objetivo la construcción y operación de un campus de Dat a Center, una 
+infraestructura con altos estándares tecnológicos, de seguridad y disponibilidad, con la finalidad de 
+abastecer el servicio de infraestructura a terceros para la recepción, almacenamiento y distribución de 
+datos, con el propósito de suministrar servicios de este tipo de tecnología, en virtud del aumento en la 
+demanda actual y futura de estos servicios. Esta instalación constituirá un aporte relevante al desarrollo 
+tecnológico del país, reforzando sus ventajas comparativas y el posicionamiento como centro de 
+operaciones regionales de empresas multinacionales. 
+ 
+1.2.4 Tipología del proyecto y la tipología aplicable a sus partes, obras o acciones de acuerdo al 
+art. 3 del Reglamento 
+De acuerdo con lo establecido en el artículo 8º de la Ley N° 19.300  sobre Bases Generales del Medio 
+Ambiente (“LBGMA”), modificada por Ley N°20.417, los proyectos o actividades listados en el artículo 
+10 de la misma (y detallados en el artículo 3º del DS°40/201 2 del Reglamento del SEIA), sólo podrán 
+ejecutarse o modificarse previa evaluación de su impacto ambiental. 
+En virtud del objetivo operacional del proyecto, se establece como tipología principal de ingreso al SEIA 
+lo establecido en el literal b.2 y como tipología secundaria lo indicado en el literal ñ.3 del Reglamento 
+del SEIA. 
+A continuación, se muestran las descripciones específicas de cada una de las tipologías identificadas 
+previamente y su justificación, para efectos del presente proyecto: 
+b) Líneas de transmisión eléctrica de alto voltaje y sus subestaciones.  
+b.2. Se entenderá por subestaciones de líneas de transmisión eléctrica de alto voltaje aquellas 
+que se relacionan a una o más líneas de transporte de energía eléctrica y que tienen por objeto 
+mantener el voltaje a nivel de transporte. 
+ñ) Producción, almacenamiento, transporte, disposición o reutilización habituales de sustancias tóxicas, 
+explosivas, radioactivas, inflamables, corrosivas o reactivas. Se entenderá que estos proyectos o 
+actividades son habituales cuando se trate de 
+ñ.3.) “Producción, disposición o reutilización de sustancias inflamables que se realice durante 
+un semestre o más, y con una periodicidad mensual o mayor, en una cantidad igual o superior 
+a ochenta mil kilogramos diarios (80.000 kg/día). Capacidad de almacenamiento de sustancias 
+inflamables en una cantidad igual o superior a ochenta mil kilogramos (80.000 kg)”. 
+En este caso el proyecto contempla para su Edificio ST02 una línea eléctrica de media tensión, la cual 
+proviene desde la subestación Lampa que se relacionan a una o más líneas de transporte de energía 

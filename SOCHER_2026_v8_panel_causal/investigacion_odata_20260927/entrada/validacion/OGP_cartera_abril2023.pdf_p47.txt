@@ -1,0 +1,433 @@
+Evolución catastro de proyectos OGP
+Proyectos que iniciaron operación desde enero 2021     
+Inversión en M M  US$
+Proyecto
+Inversión Total
+M acro Etapa
+Región
+Em pleos Constr.
+Em pleos Oper.
+Fecha Inicio Operación PARQUE EÓLICO ATACAM A 175 Operación III de Atacam a 50 15 abr 2023
+SPENCE - ACTUALIZACIÓN DE M ANEJO DE RIPIOS DE LIXI..
+223
+Operación
+II de Antofagasta
+75
+35
+abr 2023
+NORM ALIZACIÓN HOSPITAL PROVINCIAL DE CURICÓ
+204
+Operación
+VII del M aule
+859
+773
+ene 2023
+PARQUE EÓLICO CAM PO LINDO
+100
+Operación
+VIII del Bío Bío
+180
+10
+ene 2023
+ACTUALIZACIÓN PROYECTO M INERO RADOM IRO TOM IC
+800
+Operación
+II de Antofagasta
+474
+0
+dic 2022
+EM BALSE CHIRONTA
+139
+Operación
+XV de Arica y Parinacota
+365
+6
+dic 2022
+INFRAESTRUCTURA COM PLEM ENTARIA LOS PELAM BRE..
+1.100
+Operación
+IV de Coquim bo
+2.300
+241
+dic 2022
+DESEM BOTELLAM IENTO CONCENTRADORA M ANTOS BL..
+182
+Operación
+II de Antofagasta
+566
+106
+dic 2022
+AM PLIACION PLANTA LA NEGRA - FASE 3
+700
+Operación
+II de Antofagasta
+1.915
+148
+dic 2022
+PLANTA PROCESADORA DE RECURSOS HIDROBIOLÓGIC..
+107
+Operación
+XII de M agallanes
+120
+460
+dic 2022
+LA COIPA FASE 7
+363
+Operación
+III de Atacam a
+122
+130
+oct 2022
+VALLE DEL SOL
+125
+Operación
+II de Antofagasta
+140
+3
+oct 2022
+ODATA
+217
+Operación
+XIII M etropolitana
+190
+65
+oct 2022
+M ODERNIZACIÓN AM PLIACIÓN PLANTA ARAUCO
+2.850
+Operación
+VIII del Bío Bío
+8.000
+1.000
+oct 2022
+ADECUACIÓN DE ANDINA - DLN
+389
+Operación
+V de Valparaíso
+450
+200
+sep 2022
+PROYECTO FOTOVOLTAICO SOL DE LILA
+130
+Operación
+II de Antofagasta
+130
+3
+ago 2022
+PROYECTO CONTINUIDAD OPERACIONAL CERRO COLOR..
+467
+Operación
+I de Tarapacá
+100
+50
+ago 2022
+DATA CENTER CHILE 2
+140
+Operación
+XIII M etropolitana
+320
+25
+ago 2022
+AM ÉRICO VESPUCIO ORIENTE I - AVO I
+1.000
+Operación
+XIII M etropolitana
+3.000
+300
+jul 2022
+PARQUE EÓLICO LLANOS DEL VIENTO
+243
+Operación
+II de Antofagasta
+200
+10
+jul 2022
+EXPLOTACIÓN RECURSOS NORTE - DET
+400
+Operación
+VI de O'Higgins
+800
+320
+abr 2022
+VESPUCIO 345
+123
+Operación
+XIII M etropolitana
+350
+150
+abr 2022
+HOSPITAL DE ALTO HOSPICIO
+155
+Operación
+I de Tarapacá
+481
+962
+m ar 2022
+AM PLIACIÓN AEROPUERTO INTERNACIONAL ARTURO M ..
+689
+Operación
+XIII M etropolitana
+3.500
+250
+feb 2022
+PARQUE EÓLICO LOS OLM OS
+136
+Operación
+VIII del Bío Bío
+350
+5
+feb 2022
+PROYECTO FIBRA ÓPTICA AUSTRAL (FOA)
+110
+Operación
+Interregional
+250
+120
+feb 2022
+TAM AYA SOLAR
+120
+Operación
+II de Antofagasta
+190
+5
+feb 2022
+PARQUE NOGALES
+100
+Operación
+XIII M etropolitana
+237
+16
+feb 2022
+SOL DEL DESIERTO
+248
+Operación
+II de Antofagasta
+500
+12
+feb 2022
+INCORPORACIÓN DE SALES AL PROCESO DE LIXIVIACIÓN..
+189
+Operación
+II de Antofagasta
+500
+0
+feb 2022
+CLUB DE CAM PO VITACURA
+229
+Operación
+XIII M etropolitana
+300
+30
+ene 2022
+CONTINUIDAD OPERACIONAL PROYECTO GABY
+434
+Operación
+II de Antofagasta
+85
+12
+ene 2022
+M INA CHUQUICAM ATA SUBTERRÁNEA - DCHS
+4.758
+Operación
+II de Antofagasta
+0
+2.961
+dic 2021
+TENTE EN EL AIRE
+350
+Operación
+I de Tarapacá
+1.403
+717
+dic 2021
+CENTRAL HIDROELÉCTRICA ALTO M AIPO
+3.464
+Operación
+XIII M etropolitana
+4.579
+32
+dic 2021
+PARQUE EÓLICO CABO LEONES III
+178
+Operación
+III de Atacam a
+50
+15
+dic 2021
+CIUDAD DEL SOL
+487
+Operación
+XIII M etropolitana
+400
+30
+dic 2021
+PLANTA DESALINIZADORA DE AGUA DE M AR PARA LA RE..
+120
+Operación
+III de Atacam a
+210
+15
+dic 2021
+TRASPASO ANDINA
+1.254
+Operación
+V de Valparaíso
+2.150
+60
+nov 2021
+EDIFICIO TERRITORIA APOQUINDO
+486
+Operación
+XIII M etropolitana
+1.200
+800
+oct 2021
+NUEVA PLANTA EM BOTELLADORA RENCA
+435
+Operación
+XIII M etropolitana
+200
+405
+oct 2021
+AM PLIACIÓN FAENA SALAR DEL CARM EN
+604
+Operación
+II de Antofagasta
+249
+240
+oct 2021
+PARQUE EÓLICO M ALLECO
+400
+Operación
+IX de la Araucanía
+117
+9
+ago 2021
+PROYECTO EOLICO CALAM A
+200
+Operación
+II de Antofagasta
+150
+6
+jul 2021
+CERRO PABELLÓN 3
+100
+Operación
+II de Antofagasta
+160
+20
+jul 2021
+PARQUE EOLICO ALENA
+131
+Operación
+VIII del Bío Bío
+180
+10
+jul 2021
+PARQUE EÓLICO CERRO TIGRE
+195
+Operación
+II de Antofagasta
+300
+10
+jul 2021
+PARQUE EÓLICO TCHAM M A
+136
+Operación
+II de Antofagasta
+200
+10
+jul 2021
+CAM POS DEL SOL
+340
+Operación
+III de Atacam a
+750
+80
+jun 2021
+CSP CERRO DOM INADOR.
+1.136
+Operación
+II de Antofagasta
+1.500
+80
+jun 2021
+SOUTH PACIFIC SUBSEA CABLE (SPSC)
+123
+Operación
+Interregional
+120
+25
+jun 2021
+PROYECTO SOLAR RÍO ESCONDIDO
+195
+Operación
+III de Atacam a
+250
+20
+m ay 2021
+HOSPITAL BIPROVINCIAL QUILLOTA PETORCA
+117
+Operación
+V de Valparaíso
+800
+1.600
+m ay 2021
+PLANTA FOTOVOLTAICA M ALGARIDA II
+163
+Operación
+III de Atacam a
+350
+15
+abr 2021
+PARQUE FOTOVOLTAICO SANTA ISABEL
+600
+Operación
+II de Antofagasta
+1.000
+14
+abr 2021
+PARQUE EÓLICO CABO LEONES II
+230
+Operación
+III de Atacam a
+100
+10
+m ar 2021
+PROYECTO TALABRE VIII & IX
+168
+Operación
+II de Antofagasta
+300
+0
+m ar 2021
+M INERALES PRIM ARIOS SPENCE (SGO)
+2.400
+Operación
+II de Antofagasta
+4.100
+220
+m ar 2021
+PARQUE FOTOVOLTAICO ATACAM A SOLAR
+180
+Operación
+I de Tarapacá
+250
+8
+feb 2021
+PLANTA DESALINIZADORA Y AGUA INDUSTRIAL - CAITÁN
+650
+Operación
+II de Antofagasta
+1.380
+26
+feb 2021
+60
+32.187
+49.547
+12.900
+Energía
+Industria
+Infraestructura
+Inm obiliario
+M inería
+Sector

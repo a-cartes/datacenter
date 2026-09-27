@@ -1,0 +1,36 @@
+capacity to account for gradual supply changes. The estimates remain qualitatively similar
+to those reported in Table2 and Appendix TableA.2.
+Onthedemandside, weaddressthepossibilitythattheobservedvariationreflectsbroader
+demand growth rather than shocks specifically associated with data center entry. One po-
+tential confounder is the entry of energy-intensive manufacturing facilities. Appendix Table
+A.6 columns 6–10 include controls for the number of manufacturing plants. The estimated
+effects of data center entry remain stable and statistically similar to the baseline results.
+Spillovers of Inefficient Pricing
+Another concern is that congestion induced by data center entry may spill over to nearby
+tracts. In a meshed transmission network, congestion at one location can alter power flows
+and prices at distant nodes through loop flows, potentially violating SUTVA. If untreated
+tracts are affected by congestion originating in treated tracts, the control group outcomes
+are contaminated, biasing the estimated effect toward zero (if spillovers raise control group
+prices) or away from zero (if spillovers lower control group prices through rerouting).
+To examine this possibility, we compute pairwise correlations in pre-treatment inefficient
+pricing across all census tracts in Virginia. We identify untreated tracts that are highly cor-
+related with treated tracts and exclude untreated tracts with correlation coefficients greater
+than 0.5 relative to treated tracts. This procedure restricts the comparison group to tracts
+that are less likely to be affected by spillovers through the transmission network.
+The restricted sample includes 20 treated tracts and 30 untreated tracts. Appendix Table
+A.7 Panel A reports estimates using this lower-correlation untreated group. The results are
+consistent with the baseline aggregate estimates, suggesting that spillovers are unlikely to
+drive the main findings.15
+6.4.2 Matching
+Our results are robust to alternative matching procedures. Appendix Table A.7 reports
+estimates from several alternative specifications: models without propensity score matching
+(Panel B), models not weighted by tract duplication arising from matching with replacement
+(Panel C), models excluding duplicated tracts entirely (Panel D), and models using five
+nearest neighbors (5NN) instead of ten (10NN) for matching (Panel E). The estimated
+effects remain stable across specifications, indicating that the findings are not sensitive to
+the matching design.
+15The choice of the 0.5 correlation threshold is somewhat arbitrary. In unreported results, we re-estimate
+the model using alternative thresholds ranging from 0.5 to 0.7 and obtain qualitatively similar results.
+18
+ 
+26

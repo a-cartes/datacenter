@@ -1,0 +1,112 @@
+{
+  "campus": "ODATA Lampa",
+  "RCA": "098/2021",
+  "SMA_UF": 20619,
+  "price_outcomes_consulted": false,
+  "events": [
+    {
+      "id": "ODE01",
+      "event_date": "2020-07",
+      "precision": "month",
+      "kind": "planned_campus",
+      "source": "SEA_DIA2020_Cap1.pdf",
+      "page": 10,
+      "fact": "Dos edificios Lampa ST01/ST02, cinco módulos, capacidad potencial 28 MW TI",
+      "actual_electrical_event": false
+    },
+    {
+      "id": "ODE02",
+      "event_date": "2020-10-01",
+      "precision": "day_document",
+      "kind": "supply_design_clarification",
+      "source": "SEA_Adenda20201001.pdf",
+      "page": 7,
+      "fact": "Dos fuentes: distribución pública ST01 y línea dedicada Lampa 23 kV todo campus; respuesta6",
+      "actual_electrical_event": false
+    },
+    {
+      "id": "ODE03",
+      "event_date": "2021-02-03",
+      "precision": "day",
+      "kind": "environmental_authorization",
+      "source": "RCA098_2021.pdf",
+      "page": 1,
+      "fact": "RCA098/2021",
+      "actual_electrical_event": false
+    },
+    {
+      "id": "ODE04",
+      "event_date": "2022-01",
+      "precision": "month_forecast",
+      "kind": "forecast_operation",
+      "source": "SEA_DIA2020_Cap1.pdf",
+      "page": 61,
+      "fact": "Pronóstico inicio primer módulo ST01 6 MW TI; no tratamiento realizado",
+      "actual_electrical_event": false
+    },
+    {
+      "id": "ODE05",
+      "event_date": "2022-08-01",
+      "precision": "day_declared",
+      "kind": "declared_operation_start",
+      "document_date": "2022-08-18",
+      "receipt_date": "2022-08-18",
+      "source": "SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+      "page": 1,
+      "fact": "Inicio declarado de fase operación en carta ODCH-ST01-061-2022",
+      "actual_electrical_event": null,
+      "load_MW": null,
+      "upstream_actual": null,
+      "eligibility": "Candidate documentary date; empalme and anticipation unresolved"
+    },
+    {
+      "id": "ODE06",
+      "event_date": "2022-10",
+      "precision": "month",
+      "kind": "OGP_reported_operation_start",
+      "document_date": "2023-04",
+      "source": "OGP_cartera_abril2023.pdf",
+      "page": 47,
+      "fact": "OGP fila ODATA 217 MMUS$: inicio operación oct2022; discrepancia preservada",
+      "actual_electrical_event": null,
+      "conflicts_with": "ODE05; event definition unverified"
+    },
+    {
+      "id": "ODE07",
+      "event_date": "2023-07-03",
+      "precision": "day",
+      "kind": "connection_authorization_NUP2129",
+      "source": "CEN_IAC_carta20230703.pdf",
+      "page": 1,
+      "fact": "Autoriza solución NuevaLampa J9 220kV con transformación y 23kV",
+      "actual_electrical_event": false
+    },
+    {
+      "id": "ODE08",
+      "event_date": "2023-10-26",
+      "precision": "upper_bound_document",
+      "kind": "phases1_2_reported_operating",
+      "source": "SEA_pertinencia20231026_CdP.pdf",
+      "page": 24,
+      "fact": "Phase1&2 operativas en plano de figura5; fecha inicio exacta desconocida",
+      "actual_electrical_event": null,
+      "load_MW": null
+    },
+    {
+      "id": "ODE09",
+      "event_date": "2024-08",
+      "precision": "month_forecast",
+      "kind": "forecast_PES_NUP2129",
+      "source": "CEN_IAC_anexo20230703_0",
+      "page": 4,
+      "fact": "PES prevista; no usar como fecha de inicio DC",
+      "actual_electrical_event": false
+    }
+  ],
+  "unresolved": [
+    "empalme vigente inicial",
+    "anticipación consumo/pruebas",
+    "fase2 fecha exacta",
+    "definición OGP octubre2022"
+  ]
+}

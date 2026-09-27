@@ -1,0 +1,43 @@
+ 
+DECLARACIÓN DE IMPACTO AMBIENTAL 
+ “PROYECTO ODATA DATACENTER” 
+ 
+Capítulo 1 – Descripción del Proyecto 1-48 
+ 
+1.6 DESCRIPCIÓN DE LA FASE DE OPERACIÓN 
+1.6.1 Descripción de la partes, obras y acciones asociadas incluyendo los períodos de pruebas y de 
+puesta en marcha, si correspondiese. 
+Posterior a la materialización de todas las partes, obras y acciones asociadas a la fase anterior, 
+comprenderá la fase de operación del Data Center, considerando inicialmente la operación del edificio 
+ST01 y posteriormente la operación del edificio ST02. 
+En este caso, la operación se iniciará con la entrada en actividad del primer módulo de Data Center del 
+edificio ST01, el que entrará en operación apenas se finalice su construcción. Posteriormente, finalizada 
+la construcción del segundo módulo, comenzará su operación, para así, completar la operación del 
+edificio ST01. 
+El edificio ST02, al igual que el caso del edificio ST01, se irán sumando a la operación los módulos de 
+forma secuencia. En este caso, e l edificio ST02 contempla 3 módulo como se ha indicado con 
+anterioridad 
+ 
+1.6.1.1 Operación del Data Center 
+La operación del Data Center es 24x7. No obstante lo anterior, en términos de actividades, estas se 
+limitan a la operación de técnicos eléctricos y mecánicos que realizan las operaciones de mantención, 
+principalmente. 
+Los equipos de trabajo actúan en 3 áreas distintas: 
+▪ Actividades de operación: rondas diarias y asistencias a llamados 
+▪ Actividades de mantención: mantenciones preventivas, correctivas y preventivas; 
+▪ Actividades de operación asistida: acompañamiento técnico de cualquier actividad de 
+campo. 
+▪ Monitoreo de los Sistemas y elaboración de Informes de Gestión 
+1.6.2 Fecha estimada e indicación de la parte, obra o acción que establezca el inicio y término  de 
+la fase 
+La fecha estimada para el inicio de esta fase corresponde a Enero de 2022. El hito que marcará el inicio 
+de la fase será la puesta en marcha del primer módulo de 6 MW de TI del edificio ST01. Dicho hito será 
+comunicado a la Superintendencia del Medio Ambiente. 
+El hito que dará término a la fase de Operación, en caso de que esta se lleve a cabo, consistirá en el 
+inicio del desmantelamiento del primer módulo de Data Center. 
+El Proyecto tiene una vida útil estimada de 30 años a partir del funcionamiento de la totalidad del Data 
+Center, la que puede ser extendida de forma indefinida, toda vez que las obras y áreas del Proyecto 
+podrán ser mantenidas y/o actualizadas según los requerimientos y avances tecnológicos. Lo anterior 
+implica que esta fase no considera una fecha de término definida. No obstante lo anterior, en el caso 
+que el proyecto finalice su operación a los 30 años, la fecha de término de la fase de Operación se 
+desarrollaría en Febrero de 2059. 

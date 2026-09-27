@@ -1,0 +1,326 @@
+
+=== PDF PAGE 1 ===
+Nombre de Proyecto Tipo de 
+solicitud Etapa Empresa solicitante Tipo Capacidad 
+[MW]
+Fecha estimada de 
+conexión Instalación donde se conectará
+Los Guindos Etapa II SASC Solicitud Aprobada Los Guindos Generación SpA Dual (diesel o gas natural) 132 12-01-2018 S/E Charrúa 220 kV
+CT Doña Luzma SASC Rechazada Energía Alcones SpA Diesel 40 07-01-2020 S/E Alcones 66 kV
+Central Teno Gas 10 SASC Rechazada Innovación Energía S.A. GLP (Gas licuado de petróleo) 10,7 09-01-2018 S/E Aguas Negras 66 kV
+Parque eólico Negrete SASC Rechazada WPD Negrete SpA Eólica 39 01-01-2020 S/E Negrete 66 kV
+AR Valle Altillo Solar SASC Rechazada AR Energía Chile SpA Solar 8,9 06-01-2018 Línea 2x66 kV Los Molles - Ovalle
+PE Lomas de Duqueco SASC Proyecto debe declararse en construcción WPD Duqueco SpA Eólica 60 07-01-2019 S/E Duqueco 66 kV
+San Gabriel y Tolpán Sur SASC Solicitud Aprobada Acciona Eólica 183 y 87 11-01-2018 S/E Mulchén 220 kV
+PE La Flor SASC Solicitud Aprobada Vientos de Renaico Eólica 33 01-01-2019 S/E Nahuelbuta 66 kV
+Lauca Solar SASC Rechazada Arica Solar 1 S.A. Solar 80 06-01-2019 S/E Parinacota 66 kV
+AR Frontera Solar SASC Proyecto debe declararse en construcción Inversiones Frontera Solar SpA Solar 120 07-01-2023 S/E Frontera 220 kV (S/E Seccionadora Quillagua Decreto N° 373)
+Central Hidro Laja SASC Elaboración Informe de Autorización de Conexión Preliminar Eólica Monte Redondo Hidroeléctrica 42 31-03-2022 S/E Seccionadora El Rosal 220 kV (Decreto N° 422)
+Atacama Solar SASC Solicitud Aprobada Atacama Solar S.A. Solar 144 08-01-2019 S/E Lagunas 220 kV
+FV Divisadero SASC Rechazada Avenir el Divisadero SpA Solar 65 10-01-2018 Línea 1x110 kV Las Compañías - Maitencillo
+Central de respaldo Maitencillo SASC Solicitud Aprobada EMELVA (empresa eléctrica Vallenar) Diesel 68,4 03-01-2019 S/E Maitencillo 110 kV
+PV Azabache y USYA SASC Solicitud Aprobada PE Valle de los Vientos S.A. Solar 63 y 52,4 10-01-2023 S/E Calama 110 kV
+Granja Solar SASC Solicitud Aprobada María Elena Solar S.A. (SolarPack) Solar 100 06-01-2019 S/E Lagunas 220 kV
+Elena SASC Elaboración Informe de Autorización de Conexión Preliminar Ibereólica Solar 500 05-01-2022 S/E Kimal 220 kV
+Meseta de los Andes SASC Elaboración Informe de Autorización de Conexión Preliminar Tercera Región Solar SpA Solar 200 12-06-2017 S/E Los Maquis 220 kV
+AR Candelaria Solar SASC Rechazada AR Energía Chile SpA Solar 166,98 12-07-2017 S/E Nueva Cardones 220 kV
+CH Frontera SASC Rechazada Transelec Hidroeléctrica 01-01-2023 S/E Mulchén 220 kV
+PFV Victor Jara SASC Rechazada Grenergy Renovables Pacific Limitada Solar 200 12-01-2021 S/E Nueva Pozo Almonte 220 kV
+PE Negrete SASC Solicitud Aprobada WPD Negrete SpA Eólica 39 01-01-2020 S/E Negrete 66 kV
+PE Malleco SASC Solicitud Aprobada WPD Malleco SpA. Eólica 273 08-01-2019 S/E Río Malleco 220 kV
+PF Escondido SASC Solicitud Aprobada Mainstream Solar 145 03-01-2020 S/E Cardones 220 kV
+PE La Esperanza II SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Eólico La Esperanza Eólica 17,5 06-01-2019 S/E Negrete 66 kV
+PE Bellavista SASC Elaboración Informe de Autorización de Conexión Preliminar Espinos S.A. Eólica 120 03-09-2018 S/E Frutillar Norte 220 kV
+Pucará de Chena SASC Desistida Servicios Informáticos Loboflores LTDA Consumo 175 09-01-2020 S/E Chena 110 kV
+PE Trigales SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Eólico Los Trigales SpA Eólica 154,8 07-01-2021 S/E Río Malleco 220 kV
+PF Almeyda SASC Solicitud Aprobada Acciona Solar 52 10-01-2019 S/E Cumbre 220 kV
+FV Alcones SASC Elaboración Informe de Autorización de Conexión Preliminar OPDE Solar 90 12-01-2019 S/E Portezuelo 110 kV
+CH Frontera SASC Proyecto debe declararse en construcción Central Frontera Hidroeléctrica 109 07-01-2021 S/E Mulchén 220 kV
+PE Rarinco SASC Elaboración Informe de Autorización de Conexión Preliminar Energía Renovable Verano Tres SpA. Eólica 151,2 01-01-2023 S/E Varones 220 kV
+Parque Fotovoltaico Willka SASC Proyecto debe declararse en construcción Inversiones Fotovoltaicas SpA Solar 98 05-01-2020 S/E Parinacota 220 kV
+Proyecto Minero Arqueros SASC Elaboración Informe de Autorización de Conexión Preliminar Arqueros Compañía Minera Consumo 14,3 11-01-2022 S/E Marquesa 66 kV
+Planta Desalinizadora SPENCE SASC Solicitud Aprobada Esinel Ingnieros Consumo 38,43 31-03-2019 S/E Kapatur 220 kV
+PF Campos del Sol SASC Solicitud Aprobada Enel Green Power del Sur SpA Solar 399 11-01-2020 S/E Carrera Pinto 220 kV
+PE Ancud SASC Elaboración Informe de Autorización de Conexión Preliminar Austrian Solar Eólica 120 05-01-2021 S/E Nueva Ancud 220 kV
+PF Guanaco Solar SASC Proyecto debe declararse en construcción Fotovoltaica Norte Grande 4 SpA Solar 50 12-01-2020 S/E Diego de Almagro 110 kV
+Minera Centinela SASC Elaboración Informe de Autorización de Conexión Preliminar Minera Centinela Consumo 154 12-01-2020 S/E Centinela 220 kV
+PF Capricornio SASC Solicitud Aprobada Engie Energía Chile S.A. Solar 82 04-01-2020 S/E Capricornio 110 kV
+Inca de Varas I SASC Rechazada Inca de Varas I S.A. Solar 126 10-01-2020 S/E Carrera Pinto 220 kV
+PE Llanos del viento SASC Proyecto debe declararse en construcción AR Llanos del Viento SpA. Eólica 160 01-01-2021 S/E O'Higgins 220 kV
+MAPA SASC Solicitud Aprobada Arauco Bioenergía Biomasa 166 08-01-2020 S/E Lagunillas 220 kV
+PE Topoloa SASC Rechazada Topoloa SpA Eólica 330 01-01-2022 S/E Frontera 220 kV (S/E Seccionadora Quillagua Decreto N° 373)
+PF Tata Inti SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Solar 61 11-01-2021 S/E Pozo Almonte 110 kV
+PF Arica I SASC Elaboración Informe de Autorización de Conexión Preliminar Sky Solar Solar 40 04-01-2020 S/E Parinacota 66 kV
+Puelche Sur SASC Proyecto debe declararse en construcción AR Puelche Sur SpA Eólica 156 04-01-2021 S/E Frutillar Norte 220 kV
+El Rosal SASC Desistida FreePower Eólica 270 04-01-2023 S/E Nueva Nirivilo 220 kV
+Belino, Maitenes y SSP solar SASC Proyecto debe declararse en construcción Sky Solar Solar 20,8 07-01-2019 S/E Portezuelo 110 kV
+AR Kimal SASC Proyecto debe declararse en construcción Inversiones Kimal SpA Solar 230 08-01-2021 S/E Kimal 220 kV
+Planta desaladora Atacama SASC Solicitud Aprobada Econssa Chile Consumo 29,6 06-01-2020 S/E Caldera 110 kV
+PF Tres Cruces SASC Elaboración Informe de Autorización de Conexión Preliminar Sonnedix Solar 136 31-12-2022 S/E Cumbre 220 kV
+PF Sol del Desierto SASC Solicitud Aprobada Atlas Renewable Energy Chile SpA Solar 175 07-01-2020 S/E María Elena 220 kV
+Doña Luzma SASC Rechazada Energías Alcones SpA Diesel 40 07-01-2020 S/E Alcones 66 kV
+Parque Solar Punta del Viento SASC Elaboración Informe de Autorización de Conexión Preliminar Energía Renovable Verano Tres SpA. Solar 80 01-01-2023 S/E Punta Colorada 220 kV
+Bellavista Generación SASC Elaboración Informe de Autorización de Conexión Preliminar Bellavista Generación SpA Solar 9 09-01-2020 S/E Illapel 110 kV
+Canelillo SASC Elaboración Informe de Autorización de Conexión Preliminar Generadora Canelillo SpA. Diesel 100 07-01-2021 S/E Las Palmas 220 kV
+PE Cardonal, PE Manantiales y PE Los Cerrillos SASC Elaboración Informe de Autorización de Conexión Preliminar Torsa Chile S.A. Eólica 102,45 09-01-2021 S/E Quelentaro 110 kV
+Golden Sun SpA SASC Elaboración Informe de Autorización de Conexión Preliminar Golden Sun SpA Solar 250 02-01-2021 S/E San Andrés 220 kV
+Parque Solar Tocopilla SASC Elaboración Informe de Autorización de Conexión Preliminar Eosol New Energy S.A Solar 200 01-01-2021 S/E María Elena 220 kV
+PE Caman SASC Elaboración Informe de Autorización de Conexión Preliminar AR Caman SpA Eólica 206,4 31-12-2021 S/E Cerros de Huichahue
+PF Ceibo SASC Elaboración Informe de Autorización de Conexión Preliminar Eactiva SpA Solar 280 31-12-2025 S/E Algarrobal 220 kV
+PFV Teno SASC Rechazada Grenergy Renovables Pacific Limitada Solar 200 12-01-2021 S/E Teno
+PE Nolana SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Eólico Nolana SpA Eólica 245 03-01-2024 S/E Parinas
+PF Valle Atacama SASC Elaboración Informe de Autorización de Conexión Preliminar CE Atacama Solar SpA Solar 110 02-01-2022 S/E Galleguillos
+Cielos y Espejo de Tarapacá SASC Evaluación Admisibilidad Energía de Tarapacá SpA Híbrido 630 07-01-2022 S/E Lagunas
+Copiapó Solar S.A. SASC Elaboración Informe de Autorización de Conexión Preliminar Copiapó Solar S.A. Solar 300 10-01-2021 S/E Algarrobal 220 kV
+PSF Torino SASC Elaboración Informe de Autorización de Conexión Preliminar Sagittar SpA. Solar 9 12-01-2020 S/E Teno
+Valle del Sol SASC Elaboración Informe de Autorización de Conexión Definitivo Enel Green Power del Sur SpA Solar 165 06-01-2021 S/E Miraje
+Sol del Loa SASC Evaluación Admisibilidad Sol del Loa S.A. Solar 220 09-01-2021 S/E Frontera
+PF Peumo SASC Elaboración Informe de Autorización de Conexión Preliminar Palermo Solar SpA Solar 9 12-01-2020 S/E El Peumo
+Campos del Sol II SASC Rechazada Enel Green Power del Sur SpA Solar 438,35 02-01-2022 S/E Illapa
+PMG Santa Barbara SASC Elaboración Informe de Autorización de Conexión Preliminar Comercial Rho Ingeniería limitada Solar 45 05-01-2021 S/E Hualte
+Mejoras en SE Petropower y SE ERBB SASC Rechazada ENAP REFINERIAS S.A Consumo 85 01-01-2020 S/E Hualpén
+PE Horizonte SASC Elaboración Informe de Autorización de Conexión Preliminar Colbún S.A. Eólica 684 02-01-2023 S/E Parinas
+PF Alfa Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Pleidades S.A. Solar 150 27-09-2021 S/E Crucero
+PF Diego de Almagro Sur SASC Rechazada Colbún S.A. Solar 238 08-01-2021 S/E Illapa
+PF Jardín Solar SASC Evaluación Admisibilidad Colbún S.A. Solar 475 03-01-2023 S/E Nueva Pozo Almonte
+PF Pacific Inti SASC Evaluación Admisibilidad Colbún S.A. Solar 238 31-05-2019 S/E María Elena 220 kV
+PF Pacific Inti 2 SASC Elaboración Informe de Autorización de Conexión Preliminar Colbún S.A. Solar 475 30-09-2022 S/E Crucero
+PF Pampa Camarones SASC Elaboración Informe de Autorización de Conexión Preliminar Colbún S.A. Solar 300 11-01-2022 S/E Roncacho
+Departamento de Acceso Abierto
+Gerencia Planificación y Desarrollo de RedSolicitud de Aprobación de Solución de Conexión
+Actualizado: 30 de junio de 2020
+Teatinos N°280, Piso 11, Santiago de Chile. – Teléfono: (+562)24246300.
+www.coordinador.cl
+=== PDF PAGE 2 ===
+Nombre de Proyecto Tipo de 
+solicitud Etapa Empresa solicitante Tipo Capacidad 
+[MW]
+Fecha estimada de 
+conexión Instalación donde se conectará
+PF Katana del Verano Solar SASC Evaluación Admisibilidad Verano Capital Holding SpA Solar 80 06-01-2025 S/E Calama
+PF Cosmos SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 600 11-01-2021 S/E Parinas
+PE Calbuco SASC Evaluación Admisibilidad Energías Calbuco SpA Eólica 42,5 10-01-2022 S/E Ilque
+PF Candelaria Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Inversiones Candelaria Solar SpA Solar 166,98 03-01-2022 S/E Nueva Cardones 220 kV
+PE Los Junquillos SASC Elaboración Informe de Autorización de Conexión Preliminar Colbún S.A. Eólica 390 31-12-2024 S/E Mulchén 220 kV
+CSP Copiapo Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Copiapó Energía Solar SpA Solar 165 30-06-2021 S/E Carrera Pinto 220 kV
+PE San Andrés SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Eólico San Andrés SpA. Eólica 100 03-01-2024 S/E Río Malleco 220 kV
+PMG Portezuelo SASC Elaboración Informe de Autorización de Conexión Preliminar Lenergia Chile SpA Solar 9 06-01-2021 S/E Portezuelo 66 kV
+PE Curauma SASC Rechazada Aes Gener S.A. Eólica 35 06-01-2023 S/E Quintay
+PE Los Maitenes SASC Rechazada Colbún S.A. Eólica 360 06-01-2024 S/E Don Goyo
+PE Paposo SASC Elaboración Informe de Autorización de Conexión Preliminar Aes Gener S.A. Eólica 250 03-01-2024 S/E Parinas
+PE Rapel Norte SASC Elaboración Informe de Autorización de Conexión Preliminar Colbún S.A. Eólica 240 06-01-2024 S/E Loica
+PE Victoria SASC Rechazada Aes Gener S.A. Eólica 250 05-01-2025 S/E Los Peumos
+Sierra Gorda Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Enel Green Power del Sur SpA Solar 406 04-01-2022 S/E Centinela
+PE Caos SASC Rechazada Grenergy Renovables Pacific Limitada Eólica 300 31-12-2023 S/E Parinas
+PE El Naranjo SASC Elaboración Informe de Autorización de Conexión Preliminar Colbún S.A. Eólica 252 31-12-2025 S/E El Rosal
+PE Pemuco SASC Desistida Colbún S.A. Eólica 300 31-03-2025 S/E Entre Rios
+PF Oxum del Tamarugal SASC Rechazada Generadora y Distribuidora de Energía Oxum Spa Solar 280,8 30-09-2021 S/E Nueva Pozo Almonte
+PF Trento SASC Rechazada Sagittar SpA. Solar 9 12-01-2020 S/E Teno
+PMG PFV Bellavista SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 9 10-01-2020 S/E Lagunas 23 kV
+PE Cascabel SASC Rechazada Parque Eólico Nolana SpA Eólica 180 30-03-2024 S/E Parinas
+PS CEME 1 SASC Rechazada GM Renewables Holdings SpA Solar 350 05-01-2023 S/E Miraje
+PF Paposo SASC Rechazada Aes Gener S.A. Solar 300 03-01-2024 S/E Parinas
+Iquique Solar SASC Rechazada Inversiones Iquique Solar SpA Solar 119,79 03-01-2021 S/E Condores 220 kV
+AR Changos Solar SASC Elaboración Informe de Autorización de Conexión Preliminar AR Energía Chile SpA Solar 350 12-01-2021 S/E Los Changos
+PMG Cóndor SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 9 12-01-2020 S/E Alcones 23 kV
+PMG Itahue SASC Elaboración Informe de Autorización de Conexión Preliminar Lenergia Chile SpA Solar 9 05-01-2021 S/E Itahue
+PMG Pangui SASC Evaluación Admisibilidad Grenergy Renovables Pacific Limitada Solar 9 30-04-2021 S/E Calama
+PMG Wallkon SASC Evaluación Admisibilidad Grenergy Renovables Pacific Limitada Solar 9 30-04-2021 S/E Calama
+Santa Lidia SASC Evaluación Admisibilidad GM Holdings S.A. Dual (diesel o gas natural) 150 05-01-2022 S/E Charrúa 154 kV
+Conexión a SE Puente Negro SASC Elaboración Informe de Autorización de Conexión Definitivo Hidroelectrica La Higuera S.A. Transmisión 11-01-2020 S/E Puente Negro
+PFV Algarrobal SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 200 05-01-2022 S/E Algarrobal 220 kV
+PFV Yaru SASC Evaluación Admisibilidad Grenergy Renovables Pacific Limitada Solar 200 31-12-2022 S/E Nueva Cardones 220 kV
+PF Cauquenes SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Solar Viveros SpA Solar 9 04-01-2021 S/E Cauquenes
+PF Tutuvén SASC Rechazada Parque Solar Los Peumos SpA Solar 9 04-01-2021 S/E Cauquenes
+PE El Guanaco SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Eólico Nolana SpA Solar 254 31-12-2023 S/E Nueva Nirivilo 220 kV
+PF Andino Occidente II SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Solar S.A. Solar 120 04-01-2023 S/E Portezuelo 220 kV
+PMG Santa Fabiola SASC Rechazada Concelene SpA. Solar 9 06-01-2021 S/E Portezuelo
+PF Rosa de Sharon SASC Elaboración Informe de Autorización de Conexión Preliminar Hanyang Chile S.A. Solar 6 30-04-2020 S/E Curacaví
+PE Amolanas SASC Desistida Colbún S.A. Eólica 360 07-01-2025 S/E Punta Sierra
+PE Colinas SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Eólica 200 01-01-2024 S/E Hualqui
+PFV Miraflores SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Solar 270 04-01-2023 S/E Algarrobal
+PFV Algarrobal SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Solar 250 05-01-2022 S/E Algarrobal
+PF Likanantai SASC Elaboración Informe de Autorización de Conexión Preliminar Aes Gener S.A. Solar 250 05-01-2024 S/E Likanantai
+PMG El Llano SASC Rechazada Parque Solar Tangua SPA Solar 9 07-01-2020 S/E Cauquenes
+PF Avel Solar II SASC Rechazada Sphera Development SpA Solar 50 02-01-2022 S/E El Avellano
+PF Cato Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 50 02-01-2022 S/E Cocharcas
+PF La Palma Solar II SASC Elaboración Informe de Autorización de Conexión Preliminar Sphera Development SpA Solar 40 02-01-2022 S/E Santa Elvira
+PF San Carlos Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 50 02-01-2022 S/E San Carlos
+PF San Guillermo Solar SASC Rechazada Sphera Development SpA Solar 40 02-01-2022 S/E Linares Norte
+PF Andino Occidente I SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Solar S.A. Solar 120 04-01-2023 S/E Loica
+PE Litueche SASC Rechazada Aes Gener S.A. Eólica 138 12-01-2022 S/E Litueche
+PE y PF Agua Verde SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Solar 400 12-01-2024 S/E Parinas 500 kV
+PE Don Maximiliano SASC Rechazada Aes Gener S.A. Eólica 100 01-01-2024 S/E Rio Malleco
+Alimentadores 23 kV distrib_SE Osorno SASC Proyecto debe declararse en construcción Compañía Electrica de Osorno S.A. Consumo 16 01-01-2020 S/E Osorno
+PF Domeyko SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Solar Domeyko SpA Solar 60 31-12-2022 S/E Agua Amarga
+PF Estepa Solar SASC Rechazada Estepa Solar SpA Solar 230 01-01-2022 S/E Crucero
+PMG Hikuri Solar SASC Evaluación Admisibilidad Energias Renovables DSL SpA Solar 9 05-01-2021 S/E Capricornio
+CMPC Mulchén SASC Elaboración Informe de Autorización de Conexión Preliminar CMPC Madera SpA Consumo 5 09-01-2020 S/E Picoltue
+PF Paposo y PE Cascabel SASC Elaboración Informe de Autorización de Conexión Preliminar Aes Gener S.A. Solar 480 03-01-2024 S/E Parinas 500 kV
+Acometida subterránea 23 kV SE Puerto Varas SASC Evaluación Admisibilidad Cooperativa Regional Eléctrica Llanquihue Ltda. Crell Ltda. Consumo 6 06-01-2020 S/E Puerto Varas 23 kV
+Acometida subterránea 23 kV SE Sangra SASC Elaboración Informe de Autorización de Conexión Preliminar Cooperativa Regional Eléctrica Llanquihue Ltda. Crell Ltda. Consumo 10 03-01-2020 S/E Sangra 23 kV
+PE Waiwen SASC Elaboración Informe de Autorización de Conexión Preliminar Lenergia Chile SpA Eólica 85 11-01-2021 S/E Colaco 110 kV
+PE Horizonte II SASC Rechazada Colbún S.A. Eólica 296 09-01-2024 S/E Parinas 220 kV
+PF El Conquistador SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Solar 250 08-01-2024 S/E Loica 220 kV
+PF Pirque Solaris SASC Evaluación Admisibilidad Los Maitenes Solar SpA Solar 59 31-03-2022 S/E Costanera  kV
+PF Alto Ñuble Solar SASC Rechazada SPHERA DEVELOPMENT SPA Solar 40 02-01-2022 S/E Chillan 66 kV
+PMG PFV Tamarugal SASC Rechazada Grenergy Renovables Pacific Limitada Solar 9 09-01-2021 S/E Tamarugal 23 kV
+PMG PFV Tamarugal II SASC Rechazada Grenergy Renovables Pacific Limitada Solar 9 12-01-2021 S/E Tamarugal 23 kV
+PF San Jorge Solar SASC Elaboración Informe de Autorización de Conexión Preliminar SPHERA DEVELOPMENT SPA Solar 105 02-01-2022 S/E Cocharcas 66 kV
+PE Loncualhue SASC Elaboración Informe de Autorización de Conexión Preliminar FRV Services Chile SpA Eólica 200 12-01-2024 S/E Nueva Cauquenes 220 kV
+PE Neuque SASC Elaboración Informe de Autorización de Conexión Preliminar FRV Services Chile SpA Eólica 150 12-01-2024 S/E Dichato 220 kV
+PE Yumbel SASC Rechazada FRV Services Chile SpA Eólica 200 06-01-2024 S/E Hualqui 220 kV
+PF Tirana Oeste SASC Rechazada FRV Services Chile SpA Eólica 300 12-01-2023 S/E Nueva Pozo Almonte 220 kV
+PF Itahue Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 80 02-01-2022 S/E Itahue 220 kV
+PF Longotoma Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 60 02-01-2022 S/E Quinquimo 110 kV
+PF Tinguiririca Solar SASC Rechazada Sphera Development SpA Solar 105 02-01-2022 S/E Tinguiririca 154 kV
+PF Casa Solar SASC Rechazada Sphera Development SpA Solar 65 02-01-2022 S/E Casas Viejas
+PF Larqui Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 50 02-01-2022 S/E Larqui
+PF Leyda Solar SASC Rechazada Sphera Development SpA Solar 60 02-01-2022 S/E Leyda
+PF Molina Solar SASC Rechazada Sphera Development SpA Solar 50 02-01-2022 S/E Molina
+PMG PFV Zaturno SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 9 12-01-2021 S/E Capricornio
+PMG Copihue SASC Elaboración Informe de Autorización de Conexión Preliminar Solarpack Chile Limitada Solar 9 12-01-2020 S/E Parinacota
+Normalización SE Río Toltén en Secc. Río Toltén SASC Evaluación Admisibilidad Empresa Eléctrica Carén S.A. Transmisión 60 12-01-2022 S/E Rio Toltén
+Pampa Solar SASC Rechazada Pampa Solar SpA Solar 9 12-01-2021 Tap Off Dolores
+Teatinos N°280, Piso 11, Santiago de Chile. – Teléfono: (+562)24246300.
+www.coordinador.cl
+=== PDF PAGE 3 ===
+Nombre de Proyecto Tipo de 
+solicitud Etapa Empresa solicitante Tipo Capacidad 
+[MW]
+Fecha estimada de 
+conexión Instalación donde se conectará
+Parque Eólico Litueche SASC Rechazada Aes Gener S.A. Eólica 100 03-01-2022 S/E Quelentaro 110 kV
+PE Vientos del Loa SASC Elaboración Informe de Autorización de Conexión Preliminar Engie Energía Chile S.A. Eólica 184,8 31-08-2022 S/E Calama 220 kV
+PMG Andalhue SASC Elaboración Informe de Autorización de Conexión Preliminar Solarpack Chile Limitada Solar 9 31-05-2022 S/E La Negra
+PMG Luminiscencia SASC Evaluación Admisibilidad Solarpack Chile Limitada Solar 9 31-05-2022 S/E Uribe 23 kV
+PMG Zafiro SASC Rechazada Solarpack Chile Limitada Solar 9 31-05-2022 S/E Armazones 23 kV
+Candelaria Solar (Sphera) SASC Rechazada Sphera Development SpA Solar 40 01-01-2022 S/E Candelaria 220 kV
+PF Leyda (Solek) SASC Elaboración Informe de Autorización de Conexión Preliminar Solek Desarrollo SpA Solar 80 12-01-2021 S/E Leyda 110 kV
+PFV Violeta SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 250 12-01-2021 S/E Roncacho
+Toledo Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 105 02-01-2022 S/E Hernán Fuentes
+PE Florida SASC Rechazada Andes Mainstream SpA. Eólica 150 09-01-2024 S/E Hualqui 220 kV
+Construcción electrificación Canto del agua, Carrizal bajo y TotoralSASC Solicitud Aprobada Sociedad de Ingeniería Eléctrica Mataquito Ltda. Consumo 4 01-01-2020 S/E Castilla 23 kV
+ERNC Loa SASC Rechazada Ibereólica Loa SpA Eólica 400 12-01-2024 S/E Frontera 220 kV (S/E Seccionadora Quillagua Decreto N° 373)
+PFV Linar SASC Rechazada Grenergy Renovables Pacific Limitada Solar 9 12-01-2020 S/E Linares Norte 13,2 kV
+Avellano Solar II SASC Elaboración Informe de Autorización de Conexión Preliminar Sphera Development SpA Solar 40 02-01-2022 S/E Los Varones 66 kV
+Colún SASC Solicitud Aprobada Cooperativa Agricola y Lechera de La Union Ltda Consumo 6 03-01-2019 S/E Los Tambores 23 kV
+Minera Vizcachitas SASC Evaluación Admisibilidad Compañía Minera Vizcachitas Holding Consumo 150 02-01-2026 S/E Los Maquis 220 kV
+Pampa Los Changos SASC Rechazada Engie Energía Chile S.A. Eólica 95,2 12-01-2023 S/E Parinas 220 kV
+PE Isla del Viento SASC Rechazada Acciona Energía Chile SpA Eólica 205,2 12-01-2025 S/E Gamboa 220 kV
+PF Pampa Camarones II SASC Elaboración Informe de Autorización de Conexión Preliminar Engie Energía Chile S.A. Solar 300 06-01-2023 S/E Roncacho 220 kV
+PFV Adelma SASC Rechazada Grenergy Renovables Pacific Limitada Solar 9 12-01-2020 S/E Linares Norte 13,2 kV
+PE Lomas de Taltal SASC Rechazada Engie Energía Chile S.A. Solar 229,6 15-07-2023 S/E Parinas 220 kV
+PF TES Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Sphera Development SpA Solar 9 02-01-2022 S/E Nueva Tres Esquinas
+PF Villa Prat Solar SASC Rechazada Sphera Development SpA Solar 3 02-01-2022 S/E Villa Prat 13,8 kV
+PE Antofagasta SASC Elaboración Informe de Autorización de Conexión Preliminar Parque Eólico Antofagasta SpA Eólica 768 01-04-2025 S/E Parinas 500 kV
+PF Alhambra SASC Elaboración Informe de Autorización de Conexión Preliminar Alhambra Solar SpA Solar 250 31-12-2023 S/E Crucero 220 kV
+AR Roncacho Solar SASC Elaboración Informe de Autorización de Conexión Preliminar AR Energía Chile SpA Solar 350 01-04-2025 S/E Roncacho
+PE El Triunfo SASC Elaboración Informe de Autorización de Conexión Preliminar Trivento SpA Eólica 300 15-07-2024 S/E Loica 220 kV
+PF Cóndor Eloisa SASC Evaluación Admisibilidad Andes Solar S.A. Solar 9 01-06-2023 S/E Parronal 66 kV
+PE Achiras SASC Rechazada Inversiones y Desarrollos Energéticos Free Power SpA. Eólica 358,4 31-12-2023 S/E Nueva Cauquenes 220 kV
+PE Lawal SASC Elaboración Informe de Autorización de Conexión Preliminar Grenergy Renovables Pacific Limitada Solar 100 01-03-2022 S/E Nueva Pichirropulli 220 kV
+PE Mejillones SASC Rechazada Inversiones y Desarrollos Energéticos Free Power SpA. Eólica 297 31-12-2023 S/E Kapatur 220 kV
+Reemplazo Paños Alto Jahuel SASC Solicitud Aprobada Transelec S.A Transmisión 0 01-09-2020 S/E Alto Jahuel 154 kV
+ERNC Antofagasta SASC Elaboración Informe de Autorización de Conexión Preliminar Ibereólica SpA Híbrido 960 01-03-2026 S/E Parinas 500 kV
+PE Pellines SASC Evaluación Admisibilidad Inversiones y Desarrollos Energéticos Free Power SpA. Eólica 66 01-06-2022 S/E Constitución 66 kV
+Parque Eólico Alborada SASC Rechazada Inversiones y Desarrollos Energéticos Free Power SpA. Eólica 150 31-12-2023 S/E Seccionadora El Rosal 220 kV (Decreto N° 422)
+Calama II SASC Elaboración Informe de Autorización de Conexión Preliminar Engie Energía Chile S.A. Híbrido 300 31-03-2023 S/E Chuquicamata 220 kV
+PFV Castilla SASC Rechazada Solek Desarrollo SpA Solar 3 01-03-2021 S/E Castilla 23 kV
+PFV La Quinta SASC Rechazada Solek Desarrollo SpA Solar 9 01-02-2022 S/E Parral 66 kV
+Alimentador Santa Bárbara SASC Rechazada Coopelan Ltda Consumo 20-02-2020 S/E Santa Barbara 66 kV
+PF Estepa Solar SASC Rechazada Estepa Solar SpA Solar 230 01-01-2022 S/E Crucero 220 kV
+PS CEME 1 SASC Rechazada GM Renewables Holdings SpA Solar 350 05-01-2023 S/E Miraje
+PSF Tagua Tagua SASC Elaboración Informe de Autorización de Conexión Preliminar Sonnedix Chile Holding SpA. Solar 100 01-12-2022 S/E Polpaico 220 kV
+Campos del Sol II SASC Rechazada Enel Green Power del Sur SPA Solar 438,35 02-01-2022 S/E Illapa 220 kV 
+PF Diego de Almagro Sur SASC Rechazada Colbún S.A. Solar 238 08-01-2021 S/E Illapa 220 kV
+Las Cunas SASC Rechazada FRV Services Chile SpA Solar 300 01-05-2024 S/E Algarrobal 220 kV 
+PF Guanguali Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 40 31-01-2022 S/E Quilmo II 66 kV
+PF Andino Las Pataguas SASC Evaluación Admisibilidad Andes Solar S.A. Solar 132 01-06-2023 S/E Las Arañas 110 kV
+PS Libélula SASC Rechazada Engie Energía Chile S.A. Solar 199,2 01-06-2024 S/E El Manzano 220 kV
+PFV Andino Rauco SASC Evaluación Admisibilidad Andes Solar S.A. Solar 300 01-06-2023 S/E Teno Empalme 154 kV
+PFV Cóndor El Litral SASC Rechazada Andes Solar S.A. Solar 9 01-06-2023 S/E El Manzano 220 kV
+Santa Clara Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 105 01-01-2022 S/E Los Varones 220 kV
+Limacura Solar SASC Rechazada Sphera Development SpA Solar 105 01-02-2022 S/E El Rosal 220 kV
+PFV Castilla SASC Rechazada Solek Desarrollo SpA Solar 9 01-03-2021 S/E Castilla 23 kV
+PF Andino Sur SASC Evaluación Admisibilidad Andes Solar S.A. Solar 300 01-06-2023 S/E Itahue 220 kV
+PMG Linares Norte SASC Rechazada Solek Desarrollo SpA Solar 9 01-06-2021 S/E Linares Norte 13,2 kV 
+PMG Villa Longaví SASC Evaluación Admisibilidad Solek Desarrollo SpA Solar 9 01-06-2021 S/E Villa Longaví 13,2 kV
+PFV La Quinta SASC Rechazada Solek Desarrollo SpA Solar 9 01-02-2022 S/E Parral 13,8 kV
+Bulnes Solar PMG SASC Evaluación Admisibilidad Sphera Development SpA Solar 9 01-02-2022 S/E Larqui 23 kV
+Quilmo Solar PMG (Sphera) SASC Evaluación Admisibilidad Sphera Development SpA Solar 9 01-01-2022 S/E Quilmo 33 kV
+Itahue Solar SASC Evaluación Admisibilidad Cox Energy PMGD SpA Solar 15 30-06-2023 S/E Itahue 66 kV
+Alimentadores SE Pueblo Seco SASC Elaboración Informe de Autorización de Conexión Preliminar Empresa Eléctrica de la Frontera S.A. Consumo 32 01-08-2021 S/E Pueblo Seco 23 kV
+Huencuencho Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 210 01-04-2022 S/E Santa Isabel 220 kV
+PE Entre Ríos SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Eólica 220 01-03-2023 S/E Duqueco 220 kV
+PE Frutillar SASC Evaluación Admisibilidad Engie Energía Chile S.A. Eólica 179,8 01-11-2024 S/E Frutillar Norte 220 kV
+PMG Campanas SASC Evaluación Admisibilidad Solek Desarrollos SpA Solar 9 01-06-2021 S/E Alcones 23 kV
+PMG Quilmo (Solek) SASC Evaluación Admisibilidad Solek Desarrollos SpA Solar 9 01-06-2021 S/E Quilmo 33 kV
+Palo Negro Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Sphera Development SpA Solar 315 01-02-2022 S/E Nueva Pan de Azúcar 220 kV
+Terpellanca Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 210 01-02-2022 S/E La Señoraza 220 kV 
+Lomas de Duqueco SASC Elaboración Informe de Autorización de Conexión Preliminar Lomas de Duqueco SpA. Eólica 58,8 01-12-2021 S/E Duqueco 66 kV
+PFV Tabali Solar SASC Rechazada Solarpack Chile Limitada Solar 250 01-03-2023 S/E Algarrobal 220 kV
+Rarinco Solar SASC Evaluación Admisibilidad Sphera Development SpA Solar 80 01-02-2022 S/E Los Varones 66 kV
+PE Quebrada Seca SASC Elaboración Informe de Autorización de Conexión Preliminar Quebrada Seca SpA Eólica 160 01-08-2023 S/E Don Goyo 220 kV
+PMG San Bernardo SASC Evaluación Admisibilidad Solek Desarrollos SpA Solar 9 01-02-2022 S/E Monterrico 66 kV
+La Aurora Solar SASC Rechazada Sphera Development SpA Solar 105 01-01-2022 S/E Tinguiririca 154 kV
+El Litral Solar SASC Rechazada Sphera Development SpA Solar 60 01-04-2022 S/E Puente Negro 220 kV
+PE Ramadilla SASC Rechazada Engie Energía Chile S.A. Solar 248 01-01-2024 S/E Don Goyo 220 kV
+Sol del Loa SASC Evaluación Admisibilidad GM Renewables Holdings SpA Solar 300 09-01-2021 S/E Frontera 220 kV
+PFV Lauca Solar SASC Rechazada Arica Solar 1 S.A. Solar 300 01-02-2023 S/E Parinacota 220 kV
+Pucará de Chena SASC Desistida Inversiones y Servicios Dataluna Ltda Consumo 175 09-01-2020 S/E Chena 110 kV
+PMG Bulnes SASC Rechazada Solek Desarrollos SpA Solar 9 01-05-2021 S/E Linares Norte 66 kV
+Newen Kuruf SASC Elaboración Informe de Autorización de Conexión Preliminar Sociedad Eólica Valle Verde SpA. Solar 168 01-07-2024 S/E Mulchén 220 kV
+Alimentador SE Las Encinas SASC Evaluación Admisibilidad Empresa Eléctrica de la Frontera S.A. Consumo 10 31-12-2021 S/E Las Encimas 15 kV
+PF El Manzano SASC Rechazada Enel Green Power del Sur SpA Solar 116 01-08-2022 S/E Tap off El Manzano 220 kV
+Alimentador SE Teno SASC Solicitud Aprobada Cooperativa de abastecimiento de energía eléctrica Curicó Ltda. Consumo 11,4 30-07-2020 S/E Teno 13,2 kV
+PMG El Llano SASC Rechazada Parque Solar Tangua SPA Solar 9 07-01-2020 S/E Cauquenes 13,2 kV
+PMG Cóndor Los Lagos SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Solar S.A. Eólica 9 31-08-2023 S/E Los Lagos 66 kV
+Teatinos N°280, Piso 11, Santiago de Chile. – Teléfono: (+562)24246300.
+www.coordinador.cl
+=== PDF PAGE 4 ===
+Nombre de Proyecto Tipo de 
+solicitud Etapa Empresa solicitante Tipo Capacidad 
+[MW]
+Fecha estimada de 
+conexión Instalación donde se conectará
+PF Tucúqueres SASC Rechazada Lenergía Chile S.A. Solar 120 31-05-2022 S/E Leyda 110 kV
+PF Canto del Agua Solar SASC Rechazada Factor Energía S.A. Solar 200 31-05-2023 S/E Algarrobal 220 kV
+PF Los Llanos Solar SASC Elaboración Informe de Autorización de Conexión Preliminar Lader Energy Chile SpA. Solar 250 31-12-2022 S/E Tinguiririca 220 kV
+PMG Cóndor Los Tambores SASC Rechazada Andes Solar S.A. Solar 9 31-08-2023 S/E Los Tambores 66 kV
+PF Lo Narváez SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Mainstream SpA. Solar 90 01-12-2024 S/E Peñablanca 110 kV
+Cóndor El Fiscal SASC Evaluación Admisibilidad Andes Solar S.A. Eólica 9 01-08-2024 S/E Collipulli 66 kV
+PF Polpaico Oeste SASC Rechazada Engie Energía Chile S.A. Solar 200 01-01-2025 S/E Polpaico 220 kV
+PE Calate SASC Evaluación Admisibilidad Andes Mainstream SpA. Solar 201,5 01-12-2024 S/E Frontera 220 kV
+PE Andino Huichahue SASC Evaluación Admisibilidad Andes Solar S.A. Eólica 105 01-10-2023 S/E Cerros de Huichahue 220 kV
+PE Pueblo Seco SASC Rechazada Besalco Energía Renovable S.A. Eólica 154 01-01-2024 S/E Pueblo Seco 154 kV 
+Mila del Verano Solar SASC Evaluación Admisibilidad Verano Capital Holding SpA Solar 90 01-02-2024 S/E Calama 110 kV
+PF Andino El Carmen SASC Evaluación Admisibilidad Andes Solar S.A. Solar 120 01-05-2024 S/E El Peñón 110 kV
+PMG La Palma SASC Evaluación Admisibilidad Sphera Development SpA. Solar 9 01-05-2022 S/E La Palma 15 kV 
+PS El Boldo SASC Solicitud Aprobada Sphera Development SpA. Solar 210 01-07-2021 S/E Nueva Cauquenes 220 kV
+Pitigua Solar SASC Rechazada Sphera Development SpA. Solar 210 01-06-2021 S/E Nueva Nirivilo 220 kV
+Zorzalito SASC Evaluación Admisibilidad Renova Energías SpA. Eólica 150 01-04-2022 S/E Agua Santa 220 kV
+PMG Cóndor Angol SASC Elaboración Informe de Autorización de Conexión Preliminar Andes Solar S.A. Eólica 9 01-08-2024 S/E Deuco 66 kV
+Las Rosas Solar SASC Rechazada Renova Energías SpA. Solar 60 01-04-2022 S/E Don Goyo 220 kV
+Parque Híbrido La Unión SASC Evaluación Admisibilidad Trivento SpA Solar y Eólica 300 01-06-2024 S/E Don Goyo 220 kV
+Observatorio del Verano Solar SASC Evaluación Admisibilidad Verano Capital Holding SpA Solar 100 01-03-2025 S/E Portezuelo 66 kV
+PE Corrales SASC Evaluación Admisibilidad OPDE Chile SpA. Eólica 150 01-06-2025 S/E Frutillar Norte 220 kV
+PS Don Ignacio SASC Evaluación Admisibilidad Sphera Development SpA. Solar 9 01-05-2022 S/E Los Canelos 13,2 kV
+PS Los Canelos I SASC Evaluación Admisibilidad Sphera Development SpA. Solar 9 01-05-2022 S/E Los Canelos 66 kV
+Geosoler I SASC Evaluación Admisibilidad Renova Energías SpA. Solar 50 01-04-2022 S/E Kimal 66 kV
+PF Las Damas SASC Elaboración Informe de Autorización de Conexión Preliminar Engie Energía Chile S.A. Solar 150 01-02-2024 S/E Portezuelo 220 kV
+Conexión Alimentadores S/E Enlace Imperial SASC Evaluación Admisibilidad Empresa Eléctrica de la Frontera S.A. Consumo 16 13-07-1905 S/E Enlace Imperial 23 kV
+PS Los Canelos II SASC Evaluación Admisibilidad Sphera Development SpA. Solar 9 01-05-2022 S/E Los Canelos 66 kV
+PMG Picoltué Solar SASC Evaluación Admisibilidad Sphera Development SpA. Solar 9 01-03-2022 S/E Picoltué 23 kV
+PMG Picoltué Solar II SASC Evaluación Admisibilidad Sphera Development SpA. Solar 9 01-03-2022 S/E Picoltué 23 kV
+Andino La Esperanza SASC Evaluación Admisibilidad Andes Solar S.A. Solar 40 01-08-2024 S/E La Esperanza 66 kV
+PMG Cóndor La Manga SASC Evaluación Admisibilidad Andes Solar S.A. Eólica 9 01-09-2024 S/E La Manga 66 kV 
+Viñedo Solar SASC Evaluación Admisibilidad Verano Capital Holding SpA Solar 100 01-03-2025 S/E Nueva Casablanca 66 kV
+PMG Clementine SASC Evaluación Admisibilidad Energías Renovables DSL SpA. Solar 9 01-12-2021 S/E San Clemente 13,8 kV
+PMG Yellowstone SASC Evaluación Admisibilidad Energías Renovables DSL SpA. Solar 7 01-12-2021 S/E Marchigüe 13,2 kV 
+WP Zion SASC Evaluación Admisibilidad Energías Renovables DSL SpA. Eólica 50 01-09-2022 S/E Llanquihue 66 kV
+Odata Datacenter ST01 SASC Evaluación Admisibilidad Odata Chile S.A. Consumo 30 01-07-2022 S/E Nueva Lampa 220 kV
+PS Pelequén SASC Evaluación Admisibilidad RTB Energy SpA. Solar 150 01-10-2023 S/E Malloa Nueva 220 kV
+Nuevo Alimentador SE Dalcahue SASC Evaluación Admisibilidad Sociedad Austral de Electricidad S.A. Consumo 4,5 01-07-2021 S/E Dalcahue 23 kV
+Teatinos N°280, Piso 11, Santiago de Chile. – Teléfono: (+562)24246300.
+www.coordinador.cl

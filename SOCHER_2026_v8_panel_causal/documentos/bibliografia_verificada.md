@@ -14,9 +14,13 @@ Consulta realizada el 27 de septiembre de 2026. Solo se usan fuentes primarias p
 | INST_PDATA | Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (2024), *Plan Nacional de Data Centers 2024–2030*. [PDF oficial](https://minciencia.gob.cl/uploads/filer_public/95/6b/956b8c9f-d937-4b4d-8f6c-a871495a52ff/plan_nacional_de_data_centers_pdata.pdf) | PDF, 37 páginas | pp. impresas 12–13, objetivos y medida 1; índices PDF 11–12. Contexto de descentralización y planificación energética/territorial. No se usan proyecciones como entradas realizadas. |
 | INST_CMG | Coordinador Eléctrico Nacional, *Costo Marginal Real*. [Página institucional](https://www.coordinador.cl/mercados/graficos/costos-marginales/costo-marginal-real/) | Página de datos y definición institucional | Párrafo bajo Costo Marginal Real. Define la variable publicada; no acredita tarifa minorista ni componente exclusivo de congestión. |
 
-## Antecedentes no incorporados como evidencia nueva
+## Literatura sectorial incorporada en la investigación ODATA
 
-La ficha SSRN de Mamkhezri, Sun y Yang, *The Hidden Cost of the Cloud: Data Centers and Transmission-Induced Electricity Prices*, fue citada como antecedente en v4. La apertura de [esa ficha](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5736562) en esta etapa devolvió 403. No se afirma haber leído su texto completo ni se trasladan cifras o resultados a esta versión. La revisión de literatura sectorial debe cerrarse antes de defender novedad o preparar envío editorial.
+Se incorporaron cuatro trabajos de 2026, con versiones originales archivadas y lectura focalizada de sus secciones de identificación: Meeks et al. (MIT CEEPR WP2026-13), Mamkhezri et al. (marzo de 2026, copia en expediente CPUC), Watten et al. (arXiv v1) y Kay et al. (Dallas Fed WP2606). [Referencias completas, enlaces, localizadores y comparación con este artículo](../investigacion_odata_20260927/literatura/README.md). Son documentos de trabajo o prepublicaciones, no resultados cuya publicación arbitrada se haya verificado aquí.
+
+La [ficha SSRN de Mamkhezri, Sun y Yang](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5736562) continúa bloqueada en la apertura directa. Se consiguió una versión de autores de marzo de 2026 en un [anexo público del regulador CPUC](https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2411007/9108/604536651.pdf), PDF pp.24–79, con título distinto del mostrado actualmente por SSRN. Se distingue esa versión de la ficha y no se presume equivalencia entre ellas. Este acceso reemplaza la nota anterior de ausencia de lectura del texto; no implica una revisión exhaustiva ni reproducción de sus resultados.
+
+## Precisiones de acceso metodológico
 
 Los enlaces DOI de los artículos de Callaway–Sant’Anna y Sun–Abraham devolvieron403 en la apertura directa; se leyeron las versiones públicas de sus autores. No se confunde la indisponibilidad de un enlace editorial con inexistencia de la investigación.
 

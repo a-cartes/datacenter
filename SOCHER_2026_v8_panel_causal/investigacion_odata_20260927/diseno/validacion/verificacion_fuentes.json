@@ -1,0 +1,35 @@
+{
+  "fuentes_archivadas": 7,
+  "todos_hashes_coinciden": true,
+  "checks": [
+    {
+      "id": "ODD07",
+      "ok": true
+    },
+    {
+      "id": "ODD08",
+      "ok": true
+    },
+    {
+      "id": "ODD02",
+      "ok": true
+    },
+    {
+      "id": "ODD03",
+      "ok": true
+    },
+    {
+      "id": "ODD04",
+      "ok": true
+    },
+    {
+      "id": "ODD05",
+      "ok": true
+    },
+    {
+      "id": "ODD06",
+      "ok": true
+    }
+  ],
+  "precios_nuevos_consultados": false
+}

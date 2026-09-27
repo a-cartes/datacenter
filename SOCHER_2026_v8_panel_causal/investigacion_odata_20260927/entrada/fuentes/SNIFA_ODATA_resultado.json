@@ -1,0 +1,10 @@
+{
+  "url": "https://snifa.sma.gob.cl/UnidadFiscalizable/Resultado",
+  "method": "POST",
+  "form": {
+    "nombre": "ODATA",
+    "categoria": ""
+  },
+  "bytes": 78629,
+  "sha256": "48958e7312e5df7a79ddbf06eea0364a392f12d2b3cc8048e5bbc75ab3880c92"
+}

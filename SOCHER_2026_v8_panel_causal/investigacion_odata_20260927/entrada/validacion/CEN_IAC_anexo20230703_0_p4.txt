@@ -1,0 +1,76 @@
+ 
+ 
+ Página 4 de 9 
+ 
+1. RESUMEN EJECUTIVO 
+El presente informe se refiere a la Autorización de Conexión Definitiva del proyect o “ Odata 
+Datacenter ST01 ” ( 30 MW) presentado al Coordinador por la empresa Odata Chile S.A.  y cuya 
+conexión se encuentra prevista en S/E Nueva Lampa  en 220 kV, instalación d e propiedad de  
+Sociedad Transmisora Metropolitana II S.A. , y perteneciente al Sistema de Transmisión Nacional 
+(STN).  
+ 
+El Proyecto “Odata Datacenter ST01” (30 MW) contempla la construcción de una media diagonal 
+con tecnología GIS en la barra de 220 kV de S/E Nueva Lampa, así como también la instalación de 
+un transformador de poder 220/23 kV (30/40/50 MVA) y construcción de una sala de celdas en 23 
+kV en el terreno de S/E Lampa. La solución de conexión del proyecto ha sido revisada tanto en S/E 
+Nueva Lampa como en S/E Lampa , concluyendo que no se presentan observaciones para la etapa 
+de acceso abierto. En el Anexo 8.2 del presente Informe se adjuntan los antecedentes técnicos de 
+la solución de conexión entregados por la empresa solicitante, cuyas características relevantes son 
+las siguientes:  
+ 
+Potencia Nominal : 30 MW. 
+Tipo de proyecto : Consumo. 
+Ubicación geográfica : Comuna de Lampa, Región Metropolitana.  
+Fecha Puesta en Servicio : Agosto de 2024. 
+Punto de conexión : Nuevo paño J9 de S/E Nueva Lampa 220 kV, propiedad de Sociedad 
+Transmisora Metropolitana II S.A. 
+ 
+52J4
+52J5
+52J6
+52J7
+52J8
+52J12
+52J11
+S/E Polpaico 2
+52J1
+52J3
+52J2
+GIS
+Existente
+Transformador 
+N°4 (Futuro)
+Decreto 171/
+2020
+52J9
+1° NUP 2129 Odata 
+Datacenter 
+Futuro
+52J10
+S/E Cerro Navia 
+2
+S/E Cerro Navia 
+1
+S/E Polpaico 1
+52J13
+52J14
+52J15
+Futuro Futuro
+Futuro
+52J19
+52J20
+S/E Santa 
+Teresa 220/23 
+kV CTO 2
+52J7
+52J16
+S/E Santa 
+Teresa 220/23 
+kV CTO 1
+2° NUP 2829 Mega Data 
+CEnter Lampa 
+ 
+Figura 1. Diagrama unilineal simplificado S/E Nueva Lampa 220 kV, considerando la conexión del proyecto Odata 
+Datacenter ST01. 
+ 
+ 

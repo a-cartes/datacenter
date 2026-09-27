@@ -1,0 +1,12 @@
+{
+  "estado": "OK",
+  "pares_comunes_cuatro_etiquetas": {
+    "pre": 105,
+    "post": 90
+  },
+  "duplicados": 0,
+  "fechas_total": 214,
+  "valores_precios_examinados": false,
+  "script_original_sha256": "19d6a6a9dfaad99726feab9a3eebf3ca1c589ae30f5ae21d41cbf857623a882e",
+  "soporte_sha256": "d22ab62dd0ad9390cf8805f52d97e76c7f571656852c474e8c93313462ab6acc"
+}

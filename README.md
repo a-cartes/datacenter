@@ -16,6 +16,8 @@ El proyecto estudia cómo la entrada y expansión de centros de datos puede afec
 
 **Resultado nuevo E53:** en la ventana declarada de 104 días previos y 90 posteriores, Chacabuco 110 sube **16,57 USD/MWh** y Quillota 110 sube **15,58**; el diferencial aumenta **0,99 USD/MWh**, frente a **0,24** en los primeros 28 días. Son cambios descriptivos, sin atribución causal. Se verificaron independientemente los 25 contrastes y se recuperaron 90.532 mediciones agregadas ET7, sin considerarlas consumo exclusivo de Ascenty. [Informe, figura, fuentes y reproducción](SOCHER_2026_v8_panel_causal/investigacion_e53_20260927/README.md). El Excel previo conserva su carácter de instantánea anterior a esta ampliación.
 
+**Avance ODATA:** se recuperó la carta original del titular que declara inicio de operación de Lampa para el **1 de agosto de 2022**, junto con su comprobante SMA. Los precios históricos de Batuco tienen soporte común de 105 días previos y 90 posteriores, pero falta acreditar el empalme vigente, conciliar el inicio de octubre registrado por OGP y justificar la comparación causal. Se distinguen suministro inicial y conexión de alta tensión posterior; se documenta también por qué una solicitud de Alto Jahuel en 2024 no acredita entrada ese año. [Informe integrado y siguientes documentos necesarios](SOCHER_2026_v8_panel_causal/investigacion_odata_20260927/README.md). La revisión de literatura incorpora cuatro trabajos primarios de 2026. No se habilita un ATT ni se modifica v0.2.0.
+
 | Entrega 2020–2026 | Dimensión verificada |
 |---|---:|
 | Observaciones de barra × fecha × hora publicada | **3.411.527** |

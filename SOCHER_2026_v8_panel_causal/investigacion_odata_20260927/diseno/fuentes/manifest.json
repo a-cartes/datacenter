@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ODD07",
+    "title": "CEN EAF0132021 pruebas NuevaLampa enero2021",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2021/02/EAF-013-2021.pdf",
+    "retrieved_utc": "2026-09-27T18:08:45.492310+00:00",
+    "path": "fuentes/CEN_EAF013_2021.pdf",
+    "content_type": "application/pdf",
+    "bytes": 3012514,
+    "sha256": "fa49ba47aa4e878aee72dbb3c61f187938028f4b344fd8da7f2911d90597f1c1",
+    "status": "ARCHIVADO"
+  },
+  {
+    "id": "ODD08",
+    "title": "CEN EAF0672021 fallaNuevaLampa marzo2021",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2021/03/EAF-067-2021.pdf",
+    "retrieved_utc": "2026-09-27T18:08:46.256277+00:00",
+    "path": "fuentes/CEN_EAF067_2021.pdf",
+    "content_type": "application/pdf",
+    "bytes": 5434842,
+    "sha256": "dd838d8e6007aa04b04a90effa35963d414d00220e56da0a0e29c6bd15605cc9",
+    "status": "ARCHIVADO"
+  },
+  {
+    "id": "ODD01",
+    "title": "Enel transmisión Informe sostenibilidad 2021",
+    "url": "https://www.enel.cl/content/dam/enel-cl/sostenibilidad/informes-de-sostenibilidad/enel-transmision/2021/IS-Enel-Tx-2021.pdf",
+    "retrieved_utc": "2026-09-27T18:08:47.281454+00:00",
+    "path": "fuentes/enel_tx_sostenibilidad_2021.pdf",
+    "status": "NO_ARCHIVADO",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ODD02",
+    "title": "CEN Resumen solicitudes junio2020",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2020/07/Resumen-Solicitudes-Aprobaci%C3%B3n-de-Conexi%C3%B3n-de-Conexi%C3%B3n-Junio-2020.pdf",
+    "retrieved_utc": "2026-09-27T18:08:47.460676+00:00",
+    "path": "fuentes/CEN_solicitudes_junio2020.pdf",
+    "bytes": 349799,
+    "sha256": "b77b5dfa5f150192f4d66f449d8831df13d3e49f694674a6f381c3a62320d045",
+    "status": "ARCHIVADO"
+  },
+  {
+    "id": "ODD03",
+    "title": "CEN revision ingenieria conceptual S/E Lampa2025",
+    "url": "https://cartas.coordinador.cl/download_anexos/68eeba133563576d444e32b4/0",
+    "retrieved_utc": "2026-09-27T18:08:47.463505+00:00",
+    "path": "fuentes/CEN_revision_Lampa_2025.pdf",
+    "bytes": 222186,
+    "sha256": "15214f86a52a90d8a925ef6b099735b53b8bb3b179dc9210369da823ac878a9e",
+    "status": "ARCHIVADO"
+  },
+  {
+    "id": "ODD04",
+    "title": "CNE Plan expansion transmision2022 preliminar marzo2023",
+    "url": "https://www.cne.cl/wp-content/uploads/2023/03/ITP-Plan-de-Expansion-de-la-Transmision-2022.pdf",
+    "retrieved_utc": "2026-09-27T18:08:47.464805+00:00",
+    "path": "fuentes/CNE_ITP_expansion2022.pdf",
+    "bytes": 6688132,
+    "sha256": "2c6880d19a088d302e00e7fbd3cf4ca93f1a0478fbc3983a9e7a9ec83065f364",
+    "status": "ARCHIVADO"
+  },
+  {
+    "id": "ODD05",
+    "title": "Ley Lobby obras ODATA2022-07-21",
+    "url": "https://www.leylobby.gob.cl/instituciones/AM010/audiencias/2022/28236/630645",
+    "retrieved_utc": "2026-09-27T18:08:47.472717+00:00",
+    "path": "fuentes/lobby_ODATA_obras_20220721.html",
+    "bytes": 28184,
+    "sha256": "2ee5cc52cb4434cdeab142c0e2e17653414f7bdfabcb536f1afba2385f6b73c6",
+    "status": "ARCHIVADO"
+  },
+  {
+    "id": "ODD06",
+    "title": "CEN CNE actualiza construccion mayo2025",
+    "url": "https://cartas.coordinador.cl/download_saved_file/6818e0963563577bb5da060f",
+    "retrieved_utc": "2026-09-27T18:08:47.473354+00:00",
+    "path": "fuentes/CNE_dc_mayo2025.pdf",
+    "bytes": 341523,
+    "sha256": "b6f87e929a3905a7bf8a86273f87b3e2168747421f918eb97587e357e0a742c3",
+    "status": "ARCHIVADO"
+  }
+]

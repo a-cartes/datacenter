@@ -1,0 +1,121 @@
+[
+  {
+    "source": "SMA_carta_inicio_operacion_ODCH_ST01_061_2022_original.pdf",
+    "source_sha256": "cc94aca016d23dc708c6ccdd20e85c3d262ecf9863174bb8037f73cdeeba80f4",
+    "pdf_page_one_based": 1,
+    "text_sha256": "2aeeb756b498cf6fdc40dd4a75b947fc1c6d24f6aa37a8710e90d7b20240f0db",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SMA_comprobante_inicio_operacion_20220818_original.pdf",
+    "source_sha256": "458bebd6273ce8b463b9436007dc772a6cb6edc696856c803cd2b1b4f8cde8ee",
+    "pdf_page_one_based": 1,
+    "text_sha256": "7f4703f434610101843e86c525e3237c9c3f8e365c561429db0f57ed91a31c55",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_DIA2020_Cap1.pdf",
+    "source_sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b",
+    "pdf_page_one_based": 10,
+    "text_sha256": "746cf19deba76e1031e594c9b6ab0a33ac5ebef9f465e907e00a6592ad2c6063",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_DIA2020_Cap1.pdf",
+    "source_sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b",
+    "pdf_page_one_based": 11,
+    "text_sha256": "b786cbfdae6db8e6e08b4312b4941346755a2b4c26d0edb9eb8d1b617692387f",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_DIA2020_Cap1.pdf",
+    "source_sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b",
+    "pdf_page_one_based": 31,
+    "text_sha256": "818732ffc5e19458297246901611d1c3008e5d34a18a0a09247d920781fafb96",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_DIA2020_Cap1.pdf",
+    "source_sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b",
+    "pdf_page_one_based": 32,
+    "text_sha256": "a891e19ddd28d60791e232f6c7c91ffd31353257e295163328d2c3ae437f5e13",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_DIA2020_Cap1.pdf",
+    "source_sha256": "899c6c5763b74a0e84bae1dca6d9d1604e03b1cdd82e1c77962d7e138d2bc09b",
+    "pdf_page_one_based": 61,
+    "text_sha256": "c9f2007ffba9617a4b9028ae9725892cafc4854b827be5b6159fa452619e0fae",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_pertinencia20231026_CdP.pdf",
+    "source_sha256": "7d70a4f386d246bff08e900105154deeba6a29d4074afc910782d06989dc67bc",
+    "pdf_page_one_based": 13,
+    "text_sha256": "2ec4738df55edb513703a8b4ba118bf560edb54b581af325ef4db1cbb5057788",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_pertinencia20231026_CdP.pdf",
+    "source_sha256": "7d70a4f386d246bff08e900105154deeba6a29d4074afc910782d06989dc67bc",
+    "pdf_page_one_based": 23,
+    "text_sha256": "6f620e9eb8cdfdb13315cb184bb3e95e58ee365df368381e99fdef2001763d6e",
+    "has_embedded_text": true
+  },
+  {
+    "source": "SEA_pertinencia20231026_CdP.pdf",
+    "source_sha256": "7d70a4f386d246bff08e900105154deeba6a29d4074afc910782d06989dc67bc",
+    "pdf_page_one_based": 24,
+    "text_sha256": "b8a51759c8a8c660e0bb3a0801bc542271b021679f0f87832a5648c844f59e10",
+    "has_embedded_text": true
+  },
+  {
+    "source": "CEN_IAC_carta20230703.pdf",
+    "source_sha256": "9e43b4f037a822e5dacb2315a82fa8bc294d49f22c493b0134afd208838d3f69",
+    "pdf_page_one_based": 1,
+    "text_sha256": "f73e43702af15ce7cc1c88e0ad3da6d4c5c4a2066f69027ea80254f7204286d8",
+    "has_embedded_text": true
+  },
+  {
+    "source": "CEN_IAC_carta20230703.pdf",
+    "source_sha256": "9e43b4f037a822e5dacb2315a82fa8bc294d49f22c493b0134afd208838d3f69",
+    "pdf_page_one_based": 4,
+    "text_sha256": "3a1292acd87c1c6337ec30efbe4b76e74913b660102d971445739b9c86be8c53",
+    "has_embedded_text": true
+  },
+  {
+    "source": "CEN_IAC_anexo20230703_0",
+    "source_sha256": "e0434aa3a6ee85d755d92cba901f167c1a9a4c6f7b711310155be70af52d4402",
+    "pdf_page_one_based": 4,
+    "text_sha256": "6bc98c904b7d2c6336f9331c4704a5d78838ecd810fae4d427773ffd63977f04",
+    "has_embedded_text": true
+  },
+  {
+    "source": "CEN_EAF318_2025.pdf",
+    "source_sha256": "79d44ded801d8fd4371e218ccea3d065f3976210eff5d023ac1a1907a2b1ce70",
+    "pdf_page_one_based": 114,
+    "text_sha256": "9c2d723c03f30a628fe52e974d799c4b43f4a35ed4222628d768ea8ad7e94ade",
+    "has_embedded_text": true
+  },
+  {
+    "source": "RCA098_2021.pdf",
+    "source_sha256": "55471d508cba842e3c4c4d0059b8de56fe0df5ed1787c21097bd8cb55766546b",
+    "pdf_page_one_based": 1,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "has_embedded_text": false
+  },
+  {
+    "source": "SEA_Adenda20201001.pdf",
+    "source_sha256": "e51fe8128cae0f4fe937e0626cab3baa8d8d73d53e8260cc73723ac044d14e1e",
+    "pdf_page_one_based": 7,
+    "text_sha256": "425ca56a3de677f2be7c6f55d5d7c3e0c4e3a8f8035bd57d2c618458b38bfdf9",
+    "has_embedded_text": true
+  },
+  {
+    "source": "OGP_cartera_abril2023.pdf",
+    "source_sha256": "58a4ffb5b226205077b814e7e1b2088d016957feef4d619427380cff107ed8ce",
+    "pdf_page_one_based": 47,
+    "text_sha256": "69b659a67d7f8d46a73e956a07ffa45b212305817c54a4a2cadf38a144bc05a3",
+    "has_embedded_text": true
+  }
+]

@@ -1,0 +1,17 @@
+archivo,url,bytes,sha256,consulta
+fuentes/subestaciones_busqueda_Lampa.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/?search=Lampa,865,2da7bffce71bed6353404d925f6219c2f902f32025c0e6f29b452696e28145d2,2026-09-27
+fuentes/medidores_busqueda_Lampa.json,https://api-infotecnica.coordinador.cl/v1/medidores/?search=Lampa,5976,2b253b43b40d4a676ecb803b01f68da98b15560292c7350a714b7218c09c051d,2026-09-27
+fuentes/lampa_elementos.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/694/elementos/,82059,514ff86c963a3e9409853d2c681c40669c75184e5aaf06d1983ae812229cfd7b,2026-09-27
+fuentes/lampa_documentos.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/694/documentos/,4921,d58c551f8ed599db070c61327f2dea22d722ad3bac1e4791ce496ed866c81d05,2026-09-27
+fuentes/nuevalampa_documentos.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/2211/documentos/,6817,c8d47701e290358e454906270daf12ead07bd9d00c2259d381088650de3f7a76,2026-09-27
+fuentes/odata_medidores.json,https://api-infotecnica.coordinador.cl/v1/medidores/?search=Odata,2,4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945,2026-09-27
+fuentes/odata_subestaciones.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/?search=Odata,2,4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945,2026-09-27
+fuentes/subestaciones_busqueda_Batuco.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/?search=Batuco,430,cef5d2c9066e2c972a2ad404fdc55e892909bd6ed85f965f9d0cd62fae185824,2026-09-27
+fuentes/Batuco_678_elementos.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/678/elementos/,150459,6863fc4d7ce9cf4bf43622a0f9e3772d26da32e0db6d86b8a7a856be1311834c,2026-09-27
+fuentes/Batuco_678_documentos.json,https://api-infotecnica.coordinador.cl/v1/subestaciones/678/documentos/,7667,c69ab2c2adfd2e78899bd96f895583d98a6ffb76de600784e4f1e6b748376002,2026-09-27
+fuentes/Lampa_DUF_NUP3266_20240808.zip,https://api-infotecnica.coordinador.cl/v1/subestaciones/694/documentos/433736/,3278190,afd12d23a5d377896c868f8f653f8bac71cc92acbf574f2925f0ac23967e64ab,2026-09-27
+fuentes/NuevaLampa_DUF_NUP3266_20240808.zip,https://api-infotecnica.coordinador.cl/v1/subestaciones/2211/documentos/433735/,3580439,a7f3f121b516a5ef3e4280d2287e76f5ec20d8346120b706667ac429153ced4b,2026-09-27
+fuentes/Lampa_AsBuilt_202008.zip,https://api-infotecnica.coordinador.cl/v1/subestaciones/694/documentos/206710/,7115577,55789faec5598f59089a04a6752cc566e5838a1a227390fe234fa21bae370f4d,2026-09-27
+fuentes/Batuco_DUF_NUP3120_20220704.zip,https://api-infotecnica.coordinador.cl/v1/subestaciones/678/documentos/315338/,1106953,e92663931d4160f653ead140143a818b13aaf0696131028285e526b14dc4efa5,2026-09-27
+fuentes/Informe_diario_20250706.pdf,https://www.coordinador.cl/wp-content/uploads/2025/07/Informe-diario-06-07-2025.pdf,533837,fb7fecfa31bda7a25e3078ed8f01e1530ce7b2177e78a8e1b459b6305e4d17dd,2026-09-27
+fuentes/GridEnergy_experiencia_202501.pdf,https://gridenergy.cl/wp-content/uploads/2025/01/experiencia-gridenergy.pdf,624288,fc5c95a23d523de499fb5c42f00b46422048f40559f3cd95d8240b9db754a32f,2026-09-27

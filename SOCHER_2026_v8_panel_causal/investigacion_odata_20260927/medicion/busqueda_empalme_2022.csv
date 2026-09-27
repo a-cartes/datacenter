@@ -1,0 +1,9 @@
+consulta_o_fuente,url,resultado,limite,fecha_revision
+SNIFA seguimiento 1005711,https://snifa.sma.gob.cl/SeguimientoAmbiental/Ficha/1005711,Carta de inicio y comprobante; no anexo electrico,Originales archivados por equipo entrada,2026-09-27
+DIA 2020 capitulo 1,https://seia.sea.gob.cl/archivos/2020/07/17/4c1_Cap_1_Descripcion_de_proyecto.pdf,Empalme propuesto a linea Batuco,No constancia de ejecucion,2026-09-27
+InfoTecnica S/E Batuco documento315338,https://api-infotecnica.coordinador.cl/v1/subestaciones/678/documentos/315338/,Plano alimentador N22 Batuco 52D22,No rotula cliente ODATA,2026-09-27
+Experiencia GridEnergy 2020-2021,https://gridenergy.cl/wp-content/uploads/2025/01/experiencia-gridenergy.pdf,Gestion de empalme 6.5 MW Enel para ODATA,No alimentador ni acta de ejecucion,2026-09-27
+"ODATA + 6,5 + Batuco",,Sin documento que enlace campus y alimentador en resultados revisados,Busqueda web dirigida; no prueba inexistencia,2026-09-27
+ODATA + empalme + 2022,,Sin acta de ejecucion en resultados revisados,Busqueda web dirigida; perfiles profesionales no usados como prueba electrica,2026-09-27
+ODATA + Enel + energizacion,,Sin acta 2022 en resultados revisados,Busqueda web dirigida; documentos 2025 no fechan apertura2022,2026-09-27
+ODATA + Batuco + medidor,,DIA propuesta localizada; no codigo medidor historico,Busqueda web dirigida; no prueba inexistencia,2026-09-27

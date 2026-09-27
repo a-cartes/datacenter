@@ -1,0 +1,45 @@
+ 
+ 
+ Página 7 de 8 
+ 
+ 
+a) Atender las consideraciones y comentarios señalados en la sección 3 del documento 2410-
+DEN-RIC-PR5260-V4.pdf disponible en anexo 7.4. 
+6.4 AMPLIACIONES, ADECUACIONES, MODIFICACIONES Y REFUERZOS 
+Conforme a lo indicado por el Solicitante se requiere realizar obras de  adecuaciones y/o 
+modificaciones: 
+ 
+• Se deberá revisar en la Ingeniería Básica/Detalles la capacidad actual de los SSAA, con el fin 
+de determinar si es necesario adecuar o modificar esta capacidad. 
+• Adecuar el sistema de protecciones existente de la subestación para la conexión del 
+proyecto. En particular los ajustes de la diferencial de barras. 
+ 
+Las obras restantes a que se refiere el artículo 31° del Reglamento y que serán de cargo y 
+responsabilidad de la empresa solicitante corresponden a las siguientes: 
+ 
+• Construcción de nuevo paño K7 para la conexión en barra doble con transferencia en 500 
+kV de S/E Alto Jahuel. 
+• Construcción de línea 1x500 kV desde Solution 2 a la barra de 500 kV de S/E Alto Jahuel. 
+• Construcción de subestación Elevadora del proyecto Solution 2. 
+• Solución de alimentación de Servicios Auxiliares. 
+ 
+Lo anterior incluye todas las modificaciones a las instalaciones existentes, ya sean fundaciones, 
+estructuras, sistemas de medida, control y protecciones, urbanizaciones y todas las necesarias para 
+la ejecución del proyecto. 
+6.5 COSTOS DE CONEXIÓN 
+Conforme a lo establecido en el Decreto Exento N°5T de 2023 del Ministerio de Energía, Ensolution 
+SpA. debe efectuar un pago a beneficio de Transelec S.A. por un monto de 1578,9 UF por concepto 
+de costos de conexión. El detalle de este cálculo se encuentra disponible en el anexo 7.5.  
+6.6 PLAZO PARA DECLARARSE EN CONSTRUCCIÓN 
+El proyecto deberá presentar los antecedentes necesarios para la obtención de la declaración en 
+construcción ante la Comisión Nacional de Energía a más tardar en junio de 2027. 
+ 
+En caso de incumplimiento de lo anterior, quedará sin efecto la presente autorización de conexión, 
+en conformidad con el Artículo 25° del Reglamento. 
+6.7 GARANTÍA 
+Los documentos asociados a la garantía son los siguientes:  
+ 
+i. Documento asociado a la póliza de garantía: “ Boleta_Garantía_S2_Rev0.pdf”. Fecha de 
+vencimiento: 07 de mayo de 2029.  
+ii. Documento asociado a la declaración jurada “Declaracion_Jurada_S2_Rev0.pdf”.  
+ 
