@@ -75,7 +75,7 @@ La [guía de reproducción](docs/ampliacion_2020_2026.md#reconstrucción-desde-l
 
 La [verificación local completa](SOCHER_2026_v7_2020_2026/evidencia/Verificacion_entrega.json) compara todas las filas y columnas. La concatenación de los siete CSV anuales y la descompresión de gzip reproducen el CSV principal byte por byte. Las pruebas de corrupción, referencias ambiguas y archivos alterados están conservadas en el código.
 
-La reconstrucción remota de v0.2.0 está pendiente de ejecución. La prueba remota de la versión anterior no se presenta como prueba de esta ampliación.
+**Reconstrucción remota completada en Linux:** [GitHub Actions](https://github.com/a-cartes/datacenter/actions/runs/36295132374). Recuperó las 3.411.527 filas con el mismo SHA-256 del CSV publicado y aprobó las pruebas de referencias y detección de archivos alterados. [Informe conservado](docs/evidencia-v0.2.0/CI_reproduccion.json). También se preserva la [reconstrucción local desde el paquete](docs/evidencia-v0.2.0/Local_reproduccion.json).
 
 El [diccionario](SOCHER_2026_v7_2020_2026/evidencia/Diccionario_precios.csv), las [fuentes](SOCHER_2026_v7_2020_2026/evidencia/Fuentes_precios.csv) y los [faltantes](SOCHER_2026_v7_2020_2026/evidencia/Faltantes_precios_detalle.csv) permiten auditar el resultado sin descargar todos los originales nacionales.
 

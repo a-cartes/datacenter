@@ -1,0 +1,9 @@
+{
+  "estado": "OK",
+  "paquete_sha256": "361319fef7fe70025773ec78912b266a5c6e34a2b5b4751d682851be70970ee8",
+  "insumos_verificados": 258,
+  "csv_reconstruido_sha256": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b",
+  "csv_identico_version_publicada": true,
+  "alcance": "Reconstrucción desde particiones archivadas; no prueba nueva adquisición de originales ni identificación causal.",
+  "utc": "2026-09-27T04:46:30.786130+00:00"
+}

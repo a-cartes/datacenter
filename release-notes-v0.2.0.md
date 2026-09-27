@@ -25,7 +25,7 @@ La verificación local contrastó todas las filas y las 31 columnas: identificad
 
 El paquete de insumos reconstruye los entregables desde particiones archivadas. **No incluye todos los originales nacionales**. La adquisición desde el proveedor constituye una etapa adicional, documentada mediante fuentes, scripts y hashes. Las versiones DEF no se presentan como la última reliquidación disponible. Los CSV no mezclan silenciosamente revisiones ni completan valores ausentes.
 
-La reconstrucción completa de esta versión en GitHub Actions se registra después de publicar los insumos necesarios; su evidencia se añadirá a estas notas al terminar.
+**Reconstrucción completa en Linux aprobada:** [GitHub Actions](https://github.com/a-cartes/datacenter/actions/runs/36295132374). Se verificaron 258 insumos y las 3.411.527 filas; el CSV reconstruido tiene exactamente el mismo SHA-256 que la versión publicada. Las pruebas de referencias, corrupción de datos y del lector de paquetes también aprobaron. El flujo corrigió el orden de preparación de sus pruebas; el constructor, contrato y datos siguen congelados en el tag v0.2.0.
 
 ## Alcance científico
 

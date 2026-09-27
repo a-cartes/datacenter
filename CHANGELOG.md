@@ -10,6 +10,7 @@
 - Valida las 31 columnas entre CSV y Parquet, la concatenación anual y el archivo comprimido. Recontrasta los 178.016 precios anteriores sin diferencias.
 - Preserva fuentes, huellas, extracción desde ZIP/OOXML/TSV y cuatro adquisiciones verificadas en GitHub Actions.
 - Distribuye un paquete de insumos para reconstrucción exacta de los CSV; los originales nacionales permanecen como etapa de adquisición separada.
+- Reconstruye el mismo CSV en el entorno local y en Linux, desde el paquete publicado, y conserva los informes de ambas ejecuciones.
 - La verificación computacional no resuelve fechas de tratamiento, continuidad física ni validez causal.
 
 ## 0.1.0 — Base observada, paquete de trabajo

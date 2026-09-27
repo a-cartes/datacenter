@@ -1,0 +1,24 @@
+{
+  "estado": "OK",
+  "errores": [],
+  "filas_csv": 3411527,
+  "filas_parquet": 3411527,
+  "filas_por_anio": {
+    "2020": 480991,
+    "2021": 482599,
+    "2022": 490616,
+    "2023": 508138,
+    "2024": 522732,
+    "2025": 537277,
+    "2026": 389174
+  },
+  "precios_nulos": 0,
+  "filas_comparadas_todas_columnas": 3411527,
+  "columnas_comparadas": 31,
+  "tolerancia_absoluta_flotantes": 1e-10,
+  "error_maximo_flotantes": 0.0,
+  "concatenacion_anual_identica_csv": true,
+  "sha256_archivos_verificados": 24,
+  "gzip_identico_csv": true,
+  "utc": "2026-09-27T04:41:08.423458+00:00"
+}

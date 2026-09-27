@@ -25,7 +25,7 @@
 - [x] Cerrar las 27 fuentes DEF modernas y el PRE separado.
 - [x] Integrar y verificar las 31 variables en CSV completo, anual y Parquet.
 - [x] Ampliar las mediciones y conservar sus unidades, signos y límites.
-- [ ] Congelar los insumos y reconstruir la nueva entrega en Linux.
+- [x] Congelar los insumos y reconstruir la nueva entrega en Linux.
 
 ## Validación documental y eléctrica
 
