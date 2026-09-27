@@ -1,0 +1,45 @@
+4
+.
+2
+. 
+Otras Observaciones
+Hora
+Centro de Control
+Observación
+00:00
+Enel Generación
+C. Pehuenche finaliza vertimiento por sobre barrera.
+02:00
+CDC
+La mayor disminución de generación Bruta horaria fue de -808,1 [MW]
+09:05
+CDC
+La mayor tasa de disminución de generación Bruta, calculada cada 5 minutos, fue de -53,0 [MW/m]
+09:10
+CDC
+La mayor tasa de aumento de generación Bruta, calculada cada 5 minutos, fue de 66,3 [MW/m]
+13:23
+Engie Generación
+C. Laja1 inicia vertimiento.
+15:30
+Enel Generación
+C. Rapel inicia vertimiento.
+16:25
+Engie Generación
+C. Laja1 finaliza vertimiento.
+17:00
+CDC
+El mayor aumento de generación Bruta horaria fue de 690,2 [MW]
+4
+.
+3
+. 
+Primera Energización de Instalaciones
+Hora
+Centrol de Control
+Empresa
+Instalación
+17:33
+Enel Green Power
+ENEL Green Power
+Línea 110kV Don Humberto - Punta Peuco.

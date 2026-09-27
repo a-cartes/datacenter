@@ -1,0 +1,108 @@
+4
+ANTECEDENTES DE LA OPERACIÓN DIARIA 
+SEN
+4
+.
+1
+. 
+Observaciones
+Hora
+Centro de
+Control
+Observación
+00:00
+CDC
+Cs. PFV Tamango, PE Punta de Talca, PFV Andes Solar IV, PFV Ceme1, PFV Loma Los Colorados, PE Lebu (ampliación de 6,5 a 10 MW), Dos Valles, El Pinar U-1, Cogeneradora
+Mapa, PE Cardonal, PE Manantiales, PE Cerrillos, PFV Gran Teno, PFV Las Salinas, PE San Matías, PFV Doña Antonia continúan en período de puesta en servicio.
+00:00
+STM
+SDAC deshabilitado.
+00:00
+STM
+S/E Cerro Navia deshabilitado trip por contingencia específica del autotransformador 2 de 220/110 kV, 400 MVA, sobre líneas de 110 kV El Salto - Cerro Navia 1 y 2
+00:00
+STM
+S/E El Salto deshabilitado trip por contingencia específica del autotransformador 1 ó 2 de 220/110 kV, 400 MVA, sobre líneas de 110 kV El Salto - Cerro Navia 1 y 2
+00:20
+STS
+C. Masisa sincronizada y cancelado IF 2024002771.
+01:09
+Chilquinta
+Línea de 44 kV FFCC Andes - Hermanos Clark 1 cerrada y normalizado los consumos de S/E Juncal. Cancelada IF 2024002772.
+02:11
+Transelec
+Línea de 66 kV Charrúa - Cholgúan con solicitud de desconexión de curso forzoso. Causa informada: Atención falla robo conductor, implica (cruce con línea Coelcha) tramo 1, según
+SDCF 2024064881.
+05:57
+Enel
+Generación
+C. Rapel U-3 sale del servicio en forma intempestiva con 73 MW. Causa informada: Falla en sistema de control, según IF 2024002774.
+07:00
+STM
+SDAC habilitado.
+07:07
+AES Andes
+PFV Andes Solar II-B limitada a 125.48 MW. Causa informada: Indisponibilidad de AMPS 8.2 (PB2). AMPS 15.1 (PB2), AMPS 19.2 (PB2), AMPS 29.1 (PB1 y PB2) y AMPS 29.2 (PB1 y
+PB2) por falla, según IL 2024001011. Cancelada IL 2024000995.
+07:24
+Enel
+Generación
+C. Rapel U-3 disponible, en servicio y cancelado IF 2024002774.
+08:00
+Transelec
+S/E Maitencillo paño H4 Vallenar con limitación. Causa informada: Bloqueada protección sistema 1 por comportamiento anormal y con riesgo de operación errática. En servicio normal
+sistema 2, según IL 2024001015.
+08:35
+STM
+S/E Cerro Navia habilitado trip por contingencia específica del autotransformador 2 de 220/110 kV, 400 MVA, sobre líneas de 110 kV El Salto - Cerro Navia 1 y 2
+08:35
+STM
+S/E El Salto habilitado trip por contingencia específica del autotransformador 1 ó 2 de 220/110 kV, 400 MVA, sobre líneas de 110 kV El Salto - Cerro Navia 1 y 2
+08:38
+Engie
+Transmisión
+Línea de 100 kV Chuquicamata - K1 con solicitud de desconexión de curso forzoso. Causa informada: Lavado de aislación por alta contaminación en zona cercana a sector mina a rajo,
+según SDCF 2024064913.
+08:58
+AES Andes
+C. PFV Andes Solar 2A inicia maniobras para la inyección al SADI
+09:12
+Engie
+Generación
+S/E Central Tocopilla transformador de 220/21 kV-U16 con solicitud de intervención de curso forzoso. Causa informada: Revisión de conexionado sobre circuito de medición de
+corrientes celda EDAG U16 por discrepancia en datos por fase, según SICF 2024064929.
+09:15
+CGE
+Línea de 66 kV Parral - Cauquenes interrupción forzada por protecciones, se pierden 7.3 MW de consumos. Causa informada: Conductor cortado en estructura N° 153, según IF
+2024002787.
+09:15
+Chilquinta
+S/E Paso Hondo transformador N° 1 de 66/23-13.2 kV,12.5 MVA interrupción forzada por protecciones, se pierden 0.43 MW de consumos. Causa informada: Falla en la línea de 66 kV
+Parral - Cauquenes, según IF 2024002796.
+11:41
+CGE
+Línea de 66 kV Villarrica - Pucón con solicitud de intervención de curso forzoso. Causa informada: No reconectar por faenas de emergencia de reemplazo de aisladores en mal estado
+en redes MT, según SICF 2024065068.
+11:55
+Transelec
+S/E Tinguiririca paño A8 con solicitud de intervención de curso forzoso. Causa informada: Atender a la brevedad alarma de anormalidad interna en la protección GE S2. Ante una
+eventual necesidad de operación, su comportamiento puede ser incierto en el estado en que está (E/S protección S1 en todo momento), según SICF 2024065066.
+12:01
+LAP
+Línea de 110 kV Río Toltén - Cunco con solicitud de intervención de curso forzoso. Causa informada: No reconectar por reparación de LMT cortadas propiedad Frontel, según SICF
+2024065081.
+12:12
+Transelec
+Línea de 66 kV Charrúa - Cholgúan cerrada y cancelada solicitud de desconexión de curso forzoso SDCF 2024064881 e IF 2024002773.
+12:13
+Enel
+Generación
+C. Sauzal U-1 con solicitud de desconexión de curso forzoso. Causa informada: Cambio de pasador de álabe cortado, según SDCF 2024065098.
+12:25
+Arauco
+C. Cholguán sincronizada y cancelado IF 2024002775.
+12:33
+Transelec
+Línea de 154 kV Hualpén - Lagunillas, línea de 220 kV Hualpén - Guindo, línea de 220 kV Guindo - Lagunillas y línea de 220 kV Lagunillas - Hualqui con solicitud de intervención de
+curso forzoso. Causa informada: 
+Investigar y corregir falla en enlace de MMOO entre Lagunillas y Hualpén, según SICF 2024064887 - 2024064888 - 2024064889 - 2024064890.

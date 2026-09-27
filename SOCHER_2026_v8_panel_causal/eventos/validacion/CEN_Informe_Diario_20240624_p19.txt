@@ -1,0 +1,104 @@
+4
+ANTECEDENTES DE LA OPERACIÓN DIARIA 
+SEN
+4
+.
+1
+. 
+Observaciones
+Hora
+Centro de
+Control
+Observación
+00:00
+CDC
+Cs. PFV Tamango, PE Punta de Talca, PFV Andes Solar IV, PFV Ceme1, PFV Loma Los Colorados, PE Lebu (ampliación de 6,5 a 10 MW), Dos Valles, El Pinar U-1, Cogeneradora
+Mapa, PE Cardonal, PE Manantiales, PE Cerrillos, PFV Gran Teno, PFV Las Salinas, PE San Matías, PFV Doña Antonia continúan en período de puesta en servicio.
+00:14
+Acciona
+C. PFV Malgarida interrupción forzada por protecciones. Causa informada: Falla presunta en parrón de 33 kV, se investiga, según IF 2024002751 y 2024002752.
+01:05
+Enel
+Generación
+C. Atacama 1 TG1A inicia Mantenimiento Mayor (SD 2024063407).
+03:08
+Engie
+Transmisión
+Línea de 110 kV Tamaya - Salar 4B cerrada y cancelado IF 2024002749.
+07:40
+STM
+SDAC habilitado.
+08:03
+Transelec
+S/E Charrúa Reactor 1 de la línea de 500 kV Charrúa - Entre Ríos 1 interrupción forzada por protecciones. Causa informada: Alarma de bajo nivel de aceite, según IF 2024002769.
+08:45
+STM
+S/E Cerro Navia habilitado trip por contingencia específica del autotransformador 2 de 220/110 kV, 400 MVA, sobre líneas de 110 kV El Salto - Cerro Navia 1 y 2.
+09:00
+STM
+S/E El Salto habilitado trip por contingencia específica del autotransformador 1 ó 2 de 220/110 kV, 400 MVA, sobre líneas de 110 kV El Salto - Cerro Navia 1 y 2
+09:16
+Codelco El
+Teniente
+Línea de 110 kV Minero - Sauzal 3 cancelada solicitud de desconexión de curso forzoso, según SDCF 2024063783.
+09:47
+Codelco El
+Teniente
+Línea de 110 kV Minero - Colon 1 cancelada solicitud de desconexión de curso forzoso, según SDCF 2024063311.
+10:02
+Codelco El
+Teniente
+Línea de 110 kV Minero - Cordillera 1 cancela solicitud de desconexión de curso forzoso, según SDCF 2024063314.
+10:09
+Codelco El
+Teniente
+Línea de 110 kV Minero - El Cobre 1 cancela solicitud de desconexión de curso forzoso, según SDCF 2024063259.
+10:19
+Codelco El
+Teniente
+Línea de 110 kV Minero - Sewell 2 cancela solicitud de desconexión de curso forzoso, según SDCF 2024063256.
+10:31
+Puntilla
+C. Florida II y Florida III con solicitud de desconexión de curso forzoso. Causa informada: Corta de canal Florida por caída de piedra que 
+impide captación de caudal. Limpieza de canal
+Florida, según SDCF 2024064235 - 2024064236.
+10:40
+Puntilla
+C. El Rincón con solicitud de desconexión de curso forzoso. Causa informada: Corta de canal Florida por caída de piedra que impide captación de caudal. Limpieza de canal Florida,
+según SDCF 2024064231.
+10:44
+Codelco El
+Teniente
+Línea de 110 kV Minero - Maitenes 1 cancela solicitud de desconexión de curso forzoso, según SDCF 2024063315.
+10:46
+Celeoredes
+Línea de 220 kV Minero - Candelaria 2 cancela solicitud de desconexión de curso forzoso, según SDCF 2024063656.
+10:50
+Colbún
+C. Quilleco con solicitud de intervención de curso forzoso. Causa informada: Bajar generación con Unidades N°1 y N°2 de Central Quilleco para limpieza de rejas cámara de carga,
+según SICF 2024064229.
+12:45
+Chilquinta
+S/E Punta Peuco 52HT interrupción forzada por protecciones y se pierden 4.8 MW de Planta Principal Polpaico. Causa informada: Interrupción no deseada durante pruebas que estaba
+realizando Enel Green Power en planta fotovoltaica Don Humberto, según IF 2024002764.
+12:58
+Colbún
+C. Quilleco cancelada solicitud de intervención de curso forzoso, según SICF 2024064229.
+13:10
+Enel
+Generación
+C. San Isidro 2 limitada a 223 MW. Causa informada: Control de emisiones de Nox, según IL 2024001004.
+13:16
+Chilquinta
+S/E Punta Peuco 52HT cerrado y normalizados los consumos de Planta Principal Polpaico, cancelado IF 2024002764
+14:00
+Enel
+Generación
+C. Atacama 1 TG1B y TV1C indisponible por falla en proceso de partida: Causa informada: Fuga de agua/vapor por sistema provisorio de drenaje de caldera, según IF 2024002768.
+14:11
+Transelec
+S/E Charrúa reactor KZ1 525 kV de 84 MVAr con solicitud de intervención de curso forzoso. Causa informada: Normalizar nivel de aceite dieléctrico en reactor neutro, según SICF
+2024064272.
+15:40
+Transelec
+S/E Mulchén con solicitud de intervención de curso forzoso. Causa informada: Atención de falla en enlace MMOO entre R/E Pailahueque y R/E Mulchén, según SICF 2024064400.

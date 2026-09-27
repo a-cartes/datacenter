@@ -1,0 +1,37 @@
+ 
+ 
+En los registros oscilográficos se puede observar un aumento en la magnitud de corriente por las tres 
+fases en el lado de 110 kV, mientras que en el lado de 23 kV se observan corrientes normales de carga 
+(con algunos aumentos transitorios, principalmente en la fase A). A partir de lo anterior, y considerando 
+el grupo de conexión del transformador (Dyn1), se puede presumir la existencia de una falla monofásica 
+en la fase A en el lado de 23 kV.   
+Por otra parte, de los canales digitales se puede observar la operació n del elemento diferencial 
+(“D87T_A”). 
+Finalmente, a partir de los canales digitales se puede estimar la apertura del interruptor en un tiempo 
+de 40 ms (diferencia entre la orden de trip y la extinción de las corrientes de falla). 
+ 
+ 
+ 
+8. Detalle de toda la información utilizada en la evaluación de la falla 
+ 
+o Detalle de la generación programada para el día 10 de diciembre de 2024 (Anexo N°1). 
+o Detalle de la generación real del día 10 de diciembre de 2024 (Anexo N°2). 
+o Detalle del Movimiento de Centrales e Informe Diario del CDC corre spondientes al día 10 de 
+diciembre de 2024 (Anexo N°3). 
+o Detalle de los mantenimientos programados y forzados para el día 10 de diciembre de 2024 (Anexo 
+N°4). 
+o Informes de falla de instalaciones ingresados en el sistema del Coordinador Eléctrico Nacional por 
+las empresas STM S.A. y Enel Distribución Chile S.A. (Anexo N°5). 
+o Otros antecedentes aportados por las empresas STM S.A. y Enel Distri bución Chile S.A. (Anexo 
+N°6). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

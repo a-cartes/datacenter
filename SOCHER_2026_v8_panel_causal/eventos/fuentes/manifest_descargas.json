@@ -1,0 +1,144 @@
+[
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_EAF141_2026.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2026/04/EAF-141-2026.pdf",
+    "consulta": "2026-09-27",
+    "bytes": 11820982,
+    "sha256": "8318e00aae8229aebfe246e03289b0ae0ce44f6468da94f6ed6e34199e066836",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/ODATA_cronologia.html",
+    "url": "https://odatacolocation.com/es/sobre-nos-2/",
+    "consulta": "2026-09-27",
+    "estado": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_ODATA_NuevaLampa_IAC202410.pdf",
+    "url": "https://cartas.coordinador.cl/download_anexos/6705c78535635702715c7943/0",
+    "consulta": "2026-09-27",
+    "bytes": 1094329,
+    "sha256": "baf0a0a26ea54dd22978f3aa3f0c8e8e093dca909c43317fcc1dcf0b3aef6d0e",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CTNG_Memoria2019.pdf",
+    "url": "https://www.ctng.cl/wp-content/uploads/2020/04/Memoria-Corporativa-2019-CTNG.pdf",
+    "consulta": "2026-09-27",
+    "estado": "error",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/683/documentos/470265/",
+    "consulta": "2026-09-27",
+    "bytes": 5075836,
+    "sha256": "60b7a0878816352de8e8f98b6cac897150e8e70362a4086be9e740e82ed23d2e",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/Infotecnica_Chacabuco_AsBuilt20200703.zip",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/683/documentos/206388/",
+    "consulta": "2026-09-27",
+    "bytes": 8437490,
+    "sha256": "db7276ee46edf74204728b72140adf02feff3acd8b61a2e149b09ce1e040b2ea",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/Infotecnica_Chacabuco_DUF20210121.zip",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/683/documentos/234695/",
+    "consulta": "2026-09-27",
+    "bytes": 12881155,
+    "sha256": "ec58f37a6aac82deec1b4b1d78bd44303a90568b0b00d2af8144c13f6f92b6a8",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_Informe_Diario_20240624.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/06/Informe-Diario-24-06-2024.pdf",
+    "consulta": "2026-09-27",
+    "bytes": 507272,
+    "sha256": "45e194c1806ea003ca40e4f6a104b29aca38f01083df1f57948cbd0cbc46993e",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_Informe_Diario_20240625.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/06/Informe-Diario-25-06-2024.pdf",
+    "consulta": "2026-09-27",
+    "bytes": 507386,
+    "sha256": "5d4996bc67f1c3224be1fd1969fff32bc288d10159ce79c4efd0e626cb64187e",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/infotecnica_Chacabuco683_documentos.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/683/documentos/",
+    "consulta": "2026-09-27",
+    "bytes": 5635,
+    "sha256": "96e9cb5c1ce4f6059fe44568157cf93c94b628117d91dde7d9911260b1101df7",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/infotecnica_Chacabuco_E53.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/panos/32081/",
+    "consulta": "2026-09-27",
+    "bytes": 460,
+    "sha256": "b84abb152ee6699c3b8525c4c9136ae98f78f62935c714c160758ed91bf576fe",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_EAF289_2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/07/EAF-289-2024.pdf",
+    "consulta": "2026-09-27",
+    "bytes": 7511830,
+    "sha256": "68bdabd8f480ca7c3d75b8f80f17ce75c803140c47d9a0301ccdc94a040138b0",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/STM_Ascenty_E53_solicitud_20241213.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/676095103563570a6909d2f6",
+    "consulta": "2026-09-27",
+    "bytes": 574583,
+    "sha256": "dc2031ed6c951354ec326c71720e5fdb5109eb4c34bb773f002e07d7c7d0ea2f",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/STM_Ascenty_E53_MNR_20250113.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/678a9ac43563572012d6e461",
+    "consulta": "2026-09-27",
+    "bytes": 133833,
+    "sha256": "7b87f3508b2553b09b90fb2db8bf42716c54f7beb0b13ca07b684dbf01ad4a72",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/STM_Ascenty_E53_termino_20250604.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/684213aa3563577698e6da48",
+    "consulta": "2026-09-27",
+    "bytes": 209037,
+    "sha256": "0f2d5b4b100a2800cab8d00860659bdead2330210278b60b0166f6eca71a22b7",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_EAF575_2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/01/EAF-575-2024.pdf",
+    "consulta": "2026-09-27",
+    "bytes": 3417001,
+    "sha256": "75d17a3f9e5f2bade6f3eb2c84be78b77f64c6a2e12bbee5464b203583b6fb0f",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/infotecnica_Chacabuco683_elementos.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/683/elementos/",
+    "consulta": "2026-09-27",
+    "bytes": 237647,
+    "sha256": "b35a3357c6f6e64b34892571c98ba596f08ceb1ec947cd0d4e1c02b41d2f4c62",
+    "estado": "descargado"
+  },
+  {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v8_panel_causal/eventos/fuentes/CEN_Ascenty_Chile2_solicitud202411.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/11/DE06670-24.pdf",
+    "consulta": "2026-09-27",
+    "bytes": 350457,
+    "sha256": "e2b8622e0f28ad83a3b6c4a4581a1d5e0f9dfd6f7c030ca925b93524eaae5349",
+    "estado": "descargado"
+  }
+]

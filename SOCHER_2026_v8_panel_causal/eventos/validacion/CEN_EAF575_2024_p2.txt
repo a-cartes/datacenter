@@ -1,0 +1,70 @@
+      d.1 Origen y causa de la falla  
+Se produjo la desconexión forzada del transformador 110/23 kV N°8 de S/E Chacabuco por operación 
+de su protección diferencial , debido a pérdida de aislación en pararrayos del paño DT8 de dich a 
+subestación. 
+      d.2 Fenómeno Físico  
+DIS1: Pérdida de aislación. 
+La empresa Sociedad Transmisora Metropolitana S.A. envía antecedentes (probatorios) con la finalidad 
+de respaldar el fenómeno físico declarado. 
+      d.3 Reiteración  
+Reiteración Fenómeno Físico en la instalación afectada: Esta instalaci ón no ha sido afectada por el 
+mismo fenómeno físico, durante los últimos 24 meses móviles. 
+  Reiteración Fenómeno Físico en instalaciones del mismo propietario : Se han producido fallas en 
+instalaciones del mismo propietario con el mismo fenómeno físico, dur ante los últimos 24 meses 
+móviles, correspondiente al Estudio para Análisis de Falla de la siguiente tabla: 
+FALLA_ID NOMBRE_FALLA FECHA_FALLA ACCIONES_CORRECTIVAS 
+EAF 193_2023 
+Desconexión forzada de las 
+barras 12 KV N°1 y N°3 de 
+S/E Santa Rosa Sur 
+29-04-2023 
+La empresa Sociedad Transmisora Metropolitana II S.A. 
+señala: 
+“Durante la atención de esta falla se identificó dañados dos 
+aisladores (fase blanca y azul), los cuales tenían muestra de 
+descarga eléctricas y de excremento de aves. El mismo día 
+sábado 29 de abril de 2023 fueron remplazados estos 
+aisladores”. 
+“Durante la atención de esta falla, se identificó dañado el 
+aislador de la fase azul. Este se encuentra contiguo al punto 
+de falla de la Barra MT1, la que operó unos milisegundos 
+antes. Se reemplazo este aislador fallado y se normalizó la 
+esta Barra”.  
+“Para el mes de mayo de 2023 está programado un lavado de 
+aislación con tensión a esta subestación. Durante el 
+transcurso de este año se realizarán inspecciones para 
+evaluar si se requiere realizar un lavado de aislación 
+adicional”.  
+EAF 262_2023 
+Desconexión forzada de la 
+barra 12 kV N°2 de S/E Los 
+Domínicos 
+15-06-2023 
+La empresa Sociedad Transmisora Metropolitana II S.A. 
+indica: 
+“Ocurrida la operación del interruptor MT2P, se procedió a 
+realizar las maniobras de realimentación de los clientes 
+afectados. Al inspeccionar la sala de celdas, se identificó 
+siniestrado el cubículo de la salida de cables de MT del 
+alimentador Honduras”. 
+“El viernes 16 de junio se procedió a trasladar el alimentador 
+Honduras desde la Barra MT3 a la Barra MT2 de S/E Los 
+Domínicos. Adjuntamos los protocolos de pruebas de la 
+protección de la nueva posición junto con el ECAP 
+correspondiente”. 
+“Durante el mes de julio 2023, se evaluará la viabilidad de 
+recuperar la posición dañada del alimentador Honduras en la 
+Barra MT3”. 
+EAF 271_2023 
+Desconexión forzada de 
+barra 23 kV N°3 de S/E 
+Batuco 
+22-06-2023 
+La empresa Sociedad Transmisora Metropolitana II S.A. indica 
+que se revisó la instalación, identificando daño en los 
+aisladores del desconectador lado barra principal del 
+alimentador Chicureo de S/E Batuco, procediendo a aislar la 
+zona afectada. Posteriormente, el domingo 25 de junio, 
+mediante solicitud de desconexión de curso forzoso (SD 
+N°2023057222), la empresa reemplazó todos los 
+componentes dañados producto del arco eléctrico. 

@@ -29,6 +29,12 @@
 
 ## Validación documental y eléctrica
 
+- [x] Construir panel v8 diario (142.151 filas) y mensual (4.756) sin alterar v0.2.0.
+- [x] Validar overlay de homologación agosto 2023: 53/58 etiquetas, precios intactos.
+- [x] Registrar 24 hitos, 33 fuentes y criterios de elegibilidad con localizadores.
+- [x] Cerrar fecha realizada E53 (05/05/2025) y ruta nominal BP7–T7–BP1 Chacabuco 110.
+- [x] Documentar maniobras concurrentes con el episodio Las Canteras de junio de 2024.
+
 - [ ] Validar centros, campus y fases.
 - [ ] Adjudicar fechas realizadas y distinguirlas de previsiones.
 - [ ] Acreditar vínculos centro–medidor–barra y sus vigencias.
@@ -41,5 +47,10 @@
 - [ ] Definir ATT, ponderaciones e inferencia acordes con las unidades disponibles.
 - [ ] Estimar dinámica y heterogeneidad mediante un diseño defendible.
 - [ ] Evaluar sensibilidad y spillovers sin tratar vínculos desconocidos como exposición cero.
-- [ ] Preparar el manuscrito en español y el resumen en inglés.
+- [ ] Completar el manuscrito para envío en español con resumen en inglés, incluida la decisión final sobre alcance causal.
+- [x] Redactar manuscrito de trabajo v8 en español con resumen en inglés, tablas y figuras descriptivas verificadas.
+- [x] Registrar protocolo previo a las estimaciones v8; no equivale a prerregistro prospectivo.
+- [x] Ejecutar diagnóstico de elegibilidad y soporte: no hay ATT causal habilitado.
 - [ ] Archivar la versión que acompaña al artículo con un identificador citable.
+
+Los pendientes de tratamiento, comparación, exposición e inferencia se detallan en [el avance v8](docs/panel_causal_v8.md). La versión del manuscrito destinada a envío sigue pendiente.

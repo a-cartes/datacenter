@@ -1,0 +1,80 @@
+[
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF20210121.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 1.pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 1.pdf",
+    "sha256": "78545f8e2173a9a0127a8c4f5261bf535ee93f6305939c5385d7c9532f4ae9a3"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF20210121.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 2.pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 2.pdf",
+    "sha256": "a4f75c348c6d8b9e219259f66b92c3afa18f45dfc65925831701179373b91f3d"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF20210121.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 3.pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 3.pdf",
+    "sha256": "889009b9a5b0864dcc032d1b719e2cc19e2f89b0401189c9aed5ee2d9c3dfd4f"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF20210121.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 4.pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 4.pdf",
+    "sha256": "86428eea4a66b193f2381267458e9845d915abbf510624ea845e19475b16f8d6"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 1 (110kV).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 1 (110kV).pdf",
+    "sha256": "970e40a4cb1893f316c48549d4c536b6f5253883d49fd99d6a8f7bda49c52158"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 2 (TR1).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 2 (TR1).pdf",
+    "sha256": "321c117cb7a0fc76339d127567d2ec81cf5bdb5768c3f84c1ae3658e32d5b02b"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 3 (TR2).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 3 (TR2).pdf",
+    "sha256": "e83a6071004dff7ec071e23e5c945f395f1b8241327524ce96b011d755683be9"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 4 (TR3).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 4 (TR3).pdf",
+    "sha256": "d1424ae26ac8e6535e3693f23c0659afa5a188bc5595a895d13727bdb7bdcb1e"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 5 (TR4).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 5 (TR4).pdf",
+    "sha256": "cae2ec872f8cfd85b50fd43f41d7954eabfca7b2be09a82a8b050bb9ffcdd278"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 6 (TR5).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 6 (TR5).pdf",
+    "sha256": "a8061a74ab97042e499511368d8cf060fb922b050e62dfc8e89a4b35e9ad1bd2"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 7 (TR6).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 7 (TR6).pdf",
+    "sha256": "8584aa6847fdf07c3bb1f3b12078fc7add8a9421aae87d34136266870d18da14"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 8 (TR7).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 8 (TR7).pdf",
+    "sha256": "0c450efe28bc9d98d061608d3cd71e761d235f9cab098be06b801a4483cea3de"
+  },
+  {
+    "contenedor": "Infotecnica_Chacabuco_DUF_NUP5417.zip",
+    "miembro": "DU-CHACABUCO-110_23_12KV-LAM 9 (TR8).pdf",
+    "archivo": "fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 9 (TR8).pdf",
+    "sha256": "499a713461c0574cfca8b4ceb2dd0fb5c7dc46d9c9b14f8d24d3e6ee5258560d"
+  }
+]

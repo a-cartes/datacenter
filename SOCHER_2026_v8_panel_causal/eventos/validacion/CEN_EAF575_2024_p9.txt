@@ -1,0 +1,17 @@
+7. Análisis de las causas de la falla y de la actuación de los dispositivos de protección y control 
+ 
+Antecedentes de la falla 
+Se produjo la desconexión forzada del transformador 110/23 kV N°8 de S/E Chacabuco por operación 
+de su protección diferencial, debido a pérdida de aislación en pararrayos del paño DT8 de dicha 
+subestación. 
+ 
+Como consecuencia de lo anterior, se produjo la pérdida de 13.78 MW de consumos en la S/E 
+Chacabuco. 
+ 
+ 
+Análisis de la operación de los sistemas de protecciones 
+ 
+Protecciones asociadas al transformador 110/23 kV N°8 de S/E Chacabuco. 
+ 
+Registro oscilográfico 
+ 

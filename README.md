@@ -10,7 +10,9 @@ El proyecto estudia cómo la entrada y expansión de centros de datos puede afec
 
 **Estado científico:** datos observados y controles de calidad. La asignación de tratamientos, la vigencia de conexiones centro–barra y la conciliación horaria siguen en validación. Esta entrega no presenta efectos causales estimados.
 
-**Descargas auditadas el 27/09/2026:** no se detectó truncación en las fuentes de precios utilizadas. Se revisaron 55 libros históricos y 28 originales modernos; tres libros recuperados desde descargas interrumpidas coinciden con nuevas descargas completas. La homologación adicional de agosto de 2023 quedó separada, pendiente de incorporar en una futura versión. [Resultado, evidencia y límites del control](docs/integridad_descargas_20260927.md).
+**Etapa v8 construida:** [panel analítico y evidencia](docs/panel_causal_v8.md), con **142.151 filas diarias**, **4.756 mensuales**, matriz de **24 hitos**, **33 fuentes catalogadas**, protocolo registrado, Excel de revisión y [manuscrito en español con resumen en inglés](SOCHER_2026_v8_panel_causal/documentos/manuscrito_v8.md). La nueva homologación enlaza 53 de 58 etiquetas de agosto de 2023 sin modificar precios. Se acreditó la energización de Ascenty E53 el 5 de mayo de 2025 y su ruta nominal hacia Chacabuco 110 kV; sigue abierta la naturaleza de la carga y el contrafactual. No hay ATT habilitado y v0.2.0 permanece intacta.
+
+**Descargas auditadas el 27/09/2026:** no se detectó truncación en las fuentes de precios utilizadas. Se revisaron 55 libros históricos y 28 originales modernos; tres libros recuperados desde descargas interrumpidas coinciden con nuevas descargas completas. La homologación adicional de agosto de 2023 quedó separada de v0.2.0 y se incorpora como metadatos en v8. [Resultado, evidencia y límites del control](docs/integridad_descargas_20260927.md).
 
 | Entrega 2020–2026 | Dimensión verificada |
 |---|---:|

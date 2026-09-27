@@ -1,0 +1,31 @@
+- Curva de recuperación esperada v/s recuperación real. 
+ 
+ 
+Se aprecian diferencias de casi 2 horas entre el horario de recuperaci ón real del último 12% de 
+consumos, respecto del horario de disponibilidad de la barra primaria respectiva. 
+ 
+- Velocidad promedio de recuperación. 
+Rango Potencia 
+(MW) 
+Tiempo 
+recuperación 
+(h) 
+Velocidad de 
+recuperación 
+(MW/h) 
+Primer 80 % 11.02 1.73 6.36 
+Último 20 % 2.76 1.78 1.55 
+100 % Total 13.78 1.78 7.73 
+ 
+ 
+ 
+Demanda del sistema previo a la falla: 8908 MW 
+Regulación de Frecuencia 
+Control distribuido de frecuencia en el Sistema Eléctrico Nacional , previo a la falla, mediante las 
+centrales Atacama (TG2A y TG2B), El Toro (U1, U2, U3 y U4), Mejillones (CTM3  y IEM) y Ralco (U1 y 
+U2). 
+Operación Programada 
+En Anexo Nº1 se adjunta el detalle de la generación programada para el día 10 de diciembre de 2024. 
+Operación Real 
+En Anexo Nº2 se adjunta el detalle de la generación real del día 10 de diciembre de 2024. 
+4. Descripción de las configuraciones en los momentos previo y posterior a la falla 

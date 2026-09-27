@@ -34,3 +34,8 @@ SOCHER_2026_v7_2020_2026/mediciones/originales/
 !SOCHER_2026_v7_2020_2026/moderno/datos/identidades_publicadas_por_mes.csv
 !SOCHER_2026_v7_2020_2026/moderno/datos/resumen_particiones_moderno.csv
 !SOCHER_2026_v7_2020_2026/moderno/datos/resumen_marcas_fuente.csv
+
+# Etapa v8: el CSV diario se conserva localmente; Git incluye gzip y Parquet.
+SOCHER_2026_v8_panel_causal/panel/panel_diario.csv
+SOCHER_2026_v8_panel_causal/revision/qa/*.png
+SOCHER_2026_v8_panel_causal/revision/contenido_excel.json

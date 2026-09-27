@@ -1,0 +1,51 @@
+{
+  "sheets": [
+    {
+      "sheet": "Resumen",
+      "rows": 11,
+      "columns": 3
+    },
+    {
+      "sheet": "Eventos",
+      "rows": 24,
+      "columns": 15
+    },
+    {
+      "sheet": "Controles",
+      "rows": 64,
+      "columns": 7
+    },
+    {
+      "sheet": "Mensual",
+      "rows": 4756,
+      "columns": 10
+    },
+    {
+      "sheet": "Cobertura",
+      "rows": 82,
+      "columns": 8
+    },
+    {
+      "sheet": "Descriptivos",
+      "rows": 8,
+      "columns": 8
+    },
+    {
+      "sheet": "Soporte",
+      "rows": 24,
+      "columns": 8
+    },
+    {
+      "sheet": "Diccionario",
+      "rows": 105,
+      "columns": 4
+    },
+    {
+      "sheet": "Fuentes",
+      "rows": 33,
+      "columns": 9
+    }
+  ],
+  "summary": "{\"kind\":\"table\",\"sheet\":\"Resumen\",\"address\":\"A5:F18\",\"rows\":14,\"cols\":6,\"values\":[[\"Medida\",\"Valor\",\"Alcance\",null,null,null],[\"Precios horarios de origen\",3411527,\"DEF v0.2.0; fuente congelada de 31 columnas.\",null,null,null],[\"Filas del panel diario\",142151,\"Incluye 21 días-barra sin precio.\",null,null,null],[\"Filas del panel mensual\",4756,\"Julio 2024 mantiene dos regímenes.\",null,null,null],[\"Etiquetas de barra distintas\",64,\"No equivalen a centros ni activos físicos independientes.\",null,null,null],[\"Días-barra con 24 pares\",141723,\"Incluye barras de referencia; no certifica 24 horas físicas.\",null,null,null],[\"Etiquetas horarias ausentes\",504,\"Frente a unión observada. No detecta faltantes comunes a todas las barras.\",null,null,null],[\"Enlaces agosto 2023\",53,\"53 de 58 etiquetas. Cambian metadatos, no precios.\",null,null,null],[\"Eventos registrados\",24,\"Hitos, fases y maniobras; no adopciones independientes.\",null,null,null],[\"Eventos causales habilitados\",0,\"Véanse razones y brechas en Eventos.\",null,null,null],[\"Comparadores habilitados\",0,\"Desconocido no equivale a no tratado o no expuesto.\",null,null,null],[\"ATT\",\"No estimable\",\"No disponible; no significa efecto cero.\",null,null,null],[null,null,null,null,null,null],[null,null,null,null,null,null]]}",
+  "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

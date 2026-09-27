@@ -1,0 +1,60 @@
+5. Cronología de eventos y la descripción de las causas de los eventos 
+ 
+Hora Involucrado Evento 
+03:28 STM 
+Apertura automática de los interruptores 52HT8 y 52DT8 de S/E Chacabuco, asociados al 
+transformador 110/23 kV N°8 de dicha subestación, por operación de su protección 
+diferencial. 
+- La hora indicada corresponde a lo informado por la empresa STM S.A. 
+ 
+ 
+ 
+6. Normalización del servicio 
+ 
+Fecha Involucrado Hora Acción 
+10/12/2024 STM 03:28 Apertura del interruptor 23 kV asociado al alimentador El Quillay de S/E 
+Chacabuco, por maniobras de recuperación de consumos.  
+10/12/2024 STM 03:29 Apertura de los interruptores 23 kV asociados a los alimentadores Galvarino y 
+Luna 2 de S/E Chacabuco, por maniobras de recuperación de consumos. 
+10/12/2024 STM 03:35 Apertura de los interruptores 23 kV asociados a los alimentadores Cañaveral y 
+Sonda de S/E Chacabuco, por maniobras de recuperación de consumos. 
+10/12/2024 STM 03:36 Cierre del interruptor acoplador entre barras 23 kV N°3 y N°8, energizando 
+barra 23 kV N°8 desde barra 23 kV N°3 de S/E Chacabuco.  
+10/12/2024 STM 03:37 Cierre del interruptor 23 kV asociado al alimentador Galvarino de S/E 
+Chacabuco, recuperando una parte de los consumos asociados. 
+10/12/2024 Enel 
+Distribución 03:38 Se recupera una parte de los consumos asociados al alimentador El Quillay de 
+S/E Chacabuco, a través de maniobras en MT. 
+10/12/2024 STM 03:38 Cierre de los interruptores 23 kV asociados a los alimentadores Cañaveral, Luna 
+2 y Sonda de S/E Chacabuco, recuperando los consumos asociados. 
+10/12/2024 Enel 
+Distribución 03:47 Se recupera otra parte de los consumos asociados al alimentador Galvarino, a 
+través de maniobras en MT. 
+10/12/2024 STM 05:11 Cierre del interruptor 23 kV asociado al alimentador El Quillay de S/E 
+Chacabuco, recuperando otra parte de los consumos asociados. 
+10/12/2024 Enel 
+Distribución 05:12 Se recupera la totalidad de los consumos asociados al alimentador Galvarino, a 
+través de maniobras en MT. 
+10/12/2024 Enel 
+Distribución 05:15 
+Se recupera la totalidad de los consumos asociados al alimentador El Quillay, a 
+través de maniobras en MT. Con ello se recuperan todos los consumos afectados 
+por la falla. 
+10/12/2024 STM 10:15 Cierre del interruptor 52HT8 de S/E Chacabuco, energizando el transformador 
+110/23 kV N°8 en vacío. 
+10/12/2024 STM 10:16 Cierre del interruptor 52DT8 de S/E Chacabuco, normalizando el transformador 
+110/23 kV N°8 y la barra 23 kV N°8. 
+10/12/2024 STM 10:16 Apertura de interruptor acoplador de barras 23 kV N°3 y N°8 de S/E Chacabuco, 
+normalizando topología existente previo a la falla. 
+- Las fechas y las horas indicadas corresponden a lo informad o por la empresa STM S.A., Enel Distribución Chile S.A. y a la 
+información disponible en el SCADA del Coordinador.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,54 @@
+ 
+N° DOCURED 1562046 
+ 
+Santiago, 13 de diciembre de 2024 
+Señor 
+Ernesto Huber Jara 
+Director Ejecutivo 
+COORDINADOR ELÉCTRICO NACIONAL 
+ 
+Presente 
+Ref.: Solicitud Aprobación de Solución de Conexión Alimentador 
+Ascenty a Paño E53 en Subestación (SE) Chacabuco. 
+ 
+De nuestra consideración: 
+ 
+En atención a lo dispuesto en los artículos el 72° - 5, 79° y 80° del DFL N° 4/20.018, que establece el 
+régimen de Acceso Abierto, y a los términos y condiciones de aplicación contenidos en el Decreto Supremo 
+Nº 37/2021 - Título II del Ministerio de Energía, se adjuntan los antecedentes para Solicitar una Aprobación 
+de Solicitud de Conexión de un nuevo alimentador de la empresa Ascenty Chile SpA a la SE Chacabuco 110/23 
+kV propiedad de Sociedad Transmisora Metropolitana S.A., a través del paño E53, posición disponible en la 
+instalación de Transmisión Zonal existente. 
+La conexión de este alimentador de la empresa Ascenty Chile SpA tiene por objeto atender los 
+consumos de un proyecto datacenter en las cercanías de SE Chacabuco. Con ello se busca iniciar la operación 
+del proyecto de consumo antes descrito. 
+De acuerdo con los requerimientos y programa de ejecución del proyecto datacenter, el nuevo 
+alimentador debe entrar en servicio en mayo de 2025 con una carga aproximada de 8,37 MW. 
+ 
+Para lo anterior, se acompañan los siguientes anexos: 
+ 
+a) Documento “Formulario SAC_SE Chacabuco-Paño E53-Alim Ascenty.xlsx”. 
+b) Documento “Informe descriptivo de la solución de conexión_SE Chacabuco-Paño E53-Alim 
+Ascenty.pdf”. 
+c) Plano “DUF_SE Chacabuco-Paño E53-Alim Ascenty.dwg y .pdf”. 
+d) Plano “DEE Planta_SE Chacabuco-Paño E53-Alim Ascenty.dwg y .pdf”. 
+e) Plano “DEE Cortes_SE Chacabuco-Paño E53-Alim Ascenty.dwg y .pdf”. 
+f) Documento “Instalaciones que se modifican_SE Chacabuco-Paño E53-Alim Ascenty.pdf”. 
+g) Documento “Carta Gantt_SE Chacabuco-Paño E53-Alim Ascenty.xlsx”. 
+h) Documento “Declaración Jurada SAC_SE Chacabuco-Paño E53-Alim Ascenty.pdf” 
+i) Documento “Anexo 1_Arq comunicaciones_SE Chacabuco.zip”. 
+j) Documento “Anexo 2_DUF_SE Chacabuco.zip”. 
+k) Poder Sr. Marcelo Matus Castro: “Poder STM.pdf”. 
+ 
+Anexos podrán ser descargados del siguiente link: 
+https://frontel.sharepoint.com/:f:/g/Ger_reg/Sub_planif_sist/Area_tran/EtjR5CnyvltBu0GOuX9rNsQBn0qVv
+gvve2dTJNhG7kKKlw?e=Y8FIRc 
+ 
+ 
+Sin otro motivo particular, le saluda atentamente. 
+SOCIEDAD TRANSMISORA METROPOLITANA S.A. 
+ 
+ 
+ 
+Marcelo Matus Castro 
+Gerente de Transmisión 

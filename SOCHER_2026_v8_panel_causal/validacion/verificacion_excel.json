@@ -1,0 +1,61 @@
+{
+  "estado": "OK",
+  "sha256_xlsx": "7876cbc9c7c1f6f34ea44d2be8de26feccb8c9c5c0539260d21f8a3fe7ef7cc8",
+  "hojas": [
+    {
+      "hoja": "Resumen",
+      "filas_datos": 11,
+      "celdas_contrastadas": 33,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Eventos",
+      "filas_datos": 24,
+      "celdas_contrastadas": 360,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Controles",
+      "filas_datos": 64,
+      "celdas_contrastadas": 448,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Mensual",
+      "filas_datos": 4756,
+      "celdas_contrastadas": 47560,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Cobertura",
+      "filas_datos": 82,
+      "celdas_contrastadas": 656,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Descriptivos",
+      "filas_datos": 8,
+      "celdas_contrastadas": 64,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Soporte",
+      "filas_datos": 24,
+      "celdas_contrastadas": 192,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Diccionario",
+      "filas_datos": 105,
+      "celdas_contrastadas": 420,
+      "error_maximo_numerico": 0.0
+    },
+    {
+      "hoja": "Fuentes",
+      "filas_datos": 33,
+      "celdas_contrastadas": 297,
+      "error_maximo_numerico": 0.0
+    }
+  ],
+  "alcance": "Todas las celdas del área de datos contra JSON; revisión visual por hoja en qa/. No es prueba en Excel de escritorio."
+}

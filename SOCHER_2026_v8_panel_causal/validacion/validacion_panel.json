@@ -1,0 +1,258 @@
+{
+  "estado": "OK",
+  "creado_utc": "2026-09-27T17:07:17.477359+00:00",
+  "version_base": "v0.2.0 inmutable",
+  "script_sha256": "a0b6e21816c8036fbcb326e6194175162b0108fcd7747f77cb5da0bb7e21b506",
+  "entorno": {
+    "python": "3.13.15",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "pyarrow": "25.0.1"
+  },
+  "entradas": [
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Dataset_precios_barra_hora_2020_2026.parquet",
+      "bytes": 55818438,
+      "sha256": "84ca36dc328434dbeb9c0dda511b8eca1f4ee6caee48c29c0b642db7b7c93a00"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Dataset_precios_barra_hora_2020_2026.csv",
+      "bytes": 1212668988,
+      "sha256": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/auditoria/control_descargas_20260927/miembros_nuevos/202308/Homologación barras cmg 2308.xlsx",
+      "bytes": 59318,
+      "sha256": "435602c95a5e18e813f3f677d3140bd6298be046a5fd36c60459552be562f304"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Manifiesto_entrega.json",
+      "bytes": 6366,
+      "sha256": "1e9449e4078a93a068751f1f9ac9a2a29edecbb2d12390f4521512a24cd4a5f2"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Fuentes_precios.csv",
+      "bytes": 54201,
+      "sha256": "abc1a3b455679fe9f14bb78260b4cf14f1269d9b8aac84a78b5e7b238fbb43f9"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Faltantes_precios_detalle.csv",
+      "bytes": 115990,
+      "sha256": "9cbd136039f1e820a469e0a432500aee5a5801486a828883ad0658c71bd4a34d"
+    }
+  ],
+  "filas_horarias_fuente": 3411527,
+  "columnas_fuente": 31,
+  "fecha_desde": "2020-01-01",
+  "fecha_hasta": "2026-09-18",
+  "filas_diarias": 142151,
+  "filas_mensuales": 4756,
+  "etiquetas_distintas": 64,
+  "segmentos_observacionales": 266,
+  "variantes_metadatos": 4783,
+  "barra_mes_id_distintos": 4776,
+  "distribucion_etiquetas_por_dia_barra": {
+    "0": 21,
+    "24": 141723,
+    "25": 407
+  },
+  "dias_barra_24_parejas_completas": 141723,
+  "ausencias_horarias_frente_union": 504,
+  "errores_maximos_diferencias_horarias_vs_v020": {
+    "110": 0.0,
+    "220": 0.0
+  },
+  "errores_maximos_agregacion_diaria_ponderada_vs_mensual": {
+    "precio": 2.842170943040401e-14,
+    "dif_q110": 7.105427357601002e-15,
+    "dif_q220": 7.105427357601002e-15
+  },
+  "homologacion_agosto2023": {
+    "filas_libro": 1156,
+    "etiquetas_panel": 58,
+    "enlaces_exactos": 53,
+    "filas_precio_con_overlay": 39432,
+    "no_enlazadas": [
+      "BJOSDMNA______012",
+      "BJOSDMNA______110",
+      "LA_POLVORA____110",
+      "P.HURTADO_____110",
+      "TAP_QUILICURA_110"
+    ],
+    "precio_modificado": false
+  },
+  "duplicados_precio_horario": 0,
+  "duplicados_diarios": 0,
+  "duplicados_mensuales": 0,
+  "identidades_fisicas_longitudinales_certificadas": 0,
+  "estimaciones_causales": false,
+  "precios_unidos_a_carga": false,
+  "UTC_inferido": false,
+  "PRE_incorporado": false,
+  "limitaciones": [
+    "Calendario limitado a etiquetas observadas en el mes; ausencia de un mes completo no acredita retirada o inexistencia.",
+    "Unión observada no detecta ausencia simultánea de todas las barras.",
+    "24 etiquetas no certifican equivalencia con 24 horas físicas durante cambios de hora.",
+    "Segmento documental no es campus ni unidad independiente ni homologación física certificada.",
+    "Quillota es referencia descriptiva; no control causal validado.",
+    "Nombres, marcadores y códigos originales quedan en tabla lateral; no se corrigen por similitud."
+  ],
+  "archivos": [
+    {
+      "archivo": "panel/panel_diario.csv",
+      "filas": 142151,
+      "columnas": 35,
+      "bytes": 80822032,
+      "sha256": "0fe7976c91a61f8b4e8af35b94b6d7d4608e172c5b6518248ddb20ea1e737d73"
+    },
+    {
+      "archivo": "panel/panel_diario.parquet",
+      "filas": 142151,
+      "columnas": 35,
+      "bytes": 10587664,
+      "sha256": "50f683560534c332454838c1f8aed7de2530e2b027f05642d25860dcae30c757"
+    },
+    {
+      "archivo": "panel/panel_mensual.csv",
+      "filas": 4756,
+      "columnas": 38,
+      "bytes": 1958196,
+      "sha256": "71e9d70dd6f2432386b5afa74785ca03019b2fc2511293d03e3f908664cc9940"
+    },
+    {
+      "archivo": "panel/panel_mensual.parquet",
+      "filas": 4756,
+      "columnas": 38,
+      "bytes": 566800,
+      "sha256": "320271033de055d1ae3b0fb9fa111a8d3c4c69b6b650c3e7a87201e2e06f8ca5"
+    },
+    {
+      "archivo": "panel/mapeo_mensual.csv",
+      "filas": 4756,
+      "columnas": 16,
+      "bytes": 1246031,
+      "sha256": "da0fea15e69b5117b9275d3e1303cfa186030a0c8fa06bbb7f6469fc08d1e055"
+    },
+    {
+      "archivo": "panel/mapeo_metadatos_observados.csv",
+      "filas": 4783,
+      "columnas": 16,
+      "bytes": 1073064,
+      "sha256": "5bda25d24561be0c81501283ac11635ce520512dc88a43c5186793524a245c41"
+    },
+    {
+      "archivo": "panel/dias_con_ausencias.csv",
+      "filas": 21,
+      "columnas": 35,
+      "bytes": 7626,
+      "sha256": "c4be650c778552875698930caabafe20518852a1b3cdf15be51b42b647603fc7"
+    },
+    {
+      "archivo": "panel/calendario_etiquetas_observadas.csv",
+      "filas": 2453,
+      "columnas": 5,
+      "bytes": 217600,
+      "sha256": "d6cff4575aa2186ae3227916ebd5299ebdd377148ea43952f4883bf6645c05d6"
+    },
+    {
+      "archivo": "panel/cambios_documentales_segmentos.csv",
+      "filas": 142,
+      "columnas": 7,
+      "bytes": 15114,
+      "sha256": "c4c52d3c7002d8bca4f57b43eb73931f5b4aef1db4eb1d8bc64db7b727db90dc"
+    },
+    {
+      "archivo": "panel/homologacion_agosto2023_validada.csv",
+      "filas": 58,
+      "columnas": 16,
+      "bytes": 17232,
+      "sha256": "ddd57a0214cd431ac0201134ebb054ef85bd2cd0f9a0a9617737ed3170fb130b"
+    },
+    {
+      "archivo": "panel/diccionario_panel.csv",
+      "filas": 105,
+      "columnas": 4,
+      "bytes": 15694,
+      "sha256": "985dfdf0b9a839257714b2c2a5c08763911b04774bbf2305ae54cc4dd9ecf338"
+    },
+    {
+      "archivo": "panel/cobertura_mes_reloj.csv",
+      "filas": 82,
+      "columnas": 9,
+      "bytes": 3083,
+      "sha256": "f2338503dea692f7bbe4d5d8139d14217fd00e8fe5c2e2ce602ec353975a7f28"
+    }
+  ],
+  "verificacion_csv_relectura": [
+    {
+      "archivo": "panel_diario.csv",
+      "filas": 142151,
+      "columnas": 35,
+      "error_maximo_numerico": 1.1368683772161603e-13,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "panel_mensual.csv",
+      "filas": 4756,
+      "columnas": 38,
+      "error_maximo_numerico": 1.1368683772161603e-13,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "mapeo_mensual.csv",
+      "filas": 4756,
+      "columnas": 16,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "mapeo_metadatos_observados.csv",
+      "filas": 4783,
+      "columnas": 16,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "dias_con_ausencias.csv",
+      "filas": 21,
+      "columnas": 35,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "calendario_etiquetas_observadas.csv",
+      "filas": 2453,
+      "columnas": 5,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "cambios_documentales_segmentos.csv",
+      "filas": 142,
+      "columnas": 7,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "homologacion_agosto2023_validada.csv",
+      "filas": 58,
+      "columnas": 16,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "diccionario_panel.csv",
+      "filas": 105,
+      "columnas": 4,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    },
+    {
+      "archivo": "cobertura_mes_reloj.csv",
+      "filas": 82,
+      "columnas": 9,
+      "error_maximo_numerico": 0.0,
+      "texto_y_vacios_exactos": true
+    }
+  ]
+}

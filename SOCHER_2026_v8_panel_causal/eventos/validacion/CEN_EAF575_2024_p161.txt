@@ -1,0 +1,38 @@
+ 
+Enel Distribución Chile S.A.- Roger de Flor N° 2725 Las Condes – Chile / T: +56 2 26752000 
+Informe de Falla - diciembre de 2024 
+ 
+ Información de la empresa 
+• Nombre empresa propietaria: Enel Distribución Chile S.A. 
+• Rut empresa: 96.800.570-7 
+• Representante Legal: Victor Tavera Olivos. 
+• Dirección: Roger de Flor N° 2725, Las Condes. 
+ Características de la instalación donde se produjo la  falla  
+2.1 Plan de mantenimiento 
+No aplica 
+                                                                                
+2.2 Vida útil del equipo 
+No aplica 
+2.3 Retraso en inversiones pactadas 
+No aplica 
+ Causa u origen de la falla 
+ 
+El martes 10 de diciembre a las 03:28
+ horas se produce la pérdida de suministro en los alimentadores El 
+Quillay, Galvarino, Cañaveral, Luna 2 y Sonda, lo anterior debido a la operación automática (OA) de 
+interruptor barra principal 23 kV N°8 de la subestación Chacabuco, de propiedad de la empresa STM II S.A. 
+A las 03:38 horas, se logró restablecer el suministro al 84% de nuestros clientes, mediante distribución y 
+energización de la barra principal N°8, mientras que el 16% de los clientes restantes fueron normalizados 
+entre las 03:38 y 05:15 horas. 
+ Instalaciones afectadas 
+4.1 Estado y configuración en los momentos previos 
+ 
+Esquema normal 
+4.2 Diagrama simplificado 
+No aplica. 
+ 
+4.3 Zona geográfica 
+• 1 3125 Quilicura, Región Metropolitana de Santiago 
+ Pérdidas de generación 
+No aplica. 
+  

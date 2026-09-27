@@ -1,0 +1,38 @@
+-Fenómeno Eléctrico: Protección diferencial transformador
+-Operación de los interruptores: Opera según lo esperado
+Comentarios Causas:
+-Fenómeno Físico: Sin comentarios.
+-Elemento: Sin comentarios.
+-Fenómeno Eléctrico: Sin comentarios.
+-Operación de los interruptores: Sin comentarios.
+Observaciones:
+-Observaciones: Sin comentarios.
+-Acciones Inmediatas: Sin comentarios.
+-Hechos Sucedidos: 03:28 opera T8 de SE Chacabuco. Afecta 16322 clientes. 15.05 MW interrumpidos. 03:29 se
+informa al CDC del Coordinador Eléctrico Nacional, ENEL Dx y personal de Mantenimiento STM. 03:36 se energiza con
+éxito BP N°8 23 kV con BP N°3 23 kV a través de su acoplador. 03:39 se recupera 13 MW aproximadamente con el
+cierre de los alimentadores Galvarino, Cañaveral, Luna N°2 y Sonda por su propio interruptor. Alimentador 23 kV
+Quillay queda fuera de servicio a solicitud de ENEL por presentar falla. Cabe destacar, que para el momento de la
+falla se encontraba fuera de servicio las comunicaciones con la subestación lo que ocasionó retraso en las maniobras
+de recuperación. 04:00 personal de protecciones llega a la subestación para realizar análisis de lo ocurrido.
+-Acciones Correctivas a Corto Plazo: Sin comentarios.
+-Acciones Correctivas a Largo Plazo: Sin comentarios.
+Afecta SSCC:
+No
+Afecta Medidores:
+No
+Afecta Protecciones:
+No
+Consumo:
+Consumo Regulado
+Distribuidoras Afectadas
+ENEL DISTRIBUCIÓN CHILE S.A. / Perd. Estm. de Potencia: 16322 / Región : Metropolitana / Clientes Afectados: 16322
+Retorno Automatico:
+No Tiene Retorno AutomÃ¡tico
+Fecha / Hora Perturbación de la Solicitud:
+10-12-2024 03:28
+Fecha / Hora Estimada Retorno:
+10-12-2024 07:00
+Fecha / Hora Efectiva Retorno (Ingreso CDC):
+10-12-2024 10:15
+Archivos Subidos

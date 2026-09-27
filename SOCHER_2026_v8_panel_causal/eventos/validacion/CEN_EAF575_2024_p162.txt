@@ -1,0 +1,91 @@
+ 
+Enel Distribución Chile S.A.- Roger de Flor N° 2725 Las Condes – Chile / T: +56 2 26752000 
+Informe de Falla - diciembre de 2024 
+ 
+ Pérdidas de consumo 
+ 
+Desagregada         
+Lugar Componente Fecha Inicio Hora Inicio Fecha 
+Término 
+Hora 
+Término Carga KW Energía 
+kWh Clientes 
+Protecciones 
+u/o motivos 
+de la 
+Interrup. 
+Subestación 
+Chacabuco 
+Barra Principal 23 kV 
+N°8 Alim. Sonda 
+10/12/2024 3:28 10/12/2024 
+3:38 1 0,17 1 
+Pérdida de 
+Tensión 
+Barra Principal 23 kV 
+N°8 Alim. Luna 2 
+3:38 0 0 1 
+Barra Principal 23 kV 
+N°8 Alim. Cañaveral 
+3:38 6.570 1.095 12.254 
+Barra Principal 23 kV 
+N°8 Alim. El Quillay 10/12/2024 3:28 10/12/2024 
+3:38 754 126 83 
+5:11 798 1.369 98 
+5:15 1.328 2.369 68 
+Barra Principal 23 kV 
+N°8 Alim. Galvarino 10/12/2024 3:28 10/12/2024 
+3:37 2.022 303 121 
+3:47 677 214 563 
+5:12 1.625 2.817 1.443 
+ 
+Agregada          
+Lugar Componente Fecha Inicio Hora Inicio Fecha 
+Término 
+Hora 
+Término Carga KW Energía 
+kWh Clientes 
+Protecciones 
+u/o motivos 
+de la 
+Interrup. 
+Subestación 
+Chacabuco 
+Barra Principal 23 kV 
+N°8 Alim. Sonda 
+10/12/2024 
+3:28 
+10/12/2024 
+8:38 1 0 1 
+Pérdida de 
+Tensión 
+Barra Principal 23 kV 
+N°8 Alim. Luna 2 
+10/12/2024 
+3:28 
+10/12/2024 
+3:38 0 0 1 
+Barra Principal 23 kV 
+N°8 Alim. Cañaveral 
+10/12/2024 
+3:28 
+10/12/2024 
+3:38 6.550 1.092 12.254 
+Barra Principal 23 kV 
+N°8 Alim. El Quillay 10/12/2024 
+3:28 
+10/12/2024 
+3:38 2.880 480 249 
+3:38 5:11 2.082 3.227 151 
+5:11 5:15 754 50 83 
+Barra Principal 23 kV 
+N°8 Alim. Galvarino 10/12/2024 
+3:28 
+10/12/2024 
+3:37 4.324 649 2.127 
+3:37 3:47 3.647 608 1.564 
+3:47 5:12 2.022 2.865 121 
+ 
+El detalle de los clientes afectados (Anexo de compensaciones) será cargado a más tardar el día 25 de enero de 
+2025, luego del cierre mensual del reporte de interrupciones a la SEC del mes de diciembre. 
+  

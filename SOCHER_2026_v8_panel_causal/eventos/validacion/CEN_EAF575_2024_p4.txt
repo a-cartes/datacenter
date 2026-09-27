@@ -1,0 +1,64 @@
+2. Descripción del equipamiento afectado 
+ 
+a. Sistema de Generación 
+b. Sistema de Transmisión 
+Elemento Afectado Segmento Tramo Hora Desc. Hora Norm. 
+S/E Chacabuco ST Zonal Transformador 110/23 kV N°8 03:28 10:15 
+S/E Chacabuco ST Zonal Barra 23 kV N°8 03:28 03:36 
+- Las horas indicadas corresponden a lo informado por la empresa STM S.A. 
+ 
+c. Consumos 
+Subestación Alimentador 
+/Paño Comuna Pérdida de 
+Consumo (MW) 
+% 
+consumo 
+pre-falla 
+Clientes 
+afectados 
+H. 
+Desc. 
+H. 
+Dispon. 
+H. 
+Norm. 
+Chacabuco Galvarino No informado 2.02 0.023 121 3:28 3:36 3:37 
+Chacabuco Sonda No informado 0.00 0.000 1 3:28 3:36 3:38 
+Chacabuco Luna 2 No informado 0.00 0.000 1 3:28 3:36 3:38 
+Chacabuco Cañaveral No informado 6.57 0.074 12254 3:28 3:36 3:38 
+Chacabuco El Quillay No informado 0.75 0.008 83 3:28 3:36 3:38 
+Chacabuco Galvarino No informado 0.68 0.008 563 3:28 3:36 3:47 
+Chacabuco El Quillay No informado 0.80 0.009 98 3:28 3:36 5:11 
+Chacabuco Galvarino No informado 1.63 0.018 1443 3:28 3:36 5:12 
+Chacabuco El Quillay No informado 1.33 0.015 68 3:28 3:36 5:15 
+                   Total:     13.78 MW    0.155 %    14632     
+- Los montos y horarios señalados corresponden a lo informado por la empresa Enel Distribución Chile S.A.  
+ 
+ 
+ 
+3. Estimación de la energía no suministrada 
+ 
+Subestación Alimentador 
+/Paño Empresa Tipo de 
+cliente 
+Pérdida de 
+Consumo (MW) 
+Tiempo 
+Indispon. (h) 
+Tiempo 
+Desc. (h) 
+ENS 
+(MWh) 
+Chacabuco Galvarino Enel Distribución Regulado 2.02 0.13 0.15 0.3 
+Chacabuco Sonda Enel Distribución Regulado 0.00 0.13 0.17 0.0 
+Chacabuco Luna 2 Enel Distribución Regulado 0.00 0.13 0.17 0.0 
+Chacabuco Cañaveral Enel Distribución Regulado 6.57 0.13 0.17 1.1 
+Chacabuco El Quillay Enel Distribución Regulado 0.75 0.13 0.17 0.1 
+Chacabuco Galvarino Enel Distribución Regulado 0.68 0.13 0.32 0.2 
+Chacabuco El Quillay Enel Distribución Regulado 0.80 0.13 1.72 1.4 
+Chacabuco Galvarino Enel Distribución Regulado 1.63 0.13 1.73 2.8 
+Chacabuco El Quillay Enel Distribución Regulado 1.33 0.13 1.78 2.4 
+Clientes Regulados : 8.3 MWh 
+Clientes Libres :  MWh  
+Total : 8.3 MWh 
+- Los montos señalados corresponden a lo informado por la empresa Enel Distribución Chile S.A. 

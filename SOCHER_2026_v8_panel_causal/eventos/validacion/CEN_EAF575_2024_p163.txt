@@ -1,0 +1,50 @@
+ 
+Enel Distribución Chile S.A.- Roger de Flor N° 2725 Las Condes – Chile / T: +56 2 26752000 
+Informe de Falla - diciembre de 2024 
+ 
+ Cronología de eventos 
+7.1 Eventos durante la evolución de la falla 
+ 
+10/12/2024 a las 03:28 horas Operación automática de interruptor 23 kV barra principal de Tr N°8. 
+10/12/2024 a las 03:28 horas Abierto Int.  Alimentador El Quillay. 
+10/12/2024 a las 03:29 horas Abierto Int.  Alimentador Galvarino. 
+10/12/2024 a las 03:29 horas Abierto Int.  Alimentador Luna 2. 
+10/12/2024 a las 03:35 horas Abierto Int.  Alimentador Cañaveral. 
+10/12/2024 a las 03:35 horas Abierto Int.  Alimentador SONDA. 
+ 
+ 
+ 
+ 
+Acciones orientadas a la reposición del servicio y normalización de las instalaciones 
+10/12/2024 a las 03:36 horas Cerrado INT 23 kV acoplador Barra  Principal N° 3 – Barra Principal N°8, 
+energizada Barra principal N°8 
+10/12/2024 a las 03:37 horas, cerrado interruptor Alimentador Galvarino 
+10/12/2024 a las 03:37 horas, Alimentador Galvarino, energizados el 6% de los clientes del alimentador 
+10/12/2024 a las 03:38 horas, Alimentador El Quillay, energizados el 33% de los clientes del alimentador 
+por distribución 
+10/12/2024 a las 03:38 horas, cerrado interruptor Alimentador C añaveral, energizados el 100% de los 
+clientes del alimentador 
+10/12/2024 a las 03:38 horas, cerrado interruptor Alimentador Luna 2, energizados el 100% de los clientes 
+del alimentador 
+10/12/2024 a las 03:38 horas, cerrado interruptor Alimentador Sonda, energizados el 100% de los clientes 
+del alimentador 
+10/12/2024 a las 03:47 horas, Alimentador Galvarino, energizados el 32 % de los clientes del alimentador  
+10/12/2024 a las 05:11 horas, cerrado interruptor Alimentador El Quillay 
+10/12/2024 a las 05:11 horas, Alimentador El Quillay, energizados el 67% de los clientes del alimentador 
+10/12/2024 a las 05:12 horas, Alimentador Galvarino, energizados el 100 % de los clientes del alimentador 
+10/12/2024 a las 05:15 horas, Alimentador El Quillay, energizados el 100% de los clientes de los clientes 
+del alimentador 
+ 
+ 
+Registros sistema Scada 
+No aplica 
+ 
+ Esquemas de protección y control 
+8.1 Detalle de las protecciones operadas: 
+No aplica, protecciones operadas pertenecen a empresa externa. 
+8.2 Registros de falla 
+No aplica  
+ 
+ 
+8.3 Análisis del comportamiento de los dispositivos de protección y control 
+No aplica 

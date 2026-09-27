@@ -1,0 +1,39 @@
+Estudio para análisis de falla EAF 575/2024 
+“Desconexión forzada de transformador 110/23 kV N°8 de S/E Chacabuco” 
+Fecha de Emisión: 02-01-2025 
+ 
+ 
+ 
+1. Descripción general de la interrupción 
+ 
+     a. Fecha y Hora de la falla 
+Fecha 10/12/2024 
+Hora 03:28 
+Consumos desconectados (MW) 13.78 
+Demanda previa del sistema (MW) 8908 
+Porcentaje de desconexión 0.155 % 
+Calificación Apagón No aplica (porcentaje de desconexión < 10%) 
+ 
+      b. Identificación instalación afectada  
+Nombre de la instalación Transformador 110/23 kV N°8 de S/E Chacabuco / ET06T0054SE009T0835 
+Tipo de instalación Subestación 
+Tensión nominal 110/23 kV 
+Segmento Transmisión Zonal 
+Propietario instalación afectada Sociedad Transmisora Metropolitana S.A. 
+RUT 77.611.649-1 
+Representante Legal Francisco Alliende 
+Dirección Bulnes #441, Osorno, Los Lagos 
+ 
+       c. Identificación del elemento fallado  
+Nombre del elemento fallado Pararrayos 23 kV del paño DT8 de S/E Chacabuco / PY16T0835SE009T0835 
+Propietario elemento fallado Sociedad Transmisora Metropolitana S.A. 
+RUT 77.611.649-1 
+Representante Legal Francisco Alliende 
+Dirección Bulnes #441, Osorno, Los Lagos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

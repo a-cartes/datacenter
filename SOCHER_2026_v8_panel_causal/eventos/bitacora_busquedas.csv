@@ -1,0 +1,12 @@
+busqueda_id,fecha,objetivo,consulta_o_endpoint,resultado,decision,fuente_ids
+B01,2026-09-27,Orden de toma carga Edge noche24jun,"site:coordinador.cl Las Canteras 24-06-2024;24/06/2024;toma de carga",No apareció orden específica,No concluir ausencia de maniobra,
+B02,2026-09-27,Maniobra operacional Edge,"Edgeconnex junio2024;Canteras24-06-24;3975junio",Hallazgo diario operacional24y25jun;EAF289reg22jun,Guardar diarios y no asignar intervención22jun al24,S006;S007;S011
+B03,2026-09-27,Ascenty vínculo vigente,"Ascenty Chacabuco alimentador;Ascenty E53",Cartas solicitud2024/MNR2025 y términoNUP5417,Fecha realizada5may2025 y BP7 acreditadas,S001;S002;S003
+B04,2026-09-27,Ascenty naturaleza campus,"5417 Ascenty;Ascenty E53 Chile3;Ascenty Chacabuco Guacolda",No fuente que adjudique E53 a Chile1/2/3;se identifica solicitudT10Chile2,No fusionar proyectos,S004
+B05,2026-09-27,Ruta precio Ascenty,API subestaciones683/elementos/ y documentos/,BP7 id1741;BP1 id703;DUFNUP5417doc470265,Ruta nominal E53BP7T7BP1;no igualar BP7 y CMg23,S005;S009;S010
+B06,2026-09-27,Vigencia2020 AscentySonda,API documentos206388 y234695,AsBuilt2020 CAD y DUF2021 cuatroPDFsintexto;sin reconstrucción histórica completa,No certificar enlace2020,
+B07,2026-09-27,Sonda barra y campus,"Sonda Chacabuco alimentador;Sonda Quilicura2020 data center",EAF575BP8 y operaciónKudos2020;sin puente campus-alimentador,Enlace puntual2024 no retroactivo,S008;S015
+B08,2026-09-27,Dataluna conexión y rampa,"Dataluna Libertadores2020 enero;carga",Revisión antecedentesCTNG/CNE/ECS;sin nuevo balance suministro anterior,Preservar pruebasenero/EOjunio;no firstentry,L009;L010;L011
+B09,2026-09-27,ODATA realizada,"2129 entradaoperación;3129entradaoperación;ODATAenergizadas",EAF141mar2026 aúnPES;no EO final,No adoptar previsiónnov2025,S012;L016
+B10,2026-09-27,ODATAST01 separación campusobra,"ODATA2129;ODATALampa2022operación;ODATAST01cronología",Corporativa2022operación/2023fase2;IAC2024NuevaLampa;metadatosgarantía2025/26,No fechar conexión220kV con apertura2022,S013;S014
+B11,2026-09-27,Acceso fuentes,DescargasHTTP públicas seleccionadas,FuentesCEN/API descargadas;ODATAhtml404;CTNGtimeout;web cartas403pero descargaPythonexitosa,Manifest distingue original disponible vs leídamediada,

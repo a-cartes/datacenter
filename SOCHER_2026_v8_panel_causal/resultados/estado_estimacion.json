@@ -1,0 +1,23 @@
+{
+  "estado": "NO_ESTIMABLE_CON_EXPEDIENTES_ACTUALES",
+  "eventos_en_registro": 24,
+  "eventos_habilitados": 0,
+  "campus_habilitados": 0,
+  "barras_tratadas_habilitadas": 0,
+  "comparadores_habilitados": 0,
+  "att": null,
+  "error_estandar": null,
+  "event_study_causal": null,
+  "spillovers_causales": null,
+  "motivos": [
+    "Ningún evento tiene cerrada su elegibilidad documental y causal.",
+    "No hay comparadores con historia de tratamiento y exposición eléctrica verificadas."
+  ],
+  "protocolo_sha256": "338f6d578d048c588fc329d1ce48758fbda7229608bcbb50c583ec381e686697",
+  "entradas": {
+    "SOCHER_2026_v8_panel_causal/eventos/matriz_eventos_elegibilidad.csv": "eb02e8ef3ca9a6d6b8bc94c6225364c1a533ab8c63303de1ea387ce094d87c54",
+    "SOCHER_2026_v6_multicentros/mapeo/relacion_centros_barras.csv": "bdf09d659f9f1c81bbb198b27d999a5586c46175ab183782982427b467fd7ee1",
+    "SOCHER_2026_v7_2020_2026/entrega/Cobertura_por_mes_barra.csv": "18e3c7c591e6324f524f08f5376910bff834da9c2f21eb6a5ed2e466f51189f6"
+  },
+  "nota": "No disponible no es cero. Los conteos son de expedientes, no pruebas de identificación."
+}

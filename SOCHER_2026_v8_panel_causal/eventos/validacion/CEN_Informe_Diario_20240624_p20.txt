@@ -1,0 +1,79 @@
+16:00
+Ferrovial
+S/E Punta de Sierra Interruptor J15 sistema de protección 1 indisponible. Causa informada: Falla en tarjeta interna del relé. Sistema 2 en servicio, según IL 2024001006.
+16:18
+Transelec
+S/E Charrúa Reactor 1 de la línea de 500 kV Charrúa - Entre Ríos 1 en servicio, cancelado IF 2024002769.
+16:28
+STS
+Línea de 66 kV Aihuapi - Los Negros con solicitud de intervención de curso forzoso. Causa informada: Retiro de huira de eucaliptus mediante método de pértiga a distancia entre
+estructuras 248 - 250, según SICF 2024064407.
+16:31
+Enel
+Generación
+C. San Isidro 2 sin limitación, cancelada 
+IL 2024001004.
+16:37
+Comasa
+C. Lautaro 1 limitada a 23 MW PC provisoria. Causa informada: Por altas vibraciones del VTI filtro de mangas, según IL 2024001005.
+16:45
+STS
+Línea de 66 kV Aihuapi - Los Negros cancelada solicitud de intervención de curso forzoso, según SICF 2024064407.
+16:56
+AES Andes
+S/E Central Queltehues línea de 12 kV C. Queltehues - Bocatoma Volcán con solicitud de desconexión de curso forzoso. Causa informada: Reparar corte de conductor de una de sus
+fases, según SDCF 2024064425.
+17:24
+Transelec
+S/E Frutillar Norte Interruptor J4 con solicitud de desconexión de curso 
+forzoso. Causa informada: 
+Investigar y normalizar presión de gas SF6, según SDCF 2024064323.
+17:30
+Engie
+Transmisión
+S/E Antucoya cancelada solicitud de intervención de curso forzoso, por Migración total del sistema SCADA en S/E Antucoya por falla en servidores, según SICF 2024061061.
+17:40
+Enel Green
+Power
+C. Cerro Pabellón 2 sincronizada en pruebas, según IF 2024002742.
+18:00
+Acciona
+C. PFV Malgarida disponible. Cancela IF 2024002751 y 2024002752.
+18:40
+Enel Green
+Power
+C. Cerro Pabellón 2 disponible y en servicio, cancelado IF 2024002742.
+19:27
+Transelec
+S/E Charrúa Reactor KZ1 525 kV de 84 MVAr cancelada solicitud de intervención de curso forzoso, según SICF 2024064272.
+20:00
+Engie
+Generación
+C. Mejillones IEM se limita a 124 MW. Causa informada: Obstrucción en sistema de descarga de ceniza, según IL 2024001008.
+20:44
+Transelec
+S/E Frutillar Norte Interruptor J4 cancelada solicitud de desconexión de curso forzoso, según SDCF 2024064323.
+21:28
+Chilquinta
+Línea de 44 kV FFCC Andes - Hermanos Clark 1 interrupción forzada por protecciones, se pierden 0,4 MW de consumos de S/E Juncal. Según IF 2024002772.
+22:16
+Hidro El
+Paso
+C. El Paso disponible y E/S.
+22:55
+Enel
+Generación
+C. Atacama 1 TG1B y TV1C disponibles y en servicio, cancelada IF 2024002768.
+23:41
+Transelec
+Línea de 66 kV Charrúa - Cholgúan interrupción forzada por protecciones. Causa informada: Robo de conductor, según IF 2024002773.
+23:41
+Arauco
+C. Cholgúan genera en isla, dejando de inyectar 2.3 MW. Causa informada: Falla línea de 66 kV Cholgúan - Charrúa.
+23:59
+STS
+C. Masisa sale del servicio en forma intempestiva con 7,2 MW, según IF 2024002771.
+Hora
+Centro de
+Control
+Observación

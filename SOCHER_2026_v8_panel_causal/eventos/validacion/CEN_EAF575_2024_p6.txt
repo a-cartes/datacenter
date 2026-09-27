@@ -1,0 +1,38 @@
+Movimiento de centrales e informe diario del CDC 
+En Anexo Nº3 se presenta el detalle del Movimiento de Centrales e Informe Diario del CDC para el día 
+10 de diciembre de 2024. 
+Mantenimientos 
+En Anexo Nº4 se presenta el detalle de los mantenimientos programados y forzados para el día 10 de 
+diciembre de 2024. 
+Estado y configuración previo a la falla 
+Las instalaciones de transmisión se encontraban en servicio normal en los mome ntos previos a la 
+desconexión forzada. 
+Otros antecedentes relevantes 
+Según lo indicado por la empresa STM S.A.: 
+“El martes 10 de diciembre de 2024, a las 03:28 horas, se produjo la operación automática (OA)  
+del transformador N°8 en S/E Chacabuco.  
+La OA se debió a la falla ocasionada por el daño en el pararrayo del lado MT de este transformador, 
+fase azul.  
+Se presume que los efectos de sobrevoltaje temporal a frecuencia industrial por la falla que afectó 
+al alimentador Quillay de la barra N°8, unos 5 segundos antes de la OA del transformador, terminó 
+afectando y dañando el pararrayo de la fase azul del transformador N°8, p rovocando la OA del 
+Transformador N°8.  
+Como el pararrayo está dentro de la zona protegida por la protección diferencial del transformador, 
+es correcta la actuación de esta protección.” 
+Acciones preventivas y/o correctivas 
+a) La instalación afectada no cuenta con un plan de acción en curso. 
+b) Acciones correctivas a corto plazo:  
+La empresa STM S.A. señala que “ocurrida la operación, se envió personal de mantenimiento, este 
+realizó una inspección visual, en la cual se detectó que el pararrayos de 23 kV de la fase azul presentaba 
+daños. Del mismo modo, se observó también que el pararrayos de la fase blanca mostraba signos de 
+arco en su parte superior, por lo que se decidió reemplazarlos ambos.  
+Una vez completados los reemplazos de los pararrayos, se realizaron ensayos e léctricos al 
+transformador, incluyendo pruebas de Factor de Potencia, Capacidad y Corrient e de Excitación, 
+obteniendo resultados satisfactorios. Posteriormente, se energizó el  transformador sin observar 
+ninguna anomalía.” 
+La empresa Enel Distrubución Chile S.A. señala que “no aplican” acciones correctivas de corto plazo. 
+c) Acciones correctivas a largo plazo:  
+La empresa STM S.A. señala que “no hay” acciones correctivas de largo plazo. 
+La empresa Enel Distrubución Chile S.A. señala que “no aplican” acciones correctivas de largo plazo. 
+ 
+ 

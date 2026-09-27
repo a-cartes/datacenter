@@ -1,0 +1,699 @@
+{
+  "estado": "OK",
+  "carpeta_canonica": "SOCHER_2026_v8_panel_causal",
+  "copias_verificadas": 135,
+  "csv_diario_recuperado_sha256": "0fe7976c91a61f8b4e8af35b94b6d7d4608e172c5b6518248ddb20ea1e737d73",
+  "omitidos_regenerables": [
+    "panel/panel_diario.csv",
+    "revision/contenido_excel.json",
+    "revision/qa/Cobertura_0.png",
+    "revision/qa/Controles_0.png",
+    "revision/qa/Controles_1.png",
+    "revision/qa/Descriptivos_0.png",
+    "revision/qa/Diccionario_0.png",
+    "revision/qa/Eventos_0.png",
+    "revision/qa/Eventos_1.png",
+    "revision/qa/Fuentes_0.png",
+    "revision/qa/Mensual_0.png",
+    "revision/qa/Mensual_1.png",
+    "revision/qa/Resumen_0.png",
+    "revision/qa/Soporte_0.png"
+  ],
+  "archivos": [
+    {
+      "ruta": "README.md",
+      "bytes": 5075,
+      "sha256": "b0f7909763f2ff05bd8057d655457464060b5960f0e999cf21debafefb6105c2"
+    },
+    {
+      "ruta": "documentos/bibliografia_verificada.md",
+      "bytes": 5495,
+      "sha256": "ba15eb2a396135839632169a8cfe9affa576a37085d62c2e4ee3f5604f6ee9a3"
+    },
+    {
+      "ruta": "documentos/manuscrito_v8.md",
+      "bytes": 31519,
+      "sha256": "88c0d2868fd945adbcaed17b362a4fe7c06193aec2661a8f0396d25efaf83c4a"
+    },
+    {
+      "ruta": "documentos/protocolo_config.json",
+      "bytes": 4385,
+      "sha256": "338f6d578d048c588fc329d1ce48758fbda7229608bcbb50c583ec381e686697"
+    },
+    {
+      "ruta": "documentos/protocolo_previo_v8.md",
+      "bytes": 19057,
+      "sha256": "159433586f9db26514b6cfcdac209dde42db837dca1ce5b2f9b0a97a0ecd135e"
+    },
+    {
+      "ruta": "eventos/README_evidencia_y_decisiones.md",
+      "bytes": 9350,
+      "sha256": "31a7fc85e1078adb303168a9e10481556274f450fe892297dc3f07d7ce6c7e04"
+    },
+    {
+      "ruta": "eventos/bitacora_busquedas.csv",
+      "bytes": 2272,
+      "sha256": "9f3662f8895768e62b814224981fb2b4f369f9f959300bace9b172031efb1a23"
+    },
+    {
+      "ruta": "eventos/catalogar_fuentes.py",
+      "bytes": 8409,
+      "sha256": "e381a914d5d92ea9d71d5d2bb65f3569b8bbe1696e9c87d156b05a287d53f5cf"
+    },
+    {
+      "ruta": "eventos/catalogo_fuentes.csv",
+      "bytes": 9549,
+      "sha256": "03a63b6a5a483df5032be40f5678f4c35c67606c49fa559b48ee3e0d04c8e1d7"
+    },
+    {
+      "ruta": "eventos/configuraciones_operacionales_nuevas.csv",
+      "bytes": 1052,
+      "sha256": "0aac1b49b3bfe153bde867f3c9b580a62a6fd6512a5e34645244f2972aa48be2"
+    },
+    {
+      "ruta": "eventos/construir_matriz_eventos.py",
+      "bytes": 11835,
+      "sha256": "21a86b2294dfaf2cf8df764b971803816128ece4def69d298ab01521607cb94c"
+    },
+    {
+      "ruta": "eventos/descargar_fuentes.py",
+      "bytes": 2977,
+      "sha256": "59c3b027230f8a4481713400a62be41b363ff5dc7d745a21dd6fa2c60f6d65d4"
+    },
+    {
+      "ruta": "eventos/diccionario_matriz.md",
+      "bytes": 2969,
+      "sha256": "f7393df9b951682c5fd7df65dc9524d50860529b1dc9761121d637ef2d49bded"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_Ascenty_Chile2_solicitud202411.pdf",
+      "bytes": 350457,
+      "sha256": "e2b8622e0f28ad83a3b6c4a4581a1d5e0f9dfd6f7c030ca925b93524eaae5349"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_EAF141_2026.pdf",
+      "bytes": 11820982,
+      "sha256": "8318e00aae8229aebfe246e03289b0ae0ce44f6468da94f6ed6e34199e066836"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_EAF289_2024.pdf",
+      "bytes": 7511830,
+      "sha256": "68bdabd8f480ca7c3d75b8f80f17ce75c803140c47d9a0301ccdc94a040138b0"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_EAF575_2024.pdf",
+      "bytes": 3417001,
+      "sha256": "75d17a3f9e5f2bade6f3eb2c84be78b77f64c6a2e12bbee5464b203583b6fb0f"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_Informe_Diario_20240624.pdf",
+      "bytes": 507272,
+      "sha256": "45e194c1806ea003ca40e4f6a104b29aca38f01083df1f57948cbd0cbc46993e"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_Informe_Diario_20240625.pdf",
+      "bytes": 507386,
+      "sha256": "5d4996bc67f1c3224be1fd1969fff32bc288d10159ce79c4efd0e626cb64187e"
+    },
+    {
+      "ruta": "eventos/fuentes/CEN_ODATA_NuevaLampa_IAC202410.pdf",
+      "bytes": 1094329,
+      "sha256": "baf0a0a26ea54dd22978f3aa3f0c8e8e093dca909c43317fcc1dcf0b3aef6d0e"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_AsBuilt20200703.zip",
+      "bytes": 8437490,
+      "sha256": "db7276ee46edf74204728b72140adf02feff3acd8b61a2e149b09ce1e040b2ea"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 1.pdf",
+      "bytes": 635020,
+      "sha256": "78545f8e2173a9a0127a8c4f5261bf535ee93f6305939c5385d7c9532f4ae9a3"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 2.pdf",
+      "bytes": 474692,
+      "sha256": "a4f75c348c6d8b9e219259f66b92c3afa18f45dfc65925831701179373b91f3d"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 3.pdf",
+      "bytes": 465690,
+      "sha256": "889009b9a5b0864dcc032d1b719e2cc19e2f89b0401189c9aed5ee2d9c3dfd4f"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF20210121/DU-CHACABUCO-110_23_12KV-LAM 4.pdf",
+      "bytes": 184198,
+      "sha256": "86428eea4a66b193f2381267458e9845d915abbf510624ea845e19475b16f8d6"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF20210121.zip",
+      "bytes": 12881155,
+      "sha256": "ec58f37a6aac82deec1b4b1d78bd44303a90568b0b00d2af8144c13f6f92b6a8"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 1 (110kV).pdf",
+      "bytes": 369949,
+      "sha256": "970e40a4cb1893f316c48549d4c536b6f5253883d49fd99d6a8f7bda49c52158"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 2 (TR1).pdf",
+      "bytes": 433823,
+      "sha256": "321c117cb7a0fc76339d127567d2ec81cf5bdb5768c3f84c1ae3658e32d5b02b"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 3 (TR2).pdf",
+      "bytes": 361143,
+      "sha256": "e83a6071004dff7ec071e23e5c945f395f1b8241327524ce96b011d755683be9"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 4 (TR3).pdf",
+      "bytes": 547739,
+      "sha256": "d1424ae26ac8e6535e3693f23c0659afa5a188bc5595a895d13727bdb7bdcb1e"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 5 (TR4).pdf",
+      "bytes": 519934,
+      "sha256": "cae2ec872f8cfd85b50fd43f41d7954eabfca7b2be09a82a8b050bb9ffcdd278"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 6 (TR5).pdf",
+      "bytes": 333783,
+      "sha256": "a8061a74ab97042e499511368d8cf060fb922b050e62dfc8e89a4b35e9ad1bd2"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 7 (TR6).pdf",
+      "bytes": 252337,
+      "sha256": "8584aa6847fdf07c3bb1f3b12078fc7add8a9421aae87d34136266870d18da14"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 8 (TR7).pdf",
+      "bytes": 556249,
+      "sha256": "0c450efe28bc9d98d061608d3cd71e761d235f9cab098be06b801a4483cea3de"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417/DU-CHACABUCO-110_23_12KV-LAM 9 (TR8).pdf",
+      "bytes": 660439,
+      "sha256": "499a713461c0574cfca8b4ceb2dd0fb5c7dc46d9c9b14f8d24d3e6ee5258560d"
+    },
+    {
+      "ruta": "eventos/fuentes/Infotecnica_Chacabuco_DUF_NUP5417.zip",
+      "bytes": 5075836,
+      "sha256": "60b7a0878816352de8e8f98b6cac897150e8e70362a4086be9e740e82ed23d2e"
+    },
+    {
+      "ruta": "eventos/fuentes/STM_Ascenty_E53_MNR_20250113.pdf",
+      "bytes": 133833,
+      "sha256": "7b87f3508b2553b09b90fb2db8bf42716c54f7beb0b13ca07b684dbf01ad4a72"
+    },
+    {
+      "ruta": "eventos/fuentes/STM_Ascenty_E53_solicitud_20241213.pdf",
+      "bytes": 574583,
+      "sha256": "dc2031ed6c951354ec326c71720e5fdb5109eb4c34bb773f002e07d7c7d0ea2f"
+    },
+    {
+      "ruta": "eventos/fuentes/STM_Ascenty_E53_termino_20250604.pdf",
+      "bytes": 209037,
+      "sha256": "0f2d5b4b100a2800cab8d00860659bdead2330210278b60b0166f6eca71a22b7"
+    },
+    {
+      "ruta": "eventos/fuentes/infotecnica_Chacabuco683_documentos.json",
+      "bytes": 5635,
+      "sha256": "96e9cb5c1ce4f6059fe44568157cf93c94b628117d91dde7d9911260b1101df7"
+    },
+    {
+      "ruta": "eventos/fuentes/infotecnica_Chacabuco683_elementos.json",
+      "bytes": 237647,
+      "sha256": "b35a3357c6f6e64b34892571c98ba596f08ceb1ec947cd0d4e1c02b41d2f4c62"
+    },
+    {
+      "ruta": "eventos/fuentes/infotecnica_Chacabuco_E53.json",
+      "bytes": 460,
+      "sha256": "b84abb152ee6699c3b8525c4c9136ae98f78f62935c714c160758ed91bf576fe"
+    },
+    {
+      "ruta": "eventos/fuentes/manifest_descargas.json",
+      "bytes": 7342,
+      "sha256": "2b444aaf775fa168eef0e3ed67b3a32ab28e418d7ce176bdc297bdeee45583eb"
+    },
+    {
+      "ruta": "eventos/fuentes/manifest_miembros.json",
+      "bytes": 3975,
+      "sha256": "eb52eec92132abf2592f1c5baa51479663e3a071904e52841705b1b5cd388cc8"
+    },
+    {
+      "ruta": "eventos/matriz_eventos_elegibilidad.csv",
+      "bytes": 10531,
+      "sha256": "eb02e8ef3ca9a6d6b8bc94c6225364c1a533ab8c63303de1ea387ce094d87c54"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF141_2026_p169.txt",
+      "bytes": 15084,
+      "sha256": "f421b1130810eb120eff8d07b4758e4d0f972aab8eed120b751957f2fc4c3ecb"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p1.txt",
+      "bytes": 1196,
+      "sha256": "90b556108435eb7d779d5f889055250b94b2cfbbb63868c698dfe118cda3a362"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p10.txt",
+      "bytes": 1566,
+      "sha256": "b79d2d1b6dcd89bd479a2aac5b8d20994193131b1e8c05dd640d018c3a0adc2d"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p133.txt",
+      "bytes": 1756,
+      "sha256": "edf2074f85ac78c94838b8bbd51a65580a8b38fd1634bcc0b77f1501cbbeed96"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p142.txt",
+      "bytes": 1766,
+      "sha256": "ea9b06e63c2953e9d30a4fe8704388739b694c78c6c0fa088de201d427e57a27"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p149.txt",
+      "bytes": 4708,
+      "sha256": "cbe1604611b7407cc3da729c4c2171b0dbe02421d22197cd08ab0c8c9d55aff2"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p150.txt",
+      "bytes": 4787,
+      "sha256": "b88d25e8105a2b3c66b0585fc701e0c81de8c9ec02627f7368d4b2193172c075"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p161.txt",
+      "bytes": 1493,
+      "sha256": "638f08e574ec458e11dbef46fe35e608808502f913d33f0e504d04fd31c622ae"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p162.txt",
+      "bytes": 1851,
+      "sha256": "2cd5985551289b81157bd6b624fb15a28e21786867c014ef36898b07ce253a04"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p163.txt",
+      "bytes": 2391,
+      "sha256": "b254814d8e8994361b83b477e8669622e2cc708a27bdc6fff19ddb01901b850b"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p164.txt",
+      "bytes": 1275,
+      "sha256": "9443a5336527491b0ac22de034b27ce1a0c5da2ab5513eaa6dfefbdebda2cd37"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p2.txt",
+      "bytes": 3315,
+      "sha256": "668cc7aba316cb157d1d6432c9084a781e66a69820e2da121b27c8a66e689a52"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p3.txt",
+      "bytes": 2608,
+      "sha256": "7d42a0c747227f893ba318cd961ac8315d2a4f295a8ed0794c7af03922d15ff2"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p4.txt",
+      "bytes": 2226,
+      "sha256": "2bfea8c8e3c7160e70533ac6276560baa74566e13b43a4bf164a546db47fee3c"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p5.txt",
+      "bytes": 1075,
+      "sha256": "b0ef117bb598daac67dd173a034911e0ca567d048f321f984fce5c8f9936828c"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p6.txt",
+      "bytes": 2488,
+      "sha256": "d3a39871f9f1f0a9d9a400bb8f29a691c0c80aecc91eb2c0ccb50a8716febf36"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p7.txt",
+      "bytes": 64,
+      "sha256": "347055d7b83d6dcc2dfa007abd946125d57531eb8a2f58ee3112d00393b2ad33"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p8.txt",
+      "bytes": 2855,
+      "sha256": "7a756d899636719f3566e06aa8027dab393e58a66f44ac1953d73a7df5c002b9"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_EAF575_2024_p9.txt",
+      "bytes": 624,
+      "sha256": "f5fe606c124f52a9a53bda2c5a58ada5115e1fbab58bf9b752ffe30c345d0e90"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240624_p19.txt",
+      "bytes": 4262,
+      "sha256": "35c3b846810f28e6cee847aea9ef4cd356891674b0429d8a6b3af323056238fd"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240624_p20.txt",
+      "bytes": 2923,
+      "sha256": "07fad98fa7bef52ca6a352850da6cccd0b40b065fdfb40fdea530f795c712319"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240624_p21.txt",
+      "bytes": 1000,
+      "sha256": "c3054703bba8efb9245c156e82ae19a8139a86f7f4d05cc056982cd5d3f93bb3"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240624_p24.txt",
+      "bytes": 1519,
+      "sha256": "c4c4d35c17ab6d4e68a8b1a8a80b2c9797f7f3a3e30695a863b2480497a80dec"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240625_p19.txt",
+      "bytes": 4906,
+      "sha256": "7e4e2bc0efe47ad10a2775275f3122f9d1d4925786a109f0cea0a7e823a7b474"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240625_p20.txt",
+      "bytes": 3128,
+      "sha256": "fd6d28cb40bea88375847039d7c5e71d62427dcd306d51922d0706e28f42dcb1"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240625_p21.txt",
+      "bytes": 838,
+      "sha256": "38e26f06a69a7c5ac16ce95e9fb830a39e6f22061f4f2e1549f3bd1859001192"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_Informe_Diario_20240625_p24.txt",
+      "bytes": 1326,
+      "sha256": "e8a36087a5274c479c393154dab0df7ce20d58dce344260aa83b59a53b5e4b08"
+    },
+    {
+      "ruta": "eventos/validacion/CEN_diario20240624_p24.png",
+      "bytes": 162698,
+      "sha256": "2fd3af5eceff165c450035dc8b6e2f9db9c2709da0c09691be1815cd369fafd7"
+    },
+    {
+      "ruta": "eventos/validacion/DUF5417_L1_110.png",
+      "bytes": 80485,
+      "sha256": "18b550b8e49298780b46b39632e65067f4578537db09b85f1d81b622f9d55fe8"
+    },
+    {
+      "ruta": "eventos/validacion/DUF5417_L1_detalle.png",
+      "bytes": 6190,
+      "sha256": "92e765257d056aa10e6108ceec292cad393624f2dca7dc716cfc112484ceb7f6"
+    },
+    {
+      "ruta": "eventos/validacion/DUF5417_L8_TR7.png",
+      "bytes": 112159,
+      "sha256": "92d430f3288e860bcfeb3291d507d4d9d53168a2388f13ce4e3d7407aea6a31e"
+    },
+    {
+      "ruta": "eventos/validacion/EAF141_p169.png",
+      "bytes": 555760,
+      "sha256": "4e3356813f057b48cc4b3171d4071861e23f5e7e5c4ad8e3e8c0bf6fe676a3a9"
+    },
+    {
+      "ruta": "eventos/validacion/EAF575_p7.png",
+      "bytes": 291532,
+      "sha256": "4aaea76901463259c3d56e8eca8b8bec539d3f00eed4c2cb9f78ba2b4ba0c8ea"
+    },
+    {
+      "ruta": "eventos/validacion/IAC_NuevaLampa_p4.png",
+      "bytes": 245616,
+      "sha256": "196f7689915f37405cdd1a316764335a939721df1b4534ac2f14a1d777e00ab7"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF20210121_DU-CHACABUCO-110_23_12KV-LAM 1_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF20210121_DU-CHACABUCO-110_23_12KV-LAM 2_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF20210121_DU-CHACABUCO-110_23_12KV-LAM 3_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF20210121_DU-CHACABUCO-110_23_12KV-LAM 4_p1.txt",
+      "bytes": 6,
+      "sha256": "82e98c3ef4033b4533f5d0baed3ffe65a953fadfa01c766bf2df0bb06916690e"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 1 (110kV)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 2 (TR1)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 3 (TR2)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 4 (TR3)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 5 (TR4)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 6 (TR5)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 7 (TR6)_p1.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 8 (TR7)_p1.txt",
+      "bytes": 21,
+      "sha256": "6541f207cc689221742f73e43b7954d7748970158a8aa0a5439de451b190a422"
+    },
+    {
+      "ruta": "eventos/validacion/Infotecnica_Chacabuco_DUF_NUP5417_DU-CHACABUCO-110_23_12KV-LAM 9 (TR8)_p1.txt",
+      "bytes": 28,
+      "sha256": "66100e157fd843bc6180a5ded36632e79564187d55d270689e860017291fc559"
+    },
+    {
+      "ruta": "eventos/validacion/STM_Ascenty_E53_MNR_20250113_p1.txt",
+      "bytes": 1734,
+      "sha256": "5ae346ff2b232658b18aa85613c38776014ff354157d9291a3723acea6edb06b"
+    },
+    {
+      "ruta": "eventos/validacion/STM_Ascenty_E53_solicitud_20241213_p1.txt",
+      "bytes": 2556,
+      "sha256": "053515a19c7343f3df3e40de94e1003f2d5af337dbe782057c22406eb0c14d1c"
+    },
+    {
+      "ruta": "eventos/validacion/STM_Ascenty_E53_termino_20250604_p1.txt",
+      "bytes": 1561,
+      "sha256": "b7dbf934d6aad717704541dd0511c7961db6c171ab440dbe366f404a0f251e1c"
+    },
+    {
+      "ruta": "eventos/validacion/ascenty_MNR_p1.png",
+      "bytes": 284816,
+      "sha256": "92ed99edb6d218334e19eff357a3a772f8f30a5d62cc0a1c2aaedf26a564fd80"
+    },
+    {
+      "ruta": "eventos/validacion/ascenty_termino_p1.png",
+      "bytes": 172968,
+      "sha256": "b21fbd2280d33b82bb4666db0c3de5ac49124fab0631bd062a6ab7e14a04c76a"
+    },
+    {
+      "ruta": "eventos/validacion_matriz.json",
+      "bytes": 231,
+      "sha256": "2967ff6b32ec678f6b0a72cc244f1f3fdd5a7e92717e2f3522f8c46016a22bb3"
+    },
+    {
+      "ruta": "figuras/01_diferenciales_descriptivos.pdf",
+      "bytes": 28702,
+      "sha256": "a133143edb9849f4355e12a4c68e19728fbf2a660f90ca09caa7fa1228bb2323"
+    },
+    {
+      "ruta": "figuras/01_diferenciales_descriptivos.png",
+      "bytes": 151454,
+      "sha256": "548d8031042d4badfbcc70d3083d568580fa7862e23799c1dda62b9d95e2ddd5"
+    },
+    {
+      "ruta": "figuras/02_distribucion_anual.pdf",
+      "bytes": 26828,
+      "sha256": "661f624495506366ad3e0c2c28090d30ca8e6ec7cbbdd91f9349819396081239"
+    },
+    {
+      "ruta": "figuras/02_distribucion_anual.png",
+      "bytes": 54036,
+      "sha256": "cf6f3824634be8b8fb480bd94ef54d4c180e187d8d0723e53ff1971dc7be09d8"
+    },
+    {
+      "ruta": "panel/LEEME_panel.md",
+      "bytes": 3373,
+      "sha256": "dd602adb47b0966b2ccfc44e9ca3424ab60516677534d76baccc22bb9433f5c3"
+    },
+    {
+      "ruta": "panel/calendario_etiquetas_observadas.csv",
+      "bytes": 217600,
+      "sha256": "d6cff4575aa2186ae3227916ebd5299ebdd377148ea43952f4883bf6645c05d6"
+    },
+    {
+      "ruta": "panel/cambios_documentales_segmentos.csv",
+      "bytes": 15114,
+      "sha256": "c4c52d3c7002d8bca4f57b43eb73931f5b4aef1db4eb1d8bc64db7b727db90dc"
+    },
+    {
+      "ruta": "panel/cobertura_mes_reloj.csv",
+      "bytes": 3083,
+      "sha256": "f2338503dea692f7bbe4d5d8139d14217fd00e8fe5c2e2ce602ec353975a7f28"
+    },
+    {
+      "ruta": "panel/dias_con_ausencias.csv",
+      "bytes": 7626,
+      "sha256": "c4be650c778552875698930caabafe20518852a1b3cdf15be51b42b647603fc7"
+    },
+    {
+      "ruta": "panel/diccionario_panel.csv",
+      "bytes": 15694,
+      "sha256": "985dfdf0b9a839257714b2c2a5c08763911b04774bbf2305ae54cc4dd9ecf338"
+    },
+    {
+      "ruta": "panel/homologacion_agosto2023_validada.csv",
+      "bytes": 17232,
+      "sha256": "ddd57a0214cd431ac0201134ebb054ef85bd2cd0f9a0a9617737ed3170fb130b"
+    },
+    {
+      "ruta": "panel/mapeo_mensual.csv",
+      "bytes": 1246031,
+      "sha256": "da0fea15e69b5117b9275d3e1303cfa186030a0c8fa06bbb7f6469fc08d1e055"
+    },
+    {
+      "ruta": "panel/mapeo_metadatos_observados.csv",
+      "bytes": 1073064,
+      "sha256": "5bda25d24561be0c81501283ac11635ce520512dc88a43c5186793524a245c41"
+    },
+    {
+      "ruta": "panel/panel_diario.csv.gz",
+      "bytes": 11002268,
+      "sha256": "a36394055b4ed30343708e70aea7b286b30aba2a98e67e9c56d6d58e29182dd9"
+    },
+    {
+      "ruta": "panel/panel_diario.parquet",
+      "bytes": 10587664,
+      "sha256": "50f683560534c332454838c1f8aed7de2530e2b027f05642d25860dcae30c757"
+    },
+    {
+      "ruta": "panel/panel_mensual.csv",
+      "bytes": 1958196,
+      "sha256": "71e9d70dd6f2432386b5afa74785ca03019b2fc2511293d03e3f908664cc9940"
+    },
+    {
+      "ruta": "panel/panel_mensual.parquet",
+      "bytes": 566800,
+      "sha256": "320271033de055d1ae3b0fb9fa111a8d3c4c69b6b650c3e7a87201e2e06f8ca5"
+    },
+    {
+      "ruta": "resultados/estado_estimacion.json",
+      "bytes": 1124,
+      "sha256": "ddf78cb3daf18727cfe8fd2fe9c3c6cb0e158703f93ca0c7a17db32e585a91c0"
+    },
+    {
+      "ruta": "resultados/manifest_descriptivos.json",
+      "bytes": 625,
+      "sha256": "72f337fafd239aedb314726495541530ea5ad028a51ad8a3334933448ddd5e90"
+    },
+    {
+      "ruta": "resultados/matriz_controles_revision.csv",
+      "bytes": 16241,
+      "sha256": "24cc5aba2620a40be2b40f5d7589f1174d44f5d458042ffbf21ba76a38d4ce27"
+    },
+    {
+      "ruta": "resultados/revision_mensual_por_barra.csv",
+      "bytes": 317428,
+      "sha256": "47157d1fb313d5bbd0d5d428fafabf923cc67d53648188199889894c546ae344"
+    },
+    {
+      "ruta": "resultados/soporte_eventos_ventana_registrada.csv",
+      "bytes": 4295,
+      "sha256": "54b1fbfcb9b402cc5f1fa0b442c865bc43d19526434a06bc61b223ce0429bb4e"
+    },
+    {
+      "ruta": "resultados/tabla_descriptiva_anual.csv",
+      "bytes": 1023,
+      "sha256": "2f868ccb805c702ad57efdeef124f2ff8b521b9c2056cd2ef290a841bd427bb5"
+    },
+    {
+      "ruta": "resultados/tabla_descriptiva_mensual.csv",
+      "bytes": 7787,
+      "sha256": "6577d5c5a2a3d9c7420024084f614b6cb4b19596a35111b718ac32f6688d8ed0"
+    },
+    {
+      "ruta": "revision/Revision_panel_causal_v8.xlsx",
+      "bytes": 296258,
+      "sha256": "7876cbc9c7c1f6f34ea44d2be8de26feccb8c9c5c0539260d21f8a3fe7ef7cc8"
+    },
+    {
+      "ruta": "revision/qa/revision_excel.json",
+      "bytes": 2178,
+      "sha256": "3f239644d0b786e065e663c0dd2ae82c8c57b0384a4f7d1f770e5b00acda4342"
+    },
+    {
+      "ruta": "scripts/02_evaluar_diseno.py",
+      "bytes": 4604,
+      "sha256": "819e1406b7c9c97741d103b9011edf3e2febaeb2b3623f8c1d408ba25729845a"
+    },
+    {
+      "ruta": "scripts/03_descriptivos_y_soporte.py",
+      "bytes": 8125,
+      "sha256": "bd1876097382fd0a659f12afa854ae465649623afacda062aab59b8d7cc24999"
+    },
+    {
+      "ruta": "scripts/04_preparar_revision.py",
+      "bytes": 8719,
+      "sha256": "0e55f46d40da1fa1703bbde8adfd1a465a8e779143fd18b1950f235dc1093d78"
+    },
+    {
+      "ruta": "scripts/05_verificar_excel.py",
+      "bytes": 2353,
+      "sha256": "c4b0c1181297901aa8a231dbccffba80b16a2e47fce5a370ec855b2d217744d9"
+    },
+    {
+      "ruta": "scripts/06_preparar_publicacion.py",
+      "bytes": 2542,
+      "sha256": "76797fd7e1e4876f5a9d29a780dcb1126788427776ae64fc9961dd1c7214af8f"
+    },
+    {
+      "ruta": "scripts/construir_panel.py",
+      "bytes": 31300,
+      "sha256": "a0b6e21816c8036fbcb326e6194175162b0108fcd7747f77cb5da0bb7e21b506"
+    },
+    {
+      "ruta": "scripts/crear_excel_revision.mjs",
+      "bytes": 4095,
+      "sha256": "a7aa651476ba191802a8314ac58c0de82d9034bc9e51b52893126e415ef54b6e"
+    },
+    {
+      "ruta": "validacion/fuentes_hashes_panel.json",
+      "bytes": 1391,
+      "sha256": "d107166e8d327e24c758afb92e28448658d50f23d4530fce27ee7ba7aa22a95f"
+    },
+    {
+      "ruta": "validacion/reproduccion_panel_independiente.json",
+      "bytes": 1931,
+      "sha256": "4c8d3b34b7ec26a331030000c00d5661668c974e112076de65503e9485b80aa1"
+    },
+    {
+      "ruta": "validacion/validacion_panel.json",
+      "bytes": 7973,
+      "sha256": "3f146ced02147ee8a3464bd67bb5b4e32c6482769bd8284713b570cb0d2836b2"
+    },
+    {
+      "ruta": "validacion/verificacion_excel.json",
+      "bytes": 1462,
+      "sha256": "4b8f4cb6bfbc166d96d38033b1510e9a2a91e9446ed006e034a09b5bfdd394c5"
+    }
+  ]
+}

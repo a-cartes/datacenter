@@ -1,0 +1,434 @@
+Reporte Desconexión/Intervención Subestacion 
+Fecha generación reporte: 12-04-2026 19:26:18
+Estados: Pendiente, Aprobado, Rechazado, Aprobado sin activación, Ejecución Parcial, Ejecución Exitosa, Rechazo CDC, Pendiente, Aprobado, Rechazado, Aprobado sin activación, Ejecución Parcial, Ejecución Exitosa, Rechazo CDC
+Total registros General: 84
+Total registros Subestacion: 50
+Número Tipos Estado Empresa Id Coordinado Tipo Solicitud Origen Tipo Programación ID(s) SubEstación ID(s) Elemento(s) Tipo Trabajo Potencia Trabajos a Realizar Descripción Nivel Riesgo Comentario Adicional Consumo Empresas Afectadas Trabajo Requiere Estado Operativo Estado Operativo 
+Efectivo Fecha Inicio
+DI2026022473 SubestacionEjecución 
+Exitosa
+COMPAÑÍA MINERA TECK 
+QUEBRADA BLANCA S.A.1694 Intervención Origen Externo Programada 2235 S/E PUQUIOS 28725 PA S/E PUQUIOS J1 Lavado de Aislación
+Sin 
+Limitacio
+nes
+A solicitud de Transelec, restricción en apoyo al lavado de 
+aisladores en la linea de transmisión. 
+Instalación con riesgo: Paño J1 de Puquios. Temporalidad de 
+los riesgos: Durante los trabajos de Transelec. Nivel de riesgo: 
+Bajo.
+Restricciones: no reconectar el interruptor 52J1 de S/E 
+Puquios. 
+No tiene consumo 
+afectado ninguno 22-03-26 07:41
+DI2026025488 SubestacionEjecución 
+Exitosa MINERA ESCONDIDA 378 Intervención Origen Interno Programada 1918 S/E PLANTA OXIDOS 2237 BA S/E PLANTA OXIDOS 220KV BP Lavado de Aislación
+Sin 
+Limitacio
+nes
+Lavado aisladores S/E Planta Óxidos Riesgo bajo. Trabajo realizado bajo procedimiento respectivo.Se requiere orden de no reconectar en:
+S/E Planta Oxidos 52JT1 y 52JT2.
+S/E Domeyko 52J1.
+No tiene consumo 
+afectado ninguno 22-03-26 07:30
+DI2026025005 SubestacionEjecución 
+Exitosa MINERA ESCONDIDA 378 Intervención Origen Interno Programada 1894 S/E LIXIVIACION
+17705
+17706
+17707
+17708
+17709
+22711
+22712
+22713
+22714
+22715
+22716
+23948
+PA S/E LIXIVIACION BS1
+PA S/E LIXIVIACION BS2
+PA S/E LIXIVIACION N°1
+PA S/E LIXIVIACION N°2
+PA S/E LIXIVIACION BS
+PA S/E LIXIVIACION BT1
+PA S/E LIXIVIACION BT2
+PA S/E LIXIVIACION B3
+PA S/E LIXIVIACION B4
+PA S/E LIXIVIACION B1
+PA S/E LIXIVIACION B2
+PA S/E LIXIVIACION 13.8KV-CE
+Medición de malla a 
+tierra 
+Sin 
+Limitacio
+nes
+Medición de Malla de Tierra en S/E Lixiviación. Riesgo bajo, el trabajo se realizara bajo procedimiento 
+respectivo.
+Se requieren las siguientes condiciones en:
+S/E Lixiviacion: No reconectar 52BT1, 52BT2, 52B3 y 52B4.
+S/E Sulfuros: No reconectar 52BT1 y 52BT2.
+No tiene consumo 
+afectado ninguno 22-03-26 07:30
+DI2026025486 SubestacionEjecución 
+Exitosa
+MINERA ESCONDIDA 
+LTDA. 378 Intervención Origen Interno Programada 1869 S/E ESCONDIDA
+17683
+17684
+17686
+22477
+22478
+22479
+22480
+22481
+22482
+22483
+22484
+22485
+22486
+22487
+22491
+22492
+22493
+22496
+22497
+22498
+22499
+30173
+PA S/E ESCONDIDA 13,8 KV
+PA S/E ESCONDIDA 220 KV BP1
+PA S/E ESCONDIDA 6.9 KV
+PA S/E ESCONDIDA J1
+PA S/E ESCONDIDA J2
+PA S/E ESCONDIDA J3
+PA S/E ESCONDIDA JR1
+PA S/E ESCONDIDA JR2A
+PA S/E ESCONDIDA JR
+PA S/E ESCONDIDA JT1
+PA S/E ESCONDIDA JT2
+PA S/E ESCONDIDA JT3
+PA S/E ESCONDIDA JT4
+PA S/E ESCONDIDA JT5
+PA S/E ESCONDIDA JT6
+PA S/E ESCONDIDA BT5
+PA S/E ESCONDIDA BT6
+PA S/E ESCONDIDA BS
+PA S/E ESCONDIDA B3
+PA S/E ESCONDIDA B2
+PA S/E ESCONDIDA B1
+PA S/E ESCONDIDA JR2B
+Lavado de Aislación
+Sin 
+Limitacio
+nes
+Lavado de aislación Subestación Escondida. Riesgo bajo, trabajo realizado con procedimientos 
+respectivos.
+Se requiere orden de no reconectar:
+S/E Escondida: 52J1, 52J2, 52J3, 52JT1, 52JT2, 52JT3, 52JT4, 
+52JT5 y 52JT6.
+S/E Zaldivar:  52J1.
+S/E Domeyko: 52J5.
+S/E 640: 52B642, 52B641B.
+S/E Esc. Norte: 52B1.
+S/E Tap Off 5300: 52BT.
+No tiene consumo 
+afectado ninguno 22-03-26 07:30
+DI2026025482 Subestacion Aprobado COMPAÑÍA DOÑA INÉS 
+DE COLLAHUASI SCM375 Desconexión Origen Interno Programada 2471 S/E LAS DUNAS 
+[EN_REVISION] 3640 T2D S/E LAS DUNAS JT1 [EN_REVISION] Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Instalacion Detector Termico Lineal ( Protectowire)  5755-XF-
+001 en S/E DUNAS.
+Riesgo Bajo : La actividad se realizara con transformador 
+desenergizado.
+Se requeren los siguiente bloqueos en S/E Dunas: 
+5755-SG-001 / 89J3-3 abierto .
+5755-SG-001 / 89J3-3T cerrado y bloqueado.
+5750-MC-001_AB / 52DT1 Abierto, extraido  y bloqueado. 
+5750-MC-001_AB / 89DT1-T cerrado y bloqueado.
+En el lado de 220kV,  Se mantendra  diagonal N°1 cerrada 
+luego de los bloqueos en los Desconectadores puesta a 
+tierrahacia T1.En el lado de 6.9kV, mantener acoplador 52DS 
+cerrado luego de la apertura de incomming 52DT1, cargas 
+transferidas a T2.
+No tiene consumo 
+afectado ninguno 22-03-26 07:00
+DI2026018586 SubestacionEjecución 
+Exitosa CGE TRANSMISIÓN S.A. 2003 Intervención Origen Interno Programada 404 S/E SAN FERNANDO 1475 PA S/E SAN FERNANDO BR Alambrado de control
+Sin 
+Limitacio
+nes
+Se requiere por proyecto 21_185_OA_15 
+NUP3869“Ampliación S/E La Ronda”. La precautoria para 
+actividades de cambio de ajustes de protecciones en paño BR 
+de SE San Fernando.
+Riesgo medio y controlado. No existirá afectación de clientes finales.
+Se mantendrá la correcta coordinación de protecciones. 
+No tiene consumo 
+afectado ninguno 22-03-26 07:00
+DI2026024883 SubestacionEjecución 
+Exitosa
+MINERA ESCONDIDA 
+LTDA. 378 Intervención Origen Interno Programada 1911 S/E OGP1 2215 BA S/E OGP1 220KV BP1 Mantenimiento 
+preventivo
+Sin 
+Limitacio
+nes
+Limpieza, reapriete, inspección visual y termografía barra 1 
+220kV SE OGP1
+Riesgo bajo, se realiza con procedimientos respectivos y 
+personal calificado
+Se requiere orden de no reconectar en subestación OGP1:  
+52JT2, 52JT3, 52JT5, 52J2 y 52JS.
+No tiene consumo 
+afectado ninguno 22-03-26 07:00
+DI2026024892 SubestacionEjecución 
+Exitosa
+MINERA ESCONDIDA 
+LTDA. 378 Intervención Origen Interno Programada 1911 S/E OGP1 2216 BA S/E OGP1 220KV BP2 Mantenimiento 
+preventivo
+Sin 
+Limitacio
+nes
+Limpieza, reapriete, inspección visual y termografía barra 2 
+220kV SE OGP1
+Riesgo bajo, se realiza con procedimientos respectivos y 
+personal calificado
+Se requiere orden de no reconectar en subestación OGP1:  
+52JT1, 52JT4, 52J3 y 52JS.
+No tiene consumo 
+afectado ninguno 22-03-26 07:00
+DI2026026445 Subestacion Rechazado SOCIEDAD TRANSMISORA 
+METROPOLITANA S.A.82 Desconexión Origen Externo Programada 584 S/E POLPAICO 
+(TRANSELEC)
+7887
+12615
+S/E POLPAICO J5
+S/E POLPAICO J1 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Transelec realiza trabajos de mantenimiento de equipos 
+asociados a su Barra Principal y Barra de Transferencia, por lo 
+que requiere el Paño J1 abierto y Bloqueado y el equipo 89J5-
+3 abierto y bloqueado 
+Trabajos por parte de Transelec Trabajos ejecutados por parte de Transelec en coordinación 
+con STM
+No tiene consumo 
+afectado ninguno 22-03-26 07:00
+DI2026023093 Subestacion Rechazado ALFA TRANSMISORA DE 
+ENERGÍA S.A. 1984 Desconexión Origen Interno Programada 785 S/E LAS VEGAS 
+(CHILQUINTA) 7570 PA S/E LAS VEGAS (CHILQUINTA)  H6 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+S/E Las Vegas: Vinculación de Puentes eléctricos desde 
+seccionador horizontal 89H8-1 a Barra 110 kV Nº1 SE Las 
+Vegas y medición de resistencia de contacto, asociados a NUP 
+3278.
+Sin riesgos asociados, paño desconectado.
+Trabajos enmarcados en Proyecto: Aumento Capacidad de 
+Línea 1x110 kV Las Vegas - Esperanza NUP:3278 . Se 
+consideran trabajos previos, no se colocará en servicio Paño 
+H8. Coordinado con Chilquinta para despeje de Barra 110 kV 
+N°1 de S/E Las Vegas.
+No tiene consumo 
+afectado ninguno 22-03-26 06:30
+DI2026024304 Subestacion Rechazado
+COMPAÑÍA 
+TRANSMISORA DEL 
+NORTE GRANDE S.A.
+1984 Desconexión Origen Externo Programada 785 S/E LAS VEGAS 
+(CHILQUINTA)
+2392
+4268
+BA S/E LAS VEGAS (CHILQUINTA) 110KV 
+BP1-S1
+BA S/E LAS VEGAS (CHILQUINTA) 110KV 
+BP1-S2
+Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Vinculación de Puentes eléctricos desde seccionador 
+horizontal 89H8-1 a Barra 110 kV Nº1 SE Las Vegas y 
+medición de resistencia de contacto, asociados a NUP 3278. 
+Solicitud de Celeo Redes.-
+Riesgo informado por Celeo Redes segun CEN 2026023092; 
+2026023093.-
+Requiere orden de no reconexion para la barra principal 
+110kV N°2.-
+No tiene consumo 
+afectado ninguno 22-03-26 06:30
+DI2026024306 Subestacion Rechazado
+COMPAÑÍA 
+TRANSMISORA DEL 
+NORTE GRANDE S.A.
+1984 Desconexión Origen Externo Programada 785 S/E LAS VEGAS 
+(CHILQUINTA) 7568 PA S/E LAS VEGAS (CHILQUINTA) H3 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Vinculación de Puentes eléctricos desde seccionador 
+horizontal 89H8-1 a Barra 110 kV Nº1 SE Las Vegas y 
+medición de resistencia de contacto, asociados a NUP 3278. 
+Solicitud de Celeo Redes.-
+Riesgo informado por Celeo Redes segun CEN 2026023092; 
+2026023093.-
+Vinculación de Puentes eléctricos desde seccionador 
+horizontal 89H8-1 a Barra 110 kV Nº1 SE Las Vegas y 
+medición de resistencia de contacto, asociados a NUP 3278. 
+Solicitud de Celeo Redes.-
+No tiene consumo 
+afectado ninguno 22-03-26 06:30
+DI2026024309 Subestacion Rechazado CHILQUINTA 
+TRANSMISIÓN S.A. 1984 Desconexión Origen Externo Programada 785 S/E LAS VEGAS 
+(CHILQUINTA) 1007 BA S/E LAS VEGAS (CHILQUINTA) 110KV 
+BP1 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Vinculación de Puentes eléctricos desde seccionador 
+horizontal 89H8-1 a Barra 110 kV Nº1 SE Las Vegas y 
+medición de resistencia de contacto, asociados a NUP 3278. 
+Solicitud de Celeo Redes.-
+Riesgo informado por Celeo Redes segun CEN 2026023092; 
+2026023093.- Requiere orden de no reconexion para la barra 110kV N°2.-No tiene consumo 
+afectado ninguno 22-03-26 06:30
+DI2026025456 Subestacion Rechazado GENERADORA 
+METROPOLITANA SPA1984 Intervención Origen Externo Programada 785 S/E LAS VEGAS 
+(CHILQUINTA) 16695 PA S/E LAS VEGAS (AES ANDES) HT4 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Vinculación de Puentes eléctricos desde seccionador 
+horizontal 89H8-1 a Barra 110kV Nº1 SE Las Vegas, asociado a 
+NUP 3278. Trabajos realizados por Chilquinta. 
+Riesgo bajo. No afecta al Sistema Eléctrico Nacional
+Condiciones requeridas: 89HT4-1 en S/E Las Vegas abierto. 
+TER Los Vientos conectada y disponible para el SEN a través 
+de la barra N° 2 de las S/E Las Vegas.
+No tiene consumo 
+afectado ninguno 22-03-26 06:30
+DI2026029904 SubestacionEjecución 
+Exitosa CGE TRANSMISIÓN S.A. 2003 Desconexión Origen Interno Curso Forzoso 1915 S/E PACIFICO 1602 T2D S/E PACIFICO HT1 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Trabajos Previos Conexión Transformador Móvil – Pruebas 
+Eléctricas e Inspección T1 SE Pacifico. Según Carta CGET01975-
+26 ingresada al CEN correlativo CARTA141096-26.
+Trabajos Previos Conexión Transformador Móvil – Pruebas 
+Eléctricas e Inspección T1 SE Pacifico. Según Carta CGET01975-
+26 ingresada al CEN correlativo CARTA141096-26, 
+correspondiente a curso forzoso para la desconexión del paño 
+H3 en S/E Cóndores asociado a la LT 110kV Condores-Pacifico 
+(STM) por la desconexión de la Subestación Pacífico.
+. No tiene consumo 
+afectado ninguno 22-03-26 02:13
+DI2026021293 SubestacionEjecución 
+Exitosa
+LO ESPEJO DATA CENTER 
+SPA [en_revision] 2356 Desconexión Origen Interno Programada 2494 S/E ODATA 
+[EN_REVISION]
+35427
+35430
+PA S/E ODATA H1 [EN_REVISION]
+PA S/E ODATA H4 [EN_REVISION]Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Pruebas de inyección primaria en bahías H1 y H4 de 
+subestación ODATA. Condiciones requeridas: Abiertos y a 
+disposición de jefe de faena equipos de paño H1 y paño H4 de 
+S/E Odata. Condiciones requerida a STM: Abierto y a 
+disposición de jefe de faena equipos de paño H4, además de la 
+desenergización completa de la barra 2 110 kV de S/E 
+Panamericana. Durante los trabajos se debe mantener en 
+servicio la barra 1 110kV de Panamericana.
+El riesgo del trabajo es bajo. Instalaciones de S/E ODATA aun se encuentran en periodo de 
+puesta en servicio.
+No tiene consumo 
+afectado ninguno 22-03-26 02:00
+DI2026018480 SubestacionEjecución 
+Exitosa CGE TRANSMISIÓN S.A. 2003 Desconexión Origen Interno Programada 1915 S/E PACIFICO 1602 T2D S/E PACIFICO HT1 Mantenimiento 
+preventivo
+Sin 
+Limitacio
+nes
+MANTENIMIENTO PREVENTIVO A EQUIPO 52HT1 Y 52CT1 NO HAY MAYORES RIESGOS ASOCIADOS A ESTA ACTIVIDAD
+CONDICIONES OPERACIONALES: SUBESTACION CONDORES: 
+DESACTIVAR RECONEXION
+AUTOMATICA DE EQUIPO 52H3 PAÑO PACIFICO 
+SUBESTACION PACIFICO: (ABIERTO
+89HT1-1, 52HT1, 52CT1), (52CT1 SE DEBE LLEVAR A POSICION 
+PRUEBA) NOTA: SE DEBEN
+TRANSFERIR LOS CONSUMOS DE BARRA 13.8 KV DE 
+SUBESTACION PACIFICO A
+SUBESTACION PALAFITOS Y SUBESTACION CERRO DRAGON.
+No tiene consumo 
+afectado ninguno 22-03-26 01:00
+DI2026018925 SubestacionEjecución 
+Exitosa
+EMPRESA DE 
+TRANSMISIÓN ELÉCTRICA 
+TRANSEMEL S.A.
+400 Intervención Origen Externo Programada 1859 S/E CONDORES 22348 PA S/E CONDORES H3 Lavado de Aislación
+Sin 
+Limitacio
+nes
+No reconectar 52H3 de SE Condores, a solicitud de CGE por 
+apertura con tensión sobre 89HT1-1 en SE Pacifico.Riesgo controlado por parte de CGE. Faenas asociadas a DI 2026018480 de CGE. (SODI 46de CGE, 
+control interno TRANSEMEL).
+No tiene consumo 
+afectado ninguno 22-03-26 01:00
+DI2026021219 Subestacion Aprobado
+SISTEMA DE 
+TRANSMISIÓN DEL SUR 
+S.A.
+83 Desconexión Origen Externo Programada 530 S/E VALDIVIA (STS) 14292 PA S/E VALDIVIA (STS) JT1 Otro Tipo de Trabajo
+Sin 
+Limitacio
+nes
+Desconexión de Paño JT1 y Transferido a Paño JR de S/E 
+Valdivia, por deschicoteo con líneas energizadas hacia la barra 
+220Kv. sección N°1 y nodo de unión hacia el 89JT1-3 y TR1, 
+Desmontaje y Montaje  de desconectadores  89JT1-1 y 89JT1-
+2 por reemplazo. Confección de canalización en nuevo 89JT1-
+1 y 89JT1-2  y Conexión de cables remotos relacionados a 
+equipos 89JT1-1 y 89JT1-2, alimentación de servicios 
+auxiliares C.C y C.A, motivo por el reemplazo de los equipos 
+89JT1-1 y 89JT1-2, Trabajos relacionados con Proyecto NUP 
+4216.
+Riesgo controlado faenas se realizaran sin pérdida de 
+suministro y paño JT1 Transferido a Paño JR de S/E Valdivia.
+ Transferencia coordinado con Transelec.
+PTs 02510-02593-01516-01594-02404-02573 registro 
+interno STS,
+No tiene consumo 
+afectado ninguno 22-03-26 00:00
+DI2026018591 SubestacionEjecución 
+Exitosa CGE TRANSMISIÓN S.A. 2003 Desconexión Origen Interno Programada 369 S/E LA RONDA 121 T2D S/E LA RONDA BT1 Alambrado de control
+Sin 
+Limitacio
+nes
+Ronda”. La Desconexión total de la SE La Ronda para las 
+siguientes actividades:
+- Incorporación alarma y desenganche por temperatura de 
+aceite en transformador N°1.
+- Incorporación de desenganche por temperatura devanado 
+AT en transformador N°1.
+- Incorporación de alarma por temperatura devanado MT, 
+incorporación de alarma a X°C en transformador N°1.
+- Reubicación de estructura y aislador de pedestal de Fase 1 
+de alimentación del transformador N°1 (paño BT1).
+- Instalación de reconectador en salida de alimentador 
+disponible CT1.
+- Verificación y normalización de relación de transformación 
+del TC CT1
+Riesgo medio y controlado. No existirá afectación de clientes finales.
+Los consumos serán transferidos por redes de MT.
+No tiene consumo 
+afectado ninguno 22-03-26 00:00

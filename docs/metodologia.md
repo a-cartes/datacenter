@@ -2,7 +2,7 @@
 
 [Inicio](../README.md) · [Datos](datos.md) · [Reproducción](reproducir.md) · [Referencias](referencias.md)
 
-> **Estado de esta versión:** base observada y reconstrucción documentada. Las fechas causales, las cohortes y la exposición eléctrica siguen pendientes de validación. Las ecuaciones siguientes son el protocolo propuesto; no representan estimaciones ejecutadas.
+> **Estado al 27/09/2026:** v8 está construida desde v0.2.0 (3.411.527 precios), con 142.151 filas diarias y 4.756 mensuales. El [protocolo registrado v8](../SOCHER_2026_v8_panel_causal/documentos/protocolo_previo_v8.md) y su [configuración](../SOCHER_2026_v8_panel_causal/documentos/protocolo_config.json) fijan las decisiones operativas vigentes. Hay 24 hitos documentales y ningún evento causal habilitado. Las ecuaciones explican el diseño, no representan efectos estimados.
 
 ## 1. Pregunta, alcance y aporte verificable
 
@@ -167,7 +167,7 @@ El primer contraste mantiene exposiciones fijas; puede diferir del efecto total 
 
 ## 6. Muestra efectiva, inferencia y robustez
 
-Las **178.016 observaciones** son filas del panel, no 178.016 intervenciones independientes. Las **83 identidades históricas de barra** tampoco representan 83 centros, y los **24 hitos** no son 24 cohortes. Se informará, para cada estimación, el número de barras tratadas, campus independientes, cohortes, comparadores, períodos y unidades efectivas de agrupación, además de las filas utilizadas.
+La entrega histórica **v0.1.0** contenía 178.016 filas y 83 identidades de registro; esas cifras no describen el panel actual. **v0.2.0** contiene 3.411.527 precios y **v8** deriva 142.151 filas diarias y 4.756 mensuales, con 64 etiquetas y 266 segmentos observacionales. Ninguna de esas cantidades equivale a intervenciones independientes. Los 24 hitos de la nueva matriz tampoco son 24 cohortes. Se informará, para cada estimación habilitada, el número de barras tratadas, campus independientes, cohortes, comparadores, períodos y unidades efectivas de agrupación, además de las filas utilizadas.
 
 La inferencia debe reconocer dependencia temporal dentro de barra y dependencia entre barras por red, campus compartido o perturbaciones comunes. El nivel de agrupación se justificará desde la asignación y el proceso de errores; no se elegirá porque produzca intervalos estrechos. Con pocas intervenciones independientes, agrupar por barra no garantiza validez. Se examinarán procedimientos compatibles con el número y estructura de grupos disponibles; un bootstrap no repara por sí solo la falta de variación independiente. [Cameron y Miller](https://www.econ.ucdavis.edu/faculty/cameron/research/Cameron_Miller_JHR_2015_February.pdf) exponen estos límites.
 

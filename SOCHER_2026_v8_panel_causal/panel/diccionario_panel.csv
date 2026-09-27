@@ -1,0 +1,106 @@
+tabla,variable,tipo,descripcion
+panel_diario,mes,str,Mes YYYY-MM rotulado en la fuente; julio 2024 conserva dos familias de reloj.
+panel_diario,familia_reloj,str,H: etiquetas históricas 1–25; M: HRA moderna 0–24. Sin conversión UTC ni unión entre familias.
+panel_diario,barra_cmg,str,Etiqueta observacional de precio. No acredita por sí sola identidad física o relación con un campus.
+panel_diario,fecha,str,Fecha rotulada de la fuente. No representa un instante UTC acreditado.
+panel_diario,n_horas_observadas,int64,"Número de etiquetas horarias con precio válido, distintas por fecha y reloj; no número de eventos independientes."
+panel_diario,n_pares_q110,int64,Número de diferencias con Quillota 110 emparejadas por fecha/reloj/etiqueta horaria.
+panel_diario,n_pares_q220,int64,Número de diferencias con Quillota 220 emparejadas por fecha/reloj/etiqueta horaria.
+panel_diario,precio_mean_usd_mwh,float64,"Media aritmética de horas observadas del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,precio_std_usd_mwh,float64,"Desviación estándar muestral de horas observadas del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,precio_min_usd_mwh,float64,"Mínimo horario observado del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,precio_max_usd_mwh,float64,"Máximo horario observado del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q110_mean_usd_mwh,float64,"Media aritmética de horas observadas del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q110_std_usd_mwh,float64,"Desviación estándar muestral de horas observadas del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q110_min_usd_mwh,float64,"Mínimo horario observado del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q110_max_usd_mwh,float64,"Máximo horario observado del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q220_mean_usd_mwh,float64,"Media aritmética de horas observadas del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q220_std_usd_mwh,float64,"Desviación estándar muestral de horas observadas del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q220_min_usd_mwh,float64,"Mínimo horario observado del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,dif_q220_max_usd_mwh,float64,"Máximo horario observado del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_diario,etiquetas_observadas,str,"Lista ordenada de etiquetas horarias fuente válidas, separadas por coma; vacía si falta todo el día."
+panel_diario,etiquetas_union,str,Lista ordenada de etiquetas observadas en alguna barra ese día/reloj.
+panel_diario,n_etiquetas_union,int64,Número de etiquetas observadas en alguna barra del mismo día/reloj. No detecta omisiones simultáneas de todas las barras.
+panel_diario,firma_etiquetas,str,SHA-256 de familia_reloj + | + lista de etiquetas; permite comprobar mismo soporte diario entre barras.
+panel_diario,n_horas_ausentes_frente_union,int64,Etiquetas de la unión diaria ausentes en esta barra; no imputadas.
+panel_diario,cobertura_frente_union,float64,n_horas_observadas / n_etiquetas_union; no cobertura contra reloj físico independiente.
+panel_diario,soporte_24_etiquetas,bool,"24 etiquetas únicas válidas y parejas completas en ambas referencias. Filtro técnico, nunca elegibilidad causal."
+panel_diario,estado_observacion,str,"completa_frente_union, parcial_frente_union o sin_observacion. No afirma integridad física del reloj."
+panel_diario,serie_segmento_id,str,"Segmento observacional por etiqueta, reloj, código literal y meses contiguos. No certifica identidad física."
+panel_diario,id_documental_tipo,str,"nemotecnico_historico, ID_INFO_moderno, sin_identidad o ambiguo; se determina por mes sin transportar códigos."
+panel_diario,codigo_documentado,str,Código histórico mensual exacto o ID_INFO moderno publicado y no marcador. No equivale a enlace físico longitudinal.
+panel_diario,identidad_longitudinal_certificada,bool,Siempre falso en este producto: requiere expediente de conexión y vigencia externo al panel de precios.
+panel_diario,overlay_agosto2023,bool,"Indica código agregado por unión exacta al libro adicional de agosto de 2023, fuera de v0.2.0."
+panel_diario,tiene_marcador_no_mostrar,bool,Alguna variante moderna incluye el texto [NO_MOSTRAR]; se conserva y no elimina precios.
+panel_diario,regimen_precio,str,"Régimen original de publicación, sin mezcla de PRE."
+panel_diario,fuente_id,str,Llave original a Fuentes_precios.csv congelado; la agregación no cambia la fuente.
+panel_mensual,mes,str,Mes YYYY-MM rotulado en la fuente; julio 2024 conserva dos familias de reloj.
+panel_mensual,familia_reloj,str,H: etiquetas históricas 1–25; M: HRA moderna 0–24. Sin conversión UTC ni unión entre familias.
+panel_mensual,barra_cmg,str,Etiqueta observacional de precio. No acredita por sí sola identidad física o relación con un campus.
+panel_mensual,n_horas_observadas,int64,"Número de etiquetas horarias con precio válido, distintas por fecha y reloj; no número de eventos independientes."
+panel_mensual,n_pares_q110,int64,Número de diferencias con Quillota 110 emparejadas por fecha/reloj/etiqueta horaria.
+panel_mensual,n_pares_q220,int64,Número de diferencias con Quillota 220 emparejadas por fecha/reloj/etiqueta horaria.
+panel_mensual,precio_mean_usd_mwh,float64,"Media aritmética de horas observadas del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,precio_std_usd_mwh,float64,"Desviación estándar muestral de horas observadas del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,precio_min_usd_mwh,float64,"Mínimo horario observado del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,precio_max_usd_mwh,float64,"Máximo horario observado del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q110_mean_usd_mwh,float64,"Media aritmética de horas observadas del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q110_std_usd_mwh,float64,"Desviación estándar muestral de horas observadas del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q110_min_usd_mwh,float64,"Mínimo horario observado del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q110_max_usd_mwh,float64,"Máximo horario observado del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q220_mean_usd_mwh,float64,"Media aritmética de horas observadas del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q220_std_usd_mwh,float64,"Desviación estándar muestral de horas observadas del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q220_min_usd_mwh,float64,"Mínimo horario observado del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q220_max_usd_mwh,float64,"Máximo horario observado del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,n_dias_calendario_regimen,int64,"Días del calendario entre comienzo/fin del mes dentro del régimen y corte DEF global, incluso días sin precio de una barra."
+panel_mensual,n_dias_con_precio,int64,Días rotulados con al menos una etiqueta de precio en el mes y reloj.
+panel_mensual,n_dias_24,int64,Días que satisfacen el filtro técnico soporte_24_etiquetas.
+panel_mensual,n_horas_ausentes_frente_union,int64,Etiquetas de la unión diaria ausentes en esta barra; no imputadas.
+panel_mensual,n_etiquetas_union,int64,Número de etiquetas observadas en alguna barra del mismo día/reloj. No detecta omisiones simultáneas de todas las barras.
+panel_mensual,n_dias_sin_precio,int64,Días de ese calendario mensual sin precio observado; no son ceros.
+panel_mensual,mes_civil_completo_en_regimen,bool,Todas las fechas civiles del mes dentro de este reloj y corte DEF; falso en julio 2024 y septiembre 2026.
+panel_mensual,cobertura_frente_union,float64,n_horas_observadas / n_etiquetas_union; no cobertura contra reloj físico independiente.
+panel_mensual,n_horas_dias_24,int64,Etiquetas de los días que satisfacen soporte_24_etiquetas; 24 por día.
+panel_mensual,precio_mean_usd_mwh_dias_24,float64,"Media mensual sobre horas de días con exactamente 24 etiquetas y parejas completas: Media aritmética de horas observadas del precio original, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q110_mean_usd_mwh_dias_24,float64,"Media mensual sobre horas de días con exactamente 24 etiquetas y parejas completas: Media aritmética de horas observadas del diferencial horario emparejado barra menos Quillota 110, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,dif_q220_mean_usd_mwh_dias_24,float64,"Media mensual sobre horas de días con exactamente 24 etiquetas y parejas completas: Media aritmética de horas observadas del diferencial horario emparejado barra menos Quillota 220, USD/MWh. Mensual pondera horas; sin imputación ni inferencia causal."
+panel_mensual,serie_segmento_id,str,"Segmento observacional por etiqueta, reloj, código literal y meses contiguos. No certifica identidad física."
+panel_mensual,id_documental_tipo,str,"nemotecnico_historico, ID_INFO_moderno, sin_identidad o ambiguo; se determina por mes sin transportar códigos."
+panel_mensual,codigo_documentado,str,Código histórico mensual exacto o ID_INFO moderno publicado y no marcador. No equivale a enlace físico longitudinal.
+panel_mensual,identidad_longitudinal_certificada,bool,Siempre falso en este producto: requiere expediente de conexión y vigencia externo al panel de precios.
+panel_mensual,overlay_agosto2023,bool,"Indica código agregado por unión exacta al libro adicional de agosto de 2023, fuera de v0.2.0."
+panel_mensual,tiene_marcador_no_mostrar,bool,Alguna variante moderna incluye el texto [NO_MOSTRAR]; se conserva y no elimina precios.
+panel_mensual,regimen_precio,str,"Régimen original de publicación, sin mezcla de PRE."
+panel_mensual,fuente_id,str,Llave original a Fuentes_precios.csv congelado; la agregación no cambia la fuente.
+mapeo_mensual,mes,str,Mes YYYY-MM rotulado en la fuente; julio 2024 conserva dos familias de reloj.
+mapeo_mensual,familia_reloj,str,H: etiquetas históricas 1–25; M: HRA moderna 0–24. Sin conversión UTC ni unión entre familias.
+mapeo_mensual,barra_cmg,str,Etiqueta observacional de precio. No acredita por sí sola identidad física o relación con un campus.
+mapeo_mensual,id_documental_tipo,str,"nemotecnico_historico, ID_INFO_moderno, sin_identidad o ambiguo; se determina por mes sin transportar códigos."
+mapeo_mensual,codigo_documentado,str,Código histórico mensual exacto o ID_INFO moderno publicado y no marcador. No equivale a enlace físico longitudinal.
+mapeo_mensual,nombre_documentado,str,Nombre histórico o moderno documentado; múltiples variantes se conservan como JSON.
+mapeo_mensual,barra_mes_id_originales_json,str,Lista JSON de claves originales barra_mes_id; evita confundir marcadores modernos con nodos independientes.
+mapeo_mensual,n_variantes_metadatos,int64,Variantes originales exactas dentro de etiqueta/mes/reloj; marcadores se conservan en mapeo_metadatos_observados.csv.
+mapeo_mensual,overlay_agosto2023,bool,"Indica código agregado por unión exacta al libro adicional de agosto de 2023, fuera de v0.2.0."
+mapeo_mensual,tiene_marcador_no_mostrar,bool,Alguna variante moderna incluye el texto [NO_MOSTRAR]; se conserva y no elimina precios.
+mapeo_mensual,identidad_longitudinal_certificada,bool,Siempre falso en este producto: requiere expediente de conexión y vigencia externo al panel de precios.
+mapeo_mensual,nota_identidad,str,Límite de interpretación del código documental del mes.
+mapeo_mensual,regimen_precio,str,"Régimen original de publicación, sin mezcla de PRE."
+mapeo_mensual,fuente_id,str,Llave original a Fuentes_precios.csv congelado; la agregación no cambia la fuente.
+mapeo_mensual,n_filas,int64,Número de observaciones horarias originales asociado a la fila de trazabilidad.
+mapeo_mensual,serie_segmento_id,str,"Segmento observacional por etiqueta, reloj, código literal y meses contiguos. No certifica identidad física."
+mapeo_metadatos_observados,mes,str,Mes YYYY-MM rotulado en la fuente; julio 2024 conserva dos familias de reloj.
+mapeo_metadatos_observados,familia_reloj,str,H: etiquetas históricas 1–25; M: HRA moderna 0–24. Sin conversión UTC ni unión entre familias.
+mapeo_metadatos_observados,barra_cmg,str,Etiqueta observacional de precio. No acredita por sí sola identidad física o relación con un campus.
+mapeo_metadatos_observados,barra_mes_id,str,Clave mensual original; no identidad longitudinal certificada.
+mapeo_metadatos_observados,barra_cmg_original,str,Etiqueta original antes de normalización histórica v0.2.0; conservada literalmente.
+mapeo_metadatos_observados,codigo_fisico_mensual,str,Código mensual original de v0.2.0; el overlay no lo sobrescribe.
+mapeo_metadatos_observados,nombre_fisico_mensual,str,Nombre mensual original de v0.2.0.
+mapeo_metadatos_observados,id_info_fuente,str,"ID_INFO original moderno; incluye vacío o 0 donde publicado, sin imputación."
+mapeo_metadatos_observados,barra_info_fuente,str,"Nombre original moderno, con marcadores literales conservados."
+mapeo_metadatos_observados,familia_barra_historica,str,Filtro histórico original; no entidad física certificada.
+mapeo_metadatos_observados,estado_identidad,str,Estado original v0.2.0 de homologación o ausencia documental.
+mapeo_metadatos_observados,regimen_precio,str,"Régimen original de publicación, sin mezcla de PRE."
+mapeo_metadatos_observados,fuente_id,str,Llave original a Fuentes_precios.csv congelado; la agregación no cambia la fuente.
+mapeo_metadatos_observados,fecha_desde_observada,str,Primera fecha observada de la variante; no fecha de vigencia eléctrica.
+mapeo_metadatos_observados,fecha_hasta_observada,str,Última fecha observada de la variante; no fecha de vigencia eléctrica.
+mapeo_metadatos_observados,n_filas,int64,Número de observaciones horarias originales asociado a la fila de trazabilidad.

@@ -1,0 +1,25 @@
+evento_id,barra_cmg,estado_soporte,habilita_causalidad,g_candidato,pre_desde,pre_hasta,post_hasta,dias_pre_24_pares,dias_post_24_pares,base_observada_24_pares,ventana_calendario_dentro_base,cruza_cambio_regimen,soporte_mecanico_individual,soporte_temporal_protocolo,motivo
+EDGE_DC01_2020,CHACABUCO_____110,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+EDGE_DC01_ETAPA2_PREVISION,CHICUREO______220,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+EDGE_PES_20240407,CANTERAS______110,COBERTURA_O_ENLACE_INSUFICIENTE,NO,2024-04-08,2023-12-18,2024-03-31,2024-07-06,0.0,90.0,False,True,False,False,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+EDGE_EO3016,CANTERAS______110,COBERTURA_O_ENLACE_INSUFICIENTE,NO,2024-05-03,2024-01-12,2024-04-25,2024-07-31,24.0,90.0,True,True,True,False,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+EDGE_EO3975,CANTERAS______110,COBERTURA_O_ENLACE_INSUFICIENTE,NO,2024-05-30,2024-02-08,2024-05-22,2024-08-27,51.0,90.0,True,True,True,False,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+EDGE_RETIRO_20240624,CANTERAS______110,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+EDGE_T3_PES_20240806,CANTERAS______110,CRUZA_RELOJ_SIN_PUENTE,NO,2024-08-07,2024-04-17,2024-07-30,2024-11-04,105.0,90.0,True,True,True,True,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+EDGE_T3_EO_20240819,CANTERAS______110,CRUZA_RELOJ_SIN_PUENTE,NO,2024-08-20,2024-04-30,2024-08-12,2024-11-17,105.0,90.0,True,True,True,True,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+DATALUNA_PRUEBAS202001,TLIBERTADORES_110,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+DATALUNA_EO_20200616,TLIBERTADORES_110,COBERTURA_O_ENLACE_INSUFICIENTE,NO,2020-06-17,2020-02-26,2020-06-09,2020-09-14,69.0,90.0,True,True,False,False,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+ASCENTY_ALIMENTADOR20200620,CHACABUCO_____013,CANDIDATO_CON_COBERTURA,NO,2020-06-21,2020-03-01,2020-06-13,2020-09-18,104.0,90.0,True,True,False,True,True,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+ASCENTY_CHILE1_INAUG20201117,,COBERTURA_O_ENLACE_INSUFICIENTE,NO,2020-11-18,2020-07-29,2020-11-10,2021-02-15,0.0,0.0,False,True,False,False,False,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+ASCENTY_E53_20250505,CHACABUCO_____110,CANDIDATO_CON_COBERTURA,NO,2025-05-06,2025-01-14,2025-04-28,2025-08-03,104.0,90.0,True,True,False,True,True,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+ASCENTY_CHILE2_T10_PREV202608,CHACABUCO_____110,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+SONDA_ALIMENTADOR20200909,CHACABUCO_____023,CANDIDATO_CON_COBERTURA,NO,2020-09-10,2020-05-21,2020-09-02,2020-12-08,105.0,90.0,True,True,False,True,True,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+SONDA_KUDOS_OPERACION2020,,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+SONDA_ENLACE20241210,CHACABUCO_____110,CANDIDATO_CON_COBERTURA,NO,2024-12-11,2024-08-21,2024-12-03,2025-03-10,105.0,90.0,True,True,False,True,True,"Soporte individual de etiquetas. Faltan comparación común, identidad/vigencia, exposición y demás puertas del protocolo."
+ODATA_ST01_OPERACION2022,,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+ODATA_ST01_FASE2_2023,,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+ODATA_NUP2129_CONEXION,,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+ODATA_ST02_PES20260322,PANAMERICANA__110,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+SANTA_TERESA_PENDIENTE,,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+CIRION_QUILICURA_PENDIENTE,,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,
+QUILICURA_NO_ADJUDICADO,QUILICURA_____110,SIN_FECHA_DIARIA_REALIZADA,NO,,,,,,,,,,,,

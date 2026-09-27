@@ -1,0 +1,54 @@
+7
+CAMBIOS TOPOLÓGICOS RELEVANTES 
+SEN
+Centro de Control
+Instalación
+Fecha F/S
+Hora F/S
+Fecha E/S
+Hora E/S
+Gen. Metropolitana
+S/E Santiago Solar 52H2 abierto por control transferencia de línea de 110 kV Quillota - San Pedro.
+22/06/2024
+20:48
+25/06/2024
+16:05
+Celeoredes
+S/E Mulchén línea de 220 kV Mulchén - Los Notros 1 y 2 abiertas por control transferencia de anillo de 220 kV Charrúa
+- Los Notros - Mulchén - Santa Clara.
+24/06/2024
+21:04
+25/06/2024
+00:37
+Chilquinta
+S/E Las Vegas 52H4 abierto por control transferencia de línea de 110 kV Quillota - San Pedro.
+24/06/2024
+21:40
+25/06/2024
+12:09
+CGE
+S/E Villa Alegre 52B1 cerrado para disminuir profundidad de falla ante eventual robo de conductor.
+25/06/2024
+00:14
+25/06/2024
+06:49
+CGE
+S/E Chillán interruptor B2 cerrado y S/E Monterrico interruptor B4 cerrado para disminuir profundidad de falla ante
+eventual robo de conductor.
+25/06/2024
+00:20
+25/06/2024
+06:51
+Gen. Metropolitana
+S/E Santiago Solar 52H2 cerrado y 52H1 abierto por control transferencia ATR2 + ATR3 de 220/110 kV de S/E Cerro
+Navia.
+25/06/2024
+16:05
+Chilquinta
+S/E Las Vegas 52H4 abierto por control transferencia de línea de 110 kV Quillota - San Pedro.
+25/06/2024
+16:09
+CGE
+S/E Curico 52CS cerrado por control de transferencias del Transformador de 66/13.2 kV y 30 MVA N°2.
+25/06/2024
+19:12

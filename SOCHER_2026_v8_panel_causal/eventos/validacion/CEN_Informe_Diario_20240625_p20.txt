@@ -1,0 +1,86 @@
+12:34
+CGE
+S/E Monte Patria paño ET2 con solicitud de intervención de curso forzoso. Causa informada: No reconectar para corrección de punto con temperatura con alta prioridad en DDCC
+89E2 - 1, según SICF 2024065155.
+13:00
+Enel
+Generación
+C. Curillinque cancelada solicitud de intervención de curso forzoso SICF 2024061700.
+13:04
+Transelec
+S/E Tinguiririca paño A8 cancelada solicitud de intervención de curso forzoso, según SICF 2024065066.
+13:07
+CGE
+Línea de 66 kV Parral - Cauquenes cerrada, cancelado IF 2024002787.
+13:08
+Chilquinta
+S/E Paso Hondo transformador N° 1 de 66/23-13.2 kV,12.5 MVA queda disponible y en servicio, cancelado IF 2024002796.
+13:32
+AES Andes
+S/E Central Queltehues línea de 12 kV C. Queltehues - Bocatoma Volcán cancelada solicitud de desconexión de curso forzoso SDCF 2024064425.
+13:35
+Enel
+Generación
+C. Antuco U-2 limitada a MTP de 100 MW. Causa informada: Alta vibración bajo esta carga, según IL 2024001013.
+14:00
+Enel Green
+Power
+S/E Bella Mónica interruptor JR disponible, cancelado IF 2024002668.
+14:17
+TEN
+Línea de 220 kV Nueva Pozo Almonte - Parinacota cancelada 
+limitación IL 2023000844 (reconexión automática habilitada).
+15:53
+STS
+Línea de 66 kV Valdivia - Los Lagos interrupción forzada por protecciones, según IF 2024002793.
+15:55
+CGE
+Línea de 66 kV Villarrica - Pucón cancelada solicitud de intervención de curso forzoso, SICF 2024065068.
+16:13
+Engie
+Generación
+S/E Central Tocopilla transformador de 220/21 KV de U16 cancelada solicitud de intervención de curso forzoso, según SICF 2024064929.
+16:18
+AES Andes
+C. PFV Andes Solar 2A inicia maniobras para la inyección al SEN.
+16:35
+Enel
+Generación
+C. Sauzal U-1 disponible, cancelada solicitud de desconexión de curso forzoso, según SDCF 2024065098.
+16:35
+CGE
+S/E Monte Patria paño ET2 cancelada solicitud de intervención de curso forzoso, según SICF 2024065155.
+17:46
+Siemens
+S/E Rio Escondido interruptor 52Jt1 con solicitud de desconexión de curso forzoso. Causa informada: Realizar los trabajos de inspección de celda FT1 por perdida SF6, según SDCF
+2024065529.
+17:54
+Engie
+Transmisión
+Línea de 100 kV Chuquicamata - K1 cancelada solicitud de desconexión de curso forzoso, según SDCF 2024064913.
+18:05
+Engie
+Generación
+C. Mejillones IEM sin limitación, cancelado IL 2024001008.
+18:09
+Ferrovial
+S/E Punta Sierra transformador de corriente de facturación con solicitud de intervención de curso forzoso. Causa informada: 
+Reapriete de bornera que presenta punto caliente, según
+SICF 2024065554.
+18:33
+Ferrovial
+S/E Punta Sierra transformador de corriente de facturación cancelada solicitud de intervención de curso forzoso, según SICF 2024065554.
+20:18
+Colbún
+C. Nehuenco 2 sin limitación, cancelada IL 2024000880.
+20:53
+LAP
+Línea de 110 kV Río Toltén - Cunco cancelada solicitud de intervención de curso forzoso, SICF 2024065081.
+23:05
+Siemens
+S/E Rio Escondido interruptor 52Jt1 cancelada solicitud de desconexión de curso forzoso, según SDCF 2024065529 y SDCF 2024057608. C. PFV Rio Escondido sin limitación,
+cancelada IL 2024000873
+Hora
+Centro de
+Control
+Observación

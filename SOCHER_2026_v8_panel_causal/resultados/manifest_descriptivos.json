@@ -1,0 +1,12 @@
+{
+  "filas_panel_diario": 142151,
+  "barra_dias_descripcion_24_pares_excluye_referencia": 139277,
+  "evento_barras_evaluados": 24,
+  "efectos_causales_estimados": 0,
+  "protocolo_sha256": "338f6d578d048c588fc329d1ce48758fbda7229608bcbb50c583ec381e686697",
+  "panel_sha256": "0fe7976c91a61f8b4e8af35b94b6d7d4608e172c5b6518248ddb20ea1e737d73",
+  "eventos_sha256": "eb02e8ef3ca9a6d6b8bc94c6225364c1a533ab8c63303de1ea387ce094d87c54",
+  "script_sha256": "bd1876097382fd0a659f12afa854ae465649623afacda062aab59b8d7cc24999",
+  "no_es_muestra_causal": true,
+  "bandas_figuras": "percentiles_descriptivos_no_intervalos_de_confianza"
+}

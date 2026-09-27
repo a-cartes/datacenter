@@ -1,0 +1,62 @@
+FALLA_ID NOMBRE_FALLA FECHA_FALLA ACCIONES_CORRECTIVAS 
+EAF 479_2023 
+Desconexión forzada de las 
+barras N°1 23 kV y Auxiliar 
+23 kV de S/E San Pablo 
+04-11-2023 
+La empresa Sociedad Transmisora Metropolitana II S.A. 
+señala: 
+- “Ocurrida las operaciones automáticas, personal de la 
+guardia de operaciones presente en la subestación, realizó 
+una revisión visual de la Barra MT1 y de la Barra Auxiliar, sin 
+identificar punto de falla visible. Acto seguido se coordinaron 
+las pruebas de energización con resultado satisfactorio. 
+Posteriormente personal de mantenimiento de equipos, 
+realizó una inspección exhaustiva de ambas barras, 
+identificando descargas en 5 aisladores de soporte de barra. 
+Específicamente 3 aisladores de la Barra Principal y 2 
+aisladores de la Barra Auxiliar. 
+Durante la madrugada del domingo 05 de noviembre 
+mediante curso forzoso, se reemplazaron los 5 aisladores 
+dañados”. 
+EAF 486_2023 Falla en línea 110 kV Cerro 
+Navia - Lo Aguirre N°2 
+08-11-2023 
+Sociedad Transmisora Metropolitana II S.A. señala que 
+“ocurrida la OA, inmediatamente se inició el patrullaje de la 
+línea en forma pedestre y con drone encontrando signo de 
+descarga eléctrica en la estructura T58, en donde se encontró 
+signos de descarga en base de aislación y chisporroteos en 
+conductor, tal como se observa en las fotografías. Durante el 
+mes de diciembre 2023 se coordinará el reemplazo del 
+aislador dañado.” 
+ 
+Cantidad de fallas (sin importar Fenómeno Físico) en la misma instalación: Se ha producido 1 falla en 
+la misma instalación afectada durante los últimos 24 meses móviles, correspondie nte al Estudio para 
+análisis de Falla EAF 344-2023. 
+      d.4 Fenómeno eléctrico 
+PR87T: Protección diferencial de transformador. 
+      e. Detalles de la instalación, equipo o elemento donde se produjo l a falla 
+El elemento donde se produjo la falla corresponde al pararrayos del  paño DT8 de S/E Chacabuco, del 
+cual solo se tiene información de su tensión nominal (21 kV), de acuerdo con los registros del sistema 
+Infotécnica del Coordinador. 
+      f. Ubicación urbana o rural según DS 327/1997  
+Urbano. 
+      g. Proposición del propietario respecto del origen de la fal la 
+Interna. 
+      h. Comuna donde se presenta la falla  
+13125: Quilicura. 
+i. Fecha de entrega de la información al Coordinador 
+Coordinado Informe de 48 horas 
+(12/12/2024) 
+Informe de 5 días 
+(17/12/2024) 
+Sociedad Transmisora Metropolitana S.A. (STM) 10/12/2024 17/12/2024 
+Enel Distribución Chile S.A. (Enel Distribución)  10/12/2024 19/12/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,32 @@
+ 
+Enel Distribución Chile S.A.- Roger de Flor N° 2725 Las Condes – Chile / T: +56 2 26752000 
+Informe de Falla - diciembre de 2024 
+ 
+ 
+ 
+ Análisis conjunto  
+ 
+El martes 10 de diciembre a las 03:28
+ horas se produce la pérdida de suministro en los alimentadores El 
+Quillay, Galvarino, Cañaveral, Luna 2 y Sonda, lo anterior d ebido a la operación automática (OA) de 
+interruptor barra principal 23 kV N°8 de la subestación Chacabuco, de propiedad de la empresa STM II S.A.  
+A las 03:38 horas, se logró restablecer el suministro al 84% de nuestros clientes, mediante distribución y 
+energización de la barra principal N°8, mientras que el 16% de los clientes restantes fueron normalizados 
+entre las 03:38 y 05:15 horas. 
+ Otros antecedentes  
+10.1 Reiteración de la falla 
+No Aplica 
+10.2 Acciones correctivas CP 
+No aplica.  
+10.3 Acciones correctivas LP 
+No Aplica 
+10.4 Código de falla 
+No Aplica 
+10.5 Mantenimientos realizados en los últimos 24 meses 
+No aplica 
+10.6 Clasificación de la falla  
+La contingencia es clasificada como falla externa. 
+ 
+10.7 Clasificación de la ubicación de acuerdo con lo  indicado en el Decreto 327 del año 1997 
+del Ministerio de Minería, Título IX, Artículo 25. 
+La contingencia es clasificada como urbana.  

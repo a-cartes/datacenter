@@ -1,0 +1,48 @@
+ 
+Sociedad Transmisora Metropolitana S.A.- Domínica 185, Recoleta, Santiago, Chile 
+Informe de Falla - diciembre de 2024 
+ 
+ Pérdidas de consumo 
+6.1 Sistema de Transmisión 
+ 
+Elemento Afectado Segmento Tramo Fecha 
+Desconexión 
+Hora 
+Desconexión 
+Fecha 
+Normalización 
+Hora 
+Normalización 
+S/E Chacabuco ST Zonal T8 10-12-2024 03:28 10-12-2024 10:15 
+6.2 Consumos 
+ 
+Lugar Componente Fecha Inicio Hora Inicio Fecha 
+Término Hora Término Status 
+S/E Chacabuco Barra 23kV n°8 10-12-2024 03:28 10-12-2024 03:36 Sin energía 
+8min 
+ 
+Los consumos de la barra 8 de S/E Chacabuco (alimentadores Galvarino, Cañaveral, Luna2, Sonda y Quillay) 
+corresponden a la empresa Enel Distribución. 
+ Cronología de eventos 
+7.1 Eventos durante la evolución de la falla 
+ 
+• 10/12/2024 a las 03:28:49 horas: O.A. del alimentador Quillay por falla en distribución  (apertura 52E58). 
+• 10/12/2024 a las 03:28:54 horas (5 segundos después): O.A. del T8 de S/E Chacabuco (apertura 52HT8 
+y 52ET8). 
+ 
+7.2 Acciones orientadas a la reposición del servicio y normalización de las instalaciones 
+ 
+• 10/12/2024 de 3:29 a 3:35 horas: apertura manual interruptores MT de los alimentadores de l a barra 8 
+sin falla. 
+• 10/12/2024 a las 3:36 horas: cierre acoplador de barras 23kV 3-8 (52ER3-8), volviendo a energizar barra 
+23 kV. 
+• 10/12/2024 de 3:37 a 3:39 horas: cierre manual interruptores MT de los alimentadores de la barra 8, 
+recuperado el suministro a los clientes afectados por la OA del T8. 
+• 10/12/2024 a las 10:15 horas: luego de finalizadas las pruebas al T8 con res ultado satisfactorio, se 
+procede al cierre del 52HT8, volviendo a energizar el transformador. 
+ 
+7.3 Registros sistema Scada 
+ 
+Se adjuntan registros Scada. 
+Registros Scada.pdf
+ 

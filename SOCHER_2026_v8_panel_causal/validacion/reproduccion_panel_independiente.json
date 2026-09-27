@@ -1,0 +1,30 @@
+{
+  "estado": "OK",
+  "creado_utc": "2026-09-27T17:08:18.591433+00:00",
+  "alcance": "Segunda ejecución local desde /private/tmp mediante --root y salida independiente; no es otro sistema operativo ni revisión independiente de causalidad.",
+  "archivos_tabulares_identicos_sha256": 12,
+  "comprobaciones": {
+    "filas_horarias_fuente": true,
+    "filas_diarias": true,
+    "filas_mensuales": true,
+    "segmentos_observacionales": true,
+    "homologacion_agosto2023": true,
+    "verificacion_csv_relectura": true,
+    "script_sha256": true
+  },
+  "script_sha256": "a0b6e21816c8036fbcb326e6194175162b0108fcd7747f77cb5da0bb7e21b506",
+  "huellas": {
+    "panel/panel_diario.csv": "0fe7976c91a61f8b4e8af35b94b6d7d4608e172c5b6518248ddb20ea1e737d73",
+    "panel/panel_diario.parquet": "50f683560534c332454838c1f8aed7de2530e2b027f05642d25860dcae30c757",
+    "panel/panel_mensual.csv": "71e9d70dd6f2432386b5afa74785ca03019b2fc2511293d03e3f908664cc9940",
+    "panel/panel_mensual.parquet": "320271033de055d1ae3b0fb9fa111a8d3c4c69b6b650c3e7a87201e2e06f8ca5",
+    "panel/mapeo_mensual.csv": "da0fea15e69b5117b9275d3e1303cfa186030a0c8fa06bbb7f6469fc08d1e055",
+    "panel/mapeo_metadatos_observados.csv": "5bda25d24561be0c81501283ac11635ce520512dc88a43c5186793524a245c41",
+    "panel/dias_con_ausencias.csv": "c4be650c778552875698930caabafe20518852a1b3cdf15be51b42b647603fc7",
+    "panel/calendario_etiquetas_observadas.csv": "d6cff4575aa2186ae3227916ebd5299ebdd377148ea43952f4883bf6645c05d6",
+    "panel/cambios_documentales_segmentos.csv": "c4c52d3c7002d8bca4f57b43eb73931f5b4aef1db4eb1d8bc64db7b727db90dc",
+    "panel/homologacion_agosto2023_validada.csv": "ddd57a0214cd431ac0201134ebb054ef85bd2cd0f9a0a9617737ed3170fb130b",
+    "panel/diccionario_panel.csv": "985dfdf0b9a839257714b2c2a5c08763911b04774bbf2305ae54cc4dd9ecf338",
+    "panel/cobertura_mes_reloj.csv": "f2338503dea692f7bbe4d5d8139d14217fd00e8fe5c2e2ce602ec353975a7f28"
+  }
+}

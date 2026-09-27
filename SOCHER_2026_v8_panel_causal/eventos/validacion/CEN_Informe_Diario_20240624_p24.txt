@@ -1,0 +1,60 @@
+7
+CAMBIOS TOPOLÓGICOS RELEVANTES 
+SEN
+Centro de Control
+Instalación
+Fecha F/S
+Hora F/S
+Fecha E/S
+Hora E/S
+Gen. Metropolitana
+S/E Santiago Solar 52H2 abierto por control transferencia de línea de 110 kV Quillota - San Pedro.
+22/06/2024
+20:48
+CGE
+S/E Villa Alegre 52B1 cerrado para disminuir profundidad de falla ante eventual robo de conductor.
+23/06/2024
+23:36
+24/06/2024
+06:59
+CGE
+S/E Chillán interruptor B2 cerrado y S/E Monterrico interruptor B4 cerrado para disminuir profundidad de falla ante
+eventual robo de conductor.
+23/06/2024
+23:37
+24/06/2024
+07:00
+AES Andes
+S/E La Cebada interruptor JS abierto por control de transferencias de las líneas 220 kV Las Palmas - Los Vilos.
+24/06/2024
+12:48
+24/06/2024
+18:14
+Pacific Hydro
+S/E Punta Sierra interruptores J4 y J6 abiertos por control de transferencias de las líneas 220 kV Las Palmas - Los
+Vilos.
+24/06/2024
+12:52
+24/06/2024
+18:19
+Enor Chile
+S/E Don Goyo interruptor J3 abierto por control de transferencias de las líneas 220 kV Las Palmas - Los Vilos.
+24/06/2024
+12:55
+24/06/2024
+18:12
+Transelec
+S/E Las Palmas interruptor J7 abierto por control de transferencias de las líneas 220 kV Las Palmas - Los Vilos.
+24/06/2024
+12:59
+24/06/2024
+18:14
+Celeoredes
+S/E Mulchén línea de 220 kV Mulchén - Los Notros 1 y 2 abiertas por control transferencia de anillo de 220 kV Charrúa
+- Los Notros - Mulchén - Santa Clara.
+24/06/2024
+21:04
+Chilquinta
+S/E Las Vegas 52H4 abierto por control transferencia de línea de 110 kV Quillota - San Pedro.
+24/06/2024
+21:40

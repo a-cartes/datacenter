@@ -1,0 +1,6 @@
+configuracion_id,instalacion,fecha_inicio_etiqueta,fecha_fin_etiqueta,estado,motivo,fuente_ids,localizador,reloj,uso
+C01,LasVegas52H4,2024-06-24 21:40,2024-06-25 12:09,abierto,Control transferencia Quillota-SanPedro,S006;S007,p24 seccion7,etiqueta informe no UTC inferido,confusor operacional potencial; no tratamientoDC
+C02,LasVegas52H4,2024-06-25 16:09,,abierto,Control transferencia Quillota-SanPedro,S007,p24 seccion7,etiqueta informe no UTC inferido,fin desconocido; no asumir permanente
+C03,SantiagoSolar52H2,2024-06-22 20:48,2024-06-25 16:05,abierto,Control transferencia Quillota-SanPedro,S006;S007,p24 seccion7,etiqueta informe no UTC inferido,configuracion previa y concurrente
+C04,SantiagoSolar52H2cerrado52H1abierto,2024-06-25 16:05,,H2cerradoH1abierto,Control transferencia ATR2+ATR3 CerroNavia220/110,S007,p24 seccion7,etiqueta informe no UTC inferido,fin desconocido
+C05,LineaDonHumbertoPuntaPeuco110kV,2024-06-25 17:33,,primeraenergizacion,Primeraenergizacion,S007,p21 seccion4.3,etiqueta informe no UTC inferido,hito red distinto deDC

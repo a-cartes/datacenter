@@ -1,0 +1,35 @@
+{
+  "entradas": [
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Dataset_precios_barra_hora_2020_2026.parquet",
+      "bytes": 55818438,
+      "sha256": "84ca36dc328434dbeb9c0dda511b8eca1f4ee6caee48c29c0b642db7b7c93a00"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Dataset_precios_barra_hora_2020_2026.csv",
+      "bytes": 1212668988,
+      "sha256": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/auditoria/control_descargas_20260927/miembros_nuevos/202308/Homologación barras cmg 2308.xlsx",
+      "bytes": 59318,
+      "sha256": "435602c95a5e18e813f3f677d3140bd6298be046a5fd36c60459552be562f304"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Manifiesto_entrega.json",
+      "bytes": 6366,
+      "sha256": "1e9449e4078a93a068751f1f9ac9a2a29edecbb2d12390f4521512a24cd4a5f2"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Fuentes_precios.csv",
+      "bytes": 54201,
+      "sha256": "abc1a3b455679fe9f14bb78260b4cf14f1269d9b8aac84a78b5e7b238fbb43f9"
+    },
+    {
+      "archivo": "SOCHER_2026_v7_2020_2026/entrega/Faltantes_precios_detalle.csv",
+      "bytes": 115990,
+      "sha256": "9cbd136039f1e820a469e0a432500aee5a5801486a828883ad0658c71bd4a34d"
+    }
+  ],
+  "script_sha256": "a0b6e21816c8036fbcb326e6194175162b0108fcd7747f77cb5da0bb7e21b506"
+}
