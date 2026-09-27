@@ -1,0 +1,33 @@
+Según lo indicado por la empresa Enel Distribución Chile S.A.: 
+“El pasado sábado 19 de abril de 2025 a las 22:06 horas, se produjo la pérdida de suministro en 
+los alimentadores Araucarias, Mejillones, Caupolicán, Lautaro, Maúlen, San Ignacio y Fresia, lo 
+anterior debido a una falla en la red de transmisión de propiedad de la empresa STM II S.A. 
+A las 23:13 horas del sábado 19 de abril de 2025, se realiza la energización positiva de la barra 
+12kV N°1 de SE Chacabuco. 
+A las 23:14 horas del sábado 19 de abril de 2025, se normaliza el 100% del suministro eléctrico”. 
+Acciones preventivas y/o correctivas 
+a) La instalación afectada no cuenta con un plan de acción en curso. 
+b) Acciones correctivas a corto plazo:  
+La empresa STM S.A. señala: 
+“Durante la atención de la falla, se revisó el patio de MT de la subestación Chacabuco, sin identificar 
+muestras de descarga eléctrica. Se procedió a resetear el relé maestro de la Barra MT1 (86T1) y se 
+cerró el interruptor 52CT1, energizando la Barra MT1. 
+Según lo informado por el despachador de turno, se produjo una falla en la red de MT del alimentador 
+Lautaro y simultáneamente operó la protección del interruptor 52CT1. 
+Se procedió a rescatar los registros de eventos y configuración de las protecciones. Analizados estos, 
+se identificó que la protección del alimentador Lautaro no actuó para la falla entre fases y si arrancó 
+para fallas a tierra. Por lo que la falla fue despejada por la protección del interruptor 52CT1 en respaldo. 
+El pasado domingo 20 de abril de 2025, se realizaron pruebas a la protección del alimentador Lautaro, 
+identificando que sólo operaba para fallas a tierra, al tratar de rescatar los eventos de estas pruebas, 
+la protección no lo permitió. Se procedió a reset ear y se repitieron las pruebas con resultado 
+satisfactorio. Se adjunta el informe de las pruebas realizadas, el permiso de trabajo y registro 
+fotográfico del trabajo asociado a esta actividad (archivo investigación 20 abr.zip). 
+Complementariamente se revisó la coordinación de las protecciones del alimentador Lautaro y del 
+interruptor 52CT1, verificando un adecuado paso de coordinación. Se adjunta el análisis de la 
+coordinación de estas protecciones y sus print out (archivo análisis coordinación.zip). 
+La empresa Enel Distrubución Chile S.A. señala que “no aplica”. 
+c) Acciones correctivas a largo plazo: 
+La empresa STM S.A. señala que “no aplica”. 
+La empresa Enel Distrubución Chile S.A. señala que “no aplica”. 
+ 
+ 

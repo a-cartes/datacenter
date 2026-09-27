@@ -1,0 +1,20 @@
+[
+  {
+    "fuente": "S001_anexos",
+    "url": "https://frontel.sharepoint.com/:f:/g/Ger_reg/Sub_planif_sist/Area_tran/EtjR5CnyvltBu0GOuX9rNsQBn0qVvgvve2dTJNhG7kKKlw?e=Y8FIRc",
+    "consulta": "2026-09-27",
+    "acceso": "anonimo sin cookies ni credenciales",
+    "status": 200,
+    "sha256_respuesta": "af7f08a08f77d663401eb84af5b688a7e4babdda78e9ee4fedde6edaa78f07e0",
+    "mensaje": "Error El vínculo ha expirado. Se estableció que este vínculo expirara al transcurrir un determinado periodo de tiempo. Póngase en contacto con quien compartió este vínculo con su usuario. Detalles técnicos Solucionar problemas de Microsoft SharePoint Foundation. Identificador de correlación: d2613fa2-20a9-c000-a4d2-9deb80a9a841 Fecha y hora: 27/09/2026 10:36:13 Volver al sitio"
+  },
+  {
+    "fuente": "S002_anexos",
+    "url": "https://frontel-my.sharepoint.com/:f:/g/personal/diego_ordenes_ext_saesa_cl/EuruNszVLaJNlcpdSioY7sQBs-wjBjNlNBs03AYtlPHdHA?e=uGnxEH",
+    "consulta": "2026-09-27",
+    "acceso": "anonimo sin cookies ni credenciales",
+    "status": 200,
+    "sha256_respuesta": "b4e5db5956cc81402dc44019dcb4f455a27eb2df12bdd591498f3da545b55a0f",
+    "mensaje": "Error El vínculo ha expirado. Se estableció que este vínculo expirara al transcurrir un determinado periodo de tiempo. Póngase en contacto con quien compartió este vínculo con su usuario. Detalles técnicos Solucionar problemas de Microsoft SharePoint Foundation. Identificador de correlación: d2613fa2-20e1-c000-7523-96f629180d0f Fecha y hora: 27/09/2026 10:36:14 Volver al sitio"
+  }
+]

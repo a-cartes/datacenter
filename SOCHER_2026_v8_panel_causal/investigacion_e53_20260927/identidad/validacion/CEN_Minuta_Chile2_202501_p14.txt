@@ -1,0 +1,33 @@
+ 
+ 
+ Página 14 de 14 
+ 
+Tabla 4-6. Cargabilidad del entorno con proyecto Datacenter Chile 2, año 2031. 
+ 
+ 
+Verano Día  
+con Renca + DC 
+Invierno Día  
+con Renca + DC 
+Verano Día  
+sin Renca + DC 
+Invierno Día  
+sin Renca + DC 
+Líneas 2031 2031 2031 2031 
+Tap Chacabuco - 
+Chacabuco 110kV L1 26% 22% 26% 22% 
+Tap Chacabuco - 
+Chacabuco 110kV L2 41% 35% 41% 35% 
+Tap Chacabuco-Tap 
+Recoleta 110 KV L1 17% 18% 10% 11% 
+Tap Chacabuco-Tap 
+Recoleta 110 KV L2 14% 14% 6% 8% 
+Tap Quilicura - Tap 
+Chacabuco 110 KV L1 43% 40% 36% 34% 
+Tap Quilicura - Tap 
+Chacabuco 110 KV L2 56% 50% 49% 44% 
+ 
+Considerando la tabla anterior que muestra los resultados de la simulación realizada en el software 
+DIgSILENT Power Factory para el periodo 20 31, se observa que como consecuencia de la ejecución del 
+proyecto Datacenter de 20,4 MW, no se detectan congestiones en ninguna de las líneas de transmisión 
+adyacentes. 

@@ -1,0 +1,50 @@
+ 
+ 
+ 
+ 
+ 
+que esta constituye una instalación de servicio público de transmisión zonal. Por lo tanto, 
+cualquier aumento en su capacidad solo podría llevarse a cabo a través de su inclusión en un 
+Plan Anual de Expansión de los Sistemas de Transmisión, conforme a los artículos 87° y 91° 
+de la Ley General de Servicios Eléctricos, o mediante una obra urgente, según lo dispuesto en 
+el artículo 102° de la misma ley y en los artículos 38° y siguientes del Reglamento de los 
+Sistemas de Transmisión y de la Planificación de la Transmisión. 
+ 
+10)  Que, con el objetivo de contar con los antecedentes necesarios, esta Comisión solicitó a STM,  
+mediante el Oficio Ordinario N° 195 , indicar si el patio de alta tensión de la S/E Chacabuco  
+cuenta con más posiciones disponibles para la conexión de futuros proyectos o si puede ser 
+ampliado con este propósito; indicar si la nueva sección de barra en media tensión, asociada 
+al Proyecto, tendrá espacio disponible para la conexión de futuros proyectos o si puede ser 
+ampliada con este propósito; indicar cómo se dará respaldo, en media tensión, a las secciones 
+de barra existentes en la subestación  y, por último,  actualizar los diagramas y planos del 
+Proyecto, en base a la respuesta entregada; 
+ 
+11)  Que, mediante la Carta N° 1565992, el Promotor solicita a esta Comisión, una prórroga para 
+entregar la información en el considerando anterior, la cual fue autorizada por este servicio 
+en virtud de Oficio Ordinario N° 243; 
+ 
+12)  Que, mediante la Carta N° 1566155, el Promotor da respuesta a la solicitud de información 
+adicional emitida por esta Comisión, contenida en el  Oficio Ordinario N° 195 . En ella indica 
+que, considerando la conexión del Proyecto y las solicitudes de conexión  bajo régimen de 
+acceso abierto, la barra de 110 kV en S/E Chacabuco presenta solo una posición disponible 
+para la conexión de futuros proyectos, sin embargo, su acceso es tá limitado por 
+canalizaciones de media tensión existentes y proyectadas que interferirían con el 
+emplazamiento de la línea o servicio que eventualmente se conecte a dic ha posición ; 
+asimismo, indica que la nueva sección de barra en media tensión, asociada al Proyecto, tendrá 
+espacio disponible para la construcción de dos paños futuros en 23 kV, los cuales pueden ser 
+utilizados como alimentadores y, finalmente, señala que, con el propósito de dar respaldo a 
+la nueva sección de barra en media tensión , asociada al Proyecto, tendrá una interconexión 
+con la sección de barra en 23 kV asociada al Transformador N° 7 existente en S/E Chacabuco; 
+ 
+13)  Que, en particular, esta Comisión concuerda con lo informado por el Promotor y por el 
+Coordinador en cuanto la necesidad de la obra “Nuevo Transformador para Data Center Chile 
+2” se justifica en la medida que efectivamente existe una demanda por parte del proyecto 
+“Data Center Chile 2” , y que no es factible la conexión desde ninguna de las subestaciones 
+existentes geográficamente cercanas. Adicionalmente, esta Comisión ha replicado los análisis 
+realizados por STM y el Coordinador, compartiendo el diagnóstico presentado en cuanto a los 
+impactos en las instalaciones de transmisión en la vecindad del proyecto; 
+ 
+14)  Que, adicionalmente, esta Comisión estima que se ha justificado debidamente la urgencia 
+de ejecutar la obra “Nuevo Transformador para Data Center Chile 2 ”, toda vez que es 
+necesario abastecer en el cortísimo plazo la demanda asociada al proyecto “Data Center Chile 
+2”;  

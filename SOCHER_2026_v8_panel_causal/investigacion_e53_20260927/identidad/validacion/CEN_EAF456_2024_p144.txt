@@ -1,0 +1,53 @@
+ 
+Enel Distribución Chile S.A. – Roger de Flor N° 2725 Las Condes – Chile / T: +(56) 2 26752000 
+ 
+Informe de Falla - septiembre de 2024 
+ 
+ 
+Subgerencia Operaciones y Mantenimiento 
+ 
+6 Pérdidas de consumo 
+ 
+SE    Componente Fecha 
+Inicio Hora Inicio Fecha 
+Término 
+Hora 
+Término Carga kW Energía kWh Clientes Motivo 
+Interrupción 
+Chacabuco 
+Alim. Araucaria 
+29/08/2024 
+4:14 
+29/08/2024 
+4:18 5.795,00 429,80 96 
+Sin tensión 
+Alim. Ascenty 4:14 4:18 3.429,00 254,32 2 
+Alim. Caupolican 4:14 4:18 4.128,00 306,16 99 
+Alim. Fresia 4:14 4:18 925,00 68,60 52 
+Alim. La Reserva 4:14 4:18 3.690,00 273,68 113 
+Alim. Lautaro 4:14 4:18 4.506,00 334,20 93 
+Alim. Los Boldos 4:14 4:18 7.267,00 538,97 295 
+Alim. Luna 4:14 4:18 5.156,00 382,40 1 
+Alim. Luna 4 4:14 4:18 7.500,00 556,25 1 
+Alim. Maulen 4:14 4:18 1.682,00 124,75 76 
+Alim. Mejillones 4:14 4:18 4.000,00 296,67 1.212 
+Alim. San Ignacio 4:14 4:18 4.608,00 341,76 22 
+Alim. Santa Isabel 4:14 4:18 5.530,00 410,14 9.951 
+Alim. Totoral 4:14 4:18 5.832,00 432,54 94 
+ 
+El detalle de los clientes afectados será entregado por la empresa Enel Distribución a más tardar el día 25 
+de septiembre de 2024, luego del cierre mensual del reporte de interrupciones a la SEC del mes de agosto. 
+7 Cronología de eventos 
+7.1 Eventos durante la evolución de la falla 
+• A las 04:14 horas del jueves 29 de agosto de 2024, se produjo la pérdida de tensión en las barras 23 
+kV N°3 y N°7, y en la barra 12 kV N°1 de subestación Chacabuco , quedando sin suministro 14 
+alimentadores de Enel Distribución. 
+7.2 Acciones orientadas a la reposición del servicio y normalización de las instalaciones  
+• A las 04:18 horas, se normalizan los consumos de los 14 alimentadores desconectados. 
+7.3 Registros sistema SCADA 
+No aplica 
+8 Esquemas de protección y control 
+8.1 Detalle de las protecciones operadas:  
+No aplica 
+8.2 Registros de falla 
+No aplica 

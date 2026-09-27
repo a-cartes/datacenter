@@ -1,0 +1,39 @@
+Estudio para análisis de falla EAF 178/2025 
+“Desconexión forzada de la barra N°1 12 kV de S/E Chacabuco” 
+Fecha de Emisión: 12-05-2025 
+ 
+ 
+ 
+1. Descripción general de la interrupción 
+ 
+     a. Fecha y Hora de la falla 
+Fecha 19/04/2025 
+Hora 22:06 
+Consumos desconectados (MW) 17.28 
+Demanda previa del sistema (MW) 9192 
+Porcentaje de desconexión 0.188 % 
+Calificación Apagón No aplica (porcentaje de desconexión < 10%) 
+ 
+      b. Identificación instalación afectada 
+Nombre de la instalación Chacabuco / SE009T0835 
+Tipo de instalación Subestación 
+Tensión nominal 110, 23 y 12 kV 
+Segmento Transmisión Zonal 
+Propietario instalación afectada Sociedad Transmisora Metropolitana S.A. 
+RUT 77.611.649-1 
+Representante Legal Francisco Alliende 
+Dirección Bulnes 441, Osorno 
+ 
+       c. Identificación del elemento fallado 
+Nombre del elemento fallado Relé ZIV 7IRV del paño C2 de S/E Chacabuco / Sin registro en Infotécnica 
+Propietario elemento fallado Sociedad Transmisora Metropolitana S.A. 
+RUT 77.611.649-1 
+Representante Legal Francisco Alliende 
+Dirección Bulnes 441, Osorno 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

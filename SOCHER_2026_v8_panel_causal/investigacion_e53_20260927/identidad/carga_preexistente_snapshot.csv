@@ -1,0 +1,3 @@
+﻿fecha,hora_etiqueta,subestacion,alimentador,carga_mw,clientes,tipo,fuente_id,pagina_pdf,campus_fase,asignable_E53,utc
+2024-08-29,04:14,Chacabuco,Ascenty,3.429,2,carga_desconectada_informe_falla,E53I003,144,NO_IDENTIFICADO,NO,NO_INFERIDO
+2025-02-25,15:16,Chacabuco,Ascenty / NI,5.82,2,carga_desconectada_informe_falla,E53I004,64,NO_IDENTIFICADO,NO,NO_INFERIDO

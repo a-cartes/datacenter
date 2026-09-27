@@ -1,0 +1,34 @@
+10. Pronunciamiento Técnico del Coordinador Eléctrico Nacional 
+ 
+De acuerdo con el análisis realizado por el Coordinador: 
+a) Se produjo la desconexión forzada de la barra N°1 12 kV de S/E Chacabuco por operación de 
+su protección temporizada de sobrecorriente de fase, ante falla en redes de distribución del 
+alimentador Lautaro (conectado al paño C2) , debido a la no operación de la protección de la 
+cabecera de dicho alimentador. 
+A raíz de lo anterior, se produjo la pérdida de 17.28 MW de consumos en S/E Chacabuco. 
+Al respecto, en base al análisis realizado en el punto 7 de este informe, es posible indicar que 
+se produjo un desempeño incorrecto del sistema de protección del paño C2 de S/E Chacabuco, 
+al no operar cuando debió haberlo hecho, generando la propagación de la falla hacia el sistema 
+de transmisión zonal, lo que derivó en su despeje a través del interruptor 52CT1. 
+b) Se evidenciaron incumplimientos normativos en el desarrollo del evento que provocó la falla , 
+en particular, la no operación del sistema de protección del paño C2 de S/E Chacabuco. 
+c) No se evidenciaron incumplimientos asociados al elemento afectado por la falla, reportados en 
+la versión vigente del “Informe Anual de Cumplimientos, Artículo 1 -14 Norma Técnica de 
+Seguridad y Calidad de Servicio”. 
+d) Para el desarrollo de la falla no hay observaciones respecto de la aplicación de los Planes de 
+Recuperación de servicio asociados a las instalaciones involucradas, ni de las actuaciones del 
+CDC y los respectivos CC durante la falla del día 19 de abril de 2025. 
+ 
+ 
+ 
+11. Recomendación respecto de las instalaciones a las cuales el Coordinador Eléctrico Nacional 
+debería solicitar una auditoría 
+ 
+a) Auditorías, planes de acción, instrucciones de acciones correctivas de largo y/o corto plazo. 
+No se solicitará auditorías, planes de acción o instrucciones de acciones correctivas por el momento. 
+b) Solicitudes de ampliación de información 
+No se solicitará información adicional. 
+ 
+ 
+ 
+ 

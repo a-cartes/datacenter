@@ -1,0 +1,64 @@
+[
+  {
+    "archivo": "EAF178_2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/05/EAF-178-2025.pdf",
+    "estado": "OK",
+    "bytes": 6716792,
+    "sha256": "64b5b6593b3491f00e7f3751dc4cff30c0fd711bee8c7d128ca00c70149fe83c",
+    "content_type": "application/pdf"
+  },
+  {
+    "archivo": "EAF190_2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/05/EAF-190-2025.pdf",
+    "estado": "OK",
+    "bytes": 8348188,
+    "sha256": "055655b4b8510d27222b5a185a51588d4a117cad8c990be52ce8f7eb4950cae8",
+    "content_type": "application/pdf"
+  },
+  {
+    "archivo": "PuntaVerde_Minuta_20250725.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/07/Minuta_Solicitud_Nueva_Subestacion_Seccionadora_Punta_Verde_110_kV-V2.pdf",
+    "estado": "OK",
+    "bytes": 1725860,
+    "sha256": "55dd5044144b22929d95ccb393b62f8f234033b7f3a4edfe2abe46f3c168cbe1",
+    "content_type": "application/pdf"
+  },
+  {
+    "archivo": "CEN_apagon_20250225.html",
+    "url": "https://www.coordinador.cl/novedades/coordinador-electrico-nacional-entrega-a-la-sec-informe-sobre-el-apagon-del-25-de-febrero/",
+    "estado": "ERROR",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "archivo": "Butts_spillovers_20241205.pdf",
+    "url": "https://www.kylebutts.com/files/Spillover.pdf",
+    "estado": "OK",
+    "bytes": 775367,
+    "sha256": "8874e8b2b147ce28bf507261037f0257a235a21330ed3cf0258374cd773e37cc",
+    "content_type": "application/pdf"
+  },
+  {
+    "archivo": "Infotecnica_barra703_20260927.json",
+    "url": "https://api-infotecnica.coordinador.cl/v1/barras/703/",
+    "estado": "OK",
+    "bytes": 514,
+    "sha256": "38bf5eead0522e4812fe66088697a9289e1c662917c246b37c02afe54d526306",
+    "content_type": "application/json"
+  },
+  {
+    "archivo": "CEN_sesion_extraordinaria_20250226.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/02/Sesion-Extraordinaria-N%C2%B03-2025-26-febrero-2025.pdf",
+    "estado": "OK",
+    "bytes": 169413,
+    "sha256": "c01be844750b40243292202ef71b8aa760cfd18cbe10bc3ed6d7b3fbc1a86bc8",
+    "content_type": "application/pdf"
+  },
+  {
+    "archivo": "EAF337_2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/08/EAF-337-2025.pdf",
+    "estado": "OK",
+    "bytes": 12505759,
+    "sha256": "2417228336e420e6ce2aa4b9bd6ddede25e60e017be732cbb126d93a197277b4",
+    "content_type": "application/pdf"
+  }
+]

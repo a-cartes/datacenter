@@ -1,0 +1,9 @@
+id,fecha_inicio,fecha_fin,hora_inicio_publicada,hora_fin_publicada,hecho,instalacion,fuente_ids,localizador,codigos,posicion_ventana,decision,limitacion,dia_relativo_inicio
+C001,2025-02-25,2025-02-26,15:16,09:31 día26,Apagón y recuperación SEN,SEN,D005,p2,,SISTEMICO,Principal conserva; sensibilidad conjunta25/26feb,No acredita duración exacta para cada nodo,-70
+C002,2025-04-19,2025-04-19,22:06,,Falla Lautaro; respaldo52CT1;17.28MW,Chacabuco12kV BP1,D002,pp1;8–9;16,EAF178/2025,PRE,Marcar sin excluir,No prueba interrupción110kV BP1,-17
+C003,2025-04-20,2025-04-20,,,Pruebas y reinicio de protección Lautaro,Chacabuco C2,D002,p9,,PRE,Marcar sin excluir,No se atribuye a E53,-16
+C004,2025-04-26,2025-04-26,11:45,,Falla SanIgnacio;28.59MW,Chacabuco12kV BP1,D003,pp1;6;9,EAF190/2025,PRE,Marcar sin excluir,Tabla recuperación y relato empresa difieren en cierre final; no unir horas,-10
+C005,2025-05-04,2025-05-04,,,Pruebas y mantenimiento mecanismoSanIgnacio,Chacabuco C1,D003,p9,,ANTICIPACION,Ya excluida principal; marcar,No cambia fechaE53,-2
+C006,2025-07-26,2025-07-26,18:55,18:57,Interrupción23MW por error operacional y recuperación,Chacabuco12kV BP1,D006,p94 y116,IF2025004840;SD2025081077,POST,Marcar sin excluir,La interrupción se resuelve en2min según diario,81
+C007,2025-07-26,,23:00,,CT1 indisponible; consumos transferidosT4,ChacabucoT1/T4,D006;D009,p94 y116;DUF lam1,IF2025004841,POST,Marcar; buscar normalización,Fin y magnitud no cerrados; T1/BP1 yT4/BP2 nominal,81
+C008,2025-07-25,,,,Aprobación propuestaPuntaVerde/SCL4,Corredores110kV,D004,pp4;17,,PROPUESTA_FUTURA,No codificar entrada2025,Fechas proyectadas2027/2028 no realizadas,80

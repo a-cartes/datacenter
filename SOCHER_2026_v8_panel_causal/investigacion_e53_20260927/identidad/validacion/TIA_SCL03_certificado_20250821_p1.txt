@@ -1,0 +1,29 @@
+has been independently assessed and found to conform to the requirements of:
+ANSI/TIA-942-C-2024
+for the following scope:
+Architecture Telecom Electrical Mechanical
+Lack of fulfillment of certification terms and conditions 
+may render this certificate invalid. This certificate can 
+be verified at 
+https://tiaonline.org/942-datacenters/
+CERTIFICATE OF CONFORMANCE 
+CONSTRUCTED FACILITY 
+Ascenty Chile S.p.A.
+DC SCL03
+Guacolda 2100, Quilicura
+Santiago de Chile
+Chile
+Rated-3
+Rated-3 Rated-3 Rated-3 Rated-3
+Certification Manager
+EPI Certification Pte Ltd
+Certificate Number: TIA942CL250821001
+Certificate validity: 21-Aug-2025 until 20-Aug-2028
+Initial certification: 21 August 2025
+This is to certify that the constructed data center facilities of
+Surveillance 
+audits due by:
+August
+2026
+August
+2027

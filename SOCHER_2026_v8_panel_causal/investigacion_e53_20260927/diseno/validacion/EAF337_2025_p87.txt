@@ -1,0 +1,124 @@
+26-07-2025 SSCC
+Hora Movi. Equipo Central-Unidad Configuración Despacho Estado EO Consigna Consigna Instrucción 
+Cmg Motivo Zona Desacople Condición Neomante Centro de SSCC BASEPOINT
+00:00:00 - SANISIDRO-1 SANISIDRO-1_TG1+TV1+FA1_GN_A 399 N LC PC - OM Cambio de combustible de GN_B a GN_A ENEL GENERACION - -
+12:54:00 - ANGOSTURA-2 ANGOSTURA_RALCO_sinv 43 DRO - PP - RE N LI2024001595 COLBUN - -
+13:00:00 - NUEVARENCA NUEVARENCA_TG1+TV1_GNL_A 380 RO LC PC MTP OM LI2025001660 - 
+LI2025001669 GENERADORA METROPOLITANA - -
+13:00:00 - ANGOSTURA-2 ANGOSTURA_RALCO_sinv 43 RO - MT - RE N LI2024001595 COLBUN - -
+13:00:00 - ANGOSTURA-1 ANGOSTURA_RALCO_sinv 0 N - PS - RE N COLBUN - -
+13:02:00 - ANGOSTURA-1 ANGOSTURA_RALCO_sinv 0 DN - FS - RE N COLBUN - -
+13:06:00 - PFV-VALLEDELSOL PFV-VALLEDELSOL 87 N - CI - OM P. Disp. = 121,1 MW; origen: SITR 0 - ENEL GREEN POWER - -
+13:06:00 - PFV-CEME1 PFV-CEME1 254 N - CI - OM P. Disp. = 281 MW; origen: SITR 0 - GENERADORA METROPOLITANA - -
+13:06:00 - Colocación: 341; Ajuste : -30 CDC - Inicia Ctx LT 220 kV Encuentro - Miraje  LT 220 kV Encuentro - Miraje - -
+13:06:00 - Colocación: 341; Ajuste : -30 CDC - Inicia Prorrata LT 220 kV Encuentro - Miraje LT 220 kV Encuentro - Miraje - -
+13:15:00 - Colocación: 3912; Ajuste : 
+900 CDC 0 Ajuste Prorrata LT 500 kV Nueva Pan de Azúcar - Polpaico LT 500 kV Nueva Pan de Azúcar - Polpaico - -
+13:15:00 - PE-PUNTAPALMERAS PE-PUNTAPALMERAS 5 N - MT - OM P. Disp. = 0,6 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:15:00 - PFV-ALMEYDA PFV-ALMEYDA 22 N - CI - OM P. Disp. = 21,9 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:15:00 - PFV-ELROMERO PFV-ELROMERO 160 N - CI - OM P. Disp. = 160,3 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:15:00 - PFV-USYA PFV-USYA 15 N - CI - OM P. Disp. = 45,1 MW; origen: SITR; SSCC: Bloque CF(+) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:15:00 - PFV-MALGARIDA PFV-MALGARIDA 103 N - CI - OM P. Disp. = 102,8 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:15:00 - PE-LOSCURUROS PE-LOSCURUROS 1 N - MT - OM P. Disp. = 0 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - AES ANDES - -
+13:15:00 - PFV-BOLERO-1 PFV-BOLERO-1 81 N - CI - OM P. Disp. = 81,4 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - AES ANDES - -
+13:15:00 - PFV-DIEGOALMAGROSUR PFV-DIEGOALMAGROSUR 148 N - CI - OM P. Disp. = 147,8 MW; origen: Pronóstico; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - COLBUN - -
+13:15:00 - PE-SANJUAN PE-SANJUAN 19 N - MT - OM P. Disp. = 4,8 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - COLBUN - -
+13:15:00 - PE-TOTORAL PE-TOTORAL 1 N - MT - OM P. Disp. = 0 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - COLBUN - -
+13:15:00 - PE-CANELA PE-CANELA 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PE-CANELA-2 PE-CANELA-2 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PE-SIERRAGORDA PE-SIERRAGORDA 84 N - CI - OM P. Disp. = 83,7 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PE-TALINAYORIENTE PE-TALINAYORIENTE 1 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PE-TALINAYPONIENTE PE-TALINAYPONIENTE 1 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PE-VALLEDELOSVIENTOS PE-VALLEDELOSVIENTOS 60 N - CI - OM P. Disp. = 60,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PFV-CHANARES PFV-CHANARES 14 N - CI - OM P. Disp. = 13,6 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PFV-FINISTERRAE PFV-FINISTERRAE 207 N - CI - OM P. Disp. = 206,6 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PFV-AZABACHE PFV-AZABACHE 21 N - CI - OM P. Disp. = 21,1 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PFV-CAMPOSDELSOL PFV-CAMPOSDELSOL 111 N - CI - OM P. Disp. = 110,9 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PFV-GUANCHOI PFV-GUANCHOI 92 N - CI - OM P. Disp. = 91,8 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PFV-LASSALINAS PFV-LASSALINAS 161 N - CI - OM P. Disp. = 161,2 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:15:00 - PE-MONTEREDONDO PE-MONTEREDONDO 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:15:00 - PE-CALAMA PE-CALAMA 6 N - CI - OM P. Disp. = 48,3 MW; origen: SITR; SSCC: Bloque CF(+) LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:15:00 - PFV-LOSLOROS PFV-LOSLOROS 40 N - CI - OM P. Disp. = 40,2 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:15:00 - PFV-TAMAYA PFV-TAMAYA 10 N - CI - OM P. Disp. = 10 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:15:00 - PFV-CAPRICORNIO PFV-CAPRICORNIO 5 N - CI - OM P. Disp. = 5 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:15:00 - PFV-COYA PFV-COYA 5 N - CI - OM P. Disp. = 5 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:15:00 - PFV-LLANODELLAMPOS PFV-LLANODELLAMPOS 66 N - CI - OM P. Disp. = 66,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENLASA - -
+13:15:00 - PFV-SANTAISABEL PFV-SANTAISABEL 81 N - CI - OM P. Disp. = 80,9 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-PAMPATIGRE PFV-PAMPATIGRE 72 N - CI - OM P. Disp. = 72,2 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-CABOLEONES-1 PE-CABOLEONES-1 5 N - CI - OM P. Disp. = 5,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-CABOLEONES-2 PE-CABOLEONES-2 9 N - CI - OM P. Disp. = 8,5 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-CABOLEONES-3 PE-CABOLEONES-3 6 N - CI - OM P. Disp. = 6 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-ELARRAYAN PE-ELARRAYAN 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-PUNTACOLORADA PE-PUNTACOLORADA 0 N - MT - OM P. Disp. = 0 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-CERRODOMINADOR PFV-CERRODOMINADOR 74 N - CI - OM P. Disp. = 74 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-CONEJO PFV-CONEJO 48 N - CI - OM P. Disp. = 47,8 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-JAMA-2 PFV-JAMA-2 18 N - CI - OM P. Disp. = 17,8 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-LAHUAYCA-2 PFV-LAHUAYCA-2 8 N - CI - OM P. Disp. = 8,4 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-MARIAELENA PFV-MARIAELENA 9 N - MT - OM P. Disp. = 0 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-POZOALMONTE-2 PFV-POZOALMONTE-2 0 N - MT - OM P. Disp. = 0 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-POZOALMONTE-3 PFV-POZOALMONTE-3 1 N - MT - OM P. Disp. = 0 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-URIBESOLAR PFV-URIBESOLAR 7 N - CI - OM P. Disp. = 6,9 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-LACRUZSOLAR PFV-LACRUZSOLAR 41 N - CI - OM P. Disp. = 41,1 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-TCHAMMA PE-TCHAMMA 80 N - CI - OM P. Disp. = 80,1 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-DONACARMEN PFV-DONACARMEN 9 N - CI - OM P. Disp. = 9,3 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-GRANJA PFV-GRANJA 94 N - CI - OM P. Disp. = 94,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-SANPEDRO-GPG PFV-SANPEDRO-GPG 78 N - CI - OM P. Disp. = 78,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-JAMA-1 PFV-JAMA-1 2 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-VALLEESCONDIDO PFV-VALLEESCONDIDO 81 N - CI - OM P. Disp. = 80,5 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-CERROTIGRE PE-CERROTIGRE 133 N - CI - OM P. Disp. = 133 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-LLANOSDELVIENTO PE-LLANOSDELVIENTO 152 N - CI - OM P. Disp. = 151,9 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-ELENA PFV-ELENA 54 N - CI - OM P. Disp. = 54,1 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-ATACAMA PE-ATACAMA 17 N - CI - OM P. Disp. = 17,3 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PFV-SOLDELOSANDES PFV-SOLDELOSANDES 38 N - CI - OM P. Disp. = 38,3 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENOR CHILE - -
+13:15:00 - PE-SARCO PE-SARCO 5 N - CI - OM P. Disp. = 5,1 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - INNERGEX - -
+13:15:00 - PFV-LUZDELNORTE PFV-LUZDELNORTE 34 N - CI - OM P. Disp. = 34,1 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - NOVASOURCE POWER - -
+13:15:00 - PFV-ELPELICANO PFV-ELPELICANO 77 N - CI - OM P. Disp. = 77,2 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - NOVASOURCE POWER - -
+13:15:00 - PFV-DELDESIERTO PFV-DELDESIERTO 2 N - CI - OM P. Disp. = 1,8 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - NOVASOURCE POWER - -
+13:15:00 - PFV-DELOSANDES PFV-DELOSANDES 1 N - CI - OM P. Disp. = 1 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - NOVASOURCE POWER - -
+13:15:00 - PE-PUNTASIERRA PE-PUNTASIERRA 0 N - MT - OM P. Disp. = 0 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - PACIFIC HYDRO - -
+13:15:00 - PFV-HUATACONDO PFV-HUATACONDO 74 N - CI - OM P. Disp. = 73,7 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-CARRERAPINTO PFV-CARRERAPINTO 31 N - CI - OM P. Disp. = 30,5 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-DIEGODEALMAGRO PFV-DIEGODEALMAGRO 7 N - CI - OM P. Disp. = 6,6 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-PAMPASOLARNORTE PFV-PAMPASOLARNORTE 23 N - CI - OM P. Disp. = 22,8 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-SOLDELDESIERTO PFV-SOLDELDESIERTO 154 N - CI - OM P. Disp. = 153,7 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-JAVIERA PFV-JAVIERA 39 N - CI - OM P. Disp. = 39,2 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-LAHUELLA PFV-LAHUELLA 57 N - CI - OM P. Disp. = 57 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-ATACAMASOLAR-2 PFV-ATACAMASOLAR-2 90 N - CI - OM P. Disp. = 89,6 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-DOMEYKO PFV-DOMEYKO 30 N - CI - OM P. Disp. = 30 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - RNE - -
+13:15:00 - PFV-RIOESCONDIDO PFV-RIOESCONDIDO 111 N - CI - OM P. Disp. = 111 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - SIEMENS - -
+13:15:00 - PFV-WILLKA PFV-WILLKA 77 N - CI - OM P. Disp. = 77,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - SIEMENS - -
+13:15:00 - PFV-TAIRA PFV-TAIRA 164 N - CI - OM P. Disp. = 163,9 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - SIEMENS - -
+13:15:00 - PFV-TAMARICO PFV-TAMARICO 54 N - CI - OM P. Disp. = 53,9 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - SIEMENS - -
+13:33:00 - RAPEL-3 RAPEL 0 RO - PS - OM N LI2022002402 ENEL GENERACION - -
+13:35:00 - RAPEL-3 RAPEL 0 DRO - FS - OM N LI2022002402 ENEL GENERACION - -
+13:52:00 - - CDC - Finaliza Prorrata LT 220 kV Encuentro - Miraje LT 220 kV Encuentro - Miraje - -
+13:52:00 - - CDC - Finaliza Ctx LT 220 kV Encuentro - Miraje LT 220 kV Encuentro - Miraje - -
+13:55:00 - Colocación: 4206; Ajuste : 
+900 CDC 0 Ajuste Prorrata LT 500 kV Nueva Pan de Azúcar - Polpaico LT 500 kV Nueva Pan de Azúcar - Polpaico - -
+13:55:00 - PE-PUNTAPALMERAS PE-PUNTAPALMERAS 5 N - MT - OM P. Disp. = 0,6 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:55:00 - PFV-ALMEYDA PFV-ALMEYDA 25 N - CI - OM P. Disp. = 25,4 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:55:00 - PFV-ELROMERO PFV-ELROMERO 152 N - CI - OM P. Disp. = 152,3 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:55:00 - PFV-USYA PFV-USYA 14 N - CI - OM P. Disp. = 44,1 MW; origen: SITR; SSCC: Bloque CF(+) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:55:00 - PFV-MALGARIDA PFV-MALGARIDA 117 N - CI - OM P. Disp. = 117 MW; origen: SITR; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - ACCIONA - -
+13:55:00 - PE-LOSCURUROS PE-LOSCURUROS 1 N - MT - OM P. Disp. = 0 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - AES ANDES - -
+13:55:00 - PFV-BOLERO-1 PFV-BOLERO-1 81 N - CI - OM P. Disp. = 81,4 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - AES ANDES - -
+13:55:00 - PFV-DIEGOALMAGROSUR PFV-DIEGOALMAGROSUR 148 N - CI - OM P. Disp. = 147,8 MW; origen: Pronóstico; SSCC: Bloque CF(-) LT 500 kV Nueva Pan de Azúcar - Polpaico - COLBUN - -
+13:55:00 - PE-SANJUAN PE-SANJUAN 19 N - MT - OM P. Disp. = 1 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - COLBUN - -
+13:55:00 - PE-TOTORAL PE-TOTORAL 1 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - COLBUN - -
+13:55:00 - PE-CANELA PE-CANELA 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PE-CANELA-2 PE-CANELA-2 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PE-SIERRAGORDA PE-SIERRAGORDA 101 N - CI - OM P. Disp. = 101,3 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PE-TALINAYORIENTE PE-TALINAYORIENTE 1 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PE-TALINAYPONIENTE PE-TALINAYPONIENTE 1 N - MT - OM P. Disp. = 0 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PE-VALLEDELOSVIENTOS PE-VALLEDELOSVIENTOS 87 N - CI - OM P. Disp. = 87,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-CHANARES PFV-CHANARES 21 N - CI - OM P. Disp. = 21,3 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-FINISTERRAE PFV-FINISTERRAE 219 N - CI - OM P. Disp. = 219,3 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-AZABACHE PFV-AZABACHE 21 N - CI - OM P. Disp. = 21,1 MW; origen: Gen. Actual LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-CAMPOSDELSOL PFV-CAMPOSDELSOL 147 N - CI - OM P. Disp. = 147,2 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-VALLEDELSOL PFV-VALLEDELSOL 100 N - CI - OM P. Disp. = 100,2 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-GUANCHOI PFV-GUANCHOI 92 N - CI - OM P. Disp. = 91,8 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PFV-LASSALINAS PFV-LASSALINAS 163 N - CI - OM P. Disp. = 163,4 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENEL GREEN POWER - -
+13:55:00 - PE-MONTEREDONDO PE-MONTEREDONDO 0 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:55:00 - PE-CALAMA PE-CALAMA 78 N - CI - OM P. Disp. = 120,6 MW; origen: SITR; SSCC: Bloque CF(+) LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:55:00 - PFV-LOSLOROS PFV-LOSLOROS 1 N - MT - OM P. Disp. = 0 MW; origen: Pronóstico LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -
+13:55:00 - PFV-TAMAYA PFV-TAMAYA 10 N - CI - OM P. Disp. = 10 MW; origen: SITR LT 500 kV Nueva Pan de Azúcar - Polpaico - ENGIE - -

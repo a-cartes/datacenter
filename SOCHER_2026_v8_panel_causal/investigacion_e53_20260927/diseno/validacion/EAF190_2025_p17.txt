@@ -1,0 +1,56 @@
+10. Pronunciamiento Técnico del Coordinador Eléctrico Nacional 
+ 
+De acuerdo con el análisis realizado por el Coordinador: 
+a) Se produjo la desconexión forzada de la barra N°1 12 kV de S/E Chacabuco por operación de 
+su protección temporizada de sobrecorriente de fase, ante falla en redes de distribución del 
+alimentador San Ignacio (conectado al paño C1), debido a la operación tardía  del interruptor 
+de cabecera de dicho alimentador. 
+A raíz de lo anterior, se produjo la pérdida de 28.59 MW de consumos en S/E Chacabuco. 
+Al respecto, en base al análisis realizado en el punto 7 de este informe, es posible indicar que 
+se produjo un desempeño correcto del sistema de protección del paño C1 de S/E Chacabuco, 
+no obstante, el modo de operación de su interruptor fue tardío, es decir, incorrecto, generando 
+la propagación de la falla hacia el sistema de transmisión zonal, lo que derivó en su despeje a 
+través del interruptor 52CT1. 
+Dicho de otro modo, desde el punto de vista de la afectación del suministro eléctrico, el 
+desempeño incorrecto de las protecciones asociadas al paño C1 de S/E Chacabuco, provocó 
+una pérdida excesiva de 23.99 MW de consumos en esta S/E, que equivalen a 9.3 MWh de 
+ENS, según el detalle que se muestra en la siguiente tabla: 
+Subestación Alimentador 
+/Paño Empresa Tipo de 
+cliente 
+Pérdida de 
+Consumo 
+(MW) 
+Tiempo 
+Indispon. 
+(h) 
+Tiempo 
+Desc. (h) 
+ENS 
+(MWh) 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 3.91 0.62 0.05 0.2 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 0.98 0.62 0.07 0.1 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 0.06 0.62 0.08 0.0 
+Chacabuco Araucarias / C3 Enel Distribución Regulado 1.09 0.62 0.15 0.2 
+Chacabuco Araucarias / C3 Enel Distribución Regulado 1.95 0.62 0.17 0.3 
+Chacabuco Caupolicán / C4 Enel Distribución Regulado 3.19 0.62 0.18 0.6 
+Chacabuco Araucarias / C3 Enel Distribución Regulado 2.69 0.62 0.20 0.5 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 0.81 0.62 0.27 0.2 
+Chacabuco Lautaro / C2 Enel Distribución Regulado 2.96 0.62 0.75 2.2 
+Chacabuco Lautaro / C2 Enel Distribución Regulado 1.89 0.62 0.80 1.5 
+Chacabuco Maúlen / C5 Enel Distribución Regulado 2.84 0.62 0.78 2.2 
+Chacabuco Fresia / C6 Enel Distribución Regulado 1.62 0.62 0.80 1.3 
+ 
+b) Se evidenciaron incumplimientos normativos en el desarrollo del evento que provocó la falla , 
+en particular, la operación tardía del interruptor 52C1 de S/E Chacabuco. 
+c) No se evidenciaron incumplimientos asociados al elemento afectado por la falla, reportados en 
+la versión vigente del “Informe Anual de Cumplimientos, Artículo 1 -14 Norma Técnica de 
+Seguridad y Calidad de Servicio”. 
+d) Para el desarrollo de la falla no hay observaciones respecto de la aplicación de los Planes de 
+Recuperación de servicio asociados a las instalaciones involucradas, ni de las actuaciones del 
+CDC y los respectivos CC durante la falla del día 26 de abril de 2025. 
+ 
+ 
+ 
+ 
+ 

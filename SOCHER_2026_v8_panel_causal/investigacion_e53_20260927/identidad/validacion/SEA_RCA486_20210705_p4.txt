@@ -1,0 +1,79 @@
+             
+    
+ 
+4.2. UBICACIÓN DEL PROYECTO  
+División político-administrativa El Proyecto se  encuentra ubicado en la provi ncia de Santiago,  Región 
+Metropolitana, es pecíficamente en  calle Guacolda 2100, comuna de  
+Quilicura. 
+Justificación de la localización De acuerdo al Certificado de Infor maciones Previas Nº 1928/2021, 
+otorgado por la Dirección de Obras de la Ilustre Municip alidad de 
+Quilicura, adjunto en el Anexo  A-02 de la Adenda ; se señala que el 
+Proyecto emp lazado en el te rreno ROL del S.I.I. Nº 118 -663, se 
+encuentra en una Zona Industrial Exclusiva según el PRMS.   
+ 
+Además de presentar compa tibilidad territorial con los usos de suelos 
+establecidos en los instrum entos de planificación territorial vigentes; la  
+localización del Proyecto como indica el Titular en el punto A.3.6 de la 
+DIA, se  justifica también dada la f actibilidad de los servicios  básicos 
+que requiere para su operación, particu larmente asociada al 
+abastecimiento o suministro energético. 
+ 
+En el pun to 1.5 .1 de la DIA, el Titular señala que el Proyecto s e 
+emplaza en un condominio industrial de propiedad de la sociedad 
+“Agrícola e Inve rsiones Kurcula Sociedad Anónima”, a quien Ascenty 
+Chile SpA según escritura de contrato privado entr e las partes, arrienda 
+el terreno. Mayores antecedentes en el punto 1.5.1 de la DIA. 
+Superficie Según señala el Titular en res puesta 1. 5 de la Adenda , las superficies 
+que involucra el Proyecto son las siguientes: 
+ 
+Tabla N° 1: Superficies del Proyecto 
+ Superficie m2 
+Superficie edificada (sobre terreno) 21.978,21 
+Total terreno 44.018 
+Fuente: Tabla N°2 de la Adenda 
+  
+Adicionalmente la superf icie de cada o bra y parte se  encuentra 
+detallada en la Figura 1  “Cuadro de S uperficies d el Proyecto ” de la 
+Adenda. 
+ 
+Coordenadas UT M en  Datum 
+WGS84 
+Tabla N°2: Coordenadas de ubicación de los vértices del sitio del 
+Proyecto 
+Punto Coordenadas (UTM, Datum WGS 1984, Huso 
+19S) 
+Norte Este 
+A 6.310.191 341.059 
+B 6.310.200 341.064 
+C 6.310.238 341.151 
+D 6.310.225 341.156 
+E 6.310.251 341.211 
+F 6.310.240 341.218 
+G 6.310.244 341.226 
+H 6.310.014 341.317 
+I 6.309.946 341.181 
+Fuente: Tabla 1-3 de la DIA. 
+ 
+En respuesta 1.4 de la Adenda se presenta el detalle de las coordenadas 
+de emplazamiento de ca da una de las partes y obras que conforman el 
+Proyecto.  
+Caminos o vías de acceso 
+El acceso a la obra durante el período de construcción , operación y 
+cierre se llevará a cabo por call e Guacol da 2100. En Figura 1-3 de la 
+DIA, se presenta imagen con la iden tificación del acceso al Proyecto . 
+Mayor información sobre esta materia en el punto 1.6.4 de la DIA.  
+Referencia al exp ediente de 
+evaluación de los mapas, 
+georreferenciación e in formación 
+complementaria sobre  la 
+localización de sus p artes, obras y 
+acciones 
+Anexo 1.2 de la DIA (Planos de arquitectura del Proyecto). 
+Anexo A-01 de la Adenda (plano en formato KMZ y pdf con las partes 
+y obras del Data Center Chile 2. 
+ 
+ 
+ 
+ 
+Para validar las firmas de este documento usted debe ingresar a la siguiente url
+https://validador.sea.gob.cl/validar/2152538781

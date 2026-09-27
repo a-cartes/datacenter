@@ -1,0 +1,79 @@
+[
+  {
+    "archivo": "CNE_Res190_20250417.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/04/OP00973-25.pdf",
+    "consulta_utc": "2026-09-27T17:38:08.321149+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 224440,
+    "sha256": "ba4bd564d5fff12f5becc29529207c965ff7f4b5769b4fb845955d35c644afe8"
+  },
+  {
+    "archivo": "SEA_RCA486_20210705.pdf",
+    "url": "https://firma.sea.gob.cl/publicaciones/2b/80/2152538781",
+    "consulta_utc": "2026-09-27T17:38:08.321414+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 1135425,
+    "sha256": "c3187c81b6fb95c61e7f81c643c4ae0b373035b91a0264c799417247dc53bc4a"
+  },
+  {
+    "archivo": "MMA_Res122_RCA486_2021.pdf",
+    "url": "https://airerm.mma.gob.cl/wp-content/uploads/2022/05/2021_RES.EX_.122_RCA-486-2021.pdf",
+    "consulta_utc": "2026-09-27T17:38:08.321528+00:00",
+    "estado": "ERROR",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "archivo": "SEA_ICE_Chile2_20210611.pdf",
+    "url": "https://firma.sea.gob.cl/publicaciones/45/39/2152199018",
+    "consulta_utc": "2026-09-27T17:38:08.321771+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 1479011,
+    "sha256": "6afd97eb20842318a3d7a65d1be450d86137cc28d2b61c8e3fb573f7df013dd2"
+  },
+  {
+    "archivo": "SEA_Oficio_Camara_28716.pdf",
+    "url": "https://www.camara.cl/verDoc.aspx?prmID=28716&prmTipo=DOCUMENTORESPUESTAOFICIOCOMISION",
+    "consulta_utc": "2026-09-27T17:38:08.322132+00:00",
+    "estado": "ERROR",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "archivo": "CEN_EAF456_2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/09/EAF-456-2024.pdf",
+    "consulta_utc": "2026-09-27T17:38:08.322604+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 6119572,
+    "sha256": "1345bc47437c6b7cda177192f680063754555743847fb7633caa889222fcdd01"
+  },
+  {
+    "archivo": "CEN_EAF089_2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/03/EAF-089-2025.pdf",
+    "consulta_utc": "2026-09-27T17:38:08.322739+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 12272486,
+    "sha256": "63c36011a42d0135b28f554e8e7f227393aebed0502cd2321c45cf5a22625452"
+  },
+  {
+    "archivo": "CEN_Minuta_Chile2_202501.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/01/Minuta_Solicitud_Nuevo_Transformador_para_Data_Center_Chile.pdf",
+    "consulta_utc": "2026-09-27T17:38:08.325872+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 1041213,
+    "sha256": "2dcfd9ff4d54e65bf2b867b4a584c5dfb0284a6e817133ef16a9a7ce3ee5f80d"
+  },
+  {
+    "archivo": "Ascenty_SCL03_inauguracion.html",
+    "url": "https://ascenty.com/en/blog/news-ascenty-en/ascenty-inaugurates-its-third-data-center-in-chile-with-total-investments-exceeding-r-6-1-billion/",
+    "consulta_utc": "2026-09-27T17:38:08.326475+00:00",
+    "estado": "ERROR",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "archivo": "TIA_SCL03_certificado_20250821.pdf",
+    "url": "https://tiaonline.org/wp-content/uploads/2025/08/Chile_Ascenty-DC-SCL03_DCCC-epi_TIA942CL250821001-Signed.pdf",
+    "consulta_utc": "2026-09-27T17:38:08.328784+00:00",
+    "estado": "DESCARGADO",
+    "bytes": 229952,
+    "sha256": "eed3f14d0fed00f5ea133050306dee4a224e8b110e6ed7ecf94404c22e4aaf0f"
+  }
+]

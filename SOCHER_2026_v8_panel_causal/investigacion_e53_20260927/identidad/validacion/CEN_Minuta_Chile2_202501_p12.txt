@@ -1,0 +1,38 @@
+ 
+ 
+ Página 12 de 14 
+ 
+ ANEXO 3: DESCRIPCIÓN DEL PROYECTO DE CONSUMO 
+El objetivo de la obra solicitada consiste en otorgar un punto de conexión que permita suministrar la 
+demanda del proyecto Data Center Chile 2, el cual requiere de una potencia inicial cercana a los 1,5 MW 
+al año 202 5 y demanda final cercana a los 20,4 MW. El Datacenter se encuentra ubicado en calle 
+Guacolda 2.100, comuna de Quilicura, provincia de Santiago, Región Metropolitana, el cual corresponde 
+a un centro de almacenamiento de datos de alta tecnología, diseñado con una infraestructura acorde 
+para alojar distintos sistemas de tecnología de información (TI), los que tienen como función el 
+procesamiento y almacenamiento de datos de diversas empresas. 
+ 
+En cuanto a la fehaciencia de este proyecto, cabe indicar que el Proyecto Datacenter cuenta con una 
+Declaración de Impacto Ambiental (DIA) número 486/2021, aprobada el 5 de julio de 2021 , por lo cual 
+mediante lo estipulado en el artículo 40° del DS N°37/2021 se respalda la fehaciencia del proyecto. 
+ ANÁLISIS DEL SISTEMA DE TRANSMISIÓN EN EL ENTORNO DEL PROYECTO 
+Debido a que el proyecto “Data Center Chile 2” es un nuevo consumo en el Sistema, es necesario verificar 
+el impacto en las instalaciones de transmisión en la vecindad del proyecto. Por ende, se realiza un estudio 
+de los flujos de potencia con y sin el proyecto. En este estudio se utiliza la base de datos de la Región 
+Metropolitana publicada por el Coordinador en su Informe de Diagnóstico 20251. 
+ 
+En cuanto a la capacidad de la línea de transmisión, ésta se discretiza en función del periodo del año 
+verano e invierno y entre las horas con y sin presencia del sol. Las temperaturas consideradas para la 
+zona en la que se encuentra emplazado el estudio se presenta en la Tabla 4-3 
+ 
+Tabla 4-3. Cuadro de temperaturas, Zona Metropolitana 
+Periodo del Año Verano Día Invierno Día 
+Temperatura 35 °C 20 °C 
+ 
+Con los datos anteriores y mediante el empleo del software  DIgSILENT Power Factory se simula el uso  
+para el periodo 2031 en el cual se hace ingreso de la potencia total del proyecto Datacenter con respecto 
+al tren de carga presentado por el promotor indicado en la Tabla 4-4 con 20,4 MW al año 2031. La Tabla 
+4-5 muestra los resultados obtenidos del estudio. 
+  
+ 
+1 Diagnóstico 2025 | Coordinador Eléctrico Nacional  : Diagnóstico del uso esperado del Sistema de Transmisión, 
+realizado por el Coordinador año 2025. 

@@ -1,0 +1,8 @@
+ventana,tipo,desde_local,hasta_local,registros,intervalos_esperados,dias_esperados,dias_observados,dias_completos,dias_ausentes,media_D_mw,media_R_mw,energia_D_kwh,energia_R_kwh,efecto_causal
+exploratorio_30_fechas_pre,exploratorio_posterior_a_inspeccion,2025-04-05,2025-05-04,2884,2884,30,30,30,0,16.172372529143967,0.0,11660280.5935128,0.0,False
+exploratorio_30_fechas_post,exploratorio_posterior_a_inspeccion,2025-05-06,2025-06-04,2880,2880,30,30,30,0,17.409761572296667,9.062222222222222e-09,12535028.332053602,0.0065248,False
+dia_energizacion,contexto_no_estimacion,2025-05-05,2025-05-05,96,96,1,1,1,0,16.704940327983334,0.0,400918.56787160004,0.0,False
+protocolo_pre_m112_m8,ventana_protocolo,2025-01-14,2025-04-28,7108,10084,105,74,74,31,16.999435631500393,0.0,30207997.1171762,0.0,False
+protocolo_excluida_m7_m1,excluida_de_comparacion,2025-04-29,2025-05-05,672,672,7,7,7,0,16.342962777283333,0.0,2745617.7465836,0.0,False
+protocolo_post_0_89,ventana_protocolo,2025-05-06,2025-08-03,8640,8640,90,90,90,0,19.402590855086114,3.0207407407407407e-09,41909596.246986,0.0065248,False
+protocolo_post_0_27,subventana_28_dias,2025-05-06,2025-06-02,2688,2688,28,28,28,0,17.19078515991622,9.70952380952381e-09,11552207.6274637,0.0065248,False

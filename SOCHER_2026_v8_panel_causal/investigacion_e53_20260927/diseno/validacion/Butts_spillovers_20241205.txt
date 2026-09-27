@@ -1,0 +1,952 @@
+PAGINA_PDF 1
+Difference-in-Differences with Spatial Spillovers∗
+Kyle Butts†
+December 5, 2024
+This paper addresses a common setting where treatment is assigned following geographic boundaries but
+the effects of the policies extend over space. Potential outcomes are modelled as a function of a unit’s
+treatment status as well as their exposure to treatment status of other units. The paper highlights biases
+in standard estimators due to spillover effects. Then identification and estimation of treatment effects are
+discussed including in settings with staggered treatment adoption. The proposed methods are applied to
+reanalyze three empirical applications highlighting the impact of spillovers on policy evaluations.
+JEL-Classification: C01, C21, C23, R15, R58
+Keywords: difference-in-differences, spillover effects, causal inference, spatial econometrics, place-based
+interventions
+∗I am grateful to Taylor Jaworski, Adam McCloskey, Brantly Callaway, Pedro H.C. Sant’Anna, Damian Clarke, Daniel Kaffine,
+Tania Barham, Alexander Bentz, James Flynn, Brach Champion, Hannah Denker, the CU Boulder Labor Economics Seminar, the
+Urban Economics Association Conference, the WEAI Conference, and the University of Rochester HEEL Lab for helpful comments.
+†University of Colorado Boulder. Email: kyle.butts@colorado.edu.
+1
+
+PAGINA_PDF 2
+1 — Introduction
+Empirical work in economics often considers settings where a policy targets units grouped by geographic
+boundaries but the effect of treatment spills over onto ‘nearby’ units.1 For example, individuals in the
+surrounding area can travel across borders to receive treatment (e.g. a new hospital serves nearby residents);
+or shocks to a labor market can affect nearby areas (e.g. a new factory increases service sector spending in
+the entire commuting zone). In these settings, a common approach involves using a structural model to
+account and control for general equilibrium effects. For example, trade models generate a market access
+term that effectively controls for such effects (Donaldson and Hornbeck 2016), or network models suggest a
+linear-in-means model controlling for the average characteristics of a unit’s peers, e.g. proportion of peers
+treated (Manski 1993; Goldsmith-Pinkham and Imbens 2013; Miguel and Kremer 2004).
+However, researchers often wish to remain agnostic to structural assumptions, preferring minimal and
+transparent restrictions that, when made, allow for identification of treatment effects. This paper uses the
+potential outcomes framework proposed by Vazquez-Bare (2023) to consider non-parametric identification
+in difference-in-differences settings under the presence of spatial spillovers. In this framework, potential
+outcomes are now characterized by a unit’s treatment status as well as the ‘exposure’ to the treatment
+status of other units. Identification arguments are then made by imposing assumptions on the potential
+outcomes.
+Under the more general potential outcome framework, there are many potential treatment effects
+that can be formed. I consider identification of two relevant treatment effects that are common in the
+literature on interference (Sävje, Aronow, and Hudgens 2021). First, there is the ‘switching effect’ which
+is the relevant parameter for local policymakers who want to answer, “What is the effect of switching
+my treatment status, holding fixed all other units’ treatment?”. I show that identification of the switching
+effect is a difficult problem which in a difference-in-differences framework would require the researcher to
+identify treated and control units that have the same level of exposure.2
+The second effect of interest is the ‘total effect’, which is the relevant parameter for national policymakers
+who want to answer, “What is the average effect of implementing the entire treatment regime?”. This
+treatment effect is useful in post-hoc analyses analyzing the effect of implementing the observed treatment
+vector. This paper identifies simple and interpretable assumptions that allow for identification of the total
+effect. In settings where researchers are willing to impose an assumption that spillovers are ‘local’, i.e.
+1. The framework of this paper applies to any setting with a well-defined measure of distance, e.g. geographic distance, economic
+distance such as supply chains, node distance in a graph, or social relationships in schools or cities.
+2. Xu (2023) takes this approach and discusses estimation and inference about this estimate.
+2
+
+PAGINA_PDF 3
+spillovers only impact units within a certain distance of treatment, I show the total effect can be identified
+with a parallel trends assumptions between treated and non-affected ‘far-away’ units. The local spillovers
+assumption is reasonable in settings where travel is the primary driver of spillovers (e.g. people in nearby
+jurisdictions travel to the treated location). However, this assumption may not hold in the case of large
+general equilibrium shocks that affect units far away from the treatment area, such as when New York’s
+economy impacts San Francisco.
+In this framework, I evaluate common practices in empirical work. First, I show that the standard
+difference-in-differences estimator produces biased estimates for the total effect. This bias arises from the
+fact that untreated units that are "close" to treated units experience treatment effects, thereby failing to
+identify the counterfactual trend. The difference-in-differences estimate averages the spillover onto the
+"close" control units into the untreated units’ change in outcomes. As a result, the spillover is subtracted
+from the estimated treatment effect, introducing bias in the opposite sign of the spillover effect.
+This problem is generally well understood, and it is common to either drop or include a dummy for
+nearby units in the standard two-way fixed effect model. This method consistently estimates the total
+effect under the assumptions I present in this paper. In this sense, this paper formalizes and clarifies the
+assumptions needed for this method.
+To show the importance of considering spillover effects and the utility of my estimators, I revisit
+analyses of place-based policies in urban economics in section 3.1. I revisit the analysis of the Tennessee
+Valley Authority by Kline and Moretti (2014). The Tennessee Valley Authority was a large-scale New Deal
+program that lowered the cost of power for industrial firms (Kitchens 2014). The scale of federal investment
+in the region was large and the pro-manufacturing benefits likely spread further than the Authority’s
+boundary due to the electrification infrastructure and agglomeration economies (Severnini 2023). I show
+that estimation by difference-in-differences fails to account for these spillovers and therefore the authors
+obtain biased estimates of the total effect of the Tennessee Valley Authority. For agriculture employment, I
+find that the long-run spillovers cause the original estimates to be about 40 percent too small for agriculture
+employment and 40 percent too large for manufacturing employment.
+Last, in section 4, I extend estimation of treatment and spillover effects into settings with staggered-
+treatment timing by extending the work of Gardner (2021) and Borusyak, Jaravel, and Spiess (2024).3 The
+proposed two-stage estimator first estimates unit and time fixed-effects using untreated/not-yet-treated
+observations. Since some control/not-yet-treated units can be affected by spillovers, these units must be
+removed to consistently estimate the unit and time fixed-effects. Then these estimated unit and time fixed-
+3. I also briefly discuss how to adapt the estimation strategy of (Callaway and Sant’Anna 2020).
+3
+
+PAGINA_PDF 4
+effects are subtracted from the observed outcome in the full sample . The resulting differenced outcomes are
+then regressed on the treatment and spillover variables to estimate treatment and spillover effects. In the
+appendix, I demonstrate the method by revisiting the analysis by Bailey and Goodman-Bacon (2015) of
+Community Health Centers which provided low-cost primary care to impoverished areas.
+This paper contributes to the literature that focuses on estimation of treatment effects with spatial
+spillovers using the difference-in-differences framework. Most work derives results for specific spillover
+mappings (Clarke 2017; Berg and Streitz 2019; Verbitsky-Savitz and Raudenbush 2012; Delgado and Florax
+2015). My paper is the first to consider non-parametric identification in terms of general potential outcomes.
+My paper also advances the literature by considering estimation of treatment effects and spillover effects in
+settings with staggered-treatment timing. If I assume the particular functional forms for potential outcomes,
+I arrive at the same bias equation as theirs. Xu (2023) complements this paper well, focusing on identification
+and inference on the ‘switching effect’.
+This paper relates to a broad literature on spillover effect estimation in randomized experiments.4 There
+are two main strands of this literature. First, there is a large literature on the estimation of treatment effects
+in the presence of spillovers using a ‘partial identification’ framework where units are in distinct treatment
+clusters and outcomes depend on the treatment status within the observation’s cluster only.5 Estimation
+compares units in the partially treated clusters with control units in completely untreated clusters which
+do not receive spillover effects. This allows standard difference-in-differences estimation of both the total
+effect (treatment effect on the treated) and spillover effects (treatment effect on the untreated in the treated
+clusters). However, my proposed estimator focuses on a setting without distinct clusters.
+There is also a nascent literature exploring estimation of treatment and spillover effects which does
+not require a completely untreated cluster in experimental settings (Sävje, Aronow, and Hudgens (2021);
+Vazquez-Bare (2023); Hu, Li, and Wager (2021); Yu et al. (2022)). Those papers’ identification results rely
+on design-based assumptions around the treatment-assignment mechanism. Difference-in-differences,
+however, relies on model-based assumptions on the potential outcomes (i.e. parallel-trends assumption)
+for identification in non-experimental settings. I contribute to this literature by formalizing identification
+results of different treatment effects in non-experimental settings. Wang et al. (2020) consider estimation
+of treatment effects in spatial settings under design-based settings and make a similar ‘local’ spillovers
+assumption as this paper.
+4. See Sobel (2006) and Hudgens and Halloran (2008) for early work. See Hu, Li, and Wager (2021), Sävje, Aronow, and Hudgens
+(2021), and Vazquez-Bare (2023) and references therein for recent work on this.
+5. Angelucci and Di Maro (2016) provides an overview of estimation of treatment effects in the presence of “within-group”
+spillovers. Empirical examples include Halloran and Struchiner (1995), Sobel (2006), Miguel and Kremer (2004), and Angrist (2014).
+4
+
+PAGINA_PDF 5
+2 — Theory
+There are a set of units i ∈ {1, . . . , N} observed for periods t ∈ {0, 1} and treatment turns on between
+periods for some of the units. The framework is extended to staggered treatment adoption below. Let Di
+denote an indicator for unit i being treated and the vector of treatment assignments as D = (D1, . . . , Dn)′.
+Since units can be impacted by the vector of treatment assignments, the general potential outcome notation
+is given by Yit(D). To simplify the high-dimensional set of potential outcomes, we follow Aronow and
+Samii (2017) and Vazquez-Bare (2023), and introduce an ‘exposure mapping’ which summarizes how a
+unit is exposed to spillovers: hi(D) : {0, 1}N → H for some space H with dim(H) ≤ N. For example,
+researchers might think hi(D) to be an indicator variable equal to one if any contiguous units are treated.
+The exposure mapping simplifies the potential outcome notation by imposing that if two treatment vectors
+D and ˜D have hi(D) = hi( ˜D), then the potential outcomes are also equal. Potential outcomes therefore
+can be written as Yit(Di, hi(D)). In the counterfactual world without treatment, we write the potential
+outcome as Yit(0, 0) where 0 ∈ H is defined as zero-exposure.
+Often, researchers will try to parameterize potential outcomes, i.e. selecting a function hi(·), by
+reasoning through the nature of the spillovers and subsequent estimation will rely on the functional form
+assumptions made by researchers. This paper will take an alternative approach to identification and
+estimation which will allow for estimation of treatment effects without requiring direct knowledge of the
+functional form of the exposure mapping/potential outcomes.
+Following Borusyak, Jaravel, and Spiess (2024) and De Chaisemartin and d’Haultfoeuille (2022), our
+analysis views our panel and the treatment vectorD (and hence exposure mappings) as fixed. Therefore, the
+uncertainty in the framework comes from stochastic potential outcomes.6 In most of the related literature
+on interference, the treatment design and hence the distribution of exposure mappings is known (given
+h) so expectations can be taken without conditioning on the vector of exposure mappings.7 The focus of
+this article is on difference-in-differences where identification comes from assumptions on the potential
+outcomes.
+2.1. Treatment and Spillover Effects
+In setups without spillovers, the treatment effect for an individual unit is well defined asτi ≡ Yi1(1)−Yi1(0).
+In the presence of spillovers, multiple treatment effects can be defined in this setting. This subsection will
+6. See appendix section A.2 of Borusyak, Jaravel, and Spiess (2024) for further discussion on fixed-design. Xu (2023) focuses on
+inference in a similar finite population setting.
+7. See Sävje, Aronow, and Hudgens (2021) and Pollmann (2020) for discussion of estimation and inference when the treatment
+design is known.
+5
+
+PAGINA_PDF 6
+define commonly used estimands and discuss their interpretation. In the following sections, we will discuss
+identification strategies.
+The natural analogue to the above treatment effect which I will label the ‘switching effect’ is:
+τi,switch(h) ≡ Yi1(1, h) − Yi1(0, h).
+This is the effect of changing only unit i’s treatment status while keeping their exposure to spillovers
+constant at some value h. This treatment effect is policy-relevant as it summarizes what would happen if a
+‘local’ policymakers decide to enact the policy for uniti (implicitly keeping h constant).8 It is important to
+note that the switching effect can depend on the level of exposure. For instance, consider the construction
+of libraries in towns (Berkes and Nencka 2021). The effect of a new library in a town that is far away from
+any other library (exposure of 0) is different than a town that is very close to a neighboring town’s library
+(large h), hence the dependence of τi,switch on h. Since the size of the switching effect depends on a unit’s
+exposure level, we will consider an average switching effect at each value of exposure,
+τswitch(˜h) ≡ E
+h
+Yi1
+ 
+1, ˜h
+
+− Yi1
+ 
+0, ˜h
+
+| Di = 1, hi(D) = ˜h
+i
+.
+The second policy-relevant parameter is the ‘total effect‘:
+τi,total ≡ Yi1(1, hi(D)) − Yi1(0, 0).
+As opposed to the switching effect, which keeps exposure constant, the total effect looks at turning on
+treatment and going from zero exposure to hi(D) simultaneously. This can be thought of as going from
+the world with a complete absence of treatment, 0 to the current treatment vector D. Individual effects can
+be averaged over treated units to the ‘total effect of treatment on the treated’:
+τtotal ≡ E[Yi1(1, hi(D)) − Yi1(0, 0) | Di = 1].
+This treatment effect is helpful for ‘national’ policymakers to evaluate whatwere the effects of the entire
+vector of enacted policies.9
+We formalize the ‘spillover effect’ as the difference in potential outcomes between being exposed to the
+8. This is what Sävje, Aronow, and Hudgens (2021) call the ‘assignment-conditional unit-level treatment effect’.
+9. Yu et al. (2022) label the ‘total effect’ to beE[Yi1(1, hi(D)) − Yi1(0, 0)] where the average is over all units including control
+units. Identification of this effect relies on assumptions about experimental-design so this paper does not pursuit identification of
+this effect.
+6
+
+PAGINA_PDF 7
+observed spillover exposure and not being exposed:
+τi,spill(d) ≡ Yi1(d, hi(D)) − Yi1(d, 0).
+This effect can differ based on treatment status as the magnitude or even the causal mechanisms of spillovers
+might differ between treated and untreated units. For example, consider a targeted place-based policy that
+creates tax incentives to create businesses in designated census tracts. Nearby untreated census tracts could
+lose out on new business formation from this policy while nearby treated census tracts might benefit from
+agglomeration forces from a cluster of designated tracts.
+It is often also of interest to estimate the average spillover effects on subsets of units (e.g. all units
+experiencing non-zero exposure). Since it shows up in our below decomposition of the difference-in-
+differences estimand, we define the average spillover onto all the control units as
+τspill(0) = E[Yi1(d, hi(D)) − Yi1(d, 0) | Di = 0].
+Estimation of spillover effects for different groups of units will be discussed in section 2.3.3.
+2.2. What Does Difference-in-Differences Estimate?
+With treatment effects properly defined, I will first derive what the standard difference-in-differences
+estimand identifies under a modified parallel trends assumption.
+Assumption 1 (Parallel Counterfactual Trends). Counterfactual trends do not depend on Di:
+E[Yi1(0, 0) − Yi0(0, 0) | Di = 1] = E[Yi1(0, 0) − Yi0(0, 0) | Di = 0]
+This assumption states that in the absence of treatment and with zero exposure (not just the absence of
+individual i’s treatment), the change in potential outcomes from period 0 to 1 do not depend on treatment
+status. When the stable-unit treatment value assumption (SUTVA) is satisfied, all units have zero exposure
+and this assumption generalizes to the classic parallel counterfactual trends assumption. Second, I make the
+standard assumption ‘no anticipation’ assumption that units do not adjust their actions in period0 from
+knowledge of future treatment:
+Assumption 2 (No Anticipation). E[Yi0(D, h(D))] = E[Yi0(0, 0)].
+With these assumptions, we derive what the standard difference-in-difference estimand identifies.
+7
+
+PAGINA_PDF 8
+Proposition 1 (Decomposition of Difference-in-Differences Estimand).
+If assumptions 1 and 2, the population difference-in-differences estimand can be decomposed as follows:
+E[Yi1 − Yi0 | Di = 1] − E[Yi1 − Yi0 | Di = 0] = τtotal − τspill(0) (1)
+The proof is given in Appendix A, but the intuition is as follows. The change in outcomes among
+control units includes both the parallel counterfactual trend and the average spillover effect onto control
+units. Since ˆτ is found by subtracting the change in outcomes among the control units, we subtract the
+average spillover effect onto the control, τspill(0).
+2.3. Identification of Treatment Effects
+2.3.1 Switching Effect
+It is difficult to identify the switching effect in general as identifying the unobserved counterfactual outcome
+Yi1(0, hi(D)) requires knowledge of which control units have the same level of exposure. The reason for
+this can be seen by rewriting this in terms of a difference-in-differences style estimand:
+τswitch(˜h) = E
+h
+Yi1(1, ˜h) − Yi0(0, 0) | Di = 1, h(D) = ˜h
+i
+− E
+h
+Yi1(0, ˜h) − Yi0(0, 0) | Di = 1, h(D) = ˜h
+i
+.
+The first term is identified by the observed outcomes of the treated units. The second term would typically
+be estimated using the control units with exposure ˜h under a parallel trend assumption. This is difficult
+as it requires knowledge of the unobserved exposure mapping to identify control units with hi(D) = ˜h.
+In related work, Xu (2023) take the approach of parameterizing the exposure mapping and discusses
+doubly-robust estimates of the switching effect.
+Since spillover effects show up in the second term, estimation of the average switching effect requires an
+additional assumption that spillover effects on the control units be on average the same as the treated units.
+As an example, this assumption could fail if units that would receive the largest negative spillover effects
+select into treatment to avoid them. The problem of effects showing up in the above decomposition is similar
+to those highlighted by Callaway, Goodman-Bacon, and Sant’Anna (2021) for difference-in-differences with
+continuous treatment. See their discussion on ‘strong parallel trends’
+Remark 1. Researchers may be tempted to introduce the parameterized exposure mapping interacted with
+a post dummy variable linearly in a two-way fixed effects model to “compare individuals at the same level
+8
+
+PAGINA_PDF 9
+h”. However, this assumes additive separability between the treatment dummy and the exposure mapping
+imposing homogeneity of switching effects for treated and untreated units. If the exposure mapping is
+continuous, then this also imposes switching effect grows linearly with h. An alternative would be running
+difference-in-differences on subsets of treated and control units with the same value of h.
+2.3.2 Total Effect
+To identify the total effect, additional assumptions on the nature of spillover effects are needed. In particular,
+I will formalize the idea that spillovers are ‘local’ in that units are only affected by treatment if they are
+near treatment. For example, if treatment has to be accessed in person (e.g. access to abortion clinics), then
+it is natural that further away places are not affected by treatment. However, this assumption may fail
+under general equilibrium shocks that do not necessarily decay over distance.
+To formalize this assumption, let d(i, j) be a function that measures the distance between units i and
+j.10 For a given distance ¯d, let Si( ¯d) = minj: Dj =1 d(i, j) ≤ ¯d be an indicator equal to one if uniti is within
+¯d miles of the closest treated unit.
+Assumption 3 (Spillovers Are Local). There exists a distance ¯d such that
+(i) For all units i,
+Si( ¯d) = 0 = ⇒ hi(D) = 0.
+(ii) There exists treated and control units with Si( ¯d) = 0.
+Part (i) of assumption (3) requires that spillovers are ‘local’ in that units are no longer exposed to
+spillovers after some maximum distance ¯d. Part (ii) of Assumption (3) requires that there exists control and
+treated units with no exposure. This assumption is far less strict than the identifying assumption for the
+switching effect in that we only need to identify which units have non-zero exposure and don’t need to
+parameterize the exposure mapping any further.
+The intuition behind identifying the total effect requires that we use control units experiencing no
+spillover effects to identify the counterfactual trend. However, this changes the necessary parallel trends
+assumption:
+Assumption 4 (Total Effect Parallel Trends). For a given ¯d, counterfactual trends are equal for the treated
+10. While the prose generally focuses on geographic distance, this could be any reasonable metric. For example, a measure of
+the connectedness between businesses where we assume larger values are more distant firms.
+9
+
+PAGINA_PDF 10
+group and the far-away control group:
+E[Yi1(0, 0) − Yi0(0, 0) | Di = 1] = E
+
+Yi1(0, 0) − Yi0(0, 0) | Di = 0, Si( ¯d) = 0
+
+With this assumption, we have the following identification result for the total effects:
+Proposition 2 (Identification of Total Effects). Suppose that assumptions 2, 3, and 4 hold. Then,
+τtotal = E[Yi1 − Yi0 | Di = 1] − E[Yi1 − Yi0 | Di = 0, Si = 0]. (2)
+Proofs are given in Appendix A. This proposition shows that if a researcher believes that spillover
+effects are ‘local’, then estimation of the total effect on treated units only requires identifying which units
+are exposed to spillovers. The identifying assumption is that the control units are a valid comparison group
+after removing the (potentially) exposed units. To estimate the total effect, we could replace the terms in
+proposition 2 with their sample analogs.
+Remark 2 (Far-away control units and parallel trends) . It is worth remarking on Total Effect Parallel
+Trends in terms of applied work. Often, researchers use only a subsample of observations that are close
+to treated observations. The idea is that if unobservable confounders evolve smoothly over space, then
+close units are more likely to be on similar counterfactual trends than units that are further away. The
+identification result and its corresponding estimator are formed by using further away units (i.e. units with
+Si = 0). In this case, if parallel trends only hold for nearby control units, then focusing on further away
+units can fix the spillover bias but introduce bias from non-parallel trends. See appendix section 3.2 for
+further discussion and an empirical example evaluating the 2017 U.S. Opportunity Zones using different
+identification strategies.
+Remark 3 (Selection of ¯d). A natural question is why wouldn’t researchers make the distance large to
+guarantee they have an unbiased estimate of τtotal? Equation (2) should make this problem clear. Since
+these estimates rely on averages among units with Si = 0, as ¯d increases, the number of units with Si = 0
+decreases which yields more variable estimates. On the other hand, having units that experience spillovers
+not included in the Si indicator will leave some bias in the estimate.11 Therefore there is a bias-variance
+trade-off in extending the extent of Si that should be balanced by researchers guided by their particular
+economic context. Additionally, each value of ¯d corresponds to a different effective control group and hence
+11. Although, spillover effects typically will grow weaker over distance and if distant units are mistakenly treated as if they have
+zero exposure, bias should be small.
+10
+
+PAGINA_PDF 11
+a different parallel trends assumption, rendering comparisons across ¯d uninformative.
+2.3.3 Spillover Effects
+This section turns to identification of averages of spillover effects. To do so, it is typical to compare nearby
+control units to further away units. This requires an additional parallel trends assumption that the far-away
+control units and the nearby control units are on the same trends:
+Assumption 5 (Spillover Effect Parallel Trends). For a given ¯d, we have:
+E
+
+Yi1(0, 0) − Yi0(0, 0) | Di = 0, Si( ¯d) = 1
+
+= E
+
+Yi1(0, 0) − Yi0(0, 0) | Di = 0, Si( ¯d) = 0
+
+.
+In this case, comparing control units with Si( ¯d) = 1 to far-away control units will identify the average
+spillover effect on control units with Si( ¯d) = 1:
+E
+
+Yi1(d, hi(D)) − Yi1(d, 0) | Si( ¯d) = 1, Di = 0
+
+Joint estimation of the total effect on the treated and the spillover effect on the nearby control units can
+be done using the following regression specification on the full sample:
+Yit = τ Di1t=1 + γ0(1 − Di)Si( ¯d)1t=1 + µi + λt + εit. (3)
+Note that since some units with Si( ¯d) = 1 may not have positive exposure (hi( ⃗D) = 0), this is not
+the average spillover effect for units with non-zero exposure. For example, if only units really close to
+treatment receive spillover effects and Si( ¯d) contains a lot of units that experience no spillover effects, then
+ˆτspill, control could be estimated near zero even though some units experience substantial spillover effects.
+For example, reanalysis of Linden and Rockoff (2008) in Butts (2023) finds that the arrival of sex offenders
+to a neighborhood has large impacts on homes within 0.05 miles and much smaller impacts for homes
+between 0.05 and 0.10 miles. Selecting ¯d to be 0.1 estimated an effect that was about half as large as the
+estimated impact on the very close homes.
+To better understand how spillover effects vary over distances, applied researchers will sometimes split
+up Si( ¯d) into a set of J concentric ‘rings’ (e.g 0-20 miles, 20-40 miles, and 40-60 miles from the nearest
+11
+
+PAGINA_PDF 12
+treated unit). Equation (3) can be modified as
+yit = τ Di1t=1 +
+JX
+j=1
+γj(1 − Di)Ringj
+i 1t=1 + µi + λt + εit, (4)
+where Ringj
+i is an indicator for a control uniti being in ring j withP
+j Ringj
+i = Si( ¯d). The estimate ˆτ is still
+consistent for the total effect since the effective control group remains the same. However, interpretation of
+each ˆγj as causal requires a yet stronger parallel trends assumption. Namely, units in each ring j must be
+on the same parallel counterfactual trend as the Si( ¯d) = 0 control group. If only assumption 5 is assumed,
+it is not possible separate variation in spillover effects from variation in counterfactual trends across rings.
+Butts (2023) shows that in some settings where you are willing to assume that parallel trends holds for all
+distances from treatment, a non-parametric estimator is available for average spillover effects as a function
+of distance. This assumption is more likely in very local settings where units do not vary in terms of
+temporal shocks.
+3 — Applications in Place-Based Policy Analysis
+More generally, my framework provides important insights into identification strategies when analyzing
+the effects of place-based policies. There are two ways I contribute. First, Baum-Snow and Ferreira (2015)
+recognize the problem of spatial spillovers causing problems in identification and point to aggregation of
+units as a way to alleviate the problem (e.g. aggregating census tracts to metropolitan areas). However, this
+approach combines the treatment and spillover effects, which might each be of interest, into a singular
+aggregate effect. This method averages over heterogeneous effects (in magnitude or in nature) that might be
+of independent interest. The methods propose in this paper provide a strategy for disentangling treatment
+effect estimates with non-aggregated data. Subsection 3.1 will revisit the analysis of a large-scale targeted
+policy on regional development. In this setting, spillover effects on nearby counties, via lost jobs, are of
+a very different nature than the direct impact on the targeted region and hence separate estimation if of
+practical interest.
+Second, my framework provides insight into different identification strategies often used in the literature.
+Since place-based policies are targeted to specific distressed areas, comparison units are often hard to find.
+Researchers have developed many identification strategies to find comparison units that are similar in
+terms of unobservables. First, researchers use border discontinuities to compare treated units to units
+just on the other side of the border. Other times, researchers compare approved applicants to narrowly
+12
+
+PAGINA_PDF 13
+rejected applicants. Both strategies aim to balance unobservables between treated and control units. A key
+difference in these identification strategies is the distance comparison units are from the treated area and
+therefore the former is more prone to bias due to spillovers than the latter. Subsection 3.2 tries to highlight
+the differences in these identification strategies in the context of the U.S. Opportunity Zones created in
+2017.
+3.1. The Tennessee Valley Authority
+To illustrate the importance of accounting for spatial spillovers in the estimation of treatment effects, I revisit
+the analysis of the Tennessee Valley Authority (TVA) in Kline and Moretti (2014). The TVA program was a
+large-scale federal investment started in 1934 that focused on the construction of dams and transportation
+canals in an attempt to modernize the Tennessee Valley’s economy. By the end of WWII, the TVA became
+the largest single power supplier in the country and significantly lowered the cost of wholesale energy for
+manufacturers.12 With over $20 Billion (in 2000 dollars) spent which is hundreds of dollars transferred per
+person in the Authority, the impacts are very likely to extend past the authority’s borders. Kline and Moretti
+(2014) analyze a range of outcome variables, but I focus on agricultural and manufacturing employment.
+The analysis in Kline and Moretti (2014) begins by comparing changes in county-level outcomes from
+1940 to either 1960 (short run effects) or 2000 (long run effects) between treated counties in the Authority
+and control counties outside. The primary specification is
+yc,t − yc,1940 = α + TVAcτ + Xc,1940β + (εc,t − εc,1940), (5)
+where c denotes county, TVAc is an indicator variable for being in the Authority, and y is a set of outcome
+variables (in logs).13 Pre-treatment control variables, Xc,1940, are included to allow for places to be on
+different long-term trends. 14 To improve the likelihood of the parallel trends assumption, they run a
+logistic regression to predict being in the TVA based on their set of control variables Xc,1940 and keep
+only observations in the top 75% of predicted probability. The subsample produced from this exercise is
+presented in Figure 1.
+In the paper, the authors discuss the nature of spillovers that they think can occur. For agriculture
+12. More details on the program are found in Kline and Moretti (2014). The effects on wholesale electricity are discussed in
+Kitchens (2014).
+13. The two-period difference-in-differences regression is equivalent to a first-difference regression. The authors use an Oaxaca-
+Blinder estimator on the first differences and the results of Kline (2011) show that this estimator is equivalent to a weighted
+difference-in-differences estimate. Their estimator does not differ much from the standard difference-in-differences results since
+the weights are not that different from uniform weights.
+14. See footnote 8 in Kline and Moretti (2014) for a full listing of control variables.
+13
+
+PAGINA_PDF 14
+Figure 1 — TV A Effective Sample and Spillover Variables
+Spillover Ring
+0 to 50 miles
+50 to 100 miles
+100 to 150 miles
+150 to 200 miles
+Notes: The above figure plots all the counties used in the estimation. Counties that fall within the distance intervals
+{(0, 50], (50, 100], (100, 150], (150, 200]} measured in miles are colored by their respective bin.
+employment, the authors argue that improved wages in the TVA will draw agriculture workers out of
+nearby counties producing negative spillovers. For manufacturing, there are two countervailing forces
+(Cuberes, Desmet, and Rappaport 2021). Positive spillovers from ‘urban access’ would occur if electrification
+brought cheap power and agglomeration economies to the neighboring areas. The countervailing ‘urban
+shadow’ would cause negative spillovers if firms chose to locate in the Authority that would have, in the
+absence of the program, decided to locate in nearby counties. My methodology will allow me to empirically
+test for these two forces in the data over time while removing their bias from the total effect estimates.
+Kline and Moretti (2014) estimate (5) to identify what I am calling the ‘total effect on the treated’.
+However, their point estimates compare, in part, changes in outcomes in TVA counties with changes in
+outcomes for neighboring counties that likely were impacted by the large-scale program. The authors do
+recognize the problem of spillover effects and the majority of the paper uses structural models to estimate
+the general equilibrium effects of the TVA. In this light, the re-analysis here is complementary to their
+work.
+I extend their analysis to control for spatial spillovers in the difference-in-differences specification.
+To parameterize the exposure mapping, I use a set of rings as described in section 2.3.3. Specifically, the
+14
+
+PAGINA_PDF 15
+Table 1 — Effects of Tennessee Valley Authority on Decadal Growth
+Diff-in-Diff Diff-in-Diff with Spillovers
+TVA between TVA between TVA between TVA between
+TVA TVA 0-50 mi. 50-100 mi. 100-150 mi. 150-200 mi.
+Dependent Var. (1) (2) (3) (4) (5) (6)
+Panel A:1940-2000
+Agricultural employment −0.0514∗∗∗ −0.0739∗∗∗ −0.0371∗∗ −0.0164 −0.0298∗∗∗ −0.0157∗
+(0.0135) (0 .0163) (0 .0149) (0 .0114) (0 .0104) (0 .0095)
+Manufacturing employment0.0560∗∗∗ 0.0350 −0.0203 −0.0245 −0.0331 −0.0296∗
+(0.0196) (0 .0267) (0 .0274) (0 .0338) (0 .0227) (0 .0166)
+Panel B:1940-1960
+Agricultural employment 0.0940∗∗∗ 0.0856∗ −0.0062 −0.0042 −0.0303 −0.0039
+(0.0309) (0 .0473) (0 .0507) (0 .0487) (0 .0471) (0 .0339)
+Manufacturing employment0.0894∗∗ 0.0993∗∗ 0.0228 0 .0225 −0.0055 −0.0066
+(0.0348) (0 .0473) (0 .0554) (0 .0630) (0 .0399) (0 .0292)
+Notes. Each row corresponds to an outcome variable. Each cell is the point estimate and the standard error for the variable
+described in the column title. All standard errors are Conley standard errors with a correlation cutoff of 200 miles following Conley
+(1999). The column labeled ‘Diff-in-Diff’ estimates (5) by OLS and is similar to the estimate reported in Kline and Moretti (2014).
+The final four columns labeled ‘Diff-in-Diff with Spillovers’ are estimates from (6).
+Notes. ∗p < 0.1; ∗∗p < 0.05; ∗∗∗p < 0.01.
+specification with spillovers is given as follows:
+yi,t − yi,1940 = α + TVAiτ +
+X
+j∈Dist
+Ringj
+i γj + Xi,1940β + (εi,t − εi,1940), (6)
+where Dist = {(0, 50], (50, 100], (100, 150], (150, 200]} measured in miles and define Ringj
+i as an indicator
+for being within the interval d ∈ Dist away from the Authority and t ∈ {1960, 2000}. Figure 1 displays
+the four spillover variables by filling in each distance bin in a different color. The coefficientsγj estimate
+the average spillover effect onto control units for each of these distance bins. It’s important to note that
+estimation of (6) changes the comparison group to counties further away than 200 miles from the TVA.
+The results of the long run analysis from 1940 to 2000 are presented in Panel A of Table 1. Each row
+contains the results for a different outcome variable (measured in logs). Columns (1)-(5) contain point
+estimates for τ and γj’s in different specifications. The point estimates can be interpreted as decadal growth
+rates in outcomes. The column labeled difference-in-differences estimates equation (5). This estimate
+finds a decline in agricultural employment of about 5.1% per decade and an increase in manufacturing
+employment of about 5.6% per decade.
+Turning to specification (6) which includes spillovers, column (2) contains a point estimate for τ and
+columns (3)-(6) contain point estimates of the spillover effects γj. For agricultural employment, the point
+15
+
+PAGINA_PDF 16
+estimates show there was a decline in agriculture employment in control units near the Authority. For
+control units between 0 and 50 miles, column (4) indicates a decline in agricultural employment of 3.7%
+per decade. Between 50 and 100 miles the point estimate is −1.6% per decade, between 100 and 150 miles
+the point estimate is −3% per decade, and between 150 and 2000 miles the point estimate is −1.6% per
+decade. This is likely because higher-paying manufacturing jobs within the Authority drew farm-worker
+migrants from nearby counties. Because the spillovers onto the control counties are negative, the original
+difference-in-differences estimator was positively biased. The new point estimate indicates a decline of
+agricultural employment of about7.4% per decade compared to5.1% in the standard difference-in-difference
+specification.
+For manufacturing, our point estimates for spillovers are consistently negative though imprecisely
+estimated. The spillover estimates suggest that neighboring counties potentially experienced negative
+spillover effects in the long run. Since there are negative spillover effects present, the new point estimate
+in column (2) of 3.5% is smaller than the original estimate of 5.6%. The spillover estimates are evidence
+that in the long run, ‘urban shadow’ (stealing manufacturing firms) forces dominate the benefits of ‘urban
+access’ (agglomeration effects).
+To see how spillover effects from a large-scale place-based policy develop over time, Panel B in Table 1
+presents results for the effects of the Tennessee Valley in the short run using outcome data in 1960. Unlike
+in the long run, areas near the Tennessee Valley did not experience significant declines in agricultural
+employment in the short run. Since our long run analysis finds significant increases in high-paying
+manufacturing employment in the Tennessee Valley, this result is consistent with long run migration costs
+being lower than short run costs.
+For manufacturing, there are potentially positive increases in manufacturing employment within 100
+miles of the Tennessee Valley Authority and near-zero effects between 100 and 200 miles. In the short
+run, it appears that the effects of urban access and the cheap wholesale electricity dominated the effects of
+urban shadow. The effect of urban shadows can potentially be smaller in the short run if operating firms
+are unlikely to relocate. long run effects can be larger as entrant firms change their location decision and
+operating firms are slowly replaced which is what the long run spillover effect estimates suggest.
+These results show that including spillovers in the estimation of treatment effects is potentially important
+and can lead to significant differences in treatment effect estimates. Analysis of place-based policies that do
+not account for the fact that treatment effects can spill beyond the borders of treated areas can potentially
+be biased. More, the results suggest that the spillover effects caused by place-based policies change over
+time as frictions can create delays in re-optimizing behavior.
+16
+
+PAGINA_PDF 17
+3.2. United States Opportunity Zones
+In this subsection, I revisit the analysis of Chen, Glaeser, and Wessel (2023) on the 2017 Opportunity Zone
+program which created tax incentives for capital investment in targeted Census Tracts. 15 The impacts
+of these kinds of programs is contentious in the literature. For example, there are a set of conflicting
+results on the impacts of the Empowerment Zones in the late 1990s with some papers suggesting that the
+Empowerment Zones reduced poverty rates while others finding near-zero effects.16 The analysis of the
+2017 Opportunity Zones creates a nice setting to consider the differences between the strategies since
+which tracts were eligible but ultimately were not selected is public information.
+To measure the affects of the opportunity zone program on housing prices, the authors collect a panel
+of census tracts with a measure of housing prices from the Federal Housing Finance Agency (FHFA) from
+2014-2019.17 They produce estimates using two different identification strategies. First, they compare
+census tracts that were selected as Opportunity Zones to eligible, but ultimately not selected, census tracts.
+This estimation strategy relies on the assumption that since these census tracts are similar in nature to the
+treated census tracts (both meeting the program’s criteria), it is likely that home prices would continue
+on similar trajectories in the absence of the program. The authors run a standard two-way fixed effect
+specification on the subsample of eligible census tracts:
+Yit = µi + µt + τ dit + εit, (7)
+where Yit is the annual change in the home price index, µi are tract fixed-effects, µt are time fixed effects,
+and dit is an indicator for treatment.
+The second identification strategy relies on comparing selected census tracts to geographically neigh-
+boring census tracts. This estimation strategy relies on the assumption that proximity of census tracts
+would face similar economic shocks and hence home prices would likely evolve in parallel. For each treated
+census tract, they find the nearest non-treated census tract to form a pair,(i,˜i) ≡ ν. They then estimate
+15. Concurrent work by Arefeva et al. (2021) also estimates spillover to nearby opportunity zones using a different dataset and
+finds positive spillover effects on nearby census tracts as well.
+16. See Table 1 of Neumark and Young (2019) for a summary of the various treatment effect estimates in the literature. Busso,
+Gregory, and Kline (2013) compare census tracts in Empowerment Zones to census tracts that qualified and were rejected from the
+program. The rejected tracts are not typically geographically near accepted Empowerment Zones and they find large significant
+reductions in poverty rates. Meanwhile, Neumark and Kolko (2010) compare census tracts in Empowerment Zones to census tracts
+within 1,000 feet of the Zone. These control counties are likely the ones that experience the largest spillover effects and they find
+near-zero effects on poverty. My paper suggests that the former is the preferred strategy in the presence of significant spillovers
+onto nearby control units.
+17. The index tries to create a consistent price index that captures for changes in the composition of homes that are sold over
+time.
+17
+
+PAGINA_PDF 18
+Table 2 — Effects of Opportunity Zones on Annual Home Price Growth
+(1) (2) (3)
+Treat × Post 0.3033 ∗ 0.6478∗∗∗ 0.1788
+(0.1661) (0.2457) (0.1692)
+< 1/2mi. × Post -1.057 ∗∗∗
+(0.3618)
+< 1mi. × Post -0.7430 ∗∗∗
+(0.1922)
+Control Group: Not-Selected Neighboring Not-Selected
+Notes This table contains estimates of models (7), (8), and (9) using the sample from Chen, Glaeser, and
+Wessel (2023). ∗p < 0.1; ∗∗p < 0.05; ∗∗∗p < 0.01.
+the following equation:
+Yit − Y˜it = µν + τ dit + uit, (8)
+where Yit is the annual change in the home price index, µν are pair fixed-effects and dit is an indicator for
+treatment.
+A valid concern is that not-selected tracts were not selected because they were viewed as having better
+economic prospects than selected tracts, implying that a parallel trends assumption like in 4 is unlikely
+to hold. The authors provide evidence of parallel ‘pre-trends’ for both the nearby tracts and the eligible
+but not-selected tracts, alleviating concerns in this context. The results of both estimation strategies are
+shown in Table 2. Column (1) and (2) show the results of estimating Equation (7) and (8) respectively. The
+‘not-selected’ estimate finds a marginally significant effect of an increase in home prices of about 0.3%
+annually while the ‘neighboring’ estimate finds a strongly significant effect twice as large of about 0.65%.18
+What is driving the differences in these estimates? As I proposed above, the differences could be due to
+the fact that neighboring units could be experiencing effects from the Opportunity Zones. To test this, I use
+the estimation strategy proposed in subsection 2.3 to modify (7). For the subsample of eligible census tracts,
+I run the following specification:
+Yit = µi + µt + τ dit + γ1Within 1/2mi. + γ2Within 1mi. + εit, (9)
+where Within are indicators for being within 1/2mi. and being between 1/2 and 1mi. from an Opportunity
+18. The authors use this estimate to rule out effects larger than ≈ 0.65 + 2 ∗ 0.25 = 1 .15%. As shown before, these estimates
+are biased upwards and hence the upper bound of effect size can be lowered to about ≈ 0.65%.
+18
+
+PAGINA_PDF 19
+Zone. This estimation strategy uses non-neighboring census tracts as the effective control group and
+estimates effects for census tracts within or close to Opportunity Zones. The results are estimated in Table
+2 in Column (3). These estimated treatment effect decreased in this specification to 0.17% and reveals that
+census tracts just outside of the Opportunity Zone experience negative and significant declines in home
+prices of about 1%. This result explains why the estimated effect using the ‘neighbor’ specification is twice
+as large as the ‘eligible’ specification.
+4 — Estimating Event Study Specifications with Spillovers
+Now, I turn to the staggered treatment adoption setting where treatment turns on at different times for
+different units. The intuition from how spillovers cause biases in estimates of the total effect of treatment
+on the treated extends into the staggered adoption setting. In this setting, the literature has shown that two-
+way fixed-effect estimates can be viewed as a weighted sum of 2 × 2 difference-in-differences estimates.19
+Therefore the bias terms will be an identically weighted sum of the bias term(s) from the 2 × 2 estimates,
+assuming that the parallel counterfactual trends assumption (1) holds for all groups. However, since weights
+on some of the 2 × 2 estimates can be negative, the sign of the spillover effects does not determine the sign
+of the weighted average of the spillover effects. This makes the bias from spillovers much more difficult to
+sign.
+To estimate treatment and spillover effects in the presence of spillovers and staggered treatment timing,
+I will propose an estimation strategy that follows the ‘imputation-based’ approach proposed in concurrent
+work by Gardner (2021) and Borusyak, Jaravel, and Spiess (2024) by incorporating spillovers directly
+into estimation.20 The imputation-based method relies on a model-based assumption for untreated and
+unexposed potential outcomes to formalize parallel trends:
+Assumption 6 (Parallel Counterfactual Trends (Staggered)). For all units and all periods, the untreated
+and unexposed outcome is given by
+Yit(0, 0) = µi + λt + εit, (10)
+where E[εit] = 0.
+19. Various forms for these weights are described in Goodman-Bacon (2021), Sun and Abraham (2021), and De Chaisemartin
+and d’Haultfoeuille (2020). I do not re-characterize the weights in this paper and guide interested readers to the source articles
+themselves.
+20. Alternatively, we could propose an estimator similar to Callaway and Sant’Anna (2020) using far-away control units (at time
+t) as the comparison units. One advantage of this is that covariates can be included flexibly to allow for parallel-trends to hold
+conditionally on a set of covariates.
+19
+
+PAGINA_PDF 20
+This formalizes parallel trend by imposing that there is a common time-trend in the absence of treatment,
+λt. Note that assumption 6 does not impose any structure on the effects of treatment and exposure
+(dit, hi(dt)) where now the exposure mapping is a function of the current period’s treatment vector
+dt ≡ {d1t, . . . , dnt}. I also assume that units do not have any anticipatory effects before treatment starts:
+Assumption 7 (No Anticipation (Staggered)). For all observations with dit = 0 and hi(dt) = 0, Yit =
+Yit(0, 0).
+With a model for Yit(0, 0), stochastic treatment effects for individual i and time t under treatment
+status dit and exposure hi(D) are given by τit(dit, hi(D)) = Yit(dit, hi(D)) − Yit(0, 0). Then, the total
+effect is formed similar to above:
+τtotal ≡ E[τit(1, hi(dt)) | dit = 1],
+averaging over all the post-treatment observations. It is also common in event-study analyses to allow
+heterogeneity in effects by the number of years that a unit experiences treatment. Let Kit denote the
+number of years since treatment turns on (-1 for the year prior, 0 for the initial year, and so on). Then
+we can define ‘relative year’ dummy variablesdk
+it ≡ Di1Kit=k and estimate average total effects for each
+relative period:
+τ k
+total ≡ E
+h
+τit(1, hi(dt)) | dk
+it = 1
+i
+.
+Our identification argument follows from noting that under Parallel Counterfactual Trends (Staggered),
+E[Yit(dit, hi(dt)) − µi − λt | Ω1] = E[τit(dit, hi(dt)) | Ω1],
+where Ω1 is a set of post-treatment observations (i, t). Estimation of τit is the difference between the
+observed Yit and the unobserved outcome Yit(0, 0). Similar to the previous section, under assumption (3)
+we define sit to be an indicator equal to one if unit i is within ¯d distance from the nearest treated unit from
+the set of units treated in period t.
+Following the procedure of Gardner (2021) and Borusyak, Jaravel, and Spiess (2024), I propose a modified
+version of the two-stage difference-in-differences estimator:
+1. Estimate Yit = µi + λt + uit for observations with dit = 0 and sit = 0 to estimate the common trend
+λt and unit fixed-effects µi. For all observations, residualize ˜Yit ≡ Yit − ˆµi − ˆλt which is our estimate
+for τit.
+2. Regress ˜Yit on treatment dummies (dit or dk
+it) and possibly spillover dummies (sit or sk
+it).
+20
+
+PAGINA_PDF 21
+The first stage uses untreated and unexposed observations to estimate model (10). Then, averaging ˜Yit
+in the second state will be unbiased and consistent for corresponding averages of τit under assumptions 6
+and 7.21 Identification is discussed in appendix section A.3. Note that recent work by Goldsmith-Pinkham,
+Hull, and Kolesár (2022) highlights problem with standard ordinary-least squares estimates with multiple
+mutually-exclusive treatment variables. It is important to note the imputation estimator does not face these
+problems.
+As discussed in Gardner (2021), inference must account for the fact that the regressand in the second
+stage is estimated in the first stage. Gardner (2021) propose reframing the two-stage process as a two-stage
+GMM estimator and discusses how to perform valid inference in this setting. This procedure is implemented
+in the R/Stata package did2s (Butts 2021).
+4.1. Application on Community Health Centers
+As an application of the above methods, I extend the analysis of Bailey and Goodman-Bacon (2015). The
+authors study the creation of federal community health centers between 1965 and 1974 that provided
+primary care to low-income communities. They test the hypothesis if access to low-/no-cost health care
+services decreased mortality rates on the treated population. To answer this question, the authors use
+a common event-study framework to compare outcomes in treated counties to all other US counties by
+estimating the following specification
+Yit = µi + Xitβ +
+−2X
+k=−7
+πydk
+it +
+15X
+k=0
+τydk
+it + εit, (11)
+where dk
+it is the typical ‘event study’ indicator for being treated fork years, µi is county fixed-effects, and
+Xit contains a set of controls.22 The coefficient’sπy can be interpreted as tests of parallel pre-trends and
+τy can be interpreted as the treatment effect of a community health center y years after establishment. In
+years following the establishment of the community health centers, the authors find a reduction of between
+15-30 deaths per 100,000 residents compared to a baseline adjusted mortality rate of 929 deaths per 100,000
+residents.
+There are theoretical reasons to think spillovers may or may not exist in this context. On the one
+hand, individuals outside the county can potentially travel to the community health centers to receive care.
+21. Recent work by Goldsmith-Pinkham, Hull, and Kolesár (2022) suggests that multiple mutually exclusive treatment variables
+can create contamination bias. This is not a concern in this procedure because the above imputation strategy avoids residualizing
+the treatment variables.
+22. Controls include 1960 county characteristic trends, state-year fixed-effects, and urban-group fixed-effects. A full list can be
+found on page 1080 of Bailey and Goodman-Bacon (2015).
+21
+
+PAGINA_PDF 22
+Figure 2 — Total and Spillover Effects of Community Health Centers
+-75
+-50
+-25
+0
+25
+-5 0 5 10
+Years since CHC establishment
+Deaths per 100,000 persons
+Spillover On Control
+Treatment Effect
+Notes: This figure plots event study estimates for the total effect and the spillover effect on control units within 25 miles of
+treatment at different periods relative to establishment year. The estimates are generated using the ‘did2s’ package (Butts 2021).
+This would create a negative spillover effect on mortality rates in nearby counties which would bias their
+estimates towards zero. On the other hand, Bailey and Goodman-Bacon (2015) document evidence that
+their estimated effects are not due to emergencies but rather primary care services. In this case, it is less
+likely low-income individuals would travel very far to receive primary care, and hence the spillover effects
+are potentially near zero. My methodology can provide an answer to the question of how far do individuals
+travel for low-/no-cost primary care.
+As in the method detailed above, I use an indicator for being within 25 miles of a treated county as
+the spillover variable. The results are presented in Figure 2. The confidence intervals labeled with circles
+represent point estimates for the average spillover effect on control units within 25 miles. No spillover
+effect is estimated to be significantly different from zero which suggests that the effects of community
+health centers are very local. Since there are near zero spillover effects, the total effect estimates marked in
+Figure 2 as diamonds maintain the same shape as the author’s original estimates with estimates between
+15-30 fewer deaths per 100,000 persons.
+The spillover effects results provide evidence that low-income individuals will not travel far to receive
+primary care. Practically, this suggests that community health centers should be targeted to be as accessible
+as possible for poor individuals as they are unable to travel far to access the services.
+22
+
+PAGINA_PDF 23
+5 — Discussion
+This paper has considered the common environment where treatment is assigned to groups of units while
+the effects of treatment spread across these borders. I model this phenomenon using a potential outcomes
+framework and show why standard difference-in-differences estimation does not identify treatment effects
+of interest. Next, I discuss identification of two well-defined treatment effects. First, the average local
+effect of a single unit changing their treatment status is hard to identify without imposing assumptions on
+the spillover mapping. The second effect, the post-hoc average total effect on the treated is more simply
+identified under the assumption that spillovers are local. Effects can be identified by using far-away control
+units, but the practical usefullness of this result depends on whether far-away control units satisfy the
+parallel counterfactual trends. Last, I show how to extend the estimation strategy proposed in the paper to
+settings with staggered treatment-timing, a recent concern in the literature.
+I use a set of empirical examples to show that in settings with spatial spillovers, estimates can change
+significantly. In particular, place-based interventions change the nature of agglomeration in the local
+and surrounding area–that is cause spillovers–local effects of these policies can be misestimated without
+controlling for general equilibrium effects. I also show the importance of considering spillovers in weighing
+the pros and cons of various identification strategies. Identification strategies based on geographic continuity
+of unobservables can magnify the bias from spillovers as they restrict the comparison group to observations
+experiencing the largest spillover effects.
+23
+
+PAGINA_PDF 24
+References
+Angelucci, M., and V. Di Maro. 2016. “Programme evaluation and spillover effects. ”Journal of Development
+Effectiveness 8, no. 1 (January): 22–43. issn: 1943-9342, 1943-9407. https://doi.org/10.1080/19439342.
+2015.1033441. [4]
+Angrist, Joshua D. 2014. “The perils of peer effects. ”Labour Economics 30 (October): 98–108. issn: 09275371.
+https://doi.org/10.1016/j.labeco.2014.05.008. [4]
+Arefeva, Alina, Morris A Davis, Andra C Ghent, and Minseon Park. 2021. “The effect of capital gains taxes
+on business creation and employment: The case of opportunity zones. ”A vailable at SSRN 3645507,[17]
+Aronow, Peter M, and Cyrus Samii. 2017. “Estimating average causal effects under general interference,
+with application to a social network experiment. ”Annals of Applied Statistics 11 (4): 1912–1947. [5]
+Bailey, Martha J., and Andrew Goodman-Bacon. 2015. “The War on Poverty’s Experiment in Public Medicine:
+Community Health Centers and the Mortality of Older Americans. ”American Economic Review 105, no.
+3 (March): 1067–1104. issn: 0002-8282. https://doi.org/10.1257/aer.20120070. [4, 21, 22]
+Baum-Snow, Nathaniel, and Fernando Ferreira. 2015. “Causal Inference in Urban and Regional Economics. ”
+In Handbook of Regional and Urban Economics, 5:3–68. Elsevier. isbn: 978-0-444-59533-1. https://doi.
+org/10.1016/B978-0-444-59517-1.00001-5. [12]
+Berg, Tobias, and Daniel Streitz. 2019. Handling Spillover Effects in Empirical Research. Working Paper. [4]
+Berkes, Enrico, and Peter Nencka. 2021. “Knowledge access: The effects of carnegie libraries on innovation. ”
+A vailable at SSRN 3629299,[6]
+Borusyak, Kirill, Xavier Jaravel, and Jann Spiess. 2024. “Revisiting Event Study Designs: Robust and Efficient
+Estimation. ” Forthcoming,Review of Economic Studies, [3, 5, 19, 20]
+Busso, Matias, Jesse Gregory, and Patrick Kline. 2013. “Assessing the Incidence and Efficiency of a Prominent
+Place Based Policy. ”American Economic Review 103, no. 2 (April): 897–947. issn: 0002-8282. https:
+//doi.org/10.1257/aer.103.2.897. [17]
+24
+
+PAGINA_PDF 25
+Butts, Kyle. 2021. did2s: Two-Stage Difference-in-Differences Following Gardner (2021). [21, 22]
+. 2023. “JUE Insight: Difference-in-differences with geocoded microdata. ”Journal of Urban Economics
+133:103493. [11, 12]
+Callaway, Brantly, Andrew Goodman-Bacon, and Pedro H. C. Sant’Anna. 2021. “Difference-in-Differences
+with a Continuous Treatment. ” ArXiv: 2107.02637,arXiv:2107.02637 [econ] (July). [8]
+Callaway, Brantly, and Pedro H.C. Sant’Anna. 2020. “Difference-in-Differences with multiple time periods. ”
+Journal of Econometrics (December): S0304407620303948. issn: 03044076. https://doi.org/10.1016/j.
+jeconom.2020.12.001. [3, 19]
+Chen, Jiafeng, Edward Glaeser, and David Wessel. 2023. “JUE Insight: The (non-) effect of opportunity zones
+on housing prices. ”Journal of Urban Economics 133:103451. [17, 18]
+Clarke, Damian. 2017. “Estimating Difference-in-Differences in the Presence of Spillovers. ”Munich Personal
+RePEc Archive, 52. [4]
+Conley, T.G. 1999. “GMM estimation with cross sectional dependence. ”Journal of Econometrics 92 (1): 1–45.
+issn: 0304-4076. https://doi.org/https://doi.org/10.1016/S0304-4076(98)00084-0. [15]
+Cuberes, David, Klaus Desmet, and Jordan Rappaport. 2021. “Urban Growth Shadows. ”Journal of Urban
+Economics (March): 103334. issn: 00941190. https://doi.org/10.1016/j.jue.2021.103334. [14]
+De Chaisemartin, Clément, and Xavier d’Haultfoeuille. 2022.Difference-in-differences estimators of intertem-
+poral treatment effects. Technical report. National Bureau of Economic Research. [5]
+De Chaisemartin, Clément, and Xavier d’Haultfoeuille. 2020. “Two-way fixed effects estimators with
+heterogeneous treatment effects. ”American economic review 110 (9): 2964–2996. [19]
+Delgado, Michael S., and Raymond J.G.M. Florax. 2015. “Difference-in-differences techniques for spatial
+data: Local autocorrelation and spatial interaction. ”Economics Letters 137 (December): 123–126. issn:
+01651765. https://doi.org/10.1016/j.econlet.2015.10.035. [4]
+Donaldson, Dave, and Richard Hornbeck. 2016. “Railroads and American Economic Growth: A “Market
+Access” Approach*” [in en]. The Quarterly Journal of Economics 131, no. 2 (May): 799–858. issn:
+0033-5533, 1531-4650. https://doi.org/10.1093/qje/qjw002. [2]
+25
+
+PAGINA_PDF 26
+Gardner, John. 2021. Two-Stage Difference-in-Differences.Technical report, Working Paper. [3, 19, 20, 21, 30]
+Goldsmith-Pinkham, Paul, Peter Hull, and Michal Kolesár. 2022. Contamination bias in linear regressions.
+Technical report. National Bureau of Economic Research. [21]
+Goldsmith-Pinkham, Paul, and Guido W Imbens. 2013. “Social networks and the identification of peer
+effects. ”Journal of Business & Economic Statistics 31 (3): 253–264. [2]
+Goodman-Bacon, Andrew. 2021. “Difference-in-differences with variation in treatment timing. ”Journal
+of Econometrics 225, no. 2 (December): 254–277. https://doi.org/10.1016/j.jeconom.2021.03.014.
+https://doi.org/10.1016%2Fj.jeconom.2021.03.014. [19]
+Halloran, M. Elizabeth, and Claudio J. Struchiner. 1995. “Causal Inference in Infectious Diseases:”Epidemi-
+ology 6, no. 2 (March): 142–151. issn: 1044-3983. https://doi.org/10.1097/00001648-199503000-00010.
+[4]
+Hu, Yuchen, Shuangning Li, and Stefan Wager. 2021. “Average Treatment Effects in the Presence of
+Interference. ” ArXiv: 2104.03802,arXiv:2104.03802 [econ, stat] (April). [4]
+Hudgens, Michael G, and M. Elizabeth Halloran. 2008. “Toward Causal Inference With Interference. ”Journal
+of the American Statistical Association 103, no. 482 (June): 832–842. issn: 0162-1459, 1537-274X. https:
+//doi.org/10.1198/016214508000000292. [4]
+Kitchens, Carl. 2014. “The Role of Publicly Provided Electricity in Economic Development: The Experience
+of the Tennessee Valley Authority, 1929–1955. ”The Journal of Economic History 74, no. 2 (June): 389–419.
+issn: 0022-0507, 1471-6372. https://doi.org/10.1017/S0022050714000308. [3, 13]
+Kline, Patrick. 2011. “Oaxaca-Blinder as a Reweighting Estimator. ”American Economic Review 101, no. 3
+(May): 532–537. issn: 0002-8282. https://doi.org/10.1257/aer.101.3.532. [13]
+Kline, Patrick, and Enrico Moretti. 2014. “Local Economic Development, Agglomeration Economies, and
+the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. ”The Quarterly Journal of
+Economics 129, no. 1 (February): 275–331. https://doi.org/10.1093/qje/qjt034. [3, 13, 14, 15]
+Linden, Leigh, and Jonah E Rockoff. 2008. “Estimates of the impact of crime risk on property values from
+Megan’s laws. ”American Economic Review 98 (3): 1103–1127. [11]
+26
+
+PAGINA_PDF 27
+Manski, Charles F. 1993. “Identification of endogenous social effects: The reflection problem. ”The review of
+economic studies 60 (3): 531–542. [2]
+Miguel, Edward, and Michael Kremer. 2004. “Worms: Identifying Impacts on Education and Health in
+the Presence of Treatment Externalities. ”Econometrica 72, no. 1 (January): 159–217. issn: 0012-9682,
+1468-0262. https://doi.org/10.1111/j.1468-0262.2004.00481.x. [2, 4]
+Neumark, David, and Jed Kolko. 2010. “Do enterprise zones create jobs? Evidence from California’s enterprise
+zone program. ”Journal of Urban Economics 68, no. 1 (July): 1–19. issn: 00941190. https://doi.org/10.
+1016/j.jue.2010.01.002. [17]
+Neumark, David, and Timothy Young. 2019. “Enterprise zones, poverty, and labor market outcomes: Resolv-
+ing conflicting evidence. ”Regional Science and Urban Economics 78 (September): 103462. issn: 01660462.
+https://doi.org/10.1016/j.regsciurbeco.2019.103462. [17]
+Pollmann, Michael. 2020. “Causal inference for spatial treatments. ”arXiv preprint arXiv:2011.00373, [5]
+Sävje, Fredrik, Peter M. Aronow, and Michael G. Hudgens. 2021. “Average treatment effects in the presence
+of unknown interference. ”The Annals of Statistics 49, no. 2 (April). issn: 0090-5364. https://doi.org/10.
+1214/20-AOS1973. [2, 4, 5, 6]
+Severnini, Edson. 2023. “The power of hydroelectric dams: Historical evidence from the united states over
+the twentieth century. ”The Economic Journal 133 (649): 420–459. [3]
+Sobel, Michael E. 2006. “What Do Randomized Studies of Housing Mobility Demonstrate?: Causal Inference
+in the Face of Interference. ”Journal of the American Statistical Association 101, no. 476 (December):
+1398–1407. issn: 0162-1459, 1537-274X. https://doi.org/10.1198/016214506000000636. [4]
+Sun, Liyang, and Sarah Abraham. 2021. “Estimating dynamic treatment effects in event studies with
+heterogeneous treatment effects. ”Journal of econometrics 225 (2): 175–199. [19]
+Vazquez-Bare, Gonzalo. 2023. “Identification and estimation of spillover effects in randomized experiments. ”
+Journal of Econometrics 237 (1): 105237. [2, 4, 5]
+Verbitsky-Savitz, Natalya, and Stephen W. Raudenbush. 2012. “Causal Inference Under Interference in
+Spatial Settings: A Case Study Evaluating Community Policing Program in Chicago. ”Epidemiologic
+Methods 1, no. 1 (January). issn: 2161-962X. https://doi.org/10.1515/2161-962X.1020. [4]
+27
+
+PAGINA_PDF 28
+Wang, Ye, Cyrus Samii, Haoge Chang, and Peter M Aronow. 2020. “Design-based inference for spatial
+experiments under unknown interference. ”arXiv preprint arXiv:2010.13599, [4]
+Xu, Ruonan. 2023. “Difference-in-Differences with Interference: A Finite Population Perspective. ”arXiv
+preprint arXiv:2306.12003, [2, 4, 5, 8]
+Yu, Christina Lee, Edoardo M Airoldi, Christian Borgs, and Jennifer T Chayes. 2022. “Estimating the total
+treatment effect in randomized experiments with unknown network structure. ”Proceedings of the
+National Academy of Sciences 119 (44): e2208975119. [4, 6]
+28
+
+PAGINA_PDF 29
+A — Proofs
+A.1. Proof of Proposition 1
+E[Yi1 − Yi0 | Di = 1] − E[Yi1 − Yi0 | Di = 0]| {z }
+Difference-in-Differences
+= E[Yi1(1, hi(D)) − Yi0(0, 0) | Di = 1] − E[Yi1(0, hi(D)) − Yi0(0, 0) | Di = 0]
+= E[Yi1(1, hi(D)) − Yi0(0, 0) | Di = 1] − E[Yi1(0, 0) − Yi0(0, 0) | Di = 0]
+− E[Yi1(0, hi(D)) − Yi1(0, 0) | Di = 0]
+= E[Yi1(1, hi(D)) − Yi0(0, 0) | Di = 1] − E[Yi1(0, 0) − Yi0(0, 0) | Di = 1]
+− E[Yi1(0, hi(D)) − Yi1(0, 0) | Di = 0]
+= E[Yi1(1, hi(D)) − Yi1(0, 0) | Di = 1] − E[Yi1(0, hi(D)) − Yi1(0, 0) | Di = 0]
+≡ τtotal − τspill(0),
+where the first equality comes from the potential outcomes and the No Anticipation assumption, the second
+from adding and subtracting terms, the third equality follows from the Parallel Counterfactual Trends
+assumption, and the final equality follows from the definitions of total and spillover effects.
+A.2. Proof of Proposition 2
+E[Yi1 − Yi0 | Di = 1] − E[Yi1 − Yi0 | Di = 0, Si = 0]
+= E[Yi1(1, hi(D)) − Yi0(0, 0) | Di = 1] − E[Yi1(0, 0) − Yi0(0, 0) | Di = 0, Si = 0]
+= E[Yi1(1, hi(D)) − Yi0(0, 0) | Di = 1] − E[Yi1(0, 0) − Yi0(0, 0) | Di = 1]
+= E[Yi1(1, hi(D)) − Yi0(0, 0) − Yi1(0, 0) + Yi0(0, 0) | Di = 1]
+= E[Yi1(1, hi(D)) − Yi1(0, 0) | Di = 1]
+≡ τtotal,
+where the first equality comes from the fact that Si = 0 implies hi(D) = 0 , the second equality from
+parallel trends assumption (4), and the last by definition of the total effect.
+29
+
+PAGINA_PDF 30
+A.3. Identification of Imputation Estimator
+This section will give identification arguments for the total effect and spillover effects. First, note under
+Parallel Counterfactual Trends (Staggered), we have
+E[Yit(dit, hi(Dt)) − µi − λt | dit = 1] = E[τit(dit, hi(Dt)) + εit | dit = 1]
+= E[τit(dit, hi(Dt)) | dit = 1]
+= τtotal.
+In the first stage, we estimate µi and λt using observations with dit and Sit = 0. Unbiasedness/consistency
+follows from Spillovers Are Local and No Anticipation (Staggered) and the arguments of the appendix of
+Gardner (2021).
+A similar argument follows for spillover effects. Again, assuming Parallel Counterfactual Trends
+(Staggered), we have
+E[Yit(dit, hi(Dt)) − µi − λt | dit = 0, Sit = 1] = E[τit(dit, hi(Dt)) + εit | dit = 0, Sit = 0]
+= E[τit(dit, hi(Dt)) | dit = 0, Sit = 1].
+30

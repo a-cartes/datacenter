@@ -1,0 +1,45 @@
+- Velocidad promedio de recuperación. 
+Rango Potencia 
+(MW) 
+Tiempo 
+recuperación 
+(h) 
+Velocidad de 
+recuperación 
+(MW/h) 
+Primer 80 % 22.87 0.80 28.59 
+Último 20 % 5.72 2.55 2.24 
+100 % Total 28.59 2.55 11.21 
+ 
+ 
+ 
+Demanda del sistema previo a la falla: 9494 MW 
+Regulación de Frecuencia 
+Control distribuido de frecuencia en el Sistema Eléctrico Nacional, previo a la falla, mediante las 
+centrales Canutillar (U1 y U2), Colbún (U1), El Toro (U1 y U2), Hornitos (CTH), Mejillones (IEM), PE 
+Calama, PFV Diego de Almagro Sur, PFV Usya y Ralco (U2). 
+Operación Programada 
+En Anexo Nº1 se adjunta el detalle de la generación programada para el día 26 de abril de 2025. 
+Operación Real 
+En Anexo Nº2 se adjunta el detalle de la generación real del día 26 de abril de 2025. 
+Movimiento de centrales e informe diario del CDC 
+En Anexo Nº3 se presenta el detalle del Movimiento de Centrales e Informe Diario del CDC para el día 
+26 de abril de 2025. 
+Mantenimientos 
+En Anexo Nº4 se presenta el detalle de los mantenimientos programados y forzados para el día 26 de 
+abril de 2025. 
+Estado y configuración previo a la falla 
+Las instalaciones de transmisión se encontraban en servicio normal en los momentos previos a la 
+desconexión forzada. 
+Otros antecedentes relevantes 
+Según lo indicado por la empresa STM S.A.: 
+“El pasado sábado 26 de abril de 2025 a las 11:44 horas se produjo la operación automática (OA) 
+del interruptor lado MT del Transformador N°1 (52CT1), por actuación de la protección de 
+sobrecorriente. 
+Específicamente se produjo una falla en la red de media tensión del alimentador San Ignacio 
+(conectado a paño C1), inicialmente tanto su protección como su interruptor actuaron 
+correctamente despejando la falla, sin embargo, a los pocos segundos efectuó un a reconexión y 
+en esa ocasión su protección operó, pero su interruptor abrió con retardo. Frente a esto la 
+protección del interruptor 52CT1 operó correctamente como respaldo despejando la falla”. 
+ 
+4. Descripción de las configuraciones en los momentos previo y posterior a la falla 

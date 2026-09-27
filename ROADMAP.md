@@ -33,6 +33,8 @@
 - [x] Validar overlay de homologación agosto 2023: 53/58 etiquetas, precios intactos.
 - [x] Registrar 24 hitos, 33 fuentes y criterios de elegibilidad con localizadores.
 - [x] Cerrar fecha realizada E53 (05/05/2025) y ruta nominal BP7–T7–BP1 Chacabuco 110.
+- [x] Verificar ID703 durante la ventana E53 y documentar suministro Ascenty anterior a 2025.
+- [x] Recuperar 90.532 mediciones ET7 con ausencia de marzo de 2025 explícita y sin atribuirlas exclusivamente al campus.
 - [x] Documentar maniobras concurrentes con el episodio Las Canteras de junio de 2024.
 
 - [ ] Validar centros, campus y fases.
@@ -51,6 +53,7 @@
 - [x] Redactar manuscrito de trabajo v8 en español con resumen en inglés, tablas y figuras descriptivas verificadas.
 - [x] Registrar protocolo previo a las estimaciones v8; no equivale a prerregistro prospectivo.
 - [x] Ejecutar diagnóstico de elegibilidad y soporte: no hay ATT causal habilitado.
+- [x] Analizar episodio E53 con adenda, cinco escenarios y verificación independiente de 25 contrastes horarios; incorporar resultado descriptivo al manuscrito.
 - [ ] Archivar la versión que acompaña al artículo con un identificador citable.
 
 Los pendientes de tratamiento, comparación, exposición e inferencia se detallan en [el avance v8](docs/panel_causal_v8.md). La versión del manuscrito destinada a envío sigue pendiente.

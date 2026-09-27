@@ -1,0 +1,628 @@
+PAGINA_PDF 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 de julio de 2025 
+ 
+ 
+SUBGERENCIA DE PLANIFICACIÓN 
+ 
+ 
+ 
+ 
+Minuta 
+“Nueva S/E Seccionadora  
+Punta Verde 110 kV” 
+Aplicación del Artículo 102° - Ley General de 
+Servicios Eléctricos 
+www.coordinador.cl 
+
+PAGINA_PDF 2
+ 
+ 
+ Página 2 de 20 
+ 
+CONTROL DEL DOCUMENTO 
+ 
+APROBACIÓN 
+ 
+Versión Aprobado por 
+Final  Deninson Fuentes del Campo. – Subgerente de Planificación 
+  
+  
+REVISORES 
+Nombre Cargo 
+Cristian Clavería H. Jefe Departamento Ingeniería y Diseño 
+Roger Mellado Z. Jefe Departamento de Planificación Eléctrica 
+  
+AUTORES 
+Nombre Cargo 
+José Araneda V. Ingeniero Departamento de Planificación Eléctrica 
+Claudia Moncado C. Ingeniero Departamento de Ingeniería y Diseño 
+  
+  
+  
+ 
+ 
+ 
+
+PAGINA_PDF 3
+ 
+ 
+ Página 3 de 20 
+ 
+CONTENIDO 
+1 ANTECEDENTES Y DESCRIPCIÓN DE LA OBRA 4 
+ ADMISIBILIDAD DE LA SOLICITUD 5 
+2 ANÁLIS DE NECESIDAD, URGENCIA, EXCLUSIÓN DEL PROCESO DE PLANIFICACIÓN 6 
+ NECESIDAD 6 
+ URGENCIA 7 
+ EXCLUSIÓN DEL PROCESO DE PLANIFICACIÓN DE LA TRANSMISIÓN 8 
+3 RECOMENDACIÓN DEL COORDINADOR 9 
+4 ANEXOS 10 
+ ANEXO 1: INTERVENCIÓN EN INSTALACIONES DE TERCEROS 10 
+ ANEXO 2: DESCRIPCIÓN Y ANTECEDENTES TÉCNICOS DE LA OBRA. 12 
+ ANEXO 3: DESCRIPCIÓN DEL PROYECTO DE CONSUMO 18 
+ 
+  
+
+PAGINA_PDF 4
+ 
+ 
+ Página 4 de 20 
+ 
+1 ANTECEDENTES Y DESCRIPCIÓN DE LA OBRA 
+El presente informe aborda la propuesta presentada por Sistema de Transmisión del Sur S.A., en adelante 
+el Promotor, al Coordinador Eléctrico Nacional, en adelante el Coordinador, mediante la cual se pone a 
+disposición el informe “ Nueva S/E Seccionadora Punta Verde ”, para promover el desarrollo de un 
+proyecto de transmisión que permita suministrar energía al proyecto “ Data Center Santiago Chile 4 
+(SCL4)”, propiedad de la empresa Ascenty Chile SpA, con una demanda proyectada de 150 MW al 2028, 
+mediante la aplicación del artículo 102° de la Ley General de Servicios Eléctricos (LGSE). 
+ 
+La obra “Nueva S/E Seccionadora Punta Verde ”, consiste en la construcción de una nueva subestación 
+seccionadora en 110 kV, emplazada aproximadamente a 1 km al noroeste del actual Tap Off Chacabuco 
+(coordenadas UTM 343298,78 m E / 6310001,52 m S), en la comuna de Quilicura, Región Metropolitana.  
+ 
+La Obra Urgente se planifica desarrollar en dos etapas. La primera etapa contempla el seccionamiento 
+de la línea 2x110 kV Cerro Navia – Las Vegas, con el objetivo de habilitar el suministro de una demanda 
+de 50 MW para el Proyecto hacia fines de 2027. En t anto, la segunda etapa considera, adicionalmente, 
+el seccionamiento de la línea 2x110 kV Cerro Navia – El Salto, junto con la normalización de la línea 2x110 
+kV Tap Off Chacabuco – Chacabuco, a fin de abastecer una demanda total de 150 MW hacia fines de 
+2028. 
+ 
+La nueva subestación tendrá configuración interruptor y medio en 110 kV, con tecnología GIS (Gas 
+Insulated Switchgear), considerando espacio en barras y plataforma para 6 diagonales, de manera de 
+permitir el seccionamiento de las líneas “2x110 kV Cerro Navia - Las Canteras”, “2x110 kV Cerro Navia - 
+El Salto”, la normalización del Tap Off Chacabuco 110 kV y la conexión del Proyecto a través de una línea 
+de doble circuito. Además, se considera espacio futuro disponible para 2 nuevas diagonales, de forma 
+tal de permitir la conexión de futuros proyectos. 
+ 
+En cuanto a la demanda del proyecto de consumo asociado, el Data Center Santiago Chile 4 contempla 
+un crecimiento escalonado que alcanzará los 50 MW en diciembre de 2027 y 150 MW de potencia total 
+en diciembre de 2028. Esta demanda será abastecida desde la nueva subestación mediante la instalación 
+de 3 transformadores de 50 MVA en el sitio del cliente. 
+ 
+Comunicaciones asociadas al proyecto por parte del Promotor y/o interesados: 
+ 
+• 14 de mayo de 2025: El Promotor mediante la carta DE04821-25, presenta informe mediante el 
+que promueve el desarrollo del proyecto “Nueva S/E Seccionadora Punta Verde ”, que permite 
+suministrar energía al proyecto “Data Center Santiago Chile 4 (SCL4)”, mediante la aplicación del 
+artículo 102° de la LGSE. 
+• 19 de mayo de 2025: El Coordinador mediante la carta DE02921-25, notifica formalmente a los 
+titulares potencialmente afectados, con el objeto de recabar sus observaciones respecto a la 
+obra urgente “Nueva S/E Seccionadora Punta Verde” bajo aplicación del artículo 102°. 
+• 04 de junio de 2025: Compañía Transmisora del Norte Grande , mediante la carta DE05539-25, 
+notifica sus observaciones respecto a la obra urgente “ Nueva S/E Seccionadora Punta Verde ” 
+bajo aplicación del artículo 102°. 
+
+PAGINA_PDF 5
+ 
+ 
+ Página 5 de 20 
+ 
+• 13 de junio de 202 5: E l Coordinador mediante la carta  DE03608-25, solicita antecedentes 
+adicionales sobre la obra urgente “ Nueva S/E Seccionadora Punta Verde ” bajo aplicación del 
+artículo 102°. 
+• 24 de junio de 2025: El Promotor mediante la carta DE06127-25 solicita prorrogar el plazo de 
+entrega por hasta 14 días hábiles sobre la solicitud de los antecedentes adicionales. 
+• 27 de junio de 2025: El Coordinador mediante la carta DE03935-25 autoriza solicitud de aumento 
+de plazo para entrega de antecedentes adicionales. 
+• 17 de julio de 202 5: El Promotor mediante la cart a DE 06791-25, entrega antecedentes 
+adicionales sobre la obra urgente “Nueva S/E Seccionadora Punta Verde”. 
+ 
+La presente solicitud se resuelve por el Coordinador, de acuerdo con lo establecido en el inciso segundo 
+del artículo 102° de LGSE, el Decreto Supremo N°37 de 2021 del Ministerio de Energía (DS N°37/2021) y 
+la Norma Técnica de Seguridad y Calidad de Servicio (en adelante “NTSyCS”) de septiembre de 2020, en 
+conjunto con los anexos técnicos vigentes a la fecha. 
+ 
+ ADMISIBILIDAD DE LA SOLICITUD 
+En la Tabla 1-1 se resume el cumplimiento de los antecedentes mínimos que debe incluir el solicitante 
+en el informe de presentación de solicitud de análisis del proyecto a través de la aplicación del artículo 
+102° de la LGSE. 
+ 
+Tabla 1-1: Antecedentes mínimos para evaluar el informe 
+Antecedente Estado 
+Identificación del titular Sí 
+Antecedentes técnicos indicados en Reglamento Sí 
+Carta Gantt Sí 
+Justificación de la necesidad Sí 
+Justificación de la urgencia Sí 
+Justificación de su exclusión del proceso de planificación Sí 
+Información Fehaciente Nuevos Consumos Sí 
+Reducción de Costos y Beneficios Netos de la Obra al sistema N/A 
+Mejora de las condiciones de seguridad y calidad de servicio N/A 
+Permisos Ambientales o Sectoriales N/A 
+ 
+  
+
+PAGINA_PDF 6
+ 
+ 
+ Página 6 de 20 
+ 
+2 ANÁLIS DE NECESIDAD, URGENCIA, EXCLUSIÓN DEL PROCESO DE PLANIFICACIÓN 
+Conforme a lo establecido en el inciso segundo del Artículo 102º de la LGSE, en la presente sección  se 
+describe la opinión del Coordinador referente a la necesidad, urgencia y motivos de la no inclusión de 
+dicho proyecto en el proceso de Planificación de la Transmisión. 
+ 
+ NECESIDAD  
+Respecto a la necesidad de la obra propuesta se indica lo siguiente: 
+ 
+• En el artículo 40° del DS N°37/2021, se define cuándo una obra de transmisión debe ser 
+considerada como necesaria y urgente. Explícitamente, el referido artículo señala: “Se entenderá 
+que una obra de transmisión es necesaria y urgente si se requiere para asegurar el 
+abastecimiento de la demanda o aumentar la seguridad y calidad de servicio, y cuando la fecha 
+de entrada en operación estimada, si la obra fuese considerada en el siguiente Proceso de 
+Planificación de la Transmisión, fuere posterior a la fecha e n que se estima que se verificará la 
+necesidad que justifica la ejecución de la misma.” 
+ 
+• En este caso, la obra tiene como objetivo principal habilitar un punto de conexión que permita 
+satisfacer la demanda energética del proyecto Data Center Santiago Chile 4 (SCL4), cuyo 
+consumo proyectado asciende a 150 MW hacia fines del año 2028, distribuido en dos etapas de 
+desarrollo (36 MW IT y 66 MW IT). La demanda del proyecto, por su magnitud y naturaleza crítica, 
+requiere un suministro eléctrico altamente confiable y continuo.  
+ 
+• Los antecedentes técnicos indican que no existen actualmente puntos de conexión viables ni 
+configuraciones de red adecuadas que permitan abastecer dicho consumo con los criterios de 
+redundancia requeridos. En particular, la S/E Chacabuco carece de posiciones disponibles en 110 
+kV y no presenta capacidad en condición N-1 para atender la demanda conjunta del proyecto y 
+de su propia zona de influencia. 
+ 
+• Adicionalmente, la obra propuesta mejora la seguridad del sistema, al establecer un nuevo punto 
+de enmalle entre los corredores “2x110 kV Cerro Navia – Las Canteras” (120 MVA por circuito) y 
+“2x110 kV Cerro Navia – El Salto” (273 MVA por circuito), considerando 35 °C con sol, lo que 
+otorga mayor flexibilidad y confiabilidad operativa. 
+ 
+• Visto lo indicado en el párrafo anterior y que el requerimiento planteado por el promotor se 
+debe a la necesidad de asegurar el abastecimiento de la demanda del futuro Datacenter, se 
+concluye que la solicitud se encuentra dentro del marco establecido en el Reglamento.  
+ 
+En base a lo anterior, el Coordinador considera que el proyecto “ Nueva S/E Seccionadora Punta Verde” 
+cumple con los requisitos establecidos en el artículo 40° del DS N°37/2021 para justificar su necesidad. 
+ 
+
+PAGINA_PDF 7
+ 
+ 
+ Página 7 de 20 
+ 
+ URGENCIA 
+A partir de los antecedentes presentados por el Promotor , sobre la urgencia de llevar a cabo la 
+construcción del proyecto de transmisión "Nueva S/E Seccionadora Punta Verde", con el fin de establecer 
+un punto de conexión para el futuro Datacenter, cuya fecha de inicio de operaciones está prevista para 
+el año 2027, se procede a evaluar si la fecha de puesta en servicio informada por el Promotor cumple 
+con los plazos establecidos en un proceso de planificación formal. Para tal fin, se tendrán en cuenta los 
+siguientes criterios: 
+ 
+FE= APEP + 3 años + PC 
+Siendo: 
+ 
+• FE : Fecha estimada. 
+• APEP : Año de la próxima etapa de presentación de propuestas de proyectos de expansión de  
+  la transmisión. 
+• PC : Plazo de construcción. 
+ 
+Los plazos típicos de construcción son especificados en la Tabla 2-1: 
+ 
+Tabla 2-1: Plazos de desarrollo de una obra de transmisión. 
+Evento Plazos 
+Ampliación de barra 18 meses 
+Aumento de capacidad de transformación 24 meses 
+Aumento de capacidad de línea 30 meses 
+Nueva Subestación 42 meses 
+Nueva Línea de transmisión 42 a 78 meses 
+ 
+Cabe indicar que los plazos presentados consideran las siguientes etapas: Licitación y adjudicación EPC, 
+ingeniería, permisos, suministros, construcción, puesta en servicio y entrada en operación. 
+ 
+En base a lo anterior , la fecha estimada de puesta en servicio del proyecto “ Nueva S/E Seccionadora 
+Punta Verde”, considerando el proceso de planificación regular es para fines del año 2032.  
+ 
+FE= 2026 + 3 años + 3,5 años = segundo semestre 2032 
+ 
+De esta manera, el Coordinador considera que el proyecto “ Nueva S/E Seccionadora Punta Verde ”, 
+cumple con los requisitos establecidos en el artículo 40° del DS N°37/2021 para justificar la urgencia, ya 
+que el proceso regular de expansión del sistema de transmisión no responde a tiempo a la necesidad de 
+la demanda el proyecto Data Center Santiago Chile 4 (SCL4) que se requiere conectar. 
+ 
+
+PAGINA_PDF 8
+ 
+ 
+ Página 8 de 20 
+ 
+ EXCLUSIÓN DEL PROCESO DE PLANIFICACIÓN DE LA TRANSMISIÓN 
+El proyecto no fue considerado en procesos anteriores de planificación de expansión, dado que, al 
+momento de su formulación, no existían los antecedentes de factibilidad técnica y compromisos 
+comerciales requeridos para justificar su inclusión. 
+No obstante, actualmente se dispone de información técnica validada, cronogramas detallados, y una 
+Declaración de Impacto Ambiental (DIA) ya admitida a tramitación (Resolución Exenta N°202413001501, 
+del 16 de diciembre de 2024), lo que respalda la fehaciencia del proyecto de consumo. 
+Debido a lo anterior, el Coordinador determina que los argumentos expuestos por el Promotor permiten 
+determinar la exclusión del proyecto promovido por la Sistema de Transmisión del Sur S.A. del proceso 
+de la planificación anual llevado a cabo por la CNE. 
+  
+
+PAGINA_PDF 9
+ 
+ 
+ Página 9 de 20 
+ 
+3 RECOMENDACIÓN DEL COORDINADOR 
+El día 1 4 de mayo de 2025, el Promotor Sistema de Transmisión del Sur S.A. ingresó al Coordinador 
+Eléctrico Nacional el informe justificativo de la obra “Nueva S/E Seccionadora Punta Verde”, en el marco 
+del procedimiento de evaluación de obras urgentes conforme al Artículo 102° de la Ley General de 
+Servicios Eléctricos (LGSE). 
+Tras la revisión de los antecedentes técnicos, ambientales, de demanda y cronograma, el Coordinador 
+constató que la solicitud se encuentra debidamente formulada y cumple con los requisitos establecidos 
+en el Decreto Supremo N°37/2021 del Ministerio de Ener gía, la Norma Técnica de Seguridad y Calidad 
+de Servicio (NTSyCS) y la Guía Técnica de Proyectos Art. 102° de la LGSE. 
+En particular: 
+• Se verifica que la obra es necesaria, dado que garantiza el abastecimiento de una demanda 
+relevante (150 MW proyectados) proveniente del proyecto Data Center Santiago Chile 4 (SCL4), 
+cuya operación requiere altos estándares de confiabilidad y disponibilidad energética. 
+• Se constata que la obra es urgente, ya que, de ser tramitada mediante el proceso formal de 
+planificación, su entrada en servicio se postergaría hasta el año 203 2, siendo incompatible con 
+el cronograma del cliente que proyecta la necesidad de conexión plena a fines de 2028. 
+• Se justifica su exclusión del proceso de planificación, puesto que al momento de los ciclos de 
+planificación previos no existían los antecedentes técnicos y regulatorios para su evaluación, y 
+que el requerimiento actual surge con carácter fehaciente y docu mentado, respaldado por una 
+DIA ingresada y admitida a tramitación. 
+En conformidad con los argumentos desarrollados en los puntos anteriores, el  Coordinador aprueba el 
+informe presentado por Sistema de Transmisión del Sur S.A., que solicita la ejecución de la obra “Nueva 
+S/E Seccionadora Punta Verde” como obra urgente, debido a que cumple con los requisitos contenidos 
+en el Decreto Supremo N°37/2021  referentes a la necesidad, urgencia y exclusión del proyecto del 
+proceso de planificación de la transmisión, mediante el artículo 102° de la LGSE. 
+ 
+  
+
+PAGINA_PDF 10
+ 
+ 
+ Página 10 de 20 
+ 
+4 ANEXOS 
+ ANEXO 1: INTERVENCIÓN EN INSTALACIONES DE TERCEROS 
+De acuerdo con lo establecido en el artículo 41 del DS N°37/2021, el Coordinador debe informar de la 
+solicitud, dentro de los tres días siguientes a su presentación, a los propietarios, arrendatarios, 
+usufructuarios, o quienes exploten a cualquier título las instalaciones existentes que se vean afectadas, 
+debiendo acompa ñar los antecedentes técnicos correspondientes. Los propietarios, arrendatarios, 
+usufructuarios, o quienes exploten a cualquier título las instalaciones existentes que se vean afectadas 
+tendrán diez días desde dicha comunicación para realizar observaciones. 
+ 
+En cumplimiento de esta disposición, y considerando que el proyecto “Nueva S/E Seccionadora Punta 
+Verde” podría generar implicancias en instalaciones operadas por terceros en su entorno, el Coordinador 
+procedió el día 19 de mayo de 2025, mediante Carta DE02921-25, a notificar formalmente a los titulares 
+potencialmente afectados, con el objeto de recabar sus observaciones respecto a la obra propuesta. 
+ 
+Las entidades notificadas fueron las siguientes: 
+ 
+• Enel Distribución Chile S.A. 
+• Transelec S.A. 
+• Compañía Transmisora del Norte Grande S.A. 
+ 
+De acuerdo con lo señalado, la Compañía Transmisora del Norte Grande S.A. mediante carta DE05539-
+25, notificar sus observaciones técnicas que debían ser consideradas en el proceso. Estas incluyen: 
+ 
+• La sobrecarga preexistente en el corredor Las Vegas – Cerro Navia se debió a una consideración 
+errónea de la temperatura de diseño del conductor (según se detalla en el informe RR-EOU-2025-
+001-R1_EF). 
+• La necesidad de incorporar proyectos adicionales en la base de datos de la zona de influencia 
+utilizada en el Estudio de Flujo de Potencia. 
+• La solicitud de estudios complementarios al promotor para evaluar eventuales requerimientos 
+derivados del nuevo proyecto. 
+  
+
+PAGINA_PDF 11
+ 
+ 
+ Página 11 de 20 
+ 
+En respuesta, Sistema de Transmisión del Sur S.A. mediante carta DE06791-25 entrega la minuta de 
+respuesta a las observaciones de la Obra Urgente  “Nueva S/E Seccionadora Punta Verde”.  En dicha 
+minuta, STS aborda observaciones levantadas por el Coordinador y por Compañía Transmisora del Norte 
+Grande (CTNG), señalando, entre otros puntos: 
+ 
+1. Ajuste del cronograma de demanda del Data Center Santiago Chile 4: 
+o Se corrige la proyección original que contemplaba 150 MW en diciembre de 2027, 
+alineándola con la entrada en operación de la obra urgente: 
+▪ 50 MW para diciembre de 2027 (Etapa 1). 
+▪ 150 MW para diciembre de 2028 (Etapa 2). 
+o Se actualizan en consecuencia el informe de flujo de potencia y el informe justificativo 
+de la obra urgente. 
+ 
+2. Clarificación sobre la valorización de instalaciones: 
+o STS aclara que en la valorización de la obra urgente no se incluye la línea ni los paños de 
+línea dedicados al Data Center, sino únicamente la extensión de 4 km (2 km por circuito) 
+de la línea 2x110 kV Cerro Navia – El Salto hacia S/E Punta Verde, con sus respectivas 
+diagonales GIS. 
+ 
+3. Respuestas a observaciones técnicas de CTNG: 
+o Se incorpora un Estudio de Cortocircuito (ECC) para evaluar los impactos en la zona de 
+influencia. 
+o Se mantiene la temperatura de diseño de 35 °C con sol en verano, según criterios del 
+Coordinador, aunque CTNG había recomendado usar 40 °C; la corriente de diseño se 
+ajusta a 0,6301 kA usando datos del CEN. 
+o Escenarios de operación: se confirma que los escenarios diurno/nocturno sugeridos por 
+CTNG están cubiertos bajo los casos de penetración ERV máxima y mínima, y se 
+incorporan los despachos de centrales específicos indicados por CTNG. 
+o Modelado adicional: se actualiza el estudio para incluir la troncal costero 220 kV Agua 
+Santa–La Pólvora–Las Dichas–Alto Melipilla (NUP 1074 y 1059) y el segundo circuito 110 
+kV Las Vegas–Esperanza (NUP 3278). 
+  
+
+PAGINA_PDF 12
+ 
+ 
+ Página 12 de 20 
+ 
+ ANEXO 2: DESCRIPCIÓN Y ANTECEDENTES TÉCNICOS DE LA OBRA. 
+ DESCRIPCIÓN DE LA OBRA 
+La obra propuesta corresponde a la construcción de una nueva subestación seccionadora denominada 
+“S/E Punta Verde 110 kV”, de configuración interruptor y medio y tecnología GIS, ubicada en la comuna 
+de Quilicura, Región Metropolitana. La subestación se emplazará a aproximadamente 1 km al noroeste 
+del actual Tap Off Chacabuco, en las coordenadas UTM 343.298,78 m E y 6.310.001,52 m S. 
+ 
+La S/E Punta Verde permitirá realizar el seccionamiento de las líneas: 
+ 
+• 2x110 kV Cerro Navia – Las Canteras. 
+• 2x110 kV Cerro Navia – El Salto. 
+• y la normalización de la línea Tap Off Chacabuco – Chacabuco 110 kV. 
+ 
+La subestación contempla: 
+ 
+• 6 posiciones en barras para el seccionamiento y conexión de líneas existentes y del nuevo 
+proyecto, 
+• y 2 posiciones adicionales disponibles para futuras conexiones. 
+ 
+Asimismo, desde esta subestación se habilitará un punto de conexión para la línea de doble circuito de 
+1,8 km, destinada al abastecimiento del proyecto “Data Center Santiago Chile 4 (SCL4)”, con una 
+capacidad mínima de 157 MVA por circuito bajo criterio N-1. 
+ 
+El diseño considera extensiones en la infraestructura de transmisión, entre ellas: 
+ 
+• Extensión de 2 km de la línea “2x110 kV Cerro Navia - El Salto” hacia la nueva subestación, 
+• Normalización del actual Tap Off Chacabuco, 
+• Retiro futuro de un tramo de 1,5 km de línea existente en desuso (“Tap Quilicura – Tap 
+Chacabuco”), 
+• Cruce proyectado sobre la Autopista Los Libertadores. 
+ 
+Desde la subestación, la línea de doble circuito continuará mediante estructuras existentes hacia la S/E 
+Chacabuco, garantizando la integración operativa de la red y manteniendo la capacidad actual del 
+conductor. La nueva infraestructura permitirá generar un punto de enmalle entre dos corredores 110 
+kV, mejorando así la confiabilidad del sistema.  En la  Figura 4-1 se muestra la vista aérea ubicación 
+referencial del proyecto. 
+ 
+
+PAGINA_PDF 13
+ 
+ 
+ Página 13 de 20 
+ 
+ 
+Figura 4-1. Ubicación geográfica referencial de la S/E Punta Verde 110 kV. 
+ 
+En la Figura 4-2, Figura 4-3, Figura 4-4, Figura 4-5 y Figura 4-6 se muestra el diagrama unilineal la S/E 
+Punta Verde 110 kV, elaborado a partir de los planos presentados por el promotor. 
+
+
+PAGINA_PDF 14
+ 
+ 
+ Página 14 de 20 
+ 
+ 
+Figura 4-2. Diagrama unilineal simplificado de la S/E Punta Verde 110 kV (Etapa 1 - año 2027). 
+ 
+ 
+Figura 4-3. Diagrama unilineal simplificado de la S/E Punta Verde 110 kV (Etapa 2 - año 2028). 
+ 
+220 kV
+110 kV
+OU Etapa 1
+Consumo
+220 kV
+110 kV
+OU Etapa 2
+Consumo
+
+PAGINA_PDF 15
+ 
+ 
+ Página 15 de 20 
+ 
+ 
+Figura 4-4. Diagrama unilineal S/E Seccionadora Punta Verde 110 kV, Lámina 1.  
+ 
+ 
+Figura 4-5. Diagrama unilineal S/E Seccionadora Punta Verde 110 kV, Lámina 2.  
+En la Figura 4-6 se muestra el diagrama de planta de la nueva S/E Chacabuco, a partir de los planos 
+presentados por el promotor. 
+ 
+
+
+PAGINA_PDF 16
+ 
+ 
+ Página 16 de 20 
+ 
+ 
+Figura 4-6. Diagrama de Planta Nueva S/E Seccionadora Punta Verde 
+Es importante indicar que el proyecto propuesto cumple con los requisitos de diseño de confiabilidad 
+indicados en el artículo 47° Anexo Técnico “Exigencias Mínimas de Diseño de Instalaciones de 
+Transmisión”, lo cual se respalda con el anexo COOR-DID-EC-TEC-INF-RCN-AIS-H-00002. 
+ 
+ VALORIZACIÓN 
+Respecto a la valorización del proyecto presentado por el Promotor en el Informe, se indica que tiene un 
+costo aproximado de 31,6 millones de dólares, y considera solo las instalaciones que forman parte del 
+proyecto presentado vía artículo 102° de la LGSE. 
+ 
+
+
+PAGINA_PDF 17
+ 
+ 
+ Página 17 de 20 
+ 
+Tabla 4-1. Valorización de Nueva S/E Seccionadora Punta Verde, presentada por el Promotor. 
+ 
+ CRONOGRAMA 
+De acuerdo con la información proporcionada por el Promotor, la ejecución del proyecto se estima que 
+se realice en un periodo de 48 meses, con lo cual se espera que el proyecto esté en servicio en diciembre 
+del año 202 7 (Etapa 1) y diciembre de 2028 (Etapa 2) , encontrándose dentro del rango de tiempo 
+esperado para este tipo de proyectos, existiendo una coherencia en la temporalidad de las actividades. 
+En la Tabla 4-2 se muestran los eventos principales de desarrollo de esta obra. 
+ 
+ 
+Tabla 4-2. Cronograma de Ejecución Nueva S/E Seccionadora Punta Verde, presentado por el Promotor. 
+ 
+La Obra Urgente se planifica desarrollar en dos etapas. La primera etapa contempla el seccionamiento 
+de la línea 2x110 kV Cerro Navia – Las Vegas, con el objetivo de habilitar el suministro de una demanda 
+de 50 MW para el Proyecto hacia fines de 2027. En tan to, la segunda etapa considera, adicionalmente, 
+el seccionamiento de la línea 2x110 kV Cerro Navia – El Salto, junto con la normalización de la línea 2x110 
+kV Tap Off Chacabuco – Chacabuco, a fin de abastecer una demanda total de 150 MW hacia fines de 
+2028. 
+
+
+PAGINA_PDF 18
+ 
+ 
+ Página 18 de 20 
+ 
+ ANEXO 3: DESCRIPCIÓN DEL PROYECTO DE CONSUMO 
+El proyecto de consumo asociado corresponde al “Data Center Santiago Chile 4 (SCL4)”, de propiedad de 
+Ascenty Chile SpA, cuya finalidad es proveer servicios de almacenamiento y procesamiento de datos 
+tecnológicos a clientes nacionales e internacionales. El  centro de datos estará ubicado en calle 
+Caupolicán 9550, comuna de Quilicura, Región Metropolitana, y ha sido ingresado al Sistema de 
+Evaluación Ambiental mediante una Declaración de Impacto Ambiental (DIA) con fecha 13 de diciembre 
+de 2024, admitida a tramitación mediante Resolución Exenta N°202413001501 de fecha 16 de diciembre 
+de 2024.El proyecto contempla una superficie total de 54.998 m², distribuidos entre: 
+ 
+• Un módulo administrativo y de recepción, 
+• Un edificio principal con 6 salas de datos (data halls), 
+• 21 equipos tipo chiller, 
+• 108 muros de ventiladores (fanwall), 
+• 60 unidades de aire acondicionado para salas de computadoras (CRAC). 
+ 
+La potencia requerida para la operación del centro de datos considera un crecimiento escalonado en 2 
+años, de acuerdo con el siguiente perfil: 
+ 
+Tabla 4-3. Proyección de la demanda del Proyecto. 
+Fecha Demanda [MW] 
+Diciembre 2027 50 
+Diciembre 2028 150 
+ 
+El abastecimiento del centro de datos se realizará a través de una subestación eléctrica interna, la cual 
+estará equipada con tres transformadores de 50 MVA 110/23 kV, ubicados dentro del mismo predio del 
+proyecto Datacenter, lo que asegura la autonomía operativa y la redundancia requerida por la criticidad 
+del consumo. 
+ 
+La existencia de compromisos contractuales, el avance en la tramitación ambiental y la definición de 
+cronogramas de demanda, respaldan la fehaciencia del proyecto de consumo, en conformidad  por lo 
+cual mediante lo estipulado en el artículo 40° del DS N°37/2021 se respalda la fehaciencia del proyecto. 
+En la Tabla 4-4 se presenta la carta Gantt del proyecto. 
+ 
+ 
+Tabla 4-4. Carta Gantt simplificada del Proyecto Datacenter. 
+ 
+
+
+PAGINA_PDF 19
+ 
+ 
+ Página 19 de 20 
+ 
+ ANÁLISIS DEL SISTEMA DE TRANSMISIÓN EN EL ENTORNO DEL PROYECTO 
+Debido a que el proyecto “Data Center Santiago Chile 4 (SCL4)” es un nuevo consumo en el Sistema, es 
+necesario verificar el impacto en las instalaciones de transmisión en la vecindad del proyecto. Por ende, 
+se realiza un estudio de los flujos de potencia con y sin el proyecto. En este estudio se utiliza la base de 
+datos de la Región Metropolitana publicada por el Coordinador en su Informe de Diagnóstico 20251. 
+ 
+En cuanto a la capacidad de la línea de transmisión, ésta se discretiza en función del periodo del año 
+verano e invierno y entre las horas con y sin presencia del sol. Las temperaturas consideradas para la 
+zona en la que se encuentra emplazado el estudio se presenta en la Tabla 4-5 
+ 
+Tabla 4-5. Cuadro de temperaturas, Zona Metropolitana 
+Periodo del Año Verano Día Invierno Día 
+Temperatura 35 °C 20 °C 
+ 
+Con los datos anteriores y mediante el empleo del software  DIgSILENT Power Factory se simula el uso  
+para el periodo 2028 en el cual se hace ingreso de la potencia total del proyecto Datacenter con respecto 
+al tren de carga presentado por el promotor indicado en la Tabla 4-3. 
+ 
+Los resultados de la zona de influencia del proyecto se presentan en Tabla 4-6 y Tabla 4-7. 
+Tabla 4-6. Cargabilidad del entorno sin proyecto Datacenter Chile 4, año 2028. 
+Sin Proyecto Invierno Día con Renca Invierno Día sin Renca Verano Día con Renca Verano Día sin Renca 
+Tap Libertadores-Las Canteras 110 kV C1 25% 11% 27% 10% 
+Tap Libertadores-Las Canteras 110 kV C2 25% 11% 27% 10% 
+Tap Chacabuco - Chacabuco 110kV L1 18% 19% 21% 22% 
+Tap Chacabuco - Chacabuco 110kV L2 30% 31% 35% 36% 
+Tap Chacabuco-Tap Recoleta 110 KV L1 8% 3% 6% 5% 
+Tap Chacabuco-Tap Recoleta 110 KV L2 4% 5% 3% 7% 
+Tap Quilicura - Tap Chacabuco 110 KV L1 26% 17% 28% 18% 
+Tap Quilicura - Tap Chacabuco 110 KV L2 35% 27% 39% 30% 
+ATR CERRO NAVIA 220/110/13.2kV 400MVA N2  85% 101% 78% 95% 
+ATR CERRO NAVIA 220/110/13.2kV 400MVA N3  95% 113% 90% 108% 
+ATR CERRO NAVIA 220/110/13.2kV 400MVA N5  31% 31% 32% 33% 
+ATR EL SALTO 220/110/34.5kV 400MVA N1  65% 71% 58% 64% 
+ATR EL SALTO 220/110/34.5kV 400MVA N2  65% 71% 58% 64% 
+ATR LALMENDROS 220/110/13.2kV 400MVA N1  70% 73% 72% 76% 
+ 
+  
+ 
+1 Diagnóstico 2025 | Coordinador Eléctrico Nacional  : Diagnóstico del uso esperado del Sistema de Transmisión, 
+realizado por el Coordinador año 2025. 
+
+PAGINA_PDF 20
+ 
+ 
+ Página 20 de 20 
+ 
+Tabla 4-7. Cargabilidad del entorno con proyecto Datacenter Chile 4, año 2028. 
+Con Proyecto Invierno Día con Renca Invierno Día sin Renca Verano Día con Renca Verano Día sin Renca 
+Punta Verde - Las Canteras C1 21% 12% 24% 9% 
+Punta Verde - Las Canteras C2 21% 12% 24% 9% 
+Chacabuco - Punta Verde 110kV L1 21% 21% 22% 22% 
+Chacabuco - Punta Verde 110kV L2 35% 35% 35% 36% 
+Punta Verde -Tap Recoleta 110 KV L1 6% 12% 7% 15% 
+Punta Verde -Tap Recoleta 110 KV L2 6% 10% 6% 12% 
+Tap Libertadores - Punta Verde C1 51% 36% 52% 37% 
+Tap Libertadores - Punta Verde C2 51% 36% 52% 37% 
+Tap Quilicura - Punta Verde 110 KV L1 38% 25% 37% 24% 
+Tap Quilicura - Punta Verde 110 KV L2 40% 28% 40% 28% 
+ATR CERRO NAVIA 220/110/13.2kV 400MVA N2  89% 105% 83% 99% 
+ATR CERRO NAVIA 220/110/13.2kV 400MVA N3  104% 123% 99% 118% 
+ATR CERRO NAVIA 220/110/13.2kV 400MVA N5  31% 31% 33% 33% 
+ATR EL SALTO 220/110/34.5kV 400MVA N1  64% 69% 58% 62% 
+ATR EL SALTO 220/110/34.5kV 400MVA N2  64% 69% 58% 62% 
+ATR LALMENDROS 220/110/13.2kV 400MVA N1  71% 74% 74% 77% 
+ 
+Considerando la tabla anterior que muestra los resultados de la simulación realizada en el software 
+DIgSILENT Power Factory para el periodo 20 28, se observa que como consecuencia de la ejecución del 
+proyecto Datacenter de 150 MW, no se detectan nuevas congestiones en ninguna de instalaciones de 
+transmisión adyacentes. 

@@ -1,0 +1,38 @@
+Estudio para análisis de falla EAF 456/2024 
+“Falla en el circuito N°1 de la línea 2x110 kV El Salto - Cerro Navia” 
+Fecha de Emisión: 24-09-2024 
+ 
+ 
+ 
+1. Descripción pormenorizada de la perturbación 
+ 
+     a.   Fecha y Hora de la falla 
+Fecha 29/08/2024 
+Hora 04:14 
+Consumos desconectados (MW) 113.07 
+Demanda previa del sistema (MW) 8409.3 
+Porcentaje de desconexión 1.345 % 
+Calificación Apagón No aplica (porcentaje de desconexión < 10%) 
+ 
+     b.   Identificación instalación afectada 
+Nombre de la instalación Tramo El Salto - San Cristóbal del circuito N°1 de la línea 2x110 kV El Salto 
+- Cerro Navia / LT050CI1TR02----T0054 
+Tipo de instalación Línea 
+Tensión nominal 110 kV 
+Segmento Transmisión zonal 
+Propietario instalación afectada Sociedad Transmisora Metropolitana S.A. 
+RUT 77.611.649-1 
+Representante Legal Francisco Alliende 
+Dirección Bulnes N°441, Osorno 
+ 
+      c.   Identificación del elemento fallado 
+Nombre del elemento afectado Cruceta de la estructura N°9 del tramo El Salto - San Cristóbal del circuito 
+N°1 de la línea 2x110 kV El Salto - Cerro Navia / LT050CI1TR02----T0054 
+Propietario elemento fallado Sociedad Transmisora Metropolitana S.A. 
+RUT 77.611.649-1 
+Representante Legal Francisco Alliende 
+Dirección Bulnes N°441, Osorno 
+ 
+ 
+ 
+ 

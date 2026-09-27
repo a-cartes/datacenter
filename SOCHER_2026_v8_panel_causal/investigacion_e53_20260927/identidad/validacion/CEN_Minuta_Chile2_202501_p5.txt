@@ -1,0 +1,42 @@
+ 
+ 
+ Página 5 de 14 
+ 
+ ADMISIBILIDAD DE LA SOLICITUD 
+En la Tabla 1-1 se resume el cumplimiento de los antecedentes mínimos que debe incluir el solicitante 
+en el informe de presentación de solicitud de análisis del proyecto a través de la aplicación del artículo 
+102° de la LGSE. 
+ 
+Tabla 1-1: Antecedentes mínimos para evaluar el informe 
+Antecedente Estado 
+Identificación del titular Sí 
+Antecedentes técnicos indicados en Reglamento Sí 
+Carta Gantt Sí 
+Justificación de la necesidad Sí 
+Justificación de la urgencia Sí 
+Justificación de su exclusión del proceso de planificación Sí 
+Información Fehaciente Nuevos Consumos Sí 
+Reducción de Costos y Beneficios Netos de la Obra al sistema N/A 
+Mejora de las condiciones de seguridad y calidad de servicio N/A 
+Permisos Ambientales o Sectoriales N/A 
+ 
+2 ANÁLIS DE NECESIDAD, URGENCIA, EXCLUSIÓN DEL PROCESO DE PLANIFICACIÓN 
+Conforme a lo establecido en el inciso segundo del Artículo 102º de la LGSE, en la presente sección  se 
+describe la opinión del Coordinador referente a la necesidad, urgencia y motivos de la no inclusión de 
+dicho proyecto en el proceso de Planificación de la Transmisión. 
+ 
+ NECESIDAD  
+Respecto a la necesidad de la obra propuesta se indica lo siguiente: 
+ 
+• En el artículo 40° del DS N°37/2021, se define cuándo una obra de transmisión debe ser 
+considerada como necesaria y urgente. Explícitamente, el referido artículo señala: “Se entenderá 
+que una obra de transmisión es necesaria y urgente si se requiere para asegurar el 
+abastecimiento de la demanda o aumentar la seguridad y calidad de servicio, y cuando la fecha 
+de entrada en operación estimada, si la obra fuese considerada en el siguiente Proceso de 
+Planificación de la Transmisión, fuere posterior a la fecha en que se estima que se verificará la 
+necesidad que justifica la ejecución de la misma.” 
+ 
+• Dado que la obra tiene como objetivo principal asegurar el abastecimiento de la demanda del 
+proyecto Data Center Chile 2 , el cual parte con un tren de carga de 1, 5 MW y tendrá una 
+demanda final cercana a los 20,4 MW. Mediante los resultados obtenidos del Diagnóstico del 
+Uso Esperado del Sistema de Transmisión Nacional y Zonal 202 5, se confirma que la S/E 

@@ -4,7 +4,7 @@ Alan Cartes Fica · Universidad del Bío-Bío
 
 Manuscrito de trabajo en español con resumen en inglés · Datos de panel y evaluación de impacto · SOCHER 2026 · Primera revista objetivo: *Energy Economics* · 27 de septiembre de 2026.
 
-**Estado de la versión.** La expresión «evidencia causal» identifica el objetivo del artículo. Esta entrega desarrolla el panel y el expediente de identificación; no dispone todavía de un ATT habilitado. Introducción, datos, mecanismos y diseño están redactados. Los resultados documentales y de cobertura se distinguen de las estimaciones causales pendientes. No se ha enviado el manuscrito a revista o congreso.
+**Estado de la versión.** La expresión «evidencia causal» identifica el objetivo del artículo. Esta entrega desarrolla el panel, el expediente de identificación y el análisis descriptivo del episodio E53; no dispone todavía de un ATT habilitado. El estudio de E53 compara precios y mediciones agregadas, conservando su alcance y todas las ventanas declaradas. No se ha enviado el manuscrito a revista o congreso.
 
 ## Resumen
 
@@ -12,11 +12,15 @@ Este trabajo investiga cómo la entrada y ampliación de centros de datos se rel
 
 **Palabras clave:** centros de datos; costos marginales nodales; diferencias en diferencias; datos de panel; redes eléctricas; Chile.
 
+**Resultado del estudio de caso.** Tras la energización de E53 en Chacabuco el 5 de mayo de 2025, el precio medio de la barra de 110 kV aumenta 16,57 USD/MWh entre 104 días previos y 90 posteriores con soporte común. Quillota 110 aumenta 15,58 USD/MWh en esas mismas fechas: el diferencial crece 0,99 USD/MWh. En los primeros 28 días el cambio del diferencial es 0,24 USD/MWh. Estas comparaciones no identifican el efecto de E53; distinguen la variación bruta del precio de su variación relativa y muestran la importancia del horizonte del episodio.
+
 ## Abstract
 
 This paper investigates how data center entry and expansion affect nodal marginal cost differentials in Chile. We construct a panel of 142,151 node–calendar-day rows from an audited release containing 3,411,527 published hourly price records between January 1, 2020, and September 18, 2026. The design distinguishes campuses, phases, equipment, electrical connections, and their periods of validity. Announcements, connection works, and the first available measurement are not automatically classified as incremental demand. Descriptive analysis of the differential relative to Quillota 110 kV uses 139,277 node–day rows with 24 matched published time labels, excluding the reference node. The reference is not presumed to be an unaffected comparison unit. The analysis protocol specifies group-time treatment effects, event-time dynamics, and conditions for studying electrical spillovers. Documentary evidence establishes realized infrastructure milestones and nominal electrical paths, but load classifications and counterfactual comparisons remain unresolved. No event or comparison unit is yet eligible for causal estimation. This is an identification limitation rather than an estimated zero effect. The empirical contribution under development is a reproducible connection between digital infrastructure, electrical supply, and nodal outcomes that keeps event evidence separate from the assumptions required for causal interpretation.
 
 **Keywords:** data centers; nodal marginal costs; difference-in-differences; panel data; electrical networks; Chile.
+
+**Case-study result.** Following the May 5, 2025 energization of feeder E53, the mean price at Chacabuco 110 kV rises by USD 16.57/MWh between 104 pre-event and 90 post-event days on common time-label support. Quillota 110 rises by USD 15.58/MWh over the same dates, leaving a USD 0.99/MWh increase in the price differential. The differential increases by USD 0.24/MWh over the first 28 post-event days. These are descriptive changes, not an identified E53 effect; they distinguish the gross price movement from the relative movement and show its dependence on the event horizon.
 
 ## 1. Introducción
 
@@ -77,6 +81,8 @@ La capa de mediciones se mantiene separada de los precios hasta resolver unidade
 
 HT1 y HT2 de Las Canteras pertenecen al mismo proyecto y su suma no representa dos centros tratados. HT3 y los circuitos de tránsito no se incorporan mecánicamente al consumo. La primera observación de un medidor no se utiliza como fecha de entrada. La curva de retiro puede contribuir a describir un cambio, pero su calendario no reemplaza documentación que distinga ampliación, transferencia y modificación de medición.
 
+Para E53 se recuperó del archivo definitivo existente la serie del socket `CHCABUCO_023_ET7_CHL`: 90.532 registros de 15 minutos entre enero de 2024 y agosto de 2026. Marzo de 2025 está ausente; los demás 31 meses examinados contienen la cobertura esperada de etiquetas civiles. D y R se conservan separados y la energía publicada en kWh se convierte a potencia media del intervalo dividiendo por 250. La búsqueda en el catálogo no identifica un medidor exclusivo E53 o Ascenty, y ET7 no puede interpretarse como una medición exclusiva del consumo del centro de datos. La correspondencia por serie con el medidor denominado DT7 en Infotécnica también queda pendiente. La concordancia de las etiquetas UTC y locales de medición no acredita una unión horaria con precios. [Alcance de medición](../investigacion_e53_20260927/mediciones/README_mediciones_E53.md); [verificación ET7](../investigacion_e53_20260927/mediciones/verificacion_et7.json).
+
 ## 4. Del registro documental a un tratamiento elegible
 
 La matriz centro/fase–evento–barra–vigencia registra hechos y fuentes con localizadores. Los anuncios, fechas previstas, PES, energización, EO, inauguración y cambios observados en carga ocupan campos diferentes. La elegibilidad exige comprobar realización y naturaleza del cambio, además del enlace eléctrico. Un documento de término de una obra puede cerrar su fecha y mantener abierta la interpretación de la carga.
@@ -84,6 +90,10 @@ La matriz centro/fase–evento–barra–vigencia registra hechos y fuentes con 
 La revisión de la nueva etapa ilustra esa separación con el alimentador Ascenty E53 en S/E Chacabuco, NUP 5417. La carta de Sociedad Transmisora Metropolitana de 4 de junio de 2025 señala energización y entrega a explotación el 5 de mayo. Es una realización acreditada de la conexión; no basta para determinar por sí sola campus, fase, demanda incremental o sustitución de un suministro anterior. Por tanto, no se transforma automáticamente en la entrada de «Ascenty Chile 2». [Carta de término, p. 1](https://cartas.coordinador.cl/download_saved_file/684213aa3563577698e6da48).
 
 La carta de modificación vincula E53 a BP7 de 23 kV. El unifilar del proyecto permite seguir la ruta nominal E53–BP7–T7–BP1 de 110 kV, correspondiente al enlace nominal con CHACABUCO110. BP7 no se equipara a la barra de costo marginal de 23 kV identificada como BP2. Esta mejora cierra la ambigüedad de ruta nominal, pero no acredita por sí sola todos los estados operativos históricos ni la naturaleza de la carga. [Carta BP7, p. 1](https://cartas.coordinador.cl/download_saved_file/678a9ac43563572012d6e461); [unifilar NUP 5417, láminas 8 y 1 del archivo oficial](https://api-infotecnica.coordinador.cl/v1/subestaciones/683/documentos/470265/).
+
+La revisión de la ventana de 2025 cierra además el enlace contemporáneo del precio: `CHACABUCO_____110` conserva `ID_INFO=703`, que corresponde a BP1 de 110 kV, nemotécnico `BA01T0835SE009T0835`. Este enlace permite describir el precio de la barra nominalmente asociada a E53 sin atravesar el cambio de publicación de 2024. No convierte un unifilar en registro continuo de maniobras. [Verificación independiente de identidad en 2025](../investigacion_e53_20260927/diseno/validacion_identidad.json).
+
+La documentación ambiental acredita un suministro Enel de 23 kV desde Chacabuco a la sala Chile 1, Unidad 2 del condominio Kúrcula, y distingue una acometida prevista para Chile 2 en Unidad 3. Chile 2 corresponde a la etapa 3 ambiental; no se equipara por nombre a E53. [RCA 486/2021, pp. 3 y 16](https://firma.sea.gob.cl/publicaciones/2b/80/2152538781). Además, informes de falla registran carga Ascenty de 3,429 MW el 29 de agosto de 2024 y 5,82 MW el 25 de febrero de 2025, ambos con dos clientes. Son instantáneas anteriores a E53, no un balance de demanda incremental ni dos centros independientes. Impiden fechar en mayo de 2025 la primera aparición de cualquier demanda Ascenty en Chacabuco, sin descartar una ampliación posterior. [EAF 456/2024, p. 144](https://www.coordinador.cl/wp-content/uploads/2024/09/EAF-456-2024.pdf); [EAF 089/2025, p. 64](https://www.coordinador.cl/wp-content/uploads/2025/03/EAF-089-2025.pdf).
 
 El caso Las Canteras también exige distinguir retiro medido y entorno operativo. El informe diario del Coordinador del 24 de junio de 2024 registra apertura de Las Vegas 52H4 a las 21:40 por control de transferencias Quillota–San Pedro; también registra una apertura en Santiago Solar desde el 22 de junio. Son concurrencias documentadas durante la ventana del cambio observado de retiro. No acreditan su causa ni una simultaneidad física minuto a minuto, porque el reloj de la medición y el del informe no están conciliados. Sí impiden asumir sin examen que la operación de la red relevante y los comparadores permanecieron ajenos al episodio. [Informe diario del 24 de junio, p. 24 del archivo](https://www.coordinador.cl/wp-content/uploads/2024/06/Informe-Diario-24-06-2024.pdf). El informe del día siguiente registra el término de ese episodio de Las Vegas a las 12:09 y otra apertura a las 16:09; no se trata como una configuración permanentemente abierta. [Informe del 25 de junio, p. 24](https://www.coordinador.cl/wp-content/uploads/2024/06/Informe-Diario-25-06-2024.pdf).
 
@@ -125,6 +135,8 @@ La interferencia se representa mediante exposición propia y ajena documentada. 
 
 La separación de efecto directo y spillover requiere barras y períodos que sostengan ambos contrastes. Si tratamiento y exposición se mueven siempre juntos, no se identifican por separado solo por introducir dos regresores. La literatura sobre spillovers muestra que respuestas en comparadores pueden contaminar DiD; trasladar su lógica a este caso exige un mapa eléctrico propio y supuestos defendibles, sin convertir cercanía geográfica en ausencia de exposición. [Butts, 2023](https://arxiv.org/abs/2105.03737).
 
+Para una conexión individual como E53, un parámetro distinto sería la respuesta relativa `τ_Chacabuco(E53) − τ_Quillota(E53)`. Su identificación no exige imponer que Quillota tenga respuesta cero: exige justificar cómo habría evolucionado el diferencial sin la conexión, además de considerar anticipación y otras perturbaciones diferenciales. La ausencia de respuesta en Quillota sería una restricción adicional para interpretar el contraste como efecto directo sobre Chacabuco. La historia de centros de datos de una barra tampoco la descarta automáticamente como comparación de una conexión concreta; importa si presenta cambios concurrentes que invaliden ese contrafactual. Estas condiciones todavía no se han establecido para E53. El análisis ejecutado siguiente permanece descriptivo.
+
 ### 5.4. Inferencia y comprobaciones
 
 La precisión depende de asignaciones independientes. Horas, transformadores y fases del mismo campus no multiplican ese número. Se informarán campus, barras tratadas, eventos, cohortes, comparadores y agrupaciones para cada estimación. La dependencia temporal y eléctrica debe guiar la agrupación. Con pocos grupos tratados, tanto errores agrupados convencionales como bootstrap pueden fallar; una permutación no se interpreta como aleatorización sin justificar el mecanismo. [MacKinnon y Webb, 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/ectj.12107).
@@ -158,6 +170,36 @@ Unidad: USD/MWh del diferencial diario respecto de Quillota 110. Fuente: [tabla 
 
 La revisión documental aporta fechas realizadas de obras, enlaces eléctricos progresivamente precisados y concurrencias operativas que deben incorporarse al diseño. El caso E53 demuestra por qué una fecha de conexión y una fecha de nueva demanda no son intercambiables. El informe de junio de 2024 muestra por qué no corresponde certificar comparadores solo con sus series de precios.
 
+### 6.1. Episodio E53: separar precio bruto y diferencial
+
+Una adenda exploratoria fijó el análisis específico de E53 antes de calcular sus contrastes, reconociendo que los descriptivos generales del panel ya eran conocidos. Se mantuvo `g=6 de mayo de 2025`, días previos −112 a −8 y posteriores 0 a 89. Se excluyen siete días de anticipación y un día de 25 etiquetas (5 de abril); quedan 104 días previos y 90 posteriores con exactamente el mismo soporte para Chacabuco y ambas referencias. El contraste descriptivo resta la media previa a la posterior; el valor del día base −8 se conserva como salida separada. No es un ATT ni sustituye el protocolo causal. [Adenda](../investigacion_e53_20260927/analisis/LEEME_adenda.md); [configuración fijada](../investigacion_e53_20260927/analisis/adenda_01.json).
+
+| Serie, USD/MWh | Media previa | Media posterior | Cambio descriptivo |
+|---|---:|---:|---:|
+| Chacabuco 110 | 71,96 | 88,53 | +16,57 |
+| Quillota 110 | 69,21 | 84,79 | +15,58 |
+| Chacabuco menos Quillota 110 | 2,75 | 3,74 | +0,99 |
+| Quillota 220 | 68,92 | 84,78 | +15,86 |
+| Chacabuco menos Quillota 220 | 3,04 | 3,75 | +0,72 |
+
+Fuente: [contrastes calculados](../investigacion_e53_20260927/analisis/resultados/contrastes_descriptivos.csv). Pre: 14 de enero–28 de abril de 2025; post: 6 de mayo–3 de agosto. Igual peso por fecha válida. Las identidades aritméticas `16,57 ≈ 15,58 + 0,99` y `16,57 ≈ 15,86 + 0,72` muestran que la mayor parte del incremento bruto también aparece en las referencias. No identifican un mecanismo común ni asignan la parte restante a E53.
+
+| Ventana o sensibilidad declarada | Días pre/post | Cambio diferencial Quillota 110 | Cambio diferencial Quillota 220 |
+|---|---:|---:|---:|
+| Principal, 90 días posteriores | 104 / 90 | +0,994 | +0,716 |
+| Primeros 28 días posteriores | 104 / 28 | +0,237 | +0,017 |
+| Sin excluir anticipación | 111 / 90 | +0,981 | +0,714 |
+| Excluyendo 14 días de anticipación | 97 / 90 | +0,982 | +0,706 |
+| Sin 25–26 de febrero en el pre | 102 / 90 | +0,990 | +0,712 |
+
+Unidad: USD/MWh. Se reportan todas las sensibilidades declaradas. En los primeros 28 días el precio de Chacabuco disminuye 7,23 USD/MWh frente a la media previa, mientras el diferencial cambia poco en términos absolutos. A 90 días, ambos niveles aumentan y la brecha es mayor. Esta dependencia del horizonte impide describir el resultado simplemente como un salto inmediato de precios por la conexión. La sensibilidad de 365 días no se ejecuta porque atravesaría julio de 2024 sin puente entre regímenes.
+
+**Figura 3. Trayectoria del episodio E53.** [Precios diarios y medias por bloques semanales](../investigacion_e53_20260927/analisis/resultados/episodio_e53_precios.png). Los bloques se fijan respecto de la fecha documental; no son ventanas seleccionadas por el resultado. No se muestran bandas de confianza ni se calcula significación estadística a partir de días tratados como asignaciones independientes.
+
+El apagón de 25 de febrero y su recuperación al 26 se conservan en la principal. Su exclusión en la sensibilidad apenas modifica el cambio del diferencial, aunque altera el cambio del precio en nivel. Esa comprobación no descarta otras concurrencias: la revisión registra fallas y maniobras en la subestación durante abril y julio. Tampoco resuelve estacionalidad, despacho o tendencias diferenciales. La medición agregada disponible no permite probar cuánto consumo neto nuevo añadió E53. Por tanto, el resultado sustantivo de este episodio es una variación relativa mucho menor que la variación bruta y sensible al horizonte; la atribución causal permanece abierta. [Cronología y argumento de diseño](../investigacion_e53_20260927/diseno/nota_diseno_e53.md).
+
+### 6.2. Estado de los parámetros causales
+
 **ATT y estudio de eventos.** La revisión ejecutada registra 24 eventos y cero eventos, campus, barras tratadas o comparadores habilitados. Sus campos ATT, error estándar y dinámica causal permanecen nulos. La habilitación depende de cerrar conjuntamente la naturaleza del tratamiento, la continuidad de barra, la comparación y la exposición. Esta ausencia no es una estimación igual a cero ni evidencia de inexistencia de efectos. Las estadísticas y figuras anteriores describen la muestra observada y no son resultados de impacto. [Estado de estimación](../resultados/estado_estimacion.json); [soporte por evento y ventana registrada](../resultados/soporte_eventos_ventana_registrada.csv).
 
 **Spillovers.** No se publica un efecto indirecto sin mapa de exposición y soporte. La documentación de enlaces es un insumo para ese análisis, no una estimación de transmisión de impactos. Las filas con exposición desconocida conservan ese estado.
@@ -166,7 +208,7 @@ La revisión documental aporta fechas realizadas de obras, enlaces eléctricos p
 
 El paso decisivo para evaluar centros de datos en la red chilena es convertir un proyecto comercial en una intervención eléctrica definida. La base disponible permite observar precios durante varios años, pero la cantidad de registros no determina cuántas entradas independientes existen ni cuáles tienen un contrafactual defendible. Nuevas conexiones pueden abastecer carga existente; distintas fases pueden compartir campus; una referencia puede responder a las mismas maniobras que la barra analizada.
 
-La versión actual establece un panel y un protocolo que conservan esas distinciones. Su conclusión sustantiva permanece abierta: todavía no se puede afirmar que los centros estudiados eleven o reduzcan causalmente los diferenciales nodales. La evaluación avanzará mediante el cierre de expedientes concretos y la aplicación de las comparaciones habilitadas, conservando resultados nulos o contrarios a la hipótesis. Si las condiciones no permiten separar efectos, el alcance final deberá reflejarlo expresamente.
+El caso E53 aporta una consecuencia empírica concreta: un incremento bruto de 16,57 USD/MWh coexiste con un incremento del diferencial de 0,99 USD/MWh a 90 días y 0,24 USD/MWh a 28 días. Equiparar el primero con un impacto local de centros de datos produciría una atribución no sustentada. Los resultados tampoco demuestran que el impacto causal sea pequeño o nulo; aún falta construir y justificar el diferencial contrafactual. La evaluación continuará con esa pregunta acotada, conservando resultados contrarios a la hipótesis y explicitando el alcance final si no se logra identificación.
 
 Para la planificación territorial, la pregunta relevante combina demanda realizada, secuencia de conexión y exposición de la red. Sin resultados identificados no se recomiendan regiones específicas para relocalizar centros, no se calculan beneficios sociales y no se atribuyen cambios tarifarios a sus proyectos. La contribución verificable de esta etapa es establecer qué evidencia permite formular esos contrastes y qué información adicional hace falta para responderlos.
 

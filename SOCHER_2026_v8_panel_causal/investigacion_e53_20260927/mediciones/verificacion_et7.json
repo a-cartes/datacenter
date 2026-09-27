@@ -1,0 +1,17 @@
+{
+  "filas": 90532,
+  "desde": "2024-01-01 00:00:00.000",
+  "hasta": "2026-08-31 23:45:00.000",
+  "duplicados_socket_utc": 0,
+  "reloj_civil_discrepancias": 0,
+  "offsets_observados": [
+    -240,
+    -180
+  ],
+  "meses_examinados": 32,
+  "descargas": 0,
+  "representa_demanda_ascenty": false,
+  "tratamiento_habilitado": false,
+  "precio_unido": false,
+  "hash_tabla_15min": "95ccaed47257e314edaa86705abc93ded4c689c517eb20240fa916be5a4ca3c3"
+}

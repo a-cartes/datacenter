@@ -1,0 +1,21 @@
+{
+  "estado": "PASS",
+  "fuente_exclusiva_calculo": "SOCHER_2026_v7_2020_2026/entrega/por_anio/Dataset_precios_barra_hora_2025.csv",
+  "source_sha256": "2e7bc9faf415307df32af011a7fa873ec55e21582fd5e4eb8a12d8ea16eaa85e",
+  "no_usa_panel_diario": true,
+  "no_usa_diferenciales_precalculados": true,
+  "n_contrastes_verificados": 25,
+  "tolerancia_absoluta": 1e-08,
+  "max_discrepancia_por_redondeo": 4.881428594671888e-11,
+  "dias_sin_soporte24": [
+    {
+      "fecha": "2025-04-05",
+      "n_chac": 25,
+      "n_q110": 25,
+      "n_q220": 25
+    }
+  ],
+  "n_asignaciones_independientes": 1,
+  "inferencias_causales": false,
+  "observacion": "25 contrastes son resúmenes descriptivos del mismo episodio, no pruebas independientes."
+}

@@ -1,0 +1,70 @@
+c. Consumos 
+Sub-Estación Alimentador/ 
+Paño 
+Comuna Pérdida de 
+Consumo 
+(MW) 
+% 
+consumo 
+pre-falla 
+Clientes 
+Afectados 
+H. 
+Desc. 
+H. 
+Dispon. 
+H. 
+Norm. 
+S/E Recoleta (*) SI SI 20.00 0.238 SI 04:14 04:16 04:16 
+Lo Boza (*) SI SI 29.00 0.345 SI 04:14 04:17 04:17 
+S/E Chacabuco Araucaria SI 5.80 0.069 96 04:14 04:19 04:19 
+S/E Chacabuco Ascenty SI 3.43 0.041 2 04:14 04:19 04:19 
+S/E Chacabuco Caupolicán SI 4.13 0.049 99 04:14 04:19 04:19 
+S/E Chacabuco Fresia SI 0.93 0.011 52 04:14 04:19 04:19 
+S/E Chacabuco La Reserva SI 3.69 0.044 113 04:14 04:19 04:19 
+S/E Chacabuco Lautaro SI 4.51 0.054 93 04:14 04:19 04:19 
+S/E Chacabuco Los Boldos SI 7.27 0.086 295 04:14 04:19 04:19 
+S/E Chacabuco Luna SI 5.16 0.061 1 04:14 04:19 04:19 
+S/E Chacabuco Luna 4 SI 7.50 0.089 1 04:14 04:19 04:19 
+S/E Chacabuco Maulén SI 1.68 0.020 76 04:14 04:19 04:19 
+S/E Chacabuco Mejillones SI 4.00 0.048 1212 04:14 04:19 04:19 
+S/E Chacabuco San Ignacio SI 4.61 0.055 22 04:14 04:19 04:19 
+S/E Chacabuco Santa Isabel SI 5.53 0.066 9951 04:14 04:19 04:19 
+S/E Chacabuco Totoral SI 5.83 0.069 94 4:14 04:19 04:19 
+                Total:                113.07 MW     1.345 %      >12107 
+- Los montos señalados corresponden a lo informado por la empresa Enel Distribución S.A. 
+- (*): Montos de consumos afectados y horarios de normalización de suministro de las SS/EE Recoleta y Lo Boza obtenidos desde 
+el sistema SCADA del Coordinador. 
+- Debido a la operación del esquema de transferencia automática de carga, los consumos de la barra 110 kV N°1 de S/E Quilicura 
+no se vieron afectados por la falla en el circuito N°1 de la línea 2x110 kV El Salto - Cerro Navia (indisponibilidad menor a un 1 
+minuto). 
+ 
+ 
+ 
+3. Estimación de la energía no suministrada 
+ 
+Sub-Estación Alimentador/ 
+Paño 
+Empresa Tipo de 
+Cliente 
+Pérdida de 
+Consumo 
+(MW) 
+Tiempo 
+Indispon. 
+(h) 
+Tiempo 
+Desc. 
+(h) 
+ENS 
+(MWh) 
+S/E Recoleta (*) SI ENEL DISTRIBUCIÓN Regulado 20.00 0.03 0.03 0.7 
+Lo Boza (*) SI ENEL DISTRIBUCIÓN Regulado 29.00 0.05 0.05 1.4 
+S/E Chacabuco Araucaria ENEL DISTRIBUCIÓN Regulado 5.80 0.08 0.08 0.5 
+S/E Chacabuco Ascenty ENEL DISTRIBUCIÓN Regulado 3.43 0.08 0.08 0.3 
+S/E Chacabuco Caupolicán ENEL DISTRIBUCIÓN Regulado 4.13 0.08 0.08 0.3 
+S/E Chacabuco Fresia ENEL DISTRIBUCIÓN Regulado 0.93 0.08 0.08 0.1 
+S/E Chacabuco La Reserva ENEL DISTRIBUCIÓN Regulado 3.69 0.08 0.08 0.3 
+S/E Chacabuco Lautaro ENEL DISTRIBUCIÓN Regulado 4.51 0.08 0.08 0.4 
+S/E Chacabuco Los Boldos ENEL DISTRIBUCIÓN Regulado 7.27 0.08 0.08 0.6 
+S/E Chacabuco Luna ENEL DISTRIBUCIÓN Regulado 5.16 0.08 0.08 0.4 

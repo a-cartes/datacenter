@@ -1,0 +1,79 @@
+  Página 64 de 399   
+ 
+Sub-Estación Alimentador/ 
+Paño 
+Comuna Pérdida de 
+Consumo 
+(MW) 
+% consumo 
+pre-falla 
+Clientes 
+Afectados 
+H. 
+Desc. 
+H. 
+Dispon. 
+H. 
+Norm. 
+San José San Francisco / NI NI 5.80 0.052 9507 15:16 22:29 23:03 
+San José Necochea / NI NI 7.44 0.067 9440 15:16 22:29 23:03 
+Chocalán Pabellón / C2 Melipilla 1.01 0.009 2549 15:16 23:03 23:03 
+Chocalán Puente Marambio 
+/ C1 Melipilla 2.80 0.025 3953 15:16 23:03 23:03 
+El Peumo Longovilo / E3 
+San Pedro, 
+Las Cabras, 
+Litueche, 
+Alhué 
+9.49 0.086 1918 15:16 23:03 23:03 
+Mandinga San Manuel / C2 Melipilla 5.61 0.051 1902 15:16 23:03 23:03 
+Santa Rosa Sur Acceso Sur / C1 
+La Granja, 
+Puente Alto, 
+La Pintana, La 
+Florida 
+4.30 0.039 12413 15:16 23:00 23:03 
+Santa Rosa Sur Florida Sur / C5 La Florida, 
+Puente Alto 6.50 0.059 9164 15:16 23:00 23:03 
+Santa Rosa Sur La Pintana / C3 Puente Alto, 
+La Pintana 3.70 0.033 10064 15:16 23:00 23:03 
+Santa Rosa Sur Maestro Palomo / 
+C2 Puente Alto 5.10 0.046 9723 15:16 23:00 23:03 
+Santa Rosa 
+(CGE) El Membrillo / E3 San Pedro, 
+Alhué NI NI 479 15:16 23:03 23:03 
+Santa Rosa 
+(CGE) Lo Chacon / E2 San Pedro 0.29 0.003 90 15:16 23:03 23:03 
+Santa Rosa 
+(CGE) Lo Sierra / E1 San Pedro NI NI 66 15:16 23:03 23:03 
+Nueva Aldea NI Chillán 40.00 0.362 1 15:16 23:04 23:04 
+Chacabuco Totoral / NI NI 7.73 0.070 118 15:16 22:17 23:05 
+Chacabuco Los Boldos / NI NI 9.97 0.090 282 15:16 22:17 23:05 
+Chacabuco Luna / NI NI 5.78 0.052 1 15:16 22:17 23:05 
+Chacabuco Ascenty / NI NI 5.82 0.053 2 15:16 22:17 23:05 
+Pudahuel Neptuno / NI NI 4.80 0.043 7684 15:16 21:46 23:05 
+Pudahuel Chacon / NI NI 5.70 0.052 9700 15:16 21:46 23:05 
+Pudahuel Renca Bus1 / NI NI 4.20 0.038 3752 15:16 21:46 23:05 
+San José La Farfana / NI NI 2.74 0.025 1334 15:16 22:29 23:05 
+Puente Alto 
+(TEC) Casas Viejas / C2 
+San José de 
+Maipo, Puente 
+Alto, Pirque 
+5.30 0.048 5575 15:16 23:05 23:05 
+Puente Alto 
+(TEC) 
+Cerro La Ballena / 
+C1 
+Puente Alto, 
+Pirque 3.90 0.035 6332 15:16 23:05 23:05 
+Puente Alto 
+(TEC) 
+Camilo Henriquez 
+/ C6 Puente Alto 7.33 0.066 3138 15:16 23:05 23:05 
+Puente Alto 
+(TEC) 
+San Francisco / 
+C5 Puente Alto 3.54 0.032 4650 15:16 23:05 23:05 
+Puente Alto 
+(TEC) Pie Andino / C10 Puente Alto 2.78 0.025 5539 15:16 23:05 23:05 

@@ -1,0 +1,13 @@
+{
+  "filas_verificadas": 90532,
+  "extractos_verificados": 32,
+  "campos_literales_identicos": true,
+  "dias_completos": 943,
+  "dias_ausentes": 31,
+  "meses_completos": 31,
+  "ausencias_sin_imputacion": true,
+  "totales_diarios_y_mensuales_conciliados": true,
+  "tolerancia_energia_kwh": 0.0001,
+  "sha256_tabla": "95ccaed47257e314edaa86705abc93ded4c689c517eb20240fa916be5a4ca3c3",
+  "coincide_sha_primera_ejecucion": true
+}

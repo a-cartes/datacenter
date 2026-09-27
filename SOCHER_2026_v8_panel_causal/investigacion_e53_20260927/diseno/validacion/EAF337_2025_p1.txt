@@ -1,0 +1,38 @@
+Estudio para análisis de falla EAF 337/2025 
+“Falla en línea 66 kV Itahue - Talca N°1” 
+Fecha de Emisión: 18-08-2025 
+ 
+ 
+1. Descripción pormenorizada de la perturbación 
+a. Fecha y Hora de la falla 
+Fecha 26/07/2025 
+Hora 02:12 
+Consumos desconectados (MW) 27.02 
+Demanda previa del sistema (MW) 9395.74 
+Porcentaje de desconexión 0.288 % 
+Calificación Apagón No aplica (porcentaje de desconexión < 10%) 
+ 
+b. Identificación instalación afectada 
+Nombre de la instalación Línea 2x66 kV Itahue - Talca N°1 / LT048---------T0058 
+Tipo de instalación Línea 
+Tensión nominal 66 kV 
+Segmento Transmisión Zonal 
+Propietario instalación afectada CGE Transmisión S.A. 
+RUT 77.465.741-K 
+Representante Legal Iván Quezada Escobar 
+Dirección Av. presidente Riesco N°5561 piso 16, Las Condes, Santiago, Chile 
+ 
+c. Identificación del elemento fallado 
+Nombre del elemento afectado Línea 2x66 kV Itahue - Talca N°1 / LT048---------T0058 
+Propietario elemento fallado CGE Transmisión S.A. 
+RUT 77.465.741-K 
+Representante Legal Iván Quezada Escobar 
+Dirección Av. presidente Riesco N°5561 piso 16, Las Condes, Santiago, Chile 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 

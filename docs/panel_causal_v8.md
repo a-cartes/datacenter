@@ -58,6 +58,8 @@ La carpeta v8 del proyecto es la copia canónica de desarrollo. Su copia en este
 
 ## Brechas que delimitan el siguiente análisis
 
+Actualización E53 del mismo día: se completó el [estudio de episodio](../SOCHER_2026_v8_panel_causal/investigacion_e53_20260927/README.md), con enlace del precio ID703, evidencia de suministro Ascenty anterior, 90.532 mediciones ET7 y reconstrucción independiente de 25 contrastes. El diferencial Quillota 110 aumenta 0,994 USD/MWh a 90 días y 0,237 a 28 días; el precio bruto aumenta 16,573 a 90 días. Se conserva el estado sin ATT. Los nuevos catálogos de fuentes y hechos están en la carpeta del episodio y no se suman como nuevas intervenciones a los 24 hitos de la matriz original. El manuscrito incorpora los resultados; el Excel de revisión previo permanece como instantánea de la entrega anterior.
+
 Ascenty E53 ofrece fecha realizada y cobertura temporal, pero requiere adjudicar campus/fase y suministro anterior. Las Canteras exige separar cambio de demanda de maniobras o traslado y cerrar continuidad de precio/reloj. Los casos de 2020 necesitan historia eléctrica del alimentador en esa fecha, sin retrotraer catálogos de 2024–2026. Los controles requieren un argumento documentado de historia y exposición; no se escogerán por obtener tendencias o significación favorables.
 
 El manuscrito está redactado con resultados descriptivos comprobados. La identificación causal y la preparación para envío siguen pendientes. No se ha enviado a Energy Economics ni a SOCHER.

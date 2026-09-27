@@ -1,0 +1,51 @@
+3. Estimación de la energía no suministrada 
+ 
+Subestación Alimentador 
+/Paño Empresa Tipo de 
+cliente 
+Pérdida de 
+Consumo (MW) 
+Tiempo 
+Indispon. (h) 
+Tiempo 
+Desc. (h) 
+ENS 
+(MWh) 
+Chacabuco Araucarias / C3 Enel Distribución Regulado 1.10 1.12 0.08 0.1 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 3.40 1.12 0.08 0.3 
+Chacabuco Araucarias / C3 Enel Distribución Regulado 0.57 1.12 0.10 0.1 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 0.80 1.12 0.12 0.1 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 0.05 1.12 0.12 0.0 
+Chacabuco Mejillones / C7 Enel Distribución Regulado 0.75 1.12 0.15 0.1 
+Chacabuco Caupolicán / C4 Enel Distribución Regulado 1.65 1.12 0.15 0.2 
+Chacabuco Lautaro / C2 Enel Distribución Regulado 1.64 1.12 0.18 0.3 
+Chacabuco Lautaro / C2 Enel Distribución Regulado 0.93 1.12 0.32 0.3 
+Chacabuco Fresia / C6 Enel Distribución Regulado 0.38 1.12 0.35 0.1 
+Chacabuco Maúlen / C5 Enel Distribución Regulado 1.13 1.12 0.40 0.5 
+Chacabuco San Ignacio / C1 Enel Distribución Regulado 4.64 1.12 1.00 4.6 
+Chacabuco Fresia / C6 Enel Distribución Regulado 0.24 1.12 1.13 0.3 
+Clientes Regulados : 7.0 MWh 
+Clientes Libres :  MWh 
+Total : 7.0 MWh 
+- Los montos señalados corresponden a lo informado por la empresa Enel Distribución Chile S.A. 
+ 
+- Curva de recuperación esperada v/s recuperación real. 
+ 
+ 
+Se aprecian diferencias entre los horarios de recuperación real respecto de la recuperación esperada 
+producto de las transferencias de consumos mediante redes de distribución en media tensión. 
+ 
+ 
+ 
+ 
+21:36
+21:50
+22:04
+22:19
+22:33
+22:48
+23:02
+23:16
+23:31
+6.4% 26.0% 29.3% 34.0% 34.3% 38.6% 48.1% 57.6% 63.0% 65.2% 71.8% 98.6% 100.0%
+Recuperación real Recuperación esperada

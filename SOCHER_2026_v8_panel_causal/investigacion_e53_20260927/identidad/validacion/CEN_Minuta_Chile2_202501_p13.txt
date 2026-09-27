@@ -1,0 +1,32 @@
+ 
+ 
+ Página 13 de 14 
+ 
+Tabla 4-4. Proyecciones de demanda DC Chile 2, presentados por el promotor. 
+ 
+ 
+Tabla 4-5. Cargabilidad del entorno sin proyecto Datacenter Chile 2, año 2031. 
+ 
+ Verano Día  
+con Renca 
+Invierno Día  
+con Renca 
+Verano Día  
+sin Renca 
+Invierno Día  
+sin Renca 
+Líneas 2031 2031 2031 2031 
+Tap Chacabuco - 
+Chacabuco 110kV L1 22% 19% 22% 19% 
+Tap Chacabuco - 
+Chacabuco 110kV L2 37% 32% 36% 32% 
+Tap Chacabuco-Tap 
+Recoleta 110 KV L1 20% 21% 24% 21% 
+Tap Chacabuco-Tap 
+Recoleta 110 KV L2 17% 17% 20% 17% 
+Tap Quilicura - Tap 
+Chacabuco 110 KV L1 43% 40% 46% 40% 
+Tap Quilicura - Tap 
+Chacabuco 110 KV L2 56% 50% 57% 50% 
+ 
+  

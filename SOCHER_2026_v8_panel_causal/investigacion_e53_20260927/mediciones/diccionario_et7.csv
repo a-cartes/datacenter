@@ -1,0 +1,33 @@
+variable,descripcion,origen
+archivo_original,Ruta del ZIP definitivo local que contenía la fila.,procedencia_o_derivada
+miembro_zip,CSV dentro del ZIP original.,procedencia_o_derivada
+fila_csv_original,Número de fila original contando la cabecera como fila 1.,procedencia_o_derivada
+ID_SOC,Campo literal del CSV original; no se modifica.,literal
+IDSOCKET,Campo literal del CSV original; no se modifica.,literal
+SUBESTACION,Campo literal del CSV original; no se modifica.,literal
+TENSION,Campo literal del CSV original; no se modifica.,literal
+YEARX,Campo literal del CSV original; no se modifica.,literal
+MONX,Campo literal del CSV original; no se modifica.,literal
+DAYX,Campo literal del CSV original; no se modifica.,literal
+HOURX,Campo literal del CSV original; no se modifica.,literal
+DATETIME,Campo literal del CSV original; no se modifica.,literal
+UTCDATETIME,Campo literal del CSV original; no se modifica.,literal
+kWhD,Campo literal del CSV original; no se modifica.,literal
+kWhR,Campo literal del CSV original; no se modifica.,literal
+FLUJO,Campo literal del CSV original; no se modifica.,literal
+ULTIMA_LECTURA,Campo literal del CSV original; no se modifica.,literal
+sha256_original_auditoria_v7,Hash del ZIP conservado en auditoría v7; no recalculado en esta extracción.,procedencia_o_derivada
+archivo_extracto,Extracto mensual relativo a esta carpeta.,procedencia_o_derivada
+mes_archivo,Año y mes del archivo; coincide con DATETIME.,procedencia_o_derivada
+etiqueta_utc,"Parseo de UTCDATETIME explícito del publicador, sin inferir UTC de DATETIME.",procedencia_o_derivada
+fecha_etiqueta_local,Fecha de DATETIME; no certifica fecha física de integración.,procedencia_o_derivada
+offset_local_min,DATETIME menos UTCDATETIME en minutos.,procedencia_o_derivada
+america_santiago_coincide,Concordancia empírica entre etiquetas y zona America/Santiago.,procedencia_o_derivada
+energia_D_kwh,kWhD convertido a numérico conservando significado de canal D.,procedencia_o_derivada
+potencia_media_D_mw,energia_D_kwh / 250 para intervalos de 15 minutos.,procedencia_o_derivada
+energia_R_kwh,kWhR convertido a numérico conservando significado de canal R.,procedencia_o_derivada
+potencia_media_R_mw,energia_R_kwh / 250 para intervalos de 15 minutos.,procedencia_o_derivada
+duracion_intervalo_minutos,15 según formato publicado.,procedencia_o_derivada
+inicio_fin_fisico_acreditado,False: no acreditada convención inicio/fin de etiqueta CSV.,procedencia_o_derivada
+representa_demanda_ascenty,False: no es medición dedicada acreditada del cliente.,procedencia_o_derivada
+enlace_precio_habilitado,False: no se une el reloj de medidas a precios.,procedencia_o_derivada

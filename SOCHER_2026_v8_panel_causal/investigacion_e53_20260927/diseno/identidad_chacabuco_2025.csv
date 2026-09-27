@@ -1,0 +1,9 @@
+mes,id_info_fuente,barra_info_fuente,estado_identidad,fuente_id,n_filas,n_fechas,fecha_min,fecha_max
+2025-01,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202501_DEF,432,18,2025-01-14,2025-01-31
+2025-02,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202502_DEF,672,28,2025-02-01,2025-02-28
+2025-03,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202503_DEF,744,31,2025-03-01,2025-03-31
+2025-04,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202504_DEF,721,30,2025-04-01,2025-04-30
+2025-05,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202505_DEF,744,31,2025-05-01,2025-05-31
+2025-06,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202506_DEF,720,30,2025-06-01,2025-06-30
+2025-07,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202507_DEF,744,31,2025-07-01,2025-07-31
+2025-08,703,BA S/E CHACABUCO 110KV BP1,ID_INFO_y_nombre_publicados_en_TSV;sin_conversion_a_nemotecnico_historico,moderno_202508_DEF,72,3,2025-08-01,2025-08-03

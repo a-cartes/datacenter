@@ -1,0 +1,25 @@
+{
+  "ventana_metadata": [
+    "2025-01-14",
+    "2025-08-03"
+  ],
+  "n_filas": 4849,
+  "n_meses": 8,
+  "id_unico": "703",
+  "nombre_unico": "BA S/E CHACABUCO 110KV BP1",
+  "nemotecnico_api_20260927": "BA01T0835SE009T0835",
+  "n_conflictos": 0,
+  "identidad_moderna_ventana": "IDENTIDAD_PUBLICADA_CONSTANTE; no certifica configuración operativa",
+  "source": "SOCHER_2026_v7_2020_2026/entrega/por_anio/Dataset_precios_barra_hora_2025.csv",
+  "source_sha256": "2e7bc9faf415307df32af011a7fa873ec55e21582fd5e4eb8a12d8ea16eaa85e",
+  "g": "2025-05-06",
+  "pre": [
+    "2025-01-14",
+    "2025-04-28"
+  ],
+  "post": [
+    "2025-05-06",
+    "2025-08-03"
+  ],
+  "outcomes_consultados": false
+}

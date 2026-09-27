@@ -1,0 +1,29 @@
+{
+  "estado": "OK",
+  "adenda_sha256": "66813ecf7c859fe4931ca901cb42c276bd4bff4de05ea4af9a49d3be9060859a",
+  "panel_diario_sha256": "0fe7976c91a61f8b4e8af35b94b6d7d4608e172c5b6518248ddb20ea1e737d73",
+  "script_sha256": "7eed35fafe276b8b55fa9aba642a543dfdcad6cf5cf114c8ae594ab8367d306a",
+  "dias_calendario": 202,
+  "dias_pre24": 104,
+  "dias_post24": 90,
+  "dias_no24": [
+    "2025-04-05"
+  ],
+  "codigo_documentado_unico": [
+    "703"
+  ],
+  "duplicados_fecha": 0,
+  "escenarios_reportados": 5,
+  "contrastes_reportados": 25,
+  "estimaciones_causales": 0,
+  "p_valores": 0,
+  "muestra_identica_entre_series": true,
+  "salidas_tabulares_sha256": {
+    "contrastes_descriptivos.csv": "1bde218ef3634e8dd14b48f1a826a940f39b2521fc1febd14a9fb3bbb4647b23",
+    "dias_sin_soporte24.csv": "5d0a5fd27b5e9e30f1c2aa9ea7dc31d1a3c5f6d9be22381b06df82776470dd0f",
+    "episodio_diario_completo.csv": "7004aba2825f927cd016e3780fa36ab4d445912f128730cb7a74e7010dd77da5",
+    "resumen_periodos.csv": "0deb2281f3e695d2f019d83b8a15385581dad5d14d09f7601959b7604c677ddf",
+    "trayectoria_semanal.csv": "e70ee6a76401e697e4c2db04bca919a1bc281d92b3cbb8343cba86fb57b6343e",
+    "valor_dia_base.csv": "74c23e1e53494b00ac665c02386f09e942cc8fe2b0dd2b5fc69d1fe4cd2aaf0d"
+  }
+}

@@ -1,0 +1,45 @@
+- Velocidad promedio de recuperación. 
+Rango Potencia 
+(MW) 
+Tiempo 
+recuperación 
+(h) 
+Velocidad de 
+recuperación 
+(MW/h) 
+Primer 80 % 13.82 1.00 13.82 
+Último 20 % 3.46 1.15 3.01 
+100 % Total 17.28 1.15 15.03 
+ 
+ 
+ 
+Demanda del sistema previo a la falla: 9192 MW 
+Regulación de Frecuencia 
+Control distribuido de frecuencia en el Sistema Eléctrico Nacional, previo a la falla, mediante las 
+centrales Andina (CTA), Canutillar (U2), El Toro (U1, U2, U3 y U4), Hornitos (CTH), Kelar (TG1 y TG2), 
+Mejillones (CTM3), Quintero (U2) y Ralco (U1). 
+Operación Programada 
+En Anexo Nº1 se adjunta el detalle de la generación programada para el día 19 de abril de 2025. 
+Operación Real 
+En Anexo Nº2 se adjunta el detalle de la generación real del día 19 de abril de 2025. 
+Movimiento de centrales e informe diario del CDC 
+En Anexo Nº3 se presenta el detalle del Movimiento de Centrales e Informe Diario del CDC para el día 
+19 de abril de 2025. 
+Mantenimientos 
+En Anexo Nº4 se presenta el detalle de los mantenimientos programados y forzados para el día 19 de 
+abril de 2025. 
+Estado y configuración previo a la falla 
+Las instalaciones de transmisión se encontraban en servicio normal en los momentos previos a la 
+desconexión forzada. 
+Otros antecedentes relevantes 
+Según lo indicado por la empresa STM S.A.: 
+“El pasado sábado 19 de abril de 2025 a las 22:06 horas se produjo la operación automática (OA) 
+del interruptor lado MT del Transformador N°1 (52CT1), por actuación de la protección de 
+sobrecorriente. 
+Específicamente se produjo una falla en la red de media tensión (Dx) del alimentador Lautaro y su 
+protección no operó (ni generó registro oscilográfico). Frente a esto la protección del interruptor 
+52CT1 operó correctamente como respaldo despejando la falla”. 
+ 
+ 
+ 
+4. Descripción de las configuraciones en los momentos previo y posterior a la falla 

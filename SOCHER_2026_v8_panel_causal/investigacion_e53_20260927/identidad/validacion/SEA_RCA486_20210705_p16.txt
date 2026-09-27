@@ -1,0 +1,77 @@
+             
+    
+permitido y una bomba jockey de 
+presurización utilizada para mantener la 
+presión mínima de la bomba contra 
+incendios, hidrantes con mangueras y  
+para el combate dentro de entornos  
+controlados por misión, existen 
+sistemas de cilindros de gas. El 
+mantenimiento preven tivo lo realiza 
+una empre sa contratada y todas las 
+actividades son a compañado por el 
+equipo de infraestructura de Ascent y 
+para validar el alcance del 
+mantenimiento 
+Fuente: Tabla 1 Adenda complementaria. 
+ 
+Mayores anteced entes en respuesta s 1.27 de la Ade nda y  1.4 d e la Ade nda 
+Complementaria. 
+4.4.2 SUMINISTROS BÁSICOS 
+Nombre Descripción 
+Agua potable y  
+alcantarillado de 
+aguas servidas 
+Agua para consumo de trabajadores y alcantarillado 
+Durante la fase de operación, el agua potable será abastecida por la empresa sanitaria de l 
+sector. Según de clara el Titular en el punto 1.8.1.1 de la DIA, el Proyecto cue nta con 
+certificado de factibilidad sanitaria  N° FAC_57_2020 de f echa 19 de noviembre de 2020 
+de la empresa Explotaciones Sanitaria s S.A ., para garantizar el abastecimiento de  agua 
+potable y so lución de alca ntarillado de aguas servidas . El estanque de alma cenamiento de 
+aguas sanitarias (de Agua Potable) c ontempla 2 compartimientos de 27,34 m 3 de volumen 
+útil cada uno. Volumen total almacenado de 54,68 m 3. En el Anexo A-01 de la Adenda se 
+adjunta plano de deta lle del estanque de agua potable.  En respuesta 1.12 de la Adenda se 
+entrega detalle con los consumos de agua potable durante esta fase 
+ 
+Agua para otros usos 
+Dada la operac ión del Data Center y sus equipos aso ciados, según se  señala en respuesta 
+1.12 de la Adenda, se utilizará agua potable proveniente de la red pública para el 
+funcionamiento del sistema de refrigeración de los equipos chillers, considerando un 
+consumo de 440 m3 totales (un solo llenado); sumado a lo anterior, para la operatividad del 
+sistema de control de incendios se demandará un total de  170 m3/d (solo cuando se  
+produce el incendio). 
+Mayores ante cedentes sobre los consumos de agua a sociados a la fase de operación se 
+entregan en respuesta 1.12 de la Adenda. 
+Energía 
+Durante la fase de operac ión la energía eléctrica será abastecida por la e mpresa eléctrica 
+del sector.  Cabe mencionar que la s instalaciones de electricidad que se proyecten, 
+provisorias o permanentes, previo a su puesta en servicio, serán declaradas  ante la 
+Superintendencia de Ele ctricidad y Combustibles, mediante instaladores e léctricos de la 
+clase correspondiente, autorizados  por ésta, según lo establecido en el D.S. N°92/83 
+referido al Reglamento de Instaladores Eléctricos y Electricistas de Recin tos de  
+Espectáculos Públicos y d e acuerdo al procedimiento establecido en la Reso lución Exenta 
+N 1128, de 2006 de la Superintendenc ia de Electricidad y Combustible, mencionada 
+precedentemente, y el Trámite Eléctrico TE1, “'Declaración de Instalación Eléctr ica 
+Interior”. 
+ 
+Se indica que la instalación de conexión eléctrica del Proyecto “Data Center Ascenty” fue 
+realizada por la Empresa Enel Distribución Chile S.A., como respuesta a la solicitud de 
+factibilidad eléctrica de Ascenty Chile SpA, por lo que éstas obras no fueron realizadas por 
+el Titular. El suministro otorgado por la empresa consistió en suministrar un nuevo 
+alimentador en 2 3 KV, desde la subestación Chacabuco hasta el punto de empalme del 
+Proyecto, ubicado en calle Guacolda  N°2100, lote PC -9, com una de Quilicura (Sala de 
+transferencia ENEL Chile 1, ubicado en la Unidad 2 del Condominio Industrial Kúrcula).  
+ 
+Para factibilizar el proyecto de infraestructura energética denominada “Data Center Chile 
+2” se contempla un nuevo pun to de acometida eléctrica (Sala de transferencia ENEL Ch ile 
+2, ubicado en la Unidad 3 del Condominio Ind ustrial Kúrcula) que se ilustra en la Figura 1 
+de la Adenda Complementaria y se presenta en plano en Anexo AC -01 de la Adenda 
+complementaria. Como se puede visualizar en la Figura 1 de la Adenda Complementari a, 
+cada Data Center cuenta con su propia Sala de  transferencia ENEL y satisface su demanda 
+de energía. En el Anexo A -02 de la Adenda se adjunta certificado de la empresa 
+distribuidora de energía. Mayores antecedentes en respuesta 1.1 de la Adenda. 
+Alimentación Según las dimensiones del Proyecto, se con templan instalaciones de comedores para la 
+alimentación de los trabajadores. 
+Equipos y  Según describe el Titular en el punto 1.9.6.5 de la DIA, los equipos a utilizar en la Fase de 
+Para validar las firmas de este documento usted debe ingresar a la siguiente url
+https://validador.sea.gob.cl/validar/2152538781

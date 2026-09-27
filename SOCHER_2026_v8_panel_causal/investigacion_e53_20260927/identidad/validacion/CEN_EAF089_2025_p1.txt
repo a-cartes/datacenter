@@ -1,0 +1,40 @@
+  Página 1 de 399   
+ 
+Estudio para análisis de falla EAF 089/2025 
+“Desconexión forzada de la línea 2x500 kV Nueva Maitencillo - Nueva Pan de Azúcar” 
+Fecha de Emisión: 18-03-2025 
+ 
+ 
+1. Descripción pormenorizada de la perturbación 
+ 
+a. Fecha y Hora de la falla 
+Fecha 25/02/2025 
+Hora 15:16 
+Consumos desconectados (MW) 11066.23 
+Demanda previa del sistema (MW) 11066.23 
+Porcentaje de desconexión 100% 
+Calificación Apagón Apagón Total 
+ 
+b. Identificación instalación afectada 
+Nombre de la instalación Ambos circuitos de la línea 2x500 kV Nueva Maitencillo - Nueva Pan de Azúcar 
+/ LT002CI1TR01T0022ST01T0022 y LT002CI2TR01T0022ST01T0022 
+Tipo de instalación Línea 
+Tensión nominal 500 kV 
+Segmento Transmisión Nacional 
+Propietario instalación afectada Interchile S.A. 
+RUT 76.257.379-2 
+Representante Legal Luis Llano 
+Dirección Cerro El Plomo 5630, Oficina 1802, Las Condes, Región Metropolitana de 
+Santiago 
+ 
+c. Identificación del elemento fallado 
+Nombre del elemento afectado Sistema de protección N°1 de cada circuito de la línea de transmisión 2x500 
+kV Nueva Maitencillo - Nueva Pan de Azúcar / SP0037T0022SE002T0022 y 
+SP0026T0022SE002T0022. 
+Propietario elemento fallado Interchile S.A. 
+RUT 76.257.379-2 
+Representante Legal Luis Llano 
+Dirección Cerro El Plomo 5630, Oficina 1802, Las Condes, Región Metropolitana de 
+Santiago 
+ 
+ 

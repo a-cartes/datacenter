@@ -1,0 +1,58 @@
+16:34
+Cía. Minera
+Escondida
+S/E Coloso barra N°1 220 kV cancelada solicitud de desconexión de curso forzoso.
+17:30
+Celeoredes
+Línea 500 kV Ancoa - Alto Jahuel 3 cancela solicitud de desconexión de curso forzoso 2025082381.
+18:05
+CGE -
+Transmisión
+Línea de 66 kV Lastarria - Pitrufquén 2 con solicitud de desconexión de curso forzoso. Causa informada: Reparación de chaveta fuera de posición de cadena aislación fase lateral
+derecha, estructura N°47, según SDCF 2025082412.
+18:18
+RNE
+C. PFV Atacama Solar II limitada a 131 MW. Causa informada: Falla del circuito 5 (52E11), según IL 2025001696.
+18:23
+Colbún
+C. Nehuenco con limitación. Causa informada: Gas interrumpible procedente de argentina se limita a 845.000 m3 de GN_A para el día operativo 26 de julio, para todas las centrales
+de Colbún S.A. además se cuenta con 1.000.000 m3 de GNL_E. y 0 m3 
+según IL LI2025001695. Cancelada IL 2025001685.
+18:55
+STM
+S/E Chacabuco barra N°1 12 kV interrupción forzada por protecciones con 23 MW interrumpidos. Causa informada: Error operacional durante trabajos programados (SD 2025081077),
+según IF 2025004840.
+18:57
+STM
+S/E Chacabuco barra N°1 12 kV en servicio y recuperado el 100 % de los consumos afectados, cancelado IF 2025004840.
+19:36
+Gen.
+Metropolitana
+C. Nueva Renca con limitación. Causa informada: Disponibilidad de combustible interrumpible GN_B de 0 m3 y GN_A 486.128 m3 para día operativo gas 26/07/2025, según IL
+2025001697. Cancela IL 2025001689.
+20:55
+Cardones
+C. Yungay 4 sincronizada en pruebas, según IF 2025004455.
+21:09
+CGE -
+Transmisión
+Línea de 66 kV Lastarria - Pitrufquén 2 cancelada solicitud de desconexión de curso forzoso, según SDCF 2025082412.
+21:15
+Cardones
+C. Yungay 4 disponible, cancelado IF 2025004455.
+21:18
+CGE -
+Transmisión
+Línea de 66 kV Itahue - 
+Talca 1 tramo Los Maquis - Panguilemo cerrado. Queda abierto tramo Talca - Panguilemo.
+22:50
+Arauco
+C. Planta Valdivia con solicitud de desconexión de curso forzoso. Causa informada: Falta de vapor en proceso productivo, según SDCF 2025082441.
+23:00
+STM
+S/E Chacabuco Interruptor 52 CT1 indisponible. Causa informada: Modulo de la protección de la barra N°1 se encuentra indisponible por falla interna. Los consumos son transferido al
+transformador N°4, según IF2025004841.
+Hora
+Centro de
+Control
+Observación

@@ -14,6 +14,8 @@ El proyecto estudia cómo la entrada y expansión de centros de datos puede afec
 
 **Descargas auditadas el 27/09/2026:** no se detectó truncación en las fuentes de precios utilizadas. Se revisaron 55 libros históricos y 28 originales modernos; tres libros recuperados desde descargas interrumpidas coinciden con nuevas descargas completas. La homologación adicional de agosto de 2023 quedó separada de v0.2.0 y se incorpora como metadatos en v8. [Resultado, evidencia y límites del control](docs/integridad_descargas_20260927.md).
 
+**Resultado nuevo E53:** en la ventana declarada de 104 días previos y 90 posteriores, Chacabuco 110 sube **16,57 USD/MWh** y Quillota 110 sube **15,58**; el diferencial aumenta **0,99 USD/MWh**, frente a **0,24** en los primeros 28 días. Son cambios descriptivos, sin atribución causal. Se verificaron independientemente los 25 contrastes y se recuperaron 90.532 mediciones agregadas ET7, sin considerarlas consumo exclusivo de Ascenty. [Informe, figura, fuentes y reproducción](SOCHER_2026_v8_panel_causal/investigacion_e53_20260927/README.md). El Excel previo conserva su carácter de instantánea anterior a esta ampliación.
+
 | Entrega 2020–2026 | Dimensión verificada |
 |---|---:|
 | Observaciones de barra × fecha × hora publicada | **3.411.527** |

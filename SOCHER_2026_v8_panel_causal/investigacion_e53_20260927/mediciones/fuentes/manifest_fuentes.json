@@ -1,0 +1,45 @@
+{
+  "fecha_registro_utc": "2026-09-27T17:41:09.692062+00:00",
+  "fuentes": [
+    {
+      "fuente_id": "CEN_SOCKET_HABILITADO",
+      "url": "https://medidas.coordinador.cl/SOCKET/SOCKET_HABILITADO.xlsx",
+      "archivo": "SOCHER_2026_v3/mapeo/CEN_SOCKET_HABILITADO_20260925.xlsx",
+      "sha256": "3769183216b19f14fcf793b4e9244ea12e37b0e2144f712b7c023c374c1924d0",
+      "bytes": 699629,
+      "alcance": "Hoja 24092026, fila921; captura previa preservada"
+    },
+    {
+      "fuente_id": "CEN_DT_MEDIDAS_2021",
+      "url": "https://medidas.coordinador.cl/public/DOCUMENTACION/NORMATIVA/Documento%20T%C3%A9cnico%20Sistema%20de%20Medidas%20de%20Energ%C3%ADa%202021.pdf",
+      "archivo": "SOCHER_2026_v3/mapeo/CEN_Documento_Tecnico_Medidas_2021.pdf",
+      "sha256": "a27df4eea3b0906443c45d3f1fbe8a4cbacb1a5b517db10f30ba3f4c20ff22d5",
+      "bytes": 1233340,
+      "alcance": "Páginas8–9: unidad kWh e integración15min; no certifica etiqueta de CSV"
+    },
+    {
+      "fuente_id": "INFOTECNICA_ELEMENTOS_683",
+      "url": "https://api-infotecnica.coordinador.cl/v1/subestaciones/683/elementos/",
+      "archivo": "SOCHER_2026_v8_panel_causal/eventos/fuentes/infotecnica_Chacabuco683_elementos.json",
+      "sha256": "b35a3357c6f6e64b34892571c98ba596f08ceb1ec947cd0d4e1c02b41d2f4c62",
+      "bytes": 237647,
+      "alcance": "Medidor6871 DT7 conexión16647; no medidor dedicado E53 identificado"
+    },
+    {
+      "fuente_id": "INFOTECNICA_MEDIDOR_6871",
+      "url": "https://api-infotecnica.coordinador.cl/v1/medidores/6871/",
+      "archivo": "SOCHER_2026_v8_panel_causal/investigacion_e53_20260927/mediciones/fuentes/infotecnica_medidor_6871.json",
+      "sha256": "e38ef8c694089cbe0a561f2aadae2f5e5a6b962c4d24a2c8d529cf14bef92200",
+      "bytes": 512,
+      "alcance": "Consulta pública27sep2026; nombreDT7, sinserie en respuesta"
+    },
+    {
+      "fuente_id": "INFOTECNICA_DOCS_6871",
+      "url": "https://api-infotecnica.coordinador.cl/v1/medidores/6871/documentos/",
+      "archivo": "SOCHER_2026_v8_panel_causal/investigacion_e53_20260927/mediciones/fuentes/infotecnica_medidor_6871_documentos.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2,
+      "alcance": "Consulta pública27sep2026; respuesta[]"
+    }
+  ]
+}
