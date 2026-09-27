@@ -1,0 +1,32 @@
+﻿entidad_busqueda,aliases_busqueda_literales,etiquetas_cmg_halladas,n_etiquetas_cmg,n_claves_historicas_identificadas,n_filas_candidatas,meses_con_precios,interpretacion
+ALTO JAHUEL,A.JAHUEL | A.JAHUEL2 | AJAHUEL,A.JAHUEL2_____220 | A.JAHUEL______066 | A.JAHUEL______110 | A.JAHUEL______154 | A.JAHUEL______220 | AJAHUEL_______500,6,6,19302,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+BAJOS DE MENA,BJOSDMNA,BJOSDMNA______012 | BJOSDMNA______110,2,2,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+CHENA,C.CHENA | C.CHENA2,C.CHENA2______220 | C.CHENA_______110 | C.CHENA_______220,3,6,9651,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+CERRILLOS,CERRILLOS,CERRILLOS_____013 | CERRILLOS_____110,2,2,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+CHACABUCO,CHACABUCO,CHACABUCO_____013 | CHACABUCO_____023 | CHACABUCO_____110,3,6,9651,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+CHICUREO,CHICUREO,CHICUREO______023 | CHICUREO______220,2,4,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+COLINA,COLINA,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+CURAUMA,CURAUMA,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+EL SALTO,EL_SALTO,EL_SALTO______110 | EL_SALTO______220,2,4,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+LAMPA,LAMPA,LAMPA________023 | LAMPA_________023 | LAMPA_________220,3,5,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+NUEVA LAMPA,NUEVA_LAMPA | NUEVALAMPA | N.LAMPA | NUELAMPA,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+LO CAMPINO,LO_CAMPINO | LOCAMPINO,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+PUNTA VERDE,PUNTA_VERDE | PUNTAVERDE | P.VERDE,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+LO AGUIRRE,LO_AGUIRRE,LO_AGUIRRE____012 | LO_AGUIRRE____110 | LO_AGUIRRE____220 | LO_AGUIRRE____500,4,6,12868,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+LO ESPEJO,LO_ESPEJO,LO_ESPEJO_____110,1,1,3217,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+MAIPO,MAIPO,MAIPO_________110 | MAIPO_________220,2,2,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+ODATA,ODATA | ODATA_SAN_BERNARDO | ODATA_LAMPA,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+PADRE HURTADO,P.HURTADO | PADRE_HURTADO,P.HURTADO_____023 | P.HURTADO_____110,2,1,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+PANAMERICANA,PANAMERICANA,PANAMERICANA__012,1,2,3217,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+POLPAICO,POLPAICO,POLPAICO______023 | POLPAICO______220 | POLPAICO______500,3,4,9651,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+QUILICURA,QUILICURA,QUILICURA_____013 | QUILICURA_____023 | QUILICURA_____110,3,6,9651,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+RECOLETA,RECOLETA,RECOLETA______013 | RECOLETA______110,2,4,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+SAN BERNARDO,SAN_BERNARDO,SAN_BERNARDO__013 | SAN_BERNARDO__110,2,4,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+SANTA MARTA,SANTA_MARTA,SANTA_MARTA___013 | SANTA_MARTA___023 | SANTA_MARTA___110,3,6,9651,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+SANTA TERESA,SANTA_TERESA | SANTATERESA | STA.TERESA | S.TERESA,,0,0,0,,Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro
+LA POLVORA,LA_POLVORA,LA_POLVORA____110,1,1,3217,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+CANTERAS,CANTERAS,CANTERAS______023 | CANTERAS______110,2,2,5042,202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+TAP LIBERTADORES,TLIBERTADORES,TLIBERTADORES_110,1,1,3217,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+QUILLOTA,QUILLOTA,QUILLOTA______110 | QUILLOTA______220,2,2,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+CERRO NAVIA,C.NAVIA,C.NAVIA_______110 | C.NAVIA_______220,2,2,6434,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
+LAS VEGAS,L.VEGAS | L.VEGAS2,L.VEGAS2______110 | L.VEGAS_______013 | L.VEGAS_______044 | L.VEGAS_______110,4,4,12868,202402 | 202404 | 202405 | 202406 | 202407,Precios disponibles; vínculo con centro y evento no establecido
