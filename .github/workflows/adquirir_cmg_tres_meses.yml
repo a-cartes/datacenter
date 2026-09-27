@@ -1,4 +1,4 @@
-name: Adquisición CEN de tres meses pendientes
+name: Adquisición CEN de meses pendientes
 
 on:
   workflow_dispatch:
@@ -15,11 +15,11 @@ jobs:
       fail-fast: false
       max-parallel: 3
       matrix:
-        mes: ['2025-10', '2026-01', '2026-02']
+        mes: ['2025-09']
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: ${{ github.sha }}
+          ref: 308e251585f894e9e865c7a84e47723810b52859
       - uses: actions/setup-python@v7
         with:
           python-version: '3.13.15'
