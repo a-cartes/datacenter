@@ -1,0 +1,1812 @@
+{
+  "registrado_utc": "2026-09-27T04:22:09.209990+00:00",
+  "archivos": [
+    {
+      "mes": "202001",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2001_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2001_def.zip",
+      "bytes": 133433691,
+      "sha256": "ca6ec1b4dd81a48c476d35bff592bd23c576b13117ba57b87ddfe51cd23ec498",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/02/cmg2001_def.zip",
+      "fecha_publicacion_literal": "19/02/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2001_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2001.xlsm",
+          "bytes": 209772174,
+          "comprimidos": 92152674,
+          "crc32": "0731c6e6"
+        },
+        {
+          "nombre": "cmg2001_def.xlsm",
+          "bytes": 47627158,
+          "comprimidos": 41280731,
+          "crc32": "f2280c9f"
+        }
+      ]
+    },
+    {
+      "mes": "202002",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2002_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2002_def (1).zip",
+      "bytes": 129396605,
+      "sha256": "15c5a1ae006965b10e911596570ec07470e82de3412d7ca85dcc6ec9cd27e622",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/03/cmg2002_def.zip",
+      "fecha_publicacion_literal": "19/03/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2002_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_ por_barra_2002.xlsm",
+          "bytes": 175836631,
+          "comprimidos": 89933031,
+          "crc32": "bf21389c"
+        },
+        {
+          "nombre": "cmg2002_def.xlsm",
+          "bytes": 45681380,
+          "comprimidos": 39463250,
+          "crc32": "2386e015"
+        }
+      ]
+    },
+    {
+      "mes": "202002",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2002_def (2).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2002_def (2).zip",
+      "bytes": 129396605,
+      "sha256": "15c5a1ae006965b10e911596570ec07470e82de3412d7ca85dcc6ec9cd27e622",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/03/cmg2002_def.zip",
+      "fecha_publicacion_literal": "19/03/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2002_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_ por_barra_2002.xlsm",
+          "bytes": 175836631,
+          "comprimidos": 89933031,
+          "crc32": "bf21389c"
+        },
+        {
+          "nombre": "cmg2002_def.xlsm",
+          "bytes": 45681380,
+          "comprimidos": 39463250,
+          "crc32": "2386e015"
+        }
+      ]
+    },
+    {
+      "mes": "202003",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2003_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2003_def.zip",
+      "bytes": 133352397,
+      "sha256": "0c8aff518dd19e62d2dc9b22253b38117849fa6a98c79c889165e1e942b51b86",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/04/cmg2003_def.zip",
+      "fecha_publicacion_literal": "20/04/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2003_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2003.xlsm",
+          "bytes": 187289253,
+          "comprimidos": 90232902,
+          "crc32": "2df70e15"
+        },
+        {
+          "nombre": "cmg2003_def.xlsm",
+          "bytes": 49544845,
+          "comprimidos": 43119209,
+          "crc32": "3ec08995"
+        }
+      ]
+    },
+    {
+      "mes": "202004",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2004_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2004_def (1).zip",
+      "bytes": 128747075,
+      "sha256": "7f6b52ece1f558752cba13c008e33b9f5334b3f29cd886319265a7ebbd8413f0",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/05/cmg2004_def.zip",
+      "fecha_publicacion_literal": "19/05/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2004_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2004.xlsm",
+          "bytes": 179869302,
+          "comprimidos": 87366005,
+          "crc32": "81543631"
+        },
+        {
+          "nombre": "cmg2004_def.xlsm",
+          "bytes": 47768524,
+          "comprimidos": 41380784,
+          "crc32": "57b378a5"
+        }
+      ]
+    },
+    {
+      "mes": "202005",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2005_def (2).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2005_def (2).zip",
+      "bytes": 131877629,
+      "sha256": "1026598cef607165cc7c2a0ac2a93f340173c0dc2f1b8b8bb1a07d3119d56bd4",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/06/cmg2005_def.zip",
+      "fecha_publicacion_literal": "11/06/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2005_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2005.xlsm",
+          "bytes": 186750898,
+          "comprimidos": 89260451,
+          "crc32": "6442ab1c"
+        },
+        {
+          "nombre": "cmg2005_def.xlsm",
+          "bytes": 48984873,
+          "comprimidos": 42616892,
+          "crc32": "c0986672"
+        }
+      ]
+    },
+    {
+      "mes": "202006",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2006_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2006_def.zip",
+      "bytes": 196504726,
+      "sha256": "d93335193e858becfb8d5179a5d589238de9d8fb623875eeea5a72ccf382a96a",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/07/cmg2006_def.zip",
+      "fecha_publicacion_literal": "03/06/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2006_def.zip/cmg2006_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2006_def.zip",
+          "bytes": 132852262,
+          "comprimidos": 132852262,
+          "crc32": "4b7d3243"
+        },
+        {
+          "nombre": "FPen_2006_def.7z",
+          "bytes": 63632813,
+          "comprimidos": 63652228,
+          "crc32": "0a9394ab"
+        }
+      ]
+    },
+    {
+      "mes": "202007",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2007_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2007_def.zip",
+      "bytes": 187912099,
+      "sha256": "0d89429738b77676fd38f35b253bfbee37df44eb0d4a59164791d36fe5acb14d",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/08/cmg2007_def.zip",
+      "fecha_publicacion_literal": "19/08/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2007_def.zip/cmg2007_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2007_def.zip",
+          "bytes": 123792218,
+          "comprimidos": 123792218,
+          "crc32": "45fbf74e"
+        },
+        {
+          "nombre": "FPen_2007_def.zip",
+          "bytes": 64119643,
+          "comprimidos": 64119643,
+          "crc32": "9faa4e6e"
+        }
+      ]
+    },
+    {
+      "mes": "202009",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2009_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2009_def (1).zip",
+      "bytes": 200064528,
+      "sha256": "f730e0e8f5da0899f2b9e9823f27dc1c30f557bb44ea46d54ffb2dec423269b2",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/10/cmg2009_def.zip",
+      "fecha_publicacion_literal": "22/10/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2009_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2009.xlsm",
+          "bytes": 226193368,
+          "comprimidos": 94905928,
+          "crc32": "2f27436b"
+        },
+        {
+          "nombre": "cmg2009_def.xlsm",
+          "bytes": 47174975,
+          "comprimidos": 41034197,
+          "crc32": "991f7229"
+        },
+        {
+          "nombre": "FPen_2009_def.zip",
+          "bytes": 64124007,
+          "comprimidos": 64124007,
+          "crc32": "eb98a254"
+        }
+      ]
+    },
+    {
+      "mes": "202010",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2010_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2010_def.zip",
+      "bytes": 202903728,
+      "sha256": "ebaa63652ca029549e018239bf6cd5f30f74391c9309477f4fbb15870a9a9def",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/11/cmg2010_def.zip",
+      "fecha_publicacion_literal": "18/11/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2010_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2010.xlsm",
+          "bytes": 226282481,
+          "comprimidos": 96474225,
+          "crc32": "aa8d5138"
+        },
+        {
+          "nombre": "cmg2010_def.xlsm",
+          "bytes": 48446304,
+          "comprimidos": 42158729,
+          "crc32": "9d02c5ab"
+        },
+        {
+          "nombre": "FPen_2010_def/BD 2018_DTE_2010_defv2.pfd",
+          "bytes": 63132536,
+          "comprimidos": 63151796,
+          "crc32": "fcf9728b"
+        },
+        {
+          "nombre": "FPen_2010_def/FP2010_SEN.xls",
+          "bytes": 3854848,
+          "comprimidos": 1109801,
+          "crc32": "bca9c3ee"
+        },
+        {
+          "nombre": "FPen_2010_def/Modificaciones a la Base DS.doc",
+          "bytes": 37888,
+          "comprimidos": 8437,
+          "crc32": "f7559db9"
+        }
+      ]
+    },
+    {
+      "mes": "202011",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2011_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2011_def.zip",
+      "bytes": 195562967,
+      "sha256": "22ddaf0542ca418cd603a3ba6af4a20dceadcd558f029f601a85bffdf53b5d50",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/12/cmg2011_def.zip",
+      "fecha_publicacion_literal": "21/12/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2011_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2011.xlsm",
+          "bytes": 188740049,
+          "comprimidos": 89996616,
+          "crc32": "e3805c7c"
+        },
+        {
+          "nombre": "cmg2011_def.xlsm",
+          "bytes": 47271754,
+          "comprimidos": 41355889,
+          "crc32": "28fc3c85"
+        },
+        {
+          "nombre": "FPen_2011_def.zip",
+          "bytes": 64210066,
+          "comprimidos": 64210066,
+          "crc32": "1a8eff20"
+        }
+      ]
+    },
+    {
+      "mes": "202012",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2012_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2012_def.zip",
+      "bytes": 192039097,
+      "sha256": "e6f6b03219d939334bfeac0ad41a69fa7124afcb2e946dee633a914d072e263c",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/01/cmg2012_def.zip",
+      "fecha_publicacion_literal": "19/01/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2012_def.zip/cmg2012_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2012_def.zip",
+          "bytes": 127821175,
+          "comprimidos": 127821175,
+          "crc32": "fc8baae7"
+        },
+        {
+          "nombre": "FPen_2012_pre.zip",
+          "bytes": 64217684,
+          "comprimidos": 64217684,
+          "crc32": "0affd4f3"
+        }
+      ]
+    },
+    {
+      "mes": "202101",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2101_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2101_def.zip",
+      "bytes": 209566049,
+      "sha256": "003a196271710662b9abfa8545eac66d04470c3a375f1821537b41d597793851",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/02/cmg2101_def.zip",
+      "fecha_publicacion_literal": "19/02/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2101_def.zip/cmg2101_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2101_def.zip",
+          "bytes": 145306237,
+          "comprimidos": 145306237,
+          "crc32": "eed3dd29"
+        },
+        {
+          "nombre": "FPen_2101_def.zip",
+          "bytes": 64259574,
+          "comprimidos": 64259574,
+          "crc32": "15661cd8"
+        }
+      ]
+    },
+    {
+      "mes": "202102",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2102_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2102_def.zip",
+      "bytes": 217232846,
+      "sha256": "e8c5c6cb89061788afee1bd069624aff76751993c7ad0d874d3d798087b0049b",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/03/cmg2102_def.zip",
+      "fecha_publicacion_literal": "19/03/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2102def.zip/cmg2102_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2102def.zip",
+          "bytes": 152994631,
+          "comprimidos": 152994631,
+          "crc32": "570ef69f"
+        },
+        {
+          "nombre": "FPen_2102_def.zip",
+          "bytes": 64237979,
+          "comprimidos": 64237979,
+          "crc32": "07676afe"
+        }
+      ]
+    },
+    {
+      "mes": "202103",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2103_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2103_def.zip",
+      "bytes": 239449516,
+      "sha256": "12bf1be3b4894a868795d7278d6114559f2000cbc1486159a0c1ae4eac0d1913",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/04/cmg2103_def.zip",
+      "fecha_publicacion_literal": "20/04/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg_def_2103.zip/cmg2103_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg_def_2103.zip",
+          "bytes": 175122179,
+          "comprimidos": 175122179,
+          "crc32": "1cc641c5"
+        },
+        {
+          "nombre": "FPen_2103_def.zip",
+          "bytes": 64327097,
+          "comprimidos": 64327097,
+          "crc32": "71055dc9"
+        }
+      ]
+    },
+    {
+      "mes": "202104",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2104_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2104_def.zip",
+      "bytes": 212286090,
+      "sha256": "79627cdf3f463a3cc2ce8e8e629be9561f9187f1311280af5a611519039b2da2",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/05/cmg2104_def.zip",
+      "fecha_publicacion_literal": "19/05/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2104_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2104_def.xlsm",
+          "bytes": 209044510,
+          "comprimidos": 105423440,
+          "crc32": "aad4441f"
+        },
+        {
+          "nombre": "cmg2104_def.xlsm",
+          "bytes": 49613068,
+          "comprimidos": 43217600,
+          "crc32": "f4d77ee6"
+        },
+        {
+          "nombre": "FPen_2104_def.zip",
+          "bytes": 63644646,
+          "comprimidos": 63644646,
+          "crc32": "774232c6"
+        }
+      ]
+    },
+    {
+      "mes": "202105",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2105_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2105_def (1).zip",
+      "bytes": 208839983,
+      "sha256": "0d24f4bb8a810b65457a63bc00e66336d9782b84780a16409f68f10a1b18b188",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/06/cmg2105_def.zip",
+      "fecha_publicacion_literal": "23/06/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2105_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2105_def.xlsm",
+          "bytes": 216681551,
+          "comprimidos": 101123657,
+          "crc32": "b8dc88fd"
+        },
+        {
+          "nombre": "cmg2105_def.xlsm",
+          "bytes": 50467400,
+          "comprimidos": 44026962,
+          "crc32": "2b911fe0"
+        },
+        {
+          "nombre": "FPen_2105_def.zip",
+          "bytes": 63688960,
+          "comprimidos": 63688960,
+          "crc32": "b04545d2"
+        }
+      ]
+    },
+    {
+      "mes": "202106",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2106_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2106_def (1).zip",
+      "bytes": 207688877,
+      "sha256": "6a87aedabee0c283e941e9ccb8b766a746b744d1eace168811fc9b7e69dd2bf2",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/07/cmg2106_def.zip",
+      "fecha_publicacion_literal": "20/07/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2106_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2106_def.xlsm",
+          "bytes": 242894431,
+          "comprimidos": 100809484,
+          "crc32": "ef83fee2"
+        },
+        {
+          "nombre": "cmg2106_def.xlsm",
+          "bytes": 49530476,
+          "comprimidos": 43104615,
+          "crc32": "425d928b"
+        },
+        {
+          "nombre": "FPen_2106_def.zip",
+          "bytes": 63774374,
+          "comprimidos": 63774374,
+          "crc32": "7f4da558"
+        }
+      ]
+    },
+    {
+      "mes": "202107",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2107_def (2).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2107_def (2).zip",
+      "bytes": 237660252,
+      "sha256": "eb11727944a1fdc48bbed74cd655cf69fa1d03e4b78fc36d0c18ced22467a2e6",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/08/cmg2107_def.zip",
+      "fecha_publicacion_literal": "18/08/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2107_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2107_def.xlsm",
+          "bytes": 330097034,
+          "comprimidos": 128687890,
+          "crc32": "af105e61"
+        },
+        {
+          "nombre": "cmg2107_def.xlsm",
+          "bytes": 51481688,
+          "comprimidos": 45136870,
+          "crc32": "c2fd23f7"
+        },
+        {
+          "nombre": "FPen_2107_def.zip",
+          "bytes": 63835088,
+          "comprimidos": 63835088,
+          "crc32": "38929f6b"
+        }
+      ]
+    },
+    {
+      "mes": "202108",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2108_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2108_def (1).zip",
+      "bytes": 212959258,
+      "sha256": "eae28343c6da6abb84f94498a2f208cb99abcdcaf7f6f7c0d5af1b5416278373",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/09/cmg2108_def.zip",
+      "fecha_publicacion_literal": "22/09/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2108_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2108_def.xlsm",
+          "bytes": 204582059,
+          "comprimidos": 104672770,
+          "crc32": "5d562ef0"
+        },
+        {
+          "nombre": "cmg2108_def.xlsm",
+          "bytes": 50716093,
+          "comprimidos": 44452478,
+          "crc32": "878d4842"
+        },
+        {
+          "nombre": "FPen_2108_pre.zip",
+          "bytes": 63833606,
+          "comprimidos": 63833606,
+          "crc32": "d0e6391b"
+        }
+      ]
+    },
+    {
+      "mes": "202109",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2109_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2109_def (1).zip",
+      "bytes": 221065097,
+      "sha256": "18a1f1ca6befae6fd6c0ef687d7cf32b76a2fb8da2aad41b1cef635c4414ac36",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/10/cmg2109_def.zip",
+      "fecha_publicacion_literal": "22/10/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2109_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2109_def.xlsm",
+          "bytes": 223898414,
+          "comprimidos": 112195510,
+          "crc32": "141a1fa2"
+        },
+        {
+          "nombre": "cmg2109_def.xlsm",
+          "bytes": 47875403,
+          "comprimidos": 41753909,
+          "crc32": "02de4475"
+        },
+        {
+          "nombre": "FPen_2109_pre.zip",
+          "bytes": 67115274,
+          "comprimidos": 67115274,
+          "crc32": "e3bc444c"
+        }
+      ]
+    },
+    {
+      "mes": "202110",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2110_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2110_def.zip",
+      "bytes": 230664438,
+      "sha256": "5189ce37477db28e908eed95c8d0fefa69684f9c38561f8d845b63fa7f072f94",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/11/cmg2110_def.zip",
+      "fecha_publicacion_literal": "23/11/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2110_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2110_pre.xlsm",
+          "bytes": 223197192,
+          "comprimidos": 120384132,
+          "crc32": "45614b25"
+        },
+        {
+          "nombre": "cmg2110_def.xlsm",
+          "bytes": 48954588,
+          "comprimidos": 43050858,
+          "crc32": "293765da"
+        },
+        {
+          "nombre": "FPen_2110_def.zip",
+          "bytes": 67229044,
+          "comprimidos": 67229044,
+          "crc32": "3361f73f"
+        }
+      ]
+    },
+    {
+      "mes": "202111",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2111_def-1 (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2111_def-1 (1).zip",
+      "bytes": 237669626,
+      "sha256": "e98436090c979770a75e51e5e99ff48094aa5968a743f34fcd1c6202a8e3263b",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2021/12/cmg2111_def-1.zip",
+      "fecha_publicacion_literal": "22/12/2021",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2111_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2111_def.xlsm",
+          "bytes": 239210582,
+          "comprimidos": 127626405,
+          "crc32": "24c84f88"
+        },
+        {
+          "nombre": "cmg2111_def.xlsm",
+          "bytes": 48818898,
+          "comprimidos": 42807925,
+          "crc32": "5c2942cb"
+        },
+        {
+          "nombre": "FPen_2111_def.zip",
+          "bytes": 67234892,
+          "comprimidos": 67234892,
+          "crc32": "8d6757b7"
+        }
+      ]
+    },
+    {
+      "mes": "202112",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2112_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2112_def (1).zip",
+      "bytes": 262035409,
+      "sha256": "43e31bea7e5fc7a6af020a84b20c3e064c302a321c0ee3c09dcc8e10fe21f24f",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/01/cmg2112_def.zip",
+      "fecha_publicacion_literal": "21/01/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2112_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2112_pre.xlsm",
+          "bytes": 260304909,
+          "comprimidos": 141931012,
+          "crc32": "655dc8b6"
+        },
+        {
+          "nombre": "cmg2112_def.xlsm",
+          "bytes": 50407206,
+          "comprimidos": 44270228,
+          "crc32": "e81575eb"
+        },
+        {
+          "nombre": "FPen_2112_def.zip",
+          "bytes": 75833765,
+          "comprimidos": 75833765,
+          "crc32": "8849de9d"
+        }
+      ]
+    },
+    {
+      "mes": "202112",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2112_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2112_def.zip",
+      "bytes": 262035409,
+      "sha256": "43e31bea7e5fc7a6af020a84b20c3e064c302a321c0ee3c09dcc8e10fe21f24f",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/01/cmg2112_def.zip",
+      "fecha_publicacion_literal": "21/01/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2112_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2112_pre.xlsm",
+          "bytes": 260304909,
+          "comprimidos": 141931012,
+          "crc32": "655dc8b6"
+        },
+        {
+          "nombre": "cmg2112_def.xlsm",
+          "bytes": 50407206,
+          "comprimidos": 44270228,
+          "crc32": "e81575eb"
+        },
+        {
+          "nombre": "FPen_2112_def.zip",
+          "bytes": 75833765,
+          "comprimidos": 75833765,
+          "crc32": "8849de9d"
+        }
+      ]
+    },
+    {
+      "mes": "202201",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2201_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2201_def.zip",
+      "bytes": 259000009,
+      "sha256": "80c2ae5869be3cdbf8eb60f0ac6f1532cda10d7bb26b4785439aca7cb081c661",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/02/cmg2201_def.zip",
+      "fecha_publicacion_literal": "21/02/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2201_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2201__def.xlsm",
+          "bytes": 232796187,
+          "comprimidos": 140518235,
+          "crc32": "c37a5dba"
+        },
+        {
+          "nombre": "cmg2201_def.xlsm",
+          "bytes": 50405838,
+          "comprimidos": 44531535,
+          "crc32": "4a478c6d"
+        },
+        {
+          "nombre": "FPen_2201_def.rar",
+          "bytes": 73947411,
+          "comprimidos": 73949833,
+          "crc32": "cd89b39f"
+        }
+      ]
+    },
+    {
+      "mes": "202202",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2202_def (2).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2202_def (2).zip",
+      "bytes": 286913293,
+      "sha256": "ca34679ae60c461ef302ea3a231bdbdd9c1c3d4af44d111aa7010c173bb6afc3",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/03/cmg2202_def.zip",
+      "fecha_publicacion_literal": "21/03/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2202_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2202_def.xlsm",
+          "bytes": 283190934,
+          "comprimidos": 171716136,
+          "crc32": "9fe56675"
+        },
+        {
+          "nombre": "cmg2202_def.xlsm",
+          "bytes": 45696840,
+          "comprimidos": 39729314,
+          "crc32": "d195195c"
+        },
+        {
+          "nombre": "FPen_2202_def.zip",
+          "bytes": 75467439,
+          "comprimidos": 75467439,
+          "crc32": "cc8f9e55"
+        }
+      ]
+    },
+    {
+      "mes": "202203",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2203_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2203_def.zip",
+      "bytes": 369797623,
+      "sha256": "1d47574eda1c7c28044b923a5a358a5dd91ea5a0a9c153712d54e731eab419c2",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/04/cmg2203_def.zip",
+      "fecha_publicacion_literal": "22/04/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2203_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2203_pre.xlsm",
+          "bytes": 496564421,
+          "comprimidos": 221778670,
+          "crc32": "31131cfc"
+        },
+        {
+          "nombre": "cmg2203_def.xlsm",
+          "bytes": 51317664,
+          "comprimidos": 45249348,
+          "crc32": "0ae2b5c8"
+        },
+        {
+          "nombre": "FPen_2203_def.zip",
+          "bytes": 102769201,
+          "comprimidos": 102769201,
+          "crc32": "d049d79d"
+        }
+      ]
+    },
+    {
+      "mes": "202204",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2204_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2204_def.zip",
+      "bytes": 232988669,
+      "sha256": "eebc65d9aa6bcb2bf7ee61b787d929d3f187d50ef8bf5f7cbdb991835cb3d37a",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/05/cmg2204_def.zip",
+      "fecha_publicacion_literal": "24/05/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2204_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2204_def.xlsm",
+          "bytes": 195035465,
+          "comprimidos": 114257139,
+          "crc32": "5ad3af0f"
+        },
+        {
+          "nombre": "cmg2204_def.xlsm",
+          "bytes": 49174438,
+          "comprimidos": 42927240,
+          "crc32": "98e40821"
+        },
+        {
+          "nombre": "FPen_2204_def.zip",
+          "bytes": 75803886,
+          "comprimidos": 75803886,
+          "crc32": "58858cc8"
+        }
+      ]
+    },
+    {
+      "mes": "202205",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2205_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2205_def (1).zip",
+      "bytes": 233241200,
+      "sha256": "6772e0dd0c55bc9bcff6519d116009ab69f0fd4d3892af349f09a1b54216a292",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/06/cmg2205_def.zip",
+      "fecha_publicacion_literal": "22/06/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2205_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2205_def.xlsm",
+          "bytes": 200240849,
+          "comprimidos": 110964761,
+          "crc32": "c5ee6970"
+        },
+        {
+          "nombre": "cmg2205_def.xlsm",
+          "bytes": 53606166,
+          "comprimidos": 46296926,
+          "crc32": "dca2ddfd"
+        },
+        {
+          "nombre": "FPen_2205_def.zip",
+          "bytes": 75979109,
+          "comprimidos": 75979109,
+          "crc32": "59967748"
+        }
+      ]
+    },
+    {
+      "mes": "202205",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2205_def (2).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2205_def (2).zip",
+      "bytes": 233241200,
+      "sha256": "6772e0dd0c55bc9bcff6519d116009ab69f0fd4d3892af349f09a1b54216a292",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/06/cmg2205_def.zip",
+      "fecha_publicacion_literal": "22/06/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2205_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2205_def.xlsm",
+          "bytes": 200240849,
+          "comprimidos": 110964761,
+          "crc32": "c5ee6970"
+        },
+        {
+          "nombre": "cmg2205_def.xlsm",
+          "bytes": 53606166,
+          "comprimidos": 46296926,
+          "crc32": "dca2ddfd"
+        },
+        {
+          "nombre": "FPen_2205_def.zip",
+          "bytes": 75979109,
+          "comprimidos": 75979109,
+          "crc32": "59967748"
+        }
+      ]
+    },
+    {
+      "mes": "202206",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2206_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2206_def.zip",
+      "bytes": 238308654,
+      "sha256": "cc470665ded44754025d81e0456b8010de981c7144db2a0d615a419e4110cfd4",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/07/cmg2206_def.zip",
+      "fecha_publicacion_literal": "21/07/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2206_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "FPen_2206_def.zip",
+          "bytes": 75809493,
+          "comprimidos": 75809493,
+          "crc32": "2bfd134c"
+        },
+        {
+          "nombre": "Centrales_marginales_por_barra_2206_def.xlsm",
+          "bytes": 200710110,
+          "comprimidos": 116919395,
+          "crc32": "5700831b"
+        },
+        {
+          "nombre": "cmg2206_def.xlsm",
+          "bytes": 51526691,
+          "comprimidos": 45579254,
+          "crc32": "ff73037d"
+        }
+      ]
+    },
+    {
+      "mes": "202207",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2207_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2207_def (1).zip",
+      "bytes": 236083752,
+      "sha256": "9e04900314f11065dd94964b9dfd286a61e5d9ae8035a076e7fa258890c66416",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/08/cmg2207_def.zip",
+      "fecha_publicacion_literal": "22/08/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2207_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2207_def.xlsm",
+          "bytes": 52418803,
+          "comprimidos": 46953173,
+          "crc32": "6b16566f"
+        },
+        {
+          "nombre": "FPen_2207_def.zip",
+          "bytes": 76159628,
+          "comprimidos": 76159628,
+          "crc32": "e9e0e5c9"
+        },
+        {
+          "nombre": "Centrales_marginales_por_barra_2207_def.xlsm",
+          "bytes": 208411746,
+          "comprimidos": 112970439,
+          "crc32": "006ad715"
+        }
+      ]
+    },
+    {
+      "mes": "202208",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2208_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2208_def (1).zip",
+      "bytes": 253678694,
+      "sha256": "699d751476396bbc49ef70ec0b15a9ba942e076df06af5215413c3607220c807",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/09/cmg2208_def.zip",
+      "fecha_publicacion_literal": "22/09/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2208_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "FPen_2208_def.zip",
+          "bytes": 76170946,
+          "comprimidos": 76170946,
+          "crc32": "f29c7a68"
+        },
+        {
+          "nombre": "Centrales_marginales_por_barra_2208_def.xlsm",
+          "bytes": 209128748,
+          "comprimidos": 130356964,
+          "crc32": "9824dc1c"
+        },
+        {
+          "nombre": "cmg2208_def.xlsm",
+          "bytes": 54096100,
+          "comprimidos": 47150272,
+          "crc32": "6220efd0"
+        }
+      ]
+    },
+    {
+      "mes": "202209",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2209_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2209_def (1).zip",
+      "bytes": 247755437,
+      "sha256": "b4ef539d552e8c4dba4640cead7cdca851c1b8be88b11cc12d7de7f0ee47adad",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/10/cmg2209_def.zip",
+      "fecha_publicacion_literal": "24/10/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2209_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2209_def.xlsm",
+          "bytes": 204322367,
+          "comprimidos": 127562099,
+          "crc32": "27ca4c52"
+        },
+        {
+          "nombre": "cmg2209_def.xlsm",
+          "bytes": 52093251,
+          "comprimidos": 44132067,
+          "crc32": "f0b426d6"
+        },
+        {
+          "nombre": "FPen_2209_def.zip",
+          "bytes": 76060759,
+          "comprimidos": 76060759,
+          "crc32": "df157f98"
+        }
+      ]
+    },
+    {
+      "mes": "202210",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2210_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2210_def (1).zip",
+      "bytes": 233265050,
+      "sha256": "53bc6987d3c259af965ef69d5d3d6ecc83bcb327d1eaf5a6188d1ef4157d0961",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/11/cmg2210_def.zip",
+      "fecha_publicacion_literal": "28/11/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2210_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2210_def.xlsm",
+          "bytes": 52561523,
+          "comprimidos": 42495333,
+          "crc32": "a5388e0b"
+        },
+        {
+          "nombre": "FPen_2210_def.zip",
+          "bytes": 76198587,
+          "comprimidos": 76198587,
+          "crc32": "3f9cc861"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20221001 a 20221031.xlsm",
+          "bytes": 200985138,
+          "comprimidos": 114570566,
+          "crc32": "6393e141"
+        }
+      ]
+    },
+    {
+      "mes": "202211",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2211_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2211_def.zip",
+      "bytes": 228837001,
+      "sha256": "391c1b53252fe735b8e7896b50de7bf5249c5ae5d5d9cf2f024ac35bb8f48f2b",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2022/12/cmg2211_def.zip",
+      "fecha_publicacion_literal": "22/12/2022",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2211_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "FPen_2211_def.zip",
+          "bytes": 76126289,
+          "comprimidos": 76126289,
+          "crc32": "786b1ae6"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20221101 a 20221130.xlsm",
+          "bytes": 194512933,
+          "comprimidos": 111711787,
+          "crc32": "d30e9d47"
+        },
+        {
+          "nombre": "cmg2211_def.xlsm",
+          "bytes": 50994926,
+          "comprimidos": 40998361,
+          "crc32": "101b10f9"
+        }
+      ]
+    },
+    {
+      "mes": "202212",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2212_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2212_def.zip",
+      "bytes": 216323064,
+      "sha256": "3282d7ca0a0269f7a158770cf30fe670a51323544c9dd25f024530d003e6ce8c",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/01/cmg2212_def.zip",
+      "fecha_publicacion_literal": "23/01/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2212_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2212_def.xlsm",
+          "bytes": 53812986,
+          "comprimidos": 43825226,
+          "crc32": "b63dabc8"
+        },
+        {
+          "nombre": "FPen_2212_def.zip",
+          "bytes": 70178694,
+          "comprimidos": 70178694,
+          "crc32": "2596905c"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20221201 a 20221231.xlsm",
+          "bytes": 198239702,
+          "comprimidos": 102318580,
+          "crc32": "695cc40a"
+        }
+      ]
+    },
+    {
+      "mes": "202301",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2301_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2301_def (1).zip",
+      "bytes": 219464600,
+      "sha256": "5fc467e4465eb820e9725100782456621fba8de36d0abbb79a575eacbc95f8f7",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/02/cmg2301_def.zip",
+      "fecha_publicacion_literal": "21/02/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2301_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2301_def.xlsm",
+          "bytes": 54015603,
+          "comprimidos": 43675867,
+          "crc32": "c8f7494e"
+        },
+        {
+          "nombre": "FPen_2301_def.zip",
+          "bytes": 76342625,
+          "comprimidos": 76342625,
+          "crc32": "54d99e20"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230101 a 20230131.xlsm",
+          "bytes": 201490485,
+          "comprimidos": 99445544,
+          "crc32": "9eb1fe23"
+        }
+      ]
+    },
+    {
+      "mes": "202302",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2302_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2302_def (1).zip",
+      "bytes": 216400128,
+      "sha256": "7867f6a12adee055a796e57686ae8683ea88e4fd6b7871605ebdcae92e9721d3",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/03/cmg2302_def.zip",
+      "fecha_publicacion_literal": "20/03/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2302_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230201 a 20230228 DEF.xlsm",
+          "bytes": 185569437,
+          "comprimidos": 98979674,
+          "crc32": "cf8dfc14"
+        },
+        {
+          "nombre": "cmg2302_def.xlsm",
+          "bytes": 50168577,
+          "comprimidos": 41459381,
+          "crc32": "905b175e"
+        },
+        {
+          "nombre": "FPen_2302_def.zip",
+          "bytes": 75960501,
+          "comprimidos": 75960501,
+          "crc32": "a46cb99a"
+        }
+      ]
+    },
+    {
+      "mes": "202303",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2303_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2303_def (1).zip",
+      "bytes": 230254827,
+      "sha256": "0b2785c9e105c977bb805636ecace70a251dc0962870c9b65bc367a912dce61e",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/04/cmg2303_def.zip",
+      "fecha_publicacion_literal": "21/04/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2303_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "FPen_2303_def.zip",
+          "bytes": 76436939,
+          "comprimidos": 76436939,
+          "crc32": "5339d966"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230301 a 20230331 DEF.xlsm",
+          "bytes": 203968424,
+          "comprimidos": 107163108,
+          "crc32": "127f2edd"
+        },
+        {
+          "nombre": "cmg2303_def.xlsm",
+          "bytes": 55691158,
+          "comprimidos": 46654208,
+          "crc32": "d9e65a53"
+        }
+      ]
+    },
+    {
+      "mes": "202304",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2304_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2304_def.zip",
+      "bytes": 224112383,
+      "sha256": "46e53ef22060118caec97d45bc005d4b283001ae35f1ca236abfea20588a6198",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/05/cmg2304_def.zip",
+      "fecha_publicacion_literal": "22/05/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2304_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2304_def.xlsm",
+          "bytes": 58094651,
+          "comprimidos": 49295984,
+          "crc32": "a179c911"
+        },
+        {
+          "nombre": "FPen_2304_def.zip",
+          "bytes": 76368487,
+          "comprimidos": 76368487,
+          "crc32": "89f46a74"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230401 a 20230406 DEF.xlsm",
+          "bytes": 193710220,
+          "comprimidos": 98447340,
+          "crc32": "2c52ff7d"
+        }
+      ]
+    },
+    {
+      "mes": "202305",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2305_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2305_def (1).zip",
+      "bytes": 228390095,
+      "sha256": "f01375658990d27f14a339e290cec5d3de243a5d90682f97e9128a3a9fe25e8c",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/06/cmg2305_def.zip",
+      "fecha_publicacion_literal": "20/06/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2305_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230501 a 20230531 PRE.xlsm",
+          "bytes": 199554461,
+          "comprimidos": 100882812,
+          "crc32": "bf0ad4dc"
+        },
+        {
+          "nombre": "cmg2305_def.xlsm",
+          "bytes": 59729537,
+          "comprimidos": 50961670,
+          "crc32": "9a65ba3d"
+        },
+        {
+          "nombre": "FPen_2305_def.zip",
+          "bytes": 76545041,
+          "comprimidos": 76545041,
+          "crc32": "a103a3e6"
+        }
+      ]
+    },
+    {
+      "mes": "202306",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2306_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2306_def (1).zip",
+      "bytes": 224675462,
+      "sha256": "71f14e27679b22a42402890b7eff37b7b4baaf5c6d9213032bdfc035b5ebf097",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/07/cmg2306_def.zip",
+      "fecha_publicacion_literal": "19/07/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2306_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230601 a 20230630 DEF.xlsm",
+          "bytes": 193195221,
+          "comprimidos": 98190636,
+          "crc32": "1bc77ab7"
+        },
+        {
+          "nombre": "cmg2306_def.xlsm",
+          "bytes": 58635790,
+          "comprimidos": 49959330,
+          "crc32": "8dc03195"
+        },
+        {
+          "nombre": "FPen_2306_def.zip",
+          "bytes": 76524924,
+          "comprimidos": 76524924,
+          "crc32": "be7786cc"
+        }
+      ]
+    },
+    {
+      "mes": "202309",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2309_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2309_def (1).zip",
+      "bytes": 210892217,
+      "sha256": "090b4c0184d60d923c73be813ea6c1f79c2a50bb7a491127404c260c333e84cc",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/10/cmg2309_def.zip",
+      "fecha_publicacion_literal": "20/10/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "Homologación barras cmg_2309.xlsx",
+        "cmg2309_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Homologación barras cmg_2309.xlsx",
+          "bytes": 74304,
+          "comprimidos": 70863,
+          "crc32": "efbd8065"
+        },
+        {
+          "nombre": "cmg2309_def.xlsm",
+          "bytes": 57045544,
+          "comprimidos": 44613325,
+          "crc32": "3cc78871"
+        },
+        {
+          "nombre": "FPen_2309_def.zip",
+          "bytes": 76632283,
+          "comprimidos": 76632283,
+          "crc32": "13b613d9"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20230901 a 20230930.xlsm",
+          "bytes": 190538860,
+          "comprimidos": 89574918,
+          "crc32": "eb98f3ff"
+        }
+      ]
+    },
+    {
+      "mes": "202310",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2310_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2310_def.zip",
+      "bytes": 255598112,
+      "sha256": "020184ae3b4029f653b5a1a2fb62537723cf81cf468fa60f2c0bd3ced999ca4b",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/11/cmg2310_def.zip",
+      "fecha_publicacion_literal": "22/11/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2310_def.xlsm",
+        "Homologación barras cmg_2310_def.xlsx"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "FPen_2310_def.zip",
+          "bytes": 76859329,
+          "comprimidos": 76859329,
+          "crc32": "46f70979"
+        },
+        {
+          "nombre": "cmg2310_def.xlsm",
+          "bytes": 57801596,
+          "comprimidos": 44839126,
+          "crc32": "97df7e1f"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20231001 a 20231031.xlsm",
+          "bytes": 198759463,
+          "comprimidos": 92433408,
+          "crc32": "d85243b6"
+        },
+        {
+          "nombre": "CMgBarras_15_min_Salida_2310.csv",
+          "bytes": 241620406,
+          "comprimidos": 41389773,
+          "crc32": "a799f6cf"
+        },
+        {
+          "nombre": "Homologación barras cmg_2310_def.xlsx",
+          "bytes": 81051,
+          "comprimidos": 75456,
+          "crc32": "0cb31426"
+        }
+      ]
+    },
+    {
+      "mes": "202311",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2311_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2311_def.zip",
+      "bytes": 244437006,
+      "sha256": "9cc41fbe567dd8d22c91f112fc6aaaa7a532d749f7f8432b10e5f9c27b2311c8",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2023/12/cmg2311_def.zip",
+      "fecha_publicacion_literal": "22/12/2023",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2311_def.xlsm",
+        "Homologación barras cmg_2311_def.xlsx"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2311_def.xlsm",
+          "bytes": 55753260,
+          "comprimidos": 41668392,
+          "crc32": "f2ae1b66"
+        },
+        {
+          "nombre": "CMgBarras_15_min_Salida_2311.csv",
+          "bytes": 223544272,
+          "comprimidos": 37173132,
+          "crc32": "c1c5a7a5"
+        },
+        {
+          "nombre": "FPen_2311_def.zip",
+          "bytes": 76759192,
+          "comprimidos": 76759192,
+          "crc32": "2547396e"
+        },
+        {
+          "nombre": "Homologación barras cmg_2311_def.xlsx",
+          "bytes": 82690,
+          "comprimidos": 76846,
+          "crc32": "4a25a1d1"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20231101 a 20231130.xlsm",
+          "bytes": 193413824,
+          "comprimidos": 88758424,
+          "crc32": "9b9c25e9"
+        }
+      ]
+    },
+    {
+      "mes": "202312",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2312_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2312_def (1).zip",
+      "bytes": 254282566,
+      "sha256": "3c5b78e80227be0f9ede5964df6fb6a52a1b7004d2086caf778eddbc8b5f458b",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/01/cmg2312_def.zip",
+      "fecha_publicacion_literal": "22/01/2024",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2312_def.xlsm",
+        "Homologación barras cmg_2312_def.xlsx"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2312_def.xlsm",
+          "bytes": 57390241,
+          "comprimidos": 43091309,
+          "crc32": "b9817deb"
+        },
+        {
+          "nombre": "FPen_2312_def.zip",
+          "bytes": 79420846,
+          "comprimidos": 79420846,
+          "crc32": "9d148e04"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20231201 a 20231231.xlsm",
+          "bytes": 199891443,
+          "comprimidos": 92500193,
+          "crc32": "d900e14d"
+        },
+        {
+          "nombre": "Homologación barras cmg_2312_def.xlsx",
+          "bytes": 182106,
+          "comprimidos": 170165,
+          "crc32": "a7cd242c"
+        },
+        {
+          "nombre": "CMgBarras_15_min_Salida_2312.csv",
+          "bytes": 232528020,
+          "comprimidos": 39099033,
+          "crc32": "edf41c6b"
+        }
+      ]
+    },
+    {
+      "mes": "202401",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2401_def.zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2401_def.zip",
+      "bytes": 270760725,
+      "sha256": "36bb6050428486a3ae67d3aaa5d792fda8eda8bc183e4284824eeec6d5572b4f",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/02/cmg2401_def.zip",
+      "fecha_publicacion_literal": "21/02/2024",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "Homologación barras cmg_2401_def.xlsx",
+        "cmg2401_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "FPen_2401_def.zip",
+          "bytes": 79468611,
+          "comprimidos": 79468611,
+          "crc32": "73800ecb"
+        },
+        {
+          "nombre": "Homologación barras cmg_2401_def.xlsx",
+          "bytes": 182925,
+          "comprimidos": 170715,
+          "crc32": "9da95016"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20240101 a 20240131.xlsm",
+          "bytes": 204987144,
+          "comprimidos": 102927024,
+          "crc32": "9a11a45e"
+        },
+        {
+          "nombre": "cmg2401_def.xlsm",
+          "bytes": 58841942,
+          "comprimidos": 45259234,
+          "crc32": "8d42335d"
+        },
+        {
+          "nombre": "CMgBarras_15_min_Salida_2401.csv",
+          "bytes": 238528469,
+          "comprimidos": 42934121,
+          "crc32": "19734d8b"
+        }
+      ]
+    },
+    {
+      "mes": "202403",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2403_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2403_def (1).zip",
+      "bytes": 257456434,
+      "sha256": "4692846cecc4c569c8c58bcbe707750acf5bd67f39ba477c27219ea85b7b8db5",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/04/cmg2403_def.zip",
+      "fecha_publicacion_literal": "18/04/2024",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "Homologación barras cmg_2403_def.xlsx",
+        "cmg2403_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "CMgBarras_15_min_Salida_2403.csv",
+          "bytes": 247827789,
+          "comprimidos": 43760659,
+          "crc32": "311a9002"
+        },
+        {
+          "nombre": "FPen_2403_def.zip",
+          "bytes": 79693312,
+          "comprimidos": 79693312,
+          "crc32": "b939feb3"
+        },
+        {
+          "nombre": "Homologación barras cmg_2403_def.xlsx",
+          "bytes": 188206,
+          "comprimidos": 177514,
+          "crc32": "73895f80"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20240301 a 20240331.xlsm",
+          "bytes": 198401240,
+          "comprimidos": 86851588,
+          "crc32": "976fcc0a"
+        },
+        {
+          "nombre": "cmg2403_def.xlsm",
+          "bytes": 60874572,
+          "comprimidos": 46972341,
+          "crc32": "690e7bc2"
+        }
+      ]
+    },
+    {
+      "mes": "202405",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2405_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg2405_def (1).zip",
+      "bytes": 276079892,
+      "sha256": "3270e38d5d71a08f069a4a09f933ecc448488fb5db1311c81772da9668c96ade",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/06/cmg2405_def.zip",
+      "fecha_publicacion_literal": "24/06/2024",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2405_def.xlsm",
+        "Homologación barras cmg_2405_def.xlsx"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "cmg2405_def.xlsm",
+          "bytes": 64398873,
+          "comprimidos": 53826646,
+          "crc32": "c484a8cc"
+        },
+        {
+          "nombre": "CMgBarras_15_min_Salida_2405.csv",
+          "bytes": 259334061,
+          "comprimidos": 53314473,
+          "crc32": "31cb28f4"
+        },
+        {
+          "nombre": "FPen_2405_def.zip",
+          "bytes": 79721514,
+          "comprimidos": 79721514,
+          "crc32": "6e3a1c5c"
+        },
+        {
+          "nombre": "Homologación barras cmg_2405_def.xlsx",
+          "bytes": 193836,
+          "comprimidos": 183168,
+          "crc32": "d1e36703"
+        },
+        {
+          "nombre": "Registro CMg Centrales que marginan por Barra 20240501 a 20240531.xlsm",
+          "bytes": 202249597,
+          "comprimidos": 89033071,
+          "crc32": "903feee0"
+        }
+      ]
+    },
+    {
+      "mes": "202008",
+      "archivo": "SOCHER_2026_v7_2020_2026/historico/originales/cmg_2008_def (1).zip",
+      "descarga_original": "/Users/yo/Downloads/cmg_2008_def (1).zip",
+      "bytes": 201543699,
+      "sha256": "4bd683f4094ec304164d923ac38d70febc99cf8727ef9491f9974a5ce7f6819e",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2020/09/cmg_2008_def.zip",
+      "fecha_publicacion_literal": "17/09/2020",
+      "estado_procedencia": "enlace_catalogado",
+      "validacion_zip": "CRC verificado de libros CMg, homologaciones y ZIP CMg anidados; otros miembros no extraídos",
+      "miembros_crc_verificado": [
+        "cmg2008_def.xlsm"
+      ],
+      "miembros_exteriores": [
+        {
+          "nombre": "Centrales_marginales_por_barra_2008.xlsm",
+          "bytes": 191010240,
+          "comprimidos": 95257433,
+          "crc32": "d6039b51"
+        },
+        {
+          "nombre": "cmg2008_def.xlsm",
+          "bytes": 48177610,
+          "comprimidos": 42133770,
+          "crc32": "abf5fa23"
+        },
+        {
+          "nombre": "FPen_2008_def.zip",
+          "bytes": 64152100,
+          "comprimidos": 64152100,
+          "crc32": "6107b57d"
+        }
+      ]
+    }
+  ],
+  "errores": [
+    {
+      "archivo": "/Users/yo/Downloads/cmg2405_def-2.zip",
+      "sha256": "1ca5a70334cc04f89e336ff4f5803e09451aa3ad930e391f70e1c69c423376e7",
+      "error": "Mismo contenido rechazado antes: [Errno 22] Invalid argument",
+      "cuarentena": "SOCHER_2026_v7_2020_2026/historico/originales/cuarentena/cmg2405_def-2.zip"
+    },
+    {
+      "archivo": "/Users/yo/Downloads/cmg2405_def.zip",
+      "sha256": null,
+      "error": "File is not a zip file",
+      "cuarentena": null
+    }
+  ]
+}

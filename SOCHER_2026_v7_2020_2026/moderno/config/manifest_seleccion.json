@@ -1,0 +1,7 @@
+{
+  "origen": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv",
+  "archivo": "config/seleccion_barras_v6.csv",
+  "sha256": "9251963438858b84eb6bd5bce7d8b31ea093a7eb8aa324d1ee9a13610f0a517f",
+  "fecha_copia_utc": "2026-09-27T03:27:53.396757+00:00",
+  "advertencia": "Selección de candidatos de precios; no eventos ni homologación retrospectiva de centros."
+}

@@ -1,0 +1,53 @@
+{
+  "mes": "202309",
+  "observado_utc": "2026-09-27T04:17:29.741279+00:00",
+  "estado_contenedor": "ZIP_INCOMPLETO_NO_VALIDADO_COMO_CONJUNTO",
+  "fuente_parcial": "/Users/yo/Downloads/Unconfirmed 224290.crdownload",
+  "bytes_parcial": 15791517,
+  "mtime_parcial_ns": 1790480598369801944,
+  "mtime_parcial_utc": "2026-09-27T03:43:18.369802+00:00",
+  "copia_estable": "originales/parciales_preservados/202309_02fa3e3fb4c00b4b.zip.part",
+  "copia_sha256": "02fa3e3fb4c00b4bc01397805b0ec4decd874466729599271727342c96df1257",
+  "url_oficial_correspondiente": "https://www.coordinador.cl/wp-content/uploads/2023/10/cmg2309_def.zip",
+  "metodo_asociacion_url": "Mes del nombre de miembro DEF y catálogo de enlaces observados; nombre temporal del navegador no acredita URL de transporte.",
+  "miembros_observados": [
+    {
+      "nombre": "Homologación barras cmg_2309.xlsx",
+      "offset": 0,
+      "data_offset": 106,
+      "flags": 0,
+      "metodo": 8,
+      "crc32": "efbd8065",
+      "bytes_comprimidos": 70863,
+      "bytes_miembro": 74304,
+      "tamanos_explicitos": true,
+      "miembro_completo": true
+    },
+    {
+      "nombre": "cmg2309_def.xlsm",
+      "offset": 70969,
+      "data_offset": 71015,
+      "flags": 0,
+      "metodo": 8,
+      "crc32": "3cc78871",
+      "bytes_comprimidos": 44613325,
+      "bytes_miembro": 57045544,
+      "tamanos_explicitos": true,
+      "miembro_completo": false
+    }
+  ],
+  "recuperados": [
+    {
+      "tipo": "homologacion",
+      "nombre_miembro": "Homologación barras cmg_2309.xlsx",
+      "offset": 0,
+      "data_offset": 106,
+      "bytes_comprimidos": 70863,
+      "archivo": "libros/202309/Homologación barras cmg_2309.xlsx",
+      "bytes": 74304,
+      "sha256": "b42281266ad0f7f9ea50300bcf61e249772a9687e459367574c75b257fbc7077",
+      "crc32_verificado": "efbd8065",
+      "zip_ooxml_interno_verificado": true
+    }
+  ]
+}

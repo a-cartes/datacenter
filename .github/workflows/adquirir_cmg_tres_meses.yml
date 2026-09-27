@@ -1,4 +1,4 @@
-name: Adquisición CEN de meses pendientes
+name: Adquisición CEN — cuatro meses documentados
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ jobs:
       fail-fast: false
       max-parallel: 3
       matrix:
-        mes: ['2025-09']
+        mes: ['2025-09', '2025-10', '2026-01', '2026-02']
     steps:
       - uses: actions/checkout@v7
         with:

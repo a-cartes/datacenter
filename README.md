@@ -4,99 +4,98 @@
 
 **Datos, código y trazabilidad del artículo:** *Entrada de centros de datos y diferenciales nodales de costo marginal: evidencia causal para Chile*.
 
-[Datos](docs/datos.md) · [Proceso y evidencia](docs/proceso.md) · [Modelo metodológico](docs/metodologia.md) · [Decisiones](docs/decisiones.md) · [Reproducir](docs/reproducir.md) · [Hoja de ruta](ROADMAP.md)
+[Descargar dataset](https://github.com/a-cartes/datacenter/releases/tag/v0.2.0) · [Guía 2020–2026](docs/ampliacion_2020_2026.md) · [Proceso](docs/proceso.md) · [Método](docs/metodologia.md) · [Reproducción](docs/ampliacion_2020_2026.md#reconstrucción-desde-la-versión-privada) · [Pendientes](ROADMAP.md)
 
-Este proyecto estudia cómo la entrada y expansión de centros de datos puede afectar las diferencias de costos marginales entre nodos eléctricos de Chile. El trabajo reúne evidencia de precios, mediciones y conexiones para construir una muestra que permita evaluar esa pregunta con métodos de panel y evaluación de impacto.
+El proyecto estudia cómo la entrada y expansión de centros de datos puede afectar las diferencias de costos marginales entre nodos eléctricos de Chile. La versión **v0.2.0** amplía la capa de precios desde el **1 de enero de 2020 hasta el 18 de septiembre de 2026**, último día publicado en la fuente definitiva consultada. La revisión de disponibilidad se hizo el 27 de septiembre de 2026.
 
-**Estado de la investigación:** base observada integrada. Las fechas de tratamiento, los vínculos eléctricos vigentes, los comparadores y la exposición a otros proyectos siguen en validación. Esta versión no presenta efectos causales estimados.
+**Estado científico:** datos observados y controles de calidad. La asignación de tratamientos, la vigencia de conexiones centro–barra y la conciliación horaria siguen en validación. Esta entrega no presenta efectos causales estimados.
 
-| Base disponible | Dimensión |
+| Entrega 2020–2026 | Dimensión verificada |
 |---|---:|
-| Observaciones de barra y hora | **178.016** |
-| Variables del panel | **66** |
-| Identidades históricas de barra | **83** |
-| Hitos documentales registrados | **24** |
-| Registros de medición a 15 minutos | **67.384** |
+| Observaciones de barra × fecha × hora publicada | **3.411.527** |
+| Variables del CSV principal | **31** |
+| Particiones de precios DEF integradas | **82**: 55 históricas y 27 modernas |
+| Archivos CSV por año | **7** |
+| Registros de medición a 15 minutos, en capa separada | **1.862.581** |
+| Fuentes mensuales de mediciones | **40**, mayo de 2023–agosto de 2026 |
 
-Las identidades de barra no equivalen a centros independientes. La cobertura de precios incluye febrero, abril, mayo, junio y del 1 al 14 de julio de 2024.
+Se integraron todos los meses del período solicitado hasta el corte observado. Las 82 particiones corresponden a 81 meses calendario: julio de 2024 se divide entre dos regímenes de publicación, sin duplicar fechas. Eso no significa que todas las barras existan o tengan observaciones durante todo el período. Los [informes de cobertura](SOCHER_2026_v7_2020_2026/evidencia/Cobertura_por_mes_regimen.csv) describen días, barras, horas y vacíos. Las identidades publicadas y los 30 sockets candidatos **no equivalen a centros independientes**.
 
-## Una investigación que se puede auditar
+## Abrir los datos
 
-El proyecto adapta el modelo de procedencia **W3C PROV-DM** a su documentación: fuentes identificadas, operaciones registradas, resultados verificables y decisiones revisables. Cada etapa enlaza la evidencia disponible. La adaptación organiza el trabajo; no se presenta como una teoría nueva ni como certificación de conformidad con el estándar.
+En la [versión privada v0.2.0](https://github.com/a-cartes/datacenter/releases/tag/v0.2.0) se encuentran:
 
-| Quiero revisar… | Punto de entrada |
-|---|---|
-| Cómo se pasó de archivos dispersos al panel | [Ocho etapas y sus controles](docs/proceso.md) |
-| Qué dificultades surgieron y cómo se resolvieron | [Problemas, decisiones y evidencia](docs/proceso.md#dificultades-que-cambian-la-interpretación) |
-| Qué reglas se aplicaron y qué falta resolver | [Registro de diez decisiones](docs/decisiones.md) |
-| Qué modelo se plantea y qué supuestos requiere | [Datos, ATT, dinámica y exposición](docs/metodologia.md) |
-| Cómo repetir el trabajo en otro entorno | [Instrucciones y alcance de la reproducción](docs/reproducir.md) |
-| Qué se verificó al instalar y ejecutar desde cero | [Auditoría en un entorno virtual nuevo](docs/auditoria.md) |
+- **Dataset_precios_barra_hora_2020_2026.csv.gz**: CSV completo comprimido; al descomprimir contiene exactamente el mismo CSV verificado.
+- **CSV_por_anio_2020_2026.zip**: siete CSV para abrir cada año por separado en Excel, junto con el diccionario y las coberturas.
+- **Dataset_precios_barra_hora_2020_2026.parquet**: copia por columnas para R o Python.
+- **Capas_complementarias_2020_2026.zip**: mediciones horarias y de 15 minutos separadas, y precios preliminares de septiembre, con sus guías.
+- **Insumos_reproduccion_2020_2026.zip**: particiones y metadatos congelados para reconstruir la entrega.
+- **SHA256SUMS.txt** e informes de verificación para comprobar la integridad de las descargas.
 
-Las dificultades se documentan mediante problemas observables: identidades históricas, vigencia eléctrica, reloj, polaridad, faltantes y exportación de grandes tablas. Se distingue lo resuelto de lo pendiente y la integridad computacional de la identificación causal.
+El CSV completo excede la capacidad de filas de una hoja de Excel. Cada CSV anual cabe dentro de ese límite. En Excel, importar desde **Datos → Desde texto/CSV**, con UTF-8 y separador coma; los decimales usan punto. El repositorio y sus archivos son privados y requieren acceso autorizado.
 
-**Prueba local completada:** instalación en un entorno virtual nuevo, once pasos ejecutados, doce tablas verificadas y exportaciones completas contrastadas. El CSV reconstruido es idéntico al original. La [evidencia conservada](docs/auditoria.md) delimita esta comprobación al mismo equipo y a los extractos archivados.
+Esta versión tiene 31 columnas de precios, referencias y trazabilidad. La anterior tenía 66 columnas en un panel de trabajo que reunía más capas. No son dos conversiones del mismo archivo: **v0.2.0 amplía el tiempo y mantiene consumo y evidencia de eventos separados hasta validar sus enlaces**. La [versión v0.1.0](https://github.com/a-cartes/datacenter/releases/tag/v0.1.0), con 178.016 filas de 2024, CSV y Excel, permanece disponible.
 
-**Prueba remota completada:** la [reconstrucción en GitHub Actions sobre Linux](https://github.com/a-cartes/datacenter/actions/runs/36204205401) también terminó sin errores, incluyendo Excel y CSV. Los informes se conservan en el repositorio. La [auditoría](docs/auditoria.md#reproducción-remota-en-github-actions) identifica el código comprobado y el alcance de ambas pruebas.
-
-## De las fuentes al artículo
+## Del original al dato analizable
 
 ```mermaid
 flowchart LR
-    A[Fuentes y extractos preservados] --> B[Identidades y etiquetas publicadas]
-    B --> C[Panel observado]
-    C --> D[Controles de calidad]
-    D --> E[CSV, Excel y Parquet]
-    E --> F[Validación de eventos y suministro]
-    F --> G[Muestra para evaluación causal]
-    G --> H[Artículo y SOCHER 2026]
+    A[Fuentes oficiales preservadas] --> B[Extracción histórica y moderna]
+    B --> C[Etiquetas, códigos y reloj de cada fuente]
+    C --> D[Precios horarios y diferenciales]
+    D --> E[CSV y Parquet verificados]
+    E --> F[Validación de eventos y vínculos eléctricos]
+    F --> G[Muestra causal y estimación]
     classDef disponible fill:#e5f4f2,stroke:#16827d,color:#123b3a;
     classDef pendiente fill:#fff4df,stroke:#bf8735,color:#63451b;
     class A,B,C,D,E disponible;
-    class F,G,H pendiente;
+    class F,G pendiente;
 ```
 
-El proceso de esta versión reconstruye la base a partir de extractos preservados. La descarga y extracción completa de todos los originales es una etapa anterior que todavía no se reproduce automáticamente desde este repositorio.
+La documentación adapta **W3C PROV-DM** para enlazar fuentes, transformaciones y productos. Es una forma de organizar la procedencia, no una teoría nueva ni una certificación. El [registro del proceso](docs/proceso.md) y la [guía ampliada](docs/ampliacion_2020_2026.md) explican los problemas que cambian la interpretación:
 
-## Empezar
+| Problema observado | Tratamiento en la base |
+|---|---|
+| Cambio de publicación el 15 de julio de 2024 | Regímenes separados; se preservan ambas convenciones horarias. |
+| Identidades, tensiones y códigos cambian | Identificador mensual y campos literales; no se inventa continuidad física. |
+| Archivo nacional descargado parcialmente | Sólo se recupera un libro interno si está completo y verifica tamaño, CRC y su estructura; el contenedor queda marcado como incompleto. |
+| DEF, PRE y reliquidaciones difieren | Versión preservada; PRE separado; no se afirma que DEF sea la última reliquidación. |
+| Cuatro intervalos de 15 minutos forman la hora moderna | Precio horario válido sólo con 0, 15, 30 y 45 presentes. |
+| Diferencias entre octubre de 2023 y una exportación antigua | Se conservan fuente, magnitudes y celdas contrastadas; no se rellenan huecos mezclando versiones. |
+| Millones de filas y riesgo de pérdida al exportar | Comparación de las 31 columnas CSV/Parquet, nulos incluidos; hashes y concatenación anual. |
 
-Para revisar el contenido, comienza por la [guía de datos](docs/datos.md) y el [diccionario de las 66 variables](SOCHER_2026_dataset/documentacion/diccionario_panel.csv). Para reconstruirlo, sigue las [instrucciones de reproducción](docs/reproducir.md).
+Los precios originales seleccionados de la base anterior coinciden en sus **178.016 filas** con la nueva extracción. La asignación de códigos se vuelve a evaluar con la homologación exacta de cada mes.
 
-Los archivos completos están asociados a la [versión v0.1.0](https://github.com/a-cartes/datacenter/releases/tag/v0.1.0): [Excel · 41,1 MB](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/Dataset_articulo.xlsx) y [CSV · 169,7 MB](https://github.com/a-cartes/datacenter/releases/download/v0.1.0/Dataset_articulo.csv), junto con el diccionario, el informe de verificación y las huellas SHA-256. El repositorio y sus descargas son privados; requieren acceso autorizado.
+## Reproducir y revisar
 
-Estos productos se regeneran en `artifacts/`. Sus copias voluminosas se distribuyen por versión y no se acumulan en el historial de código.
+La [guía de reproducción](docs/ampliacion_2020_2026.md#reconstrucción-desde-la-versión-privada) distingue dos alcances:
 
-## Organización
+1. **Reconstruir exactamente la entrega** desde las particiones archivadas y comprobadas de la versión privada.
+2. **Volver a adquirir y extraer los originales**, con los scripts y catálogos. El proveedor puede actualizar una fuente; la reproducción exacta exige conservar la instantánea original. Algunas descargas históricas requieren la interfaz del portal.
 
-```text
-docs/                         Guías de lectura, método y reproducción
-scripts/                      Ejecución y comprobaciones del repositorio
-SOCHER_2026_dataset/           Constructores, contratos, diccionarios y controles
-SOCHER_2026_v2/                Insumos documentales preservados
-SOCHER_2026_v3/                Extractos e insumos de mediciones y eventos
-SOCHER_2026_v4/                Insumos de contraste y red
-SOCHER_2026_v6_multicentros/    Extracción identificada de precios y mapeo
-artifacts/                    Entregas regeneradas, fuera del historial Git
-```
+La [verificación local completa](SOCHER_2026_v7_2020_2026/evidencia/Verificacion_entrega.json) compara todas las filas y columnas. La concatenación de los siete CSV anuales y la descompresión de gzip reproducen el CSV principal byte por byte. Las pruebas de corrupción, referencias ambiguas y archivos alterados están conservadas en el código.
 
-Los nombres de las carpetas anteriores conservan la procedencia de los insumos; cada una contiene únicamente el material necesario para esta reconstrucción y la documentación incluida en el inventario.
+La reconstrucción remota de v0.2.0 está pendiente de ejecución. La prueba remota de la versión anterior no se presenta como prueba de esta ampliación.
 
-## Criterios de interpretación
+El [diccionario](SOCHER_2026_v7_2020_2026/evidencia/Diccionario_precios.csv), las [fuentes](SOCHER_2026_v7_2020_2026/evidencia/Fuentes_precios.csv) y los [faltantes](SOCHER_2026_v7_2020_2026/evidencia/Faltantes_precios_detalle.csv) permiten auditar el resultado sin descargar todos los originales nacionales.
 
-- Un valor desconocido permanece vacío; no se convierte en cero ni en “nunca tratado”.
-- Una fecha prevista, una energización y una entrada operacional son hitos distintos.
-- Compartir una barra no duplica el precio ni crea nuevas unidades independientes.
-- Los indicadores de calidad del precio no validan la comparación causal.
-- Los diferenciales respecto de Quillota son resultados relativos descriptivos; no son tarifas pagadas por los centros.
+## Límites de interpretación
 
-El [contrato para la estimación](SOCHER_2026_dataset/documentacion/Contrato_para_estimacion.md) documenta estas decisiones y los requisitos que debe cumplir la muestra.
+- El costo marginal nodal no es la tarifa pagada por un centro de datos.
+- Quillota 110 y 220 son referencias descriptivas; su diferencia de precio no acredita por sí sola un efecto causal.
+- Los precios históricos conservan horas 1–25 y los modernos HRA 0–24; todavía no existe una conciliación validada con las mediciones en UTC.
+- El agregado HT1 + HT2 no certifica el consumo total de un campus. D y R permanecen separados.
+- Una fecha prevista, una energización y una entrada operacional son hitos diferentes. La primera medición disponible no es una inauguración.
+- Los vacíos permanecen vacíos; no se convierten en cero ni en unidades nunca tratadas.
+
+El [modelo metodológico](docs/metodologia.md) presenta los supuestos para ATT, DiD escalonado, estudio de eventos y exposición a otros centros. La [hoja de ruta](ROADMAP.md) separa las tareas cumplidas de las pendientes.
 
 ## Research overview
 
-This project assembles a traceable electricity-node panel to study whether data-center entry and expansion affect nodal marginal-cost differentials in Chile. The current version documents observed prices, measurement records and project evidence. Treatment timing, time-consistent electrical links, comparison units and network exposure remain under validation. No causal effect is claimed at this stage.
+This project builds a traceable electricity-node dataset to study the effects of data-center entry and expansion on nodal marginal-cost differentials in Chile. Version 0.2.0 covers published definitive prices from January 2020 to 18 September 2026, preserving source versions, historical identities and time labels. Measurement layers remain separate until electrical links and time conventions are validated. No causal effect is claimed at this stage.
 
 ## Autoría y citación
 
 Alan Cartes Fica · Universidad del Bío-Bío.
 
-Los metadatos de esta base están en [CITATION.cff](CITATION.cff). Corresponden al recurso de investigación, no a un artículo ya publicado. Las condiciones de publicación y reutilización se documentan en [REUSE.md](REUSE.md).
+[CITATION.cff](CITATION.cff) describe este recurso de investigación, no un artículo ya publicado. Cite la versión específica y las fuentes primarias del Coordinador Eléctrico Nacional. Las condiciones de reutilización están en [REUSE.md](REUSE.md).

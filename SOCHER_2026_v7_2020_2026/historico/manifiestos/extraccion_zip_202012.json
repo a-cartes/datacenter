@@ -1,0 +1,17 @@
+{
+  "mes": "202012",
+  "origen": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2012_def.zip",
+  "sha256_zip": "e6f6b03219d939334bfeac0ad41a69fa7124afcb2e946dee633a914d072e263c",
+  "miembros": [
+    {
+      "ruta_zip": [
+        "cmg2012_def.zip",
+        "cmg2012_def.zip",
+        "cmg2012_def.xlsm"
+      ],
+      "archivo": "historico/libros/202012/cmg2012_def.xlsm",
+      "sha256": "3888b10ecf38670c4ebd9d4cbcdd818e6a91973bb394b58b2f60e815a7756eff",
+      "crc32": "8b3d269a"
+    }
+  ]
+}

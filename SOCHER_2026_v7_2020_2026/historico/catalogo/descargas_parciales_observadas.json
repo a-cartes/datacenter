@@ -1,0 +1,299 @@
+[
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 151935.crdownload",
+    "bytes": 10288580,
+    "modificado_utc": "2026-09-27T03:45:39.679700+00:00",
+    "primer_miembro_zip": "FPen_2303_def.zip",
+    "mes_sugerido_solo_por_nombre": "202303",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 193693.crdownload",
+    "bytes": 15400388,
+    "modificado_utc": "2026-09-27T03:45:29.561414+00:00",
+    "primer_miembro_zip": "CMgBarras_15_min_Salida_2403.csv",
+    "mes_sugerido_solo_por_nombre": "202403",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 195850.crdownload",
+    "bytes": 107474339,
+    "modificado_utc": "2026-09-27T03:57:09.405198+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2005.xlsm",
+    "mes_sugerido_solo_por_nombre": "202005",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 201261.crdownload",
+    "bytes": 16465348,
+    "modificado_utc": "2026-09-27T03:45:02.061970+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2008.xlsm",
+    "mes_sugerido_solo_por_nombre": "202008",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 20843.crdownload",
+    "bytes": 13133628,
+    "modificado_utc": "2026-09-27T03:41:04.250270+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2107_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202107",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 224290.crdownload",
+    "bytes": 15791517,
+    "modificado_utc": "2026-09-27T03:43:18.369802+00:00",
+    "primer_miembro_zip": "Homologación barras cmg_2309.xlsx",
+    "mes_sugerido_solo_por_nombre": "202309",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 232472.crdownload",
+    "bytes": 29810266,
+    "modificado_utc": "2026-09-27T04:14:48.067487+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2205_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202205",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 275389.crdownload",
+    "bytes": 22605093,
+    "modificado_utc": "2026-09-27T03:40:25.521325+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2105_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202105",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 276938.crdownload",
+    "bytes": 14843332,
+    "modificado_utc": "2026-09-27T03:40:58.867952+00:00",
+    "primer_miembro_zip": "FPen_2208_def.zip",
+    "mes_sugerido_solo_por_nombre": "202208",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 283424.crdownload",
+    "bytes": 187579730,
+    "modificado_utc": "2026-09-27T04:01:19.404134+00:00",
+    "primer_miembro_zip": "cmg2307_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202307",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 306275.crdownload",
+    "bytes": 13061653,
+    "modificado_utc": "2026-09-27T03:42:39.848964+00:00",
+    "primer_miembro_zip": "Centrales_marginales_ por_barra_2002.xlsm",
+    "mes_sugerido_solo_por_nombre": "202002",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 317393.crdownload",
+    "bytes": 12254807,
+    "modificado_utc": "2026-09-27T03:45:21.242058+00:00",
+    "primer_miembro_zip": "cmg2301_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202301",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 337954.crdownload",
+    "bytes": 16465348,
+    "modificado_utc": "2026-09-27T03:42:34.478699+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2111_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202111",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 417903.crdownload",
+    "bytes": 13368771,
+    "modificado_utc": "2026-09-27T03:41:19.844852+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2109_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202109",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 421226.crdownload",
+    "bytes": 93535705,
+    "modificado_utc": "2026-09-27T04:14:48.071565+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2111_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202111",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 443303.crdownload",
+    "bytes": 196778899,
+    "modificado_utc": "2026-09-27T03:59:00.495934+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2107_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202107",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 468400.crdownload",
+    "bytes": 16904812,
+    "modificado_utc": "2026-09-27T03:40:44.860824+00:00",
+    "primer_miembro_zip": "cmg2207_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202207",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 48915.crdownload",
+    "bytes": 16194991,
+    "modificado_utc": "2026-09-27T03:43:19.849229+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2005.xlsm",
+    "mes_sugerido_solo_por_nombre": "202005",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 542414.crdownload",
+    "bytes": 176433999,
+    "modificado_utc": "2026-09-27T04:04:12.800464+00:00",
+    "primer_miembro_zip": "cmg2308_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202308",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 641321.crdownload",
+    "bytes": 15134786,
+    "modificado_utc": "2026-09-27T03:45:15.358688+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2009.xlsm",
+    "mes_sugerido_solo_por_nombre": "202009",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 642124.crdownload",
+    "bytes": 125218336,
+    "modificado_utc": "2026-09-27T03:37:33.355711+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2202_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202202",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 642299.crdownload",
+    "bytes": 15924676,
+    "modificado_utc": "2026-09-27T03:43:02.975604+00:00",
+    "primer_miembro_zip": "cmg2307_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202307",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 682009.crdownload",
+    "bytes": 16645572,
+    "modificado_utc": "2026-09-27T03:43:16.372896+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2004.xlsm",
+    "mes_sugerido_solo_por_nombre": "202004",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 705903.crdownload",
+    "bytes": 16580035,
+    "modificado_utc": "2026-09-27T03:43:11.847770+00:00",
+    "primer_miembro_zip": "cmg2308_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202308",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 73528.crdownload",
+    "bytes": 16907716,
+    "modificado_utc": "2026-09-27T03:46:58.125592+00:00",
+    "primer_miembro_zip": "Registro CMg Centrales que marginan por Barra 20230601 a 20230630 DEF.xlsm",
+    "mes_sugerido_solo_por_nombre": "202306",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 773898.crdownload",
+    "bytes": 12320124,
+    "modificado_utc": "2026-09-27T03:41:10.535474+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2108_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202108",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 804120.crdownload",
+    "bytes": 13761988,
+    "modificado_utc": "2026-09-27T03:45:08.054165+00:00",
+    "primer_miembro_zip": "cmg2312_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202312",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 804699.crdownload",
+    "bytes": 15297955,
+    "modificado_utc": "2026-09-27T03:41:16.412445+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2209_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202209",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 908989.crdownload",
+    "bytes": 17509404,
+    "modificado_utc": "2026-09-27T03:40:52.315384+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2106_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202106",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 92906.crdownload",
+    "bytes": 14749205,
+    "modificado_utc": "2026-09-27T03:45:35.430398+00:00",
+    "primer_miembro_zip": "Registro CMg Centrales que marginan por Barra 20230201 a 20230228 DEF.xlsm",
+    "mes_sugerido_solo_por_nombre": "202302",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 990582.crdownload",
+    "bytes": 16170346,
+    "modificado_utc": "2026-09-27T03:46:51.956983+00:00",
+    "primer_miembro_zip": "Registro CMg Centrales que marginan por Barra 20230501 a 20230531 PRE.xlsm",
+    "mes_sugerido_solo_por_nombre": "202305",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 996373.crdownload",
+    "bytes": 16178589,
+    "modificado_utc": "2026-09-27T03:40:14.841685+00:00",
+    "primer_miembro_zip": "Centrales_marginales_por_barra_2205_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202205",
+    "estado": "parcial_no_utilizado"
+  },
+  {
+    "observado_utc": "2026-09-27T04:14:48.069664+00:00",
+    "archivo": "Unconfirmed 99892.crdownload",
+    "bytes": 15207966,
+    "modificado_utc": "2026-09-27T03:41:18.096117+00:00",
+    "primer_miembro_zip": "cmg2210_def.xlsm",
+    "mes_sugerido_solo_por_nombre": "202210",
+    "estado": "parcial_no_utilizado"
+  }
+]

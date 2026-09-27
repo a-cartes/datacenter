@@ -1,0 +1,24 @@
+{
+  "mes": "202001",
+  "filas": 40176,
+  "barras_etiqueta": 54,
+  "fecha_min": "2020-01-01",
+  "fecha_max": "2020-01-31",
+  "dias": 31,
+  "fuente_filas_seleccionadas_antes_corte": 40176,
+  "libro": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202001/cmg2001_def.xlsm",
+  "libro_sha256": "40df93d06d6a104e5c3fd5d07f8cd323c9fcdae1ee930f1deeec8185c79a2a71",
+  "homologacion": null,
+  "estado_identidad": {
+    "etiqueta_sin_homologacion_mensual": 40176
+  },
+  "faltantes_explicitos": [],
+  "duplicados": 0,
+  "outputs": {
+    "historico/derivados/precios_202001.parquet": "b6103336fcf3e6a962800aca541f345bb80f026c99ed94b35e2f0fb4ba365167",
+    "historico/derivados/precios_202001.csv.gz": "e067a391107e92105a4434e3b5ad80a1edf6c32553e3adec10ea6263e435cb50"
+  },
+  "script_sha256": "406671bf1d5b40f173bae44c63c055a3d3a8f52b49800b75fb6cef4c5b2d942e",
+  "ejecucion_utc": "2026-09-27T03:40:35.759808+00:00",
+  "segundos": 14.7
+}

@@ -1,0 +1,1667 @@
+{
+  "fecha": "2026-09-27",
+  "fuente_alias": "SOCHER_2026_v6_multicentros/scripts/ampliar_panel_barra_hora.py:25–44; precios/inventario_entidades_busqueda.csv",
+  "regla_v6_original": "base = re.sub(r'_?\\d{3}$', '', etiqueta).rstrip('_'); coincidencia exacta de base en alias",
+  "reglas": [
+    "No agregar alias por mera semejanza. Selección por nombre físico nuevo debe quedar marcada candidata y con origen explícito.",
+    "ID_INFO moderno no se convierte por conjetura en nemotécnico antiguo. Conservar ambos identificadores y construir puente documentado.",
+    "Alias selecciona precios, no identifica consumidor ni estado tratado.",
+    "Cada tensión y BP se mantiene separada. PANAMERICANA__012 no sustituye Panamericana110.",
+    "LAMPA________023 y LAMPA_________023 se conservan como etiquetas diferentes. T0054/T0835 no se empalman automáticamente."
+  ],
+  "entidades": [
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": [
+        "A.JAHUEL",
+        "A.JAHUEL2",
+        "AJAHUEL"
+      ],
+      "etiquetas_cmg_literales": [
+        "A.JAHUEL2_____220",
+        "A.JAHUEL______066",
+        "A.JAHUEL______110",
+        "A.JAHUEL______154",
+        "A.JAHUEL______220",
+        "AJAHUEL_______500"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "BAJOS DE MENA",
+      "aliases_literales": [
+        "BJOSDMNA"
+      ],
+      "etiquetas_cmg_literales": [
+        "BJOSDMNA______012",
+        "BJOSDMNA______110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": [
+        "C.CHENA",
+        "C.CHENA2"
+      ],
+      "etiquetas_cmg_literales": [
+        "C.CHENA2______220",
+        "C.CHENA_______110",
+        "C.CHENA_______220"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CERRILLOS",
+      "aliases_literales": [
+        "CERRILLOS"
+      ],
+      "etiquetas_cmg_literales": [
+        "CERRILLOS_____013",
+        "CERRILLOS_____110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": [
+        "CHACABUCO"
+      ],
+      "etiquetas_cmg_literales": [
+        "CHACABUCO_____013",
+        "CHACABUCO_____023",
+        "CHACABUCO_____110"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CHICUREO",
+      "aliases_literales": [
+        "CHICUREO"
+      ],
+      "etiquetas_cmg_literales": [
+        "CHICUREO______023",
+        "CHICUREO______220"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "COLINA",
+      "aliases_literales": [
+        "COLINA"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CURAUMA",
+      "aliases_literales": [
+        "CURAUMA"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "EL SALTO",
+      "aliases_literales": [
+        "EL_SALTO"
+      ],
+      "etiquetas_cmg_literales": [
+        "EL_SALTO______110",
+        "EL_SALTO______220"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": [
+        "LAMPA"
+      ],
+      "etiquetas_cmg_literales": [
+        "LAMPA________023",
+        "LAMPA_________023",
+        "LAMPA_________220"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "NUEVA LAMPA",
+      "aliases_literales": [
+        "NUEVA_LAMPA",
+        "NUEVALAMPA",
+        "N.LAMPA",
+        "NUELAMPA"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "LO CAMPINO",
+      "aliases_literales": [
+        "LO_CAMPINO",
+        "LOCAMPINO"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "PUNTA VERDE",
+      "aliases_literales": [
+        "PUNTA_VERDE",
+        "PUNTAVERDE",
+        "P.VERDE"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": [
+        "LO_AGUIRRE"
+      ],
+      "etiquetas_cmg_literales": [
+        "LO_AGUIRRE____012",
+        "LO_AGUIRRE____110",
+        "LO_AGUIRRE____220",
+        "LO_AGUIRRE____500"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "LO ESPEJO",
+      "aliases_literales": [
+        "LO_ESPEJO"
+      ],
+      "etiquetas_cmg_literales": [
+        "LO_ESPEJO_____110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "MAIPO",
+      "aliases_literales": [
+        "MAIPO"
+      ],
+      "etiquetas_cmg_literales": [
+        "MAIPO_________110",
+        "MAIPO_________220"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "ODATA",
+      "aliases_literales": [
+        "ODATA",
+        "ODATA_SAN_BERNARDO",
+        "ODATA_LAMPA"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "PADRE HURTADO",
+      "aliases_literales": [
+        "P.HURTADO",
+        "PADRE_HURTADO"
+      ],
+      "etiquetas_cmg_literales": [
+        "P.HURTADO_____023",
+        "P.HURTADO_____110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "PANAMERICANA",
+      "aliases_literales": [
+        "PANAMERICANA"
+      ],
+      "etiquetas_cmg_literales": [
+        "PANAMERICANA__012"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "POLPAICO",
+      "aliases_literales": [
+        "POLPAICO"
+      ],
+      "etiquetas_cmg_literales": [
+        "POLPAICO______023",
+        "POLPAICO______220",
+        "POLPAICO______500"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": [
+        "QUILICURA"
+      ],
+      "etiquetas_cmg_literales": [
+        "QUILICURA_____013",
+        "QUILICURA_____023",
+        "QUILICURA_____110"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "RECOLETA",
+      "aliases_literales": [
+        "RECOLETA"
+      ],
+      "etiquetas_cmg_literales": [
+        "RECOLETA______013",
+        "RECOLETA______110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "SAN BERNARDO",
+      "aliases_literales": [
+        "SAN_BERNARDO"
+      ],
+      "etiquetas_cmg_literales": [
+        "SAN_BERNARDO__013",
+        "SAN_BERNARDO__110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": [
+        "SANTA_MARTA"
+      ],
+      "etiquetas_cmg_literales": [
+        "SANTA_MARTA___013",
+        "SANTA_MARTA___023",
+        "SANTA_MARTA___110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "SANTA TERESA",
+      "aliases_literales": [
+        "SANTA_TERESA",
+        "SANTATERESA",
+        "STA.TERESA",
+        "S.TERESA"
+      ],
+      "etiquetas_cmg_literales": [],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Sin coincidencia literal en libros examinados; no prueba inexistencia del nodo o centro",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "LA POLVORA",
+      "aliases_literales": [
+        "LA_POLVORA"
+      ],
+      "etiquetas_cmg_literales": [
+        "LA_POLVORA____110"
+      ],
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CANTERAS",
+      "aliases_literales": [
+        "CANTERAS"
+      ],
+      "etiquetas_cmg_literales": [
+        "CANTERAS______023",
+        "CANTERAS______110"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "TAP LIBERTADORES",
+      "aliases_literales": [
+        "TLIBERTADORES"
+      ],
+      "etiquetas_cmg_literales": [
+        "TLIBERTADORES_110"
+      ],
+      "rol": "nucleo_campus_conexion_candidata",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "QUILLOTA",
+      "aliases_literales": [
+        "QUILLOTA"
+      ],
+      "etiquetas_cmg_literales": [
+        "QUILLOTA______110",
+        "QUILLOTA______220"
+      ],
+      "rol": "referencia_resultado",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "CERRO NAVIA",
+      "aliases_literales": [
+        "C.NAVIA"
+      ],
+      "etiquetas_cmg_literales": [
+        "C.NAVIA_______110",
+        "C.NAVIA_______220"
+      ],
+      "rol": "red_corredor",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    },
+    {
+      "entidad_busqueda": "LAS VEGAS",
+      "aliases_literales": [
+        "L.VEGAS",
+        "L.VEGAS2"
+      ],
+      "etiquetas_cmg_literales": [
+        "L.VEGAS2______110",
+        "L.VEGAS_______013",
+        "L.VEGAS_______044",
+        "L.VEGAS_______110"
+      ],
+      "rol": "red_corredor",
+      "interpretacion": "Precios disponibles; vínculo con centro y evento no establecido",
+      "es_vinculo_causal_validado": false
+    }
+  ],
+  "filas_historicas": [
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": "A.JAHUEL | A.JAHUEL2 | AJAHUEL",
+      "barra_cmg_literal_v6": "A.JAHUEL2_____220",
+      "nemotecnico_historico_v6": "BA12T0002SE002T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": "A.JAHUEL | A.JAHUEL2 | AJAHUEL",
+      "barra_cmg_literal_v6": "A.JAHUEL______066",
+      "nemotecnico_historico_v6": "BA06T0002SE002T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": "A.JAHUEL | A.JAHUEL2 | AJAHUEL",
+      "barra_cmg_literal_v6": "A.JAHUEL______110",
+      "nemotecnico_historico_v6": "BA01T0002SE002T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": "A.JAHUEL | A.JAHUEL2 | AJAHUEL",
+      "barra_cmg_literal_v6": "A.JAHUEL______154",
+      "nemotecnico_historico_v6": "BA03T0002SE002T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": "A.JAHUEL | A.JAHUEL2 | AJAHUEL",
+      "barra_cmg_literal_v6": "A.JAHUEL______220",
+      "nemotecnico_historico_v6": "BA04T0002SE002T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "ALTO JAHUEL",
+      "aliases_literales": "A.JAHUEL | A.JAHUEL2 | AJAHUEL",
+      "barra_cmg_literal_v6": "AJAHUEL_______500",
+      "nemotecnico_historico_v6": "BA05T0002SE002T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "BAJOS DE MENA",
+      "aliases_literales": "BJOSDMNA",
+      "barra_cmg_literal_v6": "BJOSDMNA______012",
+      "nemotecnico_historico_v6": "BA02T0055SE004T0055",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "BAJOS DE MENA",
+      "aliases_literales": "BJOSDMNA",
+      "barra_cmg_literal_v6": "BJOSDMNA______110",
+      "nemotecnico_historico_v6": "BA01T0055SE004T0055",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": "C.CHENA | C.CHENA2",
+      "barra_cmg_literal_v6": "C.CHENA2______220",
+      "nemotecnico_historico_v6": "BA09T0054SE010T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": "C.CHENA | C.CHENA2",
+      "barra_cmg_literal_v6": "C.CHENA2______220",
+      "nemotecnico_historico_v6": "BA09T0835SE010T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": "C.CHENA | C.CHENA2",
+      "barra_cmg_literal_v6": "C.CHENA_______110",
+      "nemotecnico_historico_v6": "BA02T0054SE010T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": "C.CHENA | C.CHENA2",
+      "barra_cmg_literal_v6": "C.CHENA_______110",
+      "nemotecnico_historico_v6": "BA02T0835SE010T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": "C.CHENA | C.CHENA2",
+      "barra_cmg_literal_v6": "C.CHENA_______220",
+      "nemotecnico_historico_v6": "BA10T0054SE010T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHENA",
+      "aliases_literales": "C.CHENA | C.CHENA2",
+      "barra_cmg_literal_v6": "C.CHENA_______220",
+      "nemotecnico_historico_v6": "BA10T0835SE010T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CERRILLOS",
+      "aliases_literales": "CERRILLOS",
+      "barra_cmg_literal_v6": "CERRILLOS_____013",
+      "nemotecnico_historico_v6": "BA01T0058SE156T0058",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CERRILLOS",
+      "aliases_literales": "CERRILLOS",
+      "barra_cmg_literal_v6": "CERRILLOS_____110",
+      "nemotecnico_historico_v6": "BA02T0058SE156T0058",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": "CHACABUCO",
+      "barra_cmg_literal_v6": "CHACABUCO_____013",
+      "nemotecnico_historico_v6": "BA03T0054SE009T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ASCENTY_CHILE1",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": "CHACABUCO",
+      "barra_cmg_literal_v6": "CHACABUCO_____013",
+      "nemotecnico_historico_v6": "BA03T0835SE009T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ASCENTY_CHILE1",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": "CHACABUCO",
+      "barra_cmg_literal_v6": "CHACABUCO_____023",
+      "nemotecnico_historico_v6": "BA05T0054SE009T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ASCENTY_CHILE2;DATALUNA_QUILICURA;SONDA_CHACABUCO",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": "CHACABUCO",
+      "barra_cmg_literal_v6": "CHACABUCO_____023",
+      "nemotecnico_historico_v6": "BA05T0835SE009T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ASCENTY_CHILE2;DATALUNA_QUILICURA;SONDA_CHACABUCO",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": "CHACABUCO",
+      "barra_cmg_literal_v6": "CHACABUCO_____110",
+      "nemotecnico_historico_v6": "BA01T0054SE009T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ASCENTY_CHILE2;EDGE_COLINA",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHACABUCO",
+      "aliases_literales": "CHACABUCO",
+      "barra_cmg_literal_v6": "CHACABUCO_____110",
+      "nemotecnico_historico_v6": "BA01T0835SE009T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ASCENTY_CHILE2;EDGE_COLINA",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHICUREO",
+      "aliases_literales": "CHICUREO",
+      "barra_cmg_literal_v6": "CHICUREO______023",
+      "nemotecnico_historico_v6": "BA04T0054SE115T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHICUREO",
+      "aliases_literales": "CHICUREO",
+      "barra_cmg_literal_v6": "CHICUREO______023",
+      "nemotecnico_historico_v6": "BA04T0835SE115T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHICUREO",
+      "aliases_literales": "CHICUREO",
+      "barra_cmg_literal_v6": "CHICUREO______220",
+      "nemotecnico_historico_v6": "BA01T0054SE115T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "EDGE_COLINA",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CHICUREO",
+      "aliases_literales": "CHICUREO",
+      "barra_cmg_literal_v6": "CHICUREO______220",
+      "nemotecnico_historico_v6": "BA01T0835SE115T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "EDGE_COLINA",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "EL SALTO",
+      "aliases_literales": "EL_SALTO",
+      "barra_cmg_literal_v6": "EL_SALTO______110",
+      "nemotecnico_historico_v6": "BA03T0054SE014T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "EL SALTO",
+      "aliases_literales": "EL_SALTO",
+      "barra_cmg_literal_v6": "EL_SALTO______110",
+      "nemotecnico_historico_v6": "BA03T0835SE014T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "EL SALTO",
+      "aliases_literales": "EL_SALTO",
+      "barra_cmg_literal_v6": "EL_SALTO______220",
+      "nemotecnico_historico_v6": "BA01T0054SE014T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "EL SALTO",
+      "aliases_literales": "EL_SALTO",
+      "barra_cmg_literal_v6": "EL_SALTO______220",
+      "nemotecnico_historico_v6": "BA01T0835SE014T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": "LAMPA",
+      "barra_cmg_literal_v6": "LAMPA________023",
+      "nemotecnico_historico_v6": "BA03T0054SE020T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": "LAMPA",
+      "barra_cmg_literal_v6": "LAMPA________023",
+      "nemotecnico_historico_v6": "BA03T0835SE020T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404",
+      "meses_homologacion_exacta": "202404",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": "LAMPA",
+      "barra_cmg_literal_v6": "LAMPA_________023",
+      "nemotecnico_historico_v6": "",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ODATA_LAMPA",
+      "meses_evidencia": "202405",
+      "meses_homologacion_exacta": "",
+      "meses_provisionales": "",
+      "estado_historico": "sin_nemotecnico_historico_adjudicado",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": "LAMPA",
+      "barra_cmg_literal_v6": "LAMPA_________023",
+      "nemotecnico_historico_v6": "BA03T0835SE020T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ODATA_LAMPA",
+      "meses_evidencia": "202406;202407",
+      "meses_homologacion_exacta": "202406;202407",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": "LAMPA",
+      "barra_cmg_literal_v6": "LAMPA_________220",
+      "nemotecnico_historico_v6": "BA01T0054SE020T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ODATA_LAMPA",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAMPA",
+      "aliases_literales": "LAMPA",
+      "barra_cmg_literal_v6": "LAMPA_________220",
+      "nemotecnico_historico_v6": "BA01T0835SE020T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "ODATA_LAMPA",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": "LO_AGUIRRE",
+      "barra_cmg_literal_v6": "LO_AGUIRRE____012",
+      "nemotecnico_historico_v6": "BA02T0054SE022T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": "LO_AGUIRRE",
+      "barra_cmg_literal_v6": "LO_AGUIRRE____012",
+      "nemotecnico_historico_v6": "BA02T0835SE022T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": "LO_AGUIRRE",
+      "barra_cmg_literal_v6": "LO_AGUIRRE____110",
+      "nemotecnico_historico_v6": "BA01T0054SE022T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": "LO_AGUIRRE",
+      "barra_cmg_literal_v6": "LO_AGUIRRE____110",
+      "nemotecnico_historico_v6": "BA01T0835SE022T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": "LO_AGUIRRE",
+      "barra_cmg_literal_v6": "LO_AGUIRRE____220",
+      "nemotecnico_historico_v6": "BA03T0002SE102T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO AGUIRRE",
+      "aliases_literales": "LO_AGUIRRE",
+      "barra_cmg_literal_v6": "LO_AGUIRRE____500",
+      "nemotecnico_historico_v6": "BA01T0002SE102T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LO ESPEJO",
+      "aliases_literales": "LO_ESPEJO",
+      "barra_cmg_literal_v6": "LO_ESPEJO_____110",
+      "nemotecnico_historico_v6": "BA01L0011SE003L0011",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "MAIPO",
+      "aliases_literales": "MAIPO",
+      "barra_cmg_literal_v6": "MAIPO_________110",
+      "nemotecnico_historico_v6": "BA02T0061SE005T0061",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "MAIPO",
+      "aliases_literales": "MAIPO",
+      "barra_cmg_literal_v6": "MAIPO_________220",
+      "nemotecnico_historico_v6": "BA01T0061SE005T0061",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "PADRE HURTADO",
+      "aliases_literales": "P.HURTADO | PADRE_HURTADO",
+      "barra_cmg_literal_v6": "P.HURTADO_____023",
+      "nemotecnico_historico_v6": "BA01T0058SE270T0058",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "PADRE HURTADO",
+      "aliases_literales": "P.HURTADO | PADRE_HURTADO",
+      "barra_cmg_literal_v6": "P.HURTADO_____110",
+      "nemotecnico_historico_v6": "",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "",
+      "meses_provisionales": "",
+      "estado_historico": "sin_nemotecnico_historico_adjudicado",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "PANAMERICANA",
+      "aliases_literales": "PANAMERICANA",
+      "barra_cmg_literal_v6": "PANAMERICANA__012",
+      "nemotecnico_historico_v6": "BA03T0054SE035T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "PANAMERICANA",
+      "aliases_literales": "PANAMERICANA",
+      "barra_cmg_literal_v6": "PANAMERICANA__012",
+      "nemotecnico_historico_v6": "BA03T0835SE035T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "POLPAICO",
+      "aliases_literales": "POLPAICO",
+      "barra_cmg_literal_v6": "POLPAICO______023",
+      "nemotecnico_historico_v6": "BA02T0054SE089T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "POLPAICO",
+      "aliases_literales": "POLPAICO",
+      "barra_cmg_literal_v6": "POLPAICO______023",
+      "nemotecnico_historico_v6": "BA02T0835SE089T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "POLPAICO",
+      "aliases_literales": "POLPAICO",
+      "barra_cmg_literal_v6": "POLPAICO______220",
+      "nemotecnico_historico_v6": "BA01T0002SE030T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "POLPAICO",
+      "aliases_literales": "POLPAICO",
+      "barra_cmg_literal_v6": "POLPAICO______500",
+      "nemotecnico_historico_v6": "BA02T0002SE030T0002",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": "QUILICURA",
+      "barra_cmg_literal_v6": "QUILICURA_____013",
+      "nemotecnico_historico_v6": "BA05T0054SE037T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": "QUILICURA",
+      "barra_cmg_literal_v6": "QUILICURA_____013",
+      "nemotecnico_historico_v6": "BA05T0835SE037T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": "QUILICURA",
+      "barra_cmg_literal_v6": "QUILICURA_____023",
+      "nemotecnico_historico_v6": "BA03T0054SE037T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": "QUILICURA",
+      "barra_cmg_literal_v6": "QUILICURA_____023",
+      "nemotecnico_historico_v6": "BA03T0835SE037T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": "QUILICURA",
+      "barra_cmg_literal_v6": "QUILICURA_____110",
+      "nemotecnico_historico_v6": "BA01T0054SE037T0054",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "QUILICURA_SIN_DC_ADJUDICADO",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILICURA",
+      "aliases_literales": "QUILICURA",
+      "barra_cmg_literal_v6": "QUILICURA_____110",
+      "nemotecnico_historico_v6": "BA01T0835SE037T0835",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "QUILICURA_SIN_DC_ADJUDICADO",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "RECOLETA",
+      "aliases_literales": "RECOLETA",
+      "barra_cmg_literal_v6": "RECOLETA______013",
+      "nemotecnico_historico_v6": "BA03T0054SE038T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "RECOLETA",
+      "aliases_literales": "RECOLETA",
+      "barra_cmg_literal_v6": "RECOLETA______013",
+      "nemotecnico_historico_v6": "BA03T0054SE038T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "RECOLETA",
+      "aliases_literales": "RECOLETA",
+      "barra_cmg_literal_v6": "RECOLETA______110",
+      "nemotecnico_historico_v6": "BA01T0054SE038T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "RECOLETA",
+      "aliases_literales": "RECOLETA",
+      "barra_cmg_literal_v6": "RECOLETA______110",
+      "nemotecnico_historico_v6": "BA01T0835SE038T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SAN BERNARDO",
+      "aliases_literales": "SAN_BERNARDO",
+      "barra_cmg_literal_v6": "SAN_BERNARDO__013",
+      "nemotecnico_historico_v6": "BA03T0054SE040T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SAN BERNARDO",
+      "aliases_literales": "SAN_BERNARDO",
+      "barra_cmg_literal_v6": "SAN_BERNARDO__013",
+      "nemotecnico_historico_v6": "BA03T0835SE040T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SAN BERNARDO",
+      "aliases_literales": "SAN_BERNARDO",
+      "barra_cmg_literal_v6": "SAN_BERNARDO__110",
+      "nemotecnico_historico_v6": "BA01T0054SE040T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SAN BERNARDO",
+      "aliases_literales": "SAN_BERNARDO",
+      "barra_cmg_literal_v6": "SAN_BERNARDO__110",
+      "nemotecnico_historico_v6": "BA01T0835SE040T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": "SANTA_MARTA",
+      "barra_cmg_literal_v6": "SANTA_MARTA___013",
+      "nemotecnico_historico_v6": "BA03T0054SE046T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": "SANTA_MARTA",
+      "barra_cmg_literal_v6": "SANTA_MARTA___013",
+      "nemotecnico_historico_v6": "BA03T0835SE046T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": "SANTA_MARTA",
+      "barra_cmg_literal_v6": "SANTA_MARTA___023",
+      "nemotecnico_historico_v6": "BA08T0054SE046T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": "SANTA_MARTA",
+      "barra_cmg_literal_v6": "SANTA_MARTA___023",
+      "nemotecnico_historico_v6": "BA08T0835SE046T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": "SANTA_MARTA",
+      "barra_cmg_literal_v6": "SANTA_MARTA___110",
+      "nemotecnico_historico_v6": "BA01T0054SE046T0054",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402",
+      "meses_homologacion_exacta": "202402",
+      "meses_provisionales": "",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "SANTA MARTA",
+      "aliases_literales": "SANTA_MARTA",
+      "barra_cmg_literal_v6": "SANTA_MARTA___110",
+      "nemotecnico_historico_v6": "BA01T0835SE046T0835",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LA POLVORA",
+      "aliases_literales": "LA_POLVORA",
+      "barra_cmg_literal_v6": "LA_POLVORA____110",
+      "nemotecnico_historico_v6": "BA03T0707SE001T0707",
+      "rol": "busqueda_exploratoria_heredada_v6",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CANTERAS",
+      "aliases_literales": "CANTERAS",
+      "barra_cmg_literal_v6": "CANTERAS______023",
+      "nemotecnico_historico_v6": "BA04T0487SE001T0487",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CANTERAS",
+      "aliases_literales": "CANTERAS",
+      "barra_cmg_literal_v6": "CANTERAS______110",
+      "nemotecnico_historico_v6": "BA01T0487SE001T0487",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "EDGE_COLINA",
+      "meses_evidencia": "202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "TAP LIBERTADORES",
+      "aliases_literales": "TLIBERTADORES",
+      "barra_cmg_literal_v6": "TLIBERTADORES_110",
+      "nemotecnico_historico_v6": "BA01T0043SE001T0043",
+      "rol": "nucleo_campus_conexion_candidata",
+      "centro_ids_con_relacion_documental": "DATALUNA_QUILICURA",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILLOTA",
+      "aliases_literales": "QUILLOTA",
+      "barra_cmg_literal_v6": "QUILLOTA______110",
+      "nemotecnico_historico_v6": "BA01T0002SE032T0002",
+      "rol": "referencia_resultado",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "QUILLOTA",
+      "aliases_literales": "QUILLOTA",
+      "barra_cmg_literal_v6": "QUILLOTA______220",
+      "nemotecnico_historico_v6": "BA02T0002SE032T0002",
+      "rol": "referencia_resultado",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CERRO NAVIA",
+      "aliases_literales": "C.NAVIA",
+      "barra_cmg_literal_v6": "C.NAVIA_______110",
+      "nemotecnico_historico_v6": "BA01T0002SE008T0002",
+      "rol": "red_corredor",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "CERRO NAVIA",
+      "aliases_literales": "C.NAVIA",
+      "barra_cmg_literal_v6": "C.NAVIA_______220",
+      "nemotecnico_historico_v6": "BA03T0002SE008T0002",
+      "rol": "red_corredor",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAS VEGAS",
+      "aliases_literales": "L.VEGAS | L.VEGAS2",
+      "barra_cmg_literal_v6": "L.VEGAS2______110",
+      "nemotecnico_historico_v6": "BA02T0057SE021T0057",
+      "rol": "red_corredor",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAS VEGAS",
+      "aliases_literales": "L.VEGAS | L.VEGAS2",
+      "barra_cmg_literal_v6": "L.VEGAS_______013",
+      "nemotecnico_historico_v6": "BA05T0057SE021T0057",
+      "rol": "red_corredor",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAS VEGAS",
+      "aliases_literales": "L.VEGAS | L.VEGAS2",
+      "barra_cmg_literal_v6": "L.VEGAS_______044",
+      "nemotecnico_historico_v6": "BA03T0057SE021T0057",
+      "rol": "red_corredor",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    },
+    {
+      "entidad_busqueda": "LAS VEGAS",
+      "aliases_literales": "L.VEGAS | L.VEGAS2",
+      "barra_cmg_literal_v6": "L.VEGAS_______110",
+      "nemotecnico_historico_v6": "BA01T0057SE021T0057",
+      "rol": "red_corredor",
+      "centro_ids_con_relacion_documental": "",
+      "meses_evidencia": "202402;202404;202405;202406;202407",
+      "meses_homologacion_exacta": "202402;202404;202406;202407",
+      "meses_provisionales": "202405",
+      "estado_historico": "identidad_disponible_con_vigencia_limitada",
+      "continuidad_temporal_validada": false,
+      "fuente": "SOCHER_2026_v6_multicentros/precios/inventario_entidades_busqueda.csv;SOCHER_2026_v6_multicentros/precios/homologacion_candidatos_mensual.csv"
+    }
+  ],
+  "fuentes_CMg_oficiales_registradas": [
+    {
+      "mes": "202402",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/03/cmg2402_def.zip",
+      "indice_url": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2024-costos-marginales-de-energia/",
+      "publicacion": "2024-03-21",
+      "archivo": "cmg2402_def.xlsm",
+      "homologacion": "homologacion_202402_def.xlsx",
+      "estado_identidad": "homologacion_mensual_exacta",
+      "adquisicion": "miembros_completos_verificados_de_transferencia_parcial"
+    },
+    {
+      "mes": "202404",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/05/cmg2404_def.zip",
+      "indice_url": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2024-costos-marginales-de-energia/",
+      "publicacion": "2024-05-22",
+      "archivo": "cmg2404_def.xlsm",
+      "homologacion": "homologacion_202404_def.xlsx",
+      "estado_identidad": "homologacion_mensual_exacta",
+      "adquisicion": "ZIP_descomprimido_por_Safari"
+    },
+    {
+      "mes": "202405",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/06/cmg2405_def.zip",
+      "indice_url": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2024-costos-marginales-de-energia/",
+      "publicacion": "2024-06-24",
+      "archivo": "cmg2405_def.xlsm",
+      "homologacion": null,
+      "estado_identidad": "provisional_codigo_adyacente_coincidente_sin_homologacion_mensual",
+      "adquisicion": "miembros_completos_verificados_de_transferencia_parcial"
+    },
+    {
+      "mes": "202406",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/07/cmg2406_def.zip",
+      "indice_url": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2024-costos-marginales-de-energia/",
+      "publicacion": "2024-07-21",
+      "archivo": "cmg2406_def.xlsm",
+      "homologacion": "homologacion_202406_def.xlsx",
+      "estado_identidad": "homologacion_mensual_exacta",
+      "adquisicion": "ZIP_descomprimido_por_Safari"
+    },
+    {
+      "mes": "202407",
+      "url": "https://www.coordinador.cl/wp-content/uploads/2024/08/cmg2407_def.zip",
+      "indice_url": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2024-costos-marginales-de-energia/",
+      "publicacion": "2024-08-22",
+      "archivo": "cmg2407_def.xlsm",
+      "homologacion": "homologacion_202407_def.xlsx",
+      "estado_identidad": "homologacion_mensual_exacta",
+      "adquisicion": "ZIP_descomprimido_por_Safari"
+    }
+  ],
+  "nota_fuentes": "URLs copiadas de manifiesto oficial previamente verificado; no reconsultadas en esta auditoría. Rutas de2020–2023 no se inventan a partir del patrón2024."
+}

@@ -6,10 +6,10 @@ authors:
   - family-names: "Cartes Fica"
     given-names: "Alan"
     affiliation: "Universidad del Bío-Bío"
-version: 0.1.0
+version: 0.2.0
 repository-code: "https://github.com/a-cartes/datacenter"
-url: "https://github.com/a-cartes/datacenter/releases/tag/v0.1.0"
-date-released: 2026-09-26
+url: "https://github.com/a-cartes/datacenter/releases/tag/v0.2.0"
+date-released: 2026-09-27
 abstract: "Panel de precios nodales, registros de medición y antecedentes documentales para investigar la entrada y expansión de centros de datos en Chile. La versión actual contiene datos observados; la asignación de tratamientos y exposición permanece en validación."
 keywords:
   - Chile

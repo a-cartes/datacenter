@@ -1,0 +1,93 @@
+[
+  {
+    "mes": "202402",
+    "filas_v6": 37584,
+    "filas_v7": 40368,
+    "filas_comparadas": 37584,
+    "solo_v6": 0,
+    "solo_v7": 2784,
+    "max_diferencia_precio": 0.0,
+    "precios_diferentes_tol_1e_10": 0,
+    "codigos_exactos_comparados": 37584,
+    "codigos_exactos_diferentes": 0,
+    "etiquetas_nuevas_v7": [
+      "P.HURTADO_____110",
+      "PUDAHUEL______013",
+      "PUDAHUEL______110",
+      "TAP_QUILICURA_110"
+    ]
+  },
+  {
+    "mes": "202404",
+    "filas_v6": 40376,
+    "filas_v7": 43260,
+    "filas_comparadas": 40376,
+    "solo_v6": 0,
+    "solo_v7": 2884,
+    "max_diferencia_precio": 0.0,
+    "precios_diferentes_tol_1e_10": 0,
+    "codigos_exactos_comparados": 40376,
+    "codigos_exactos_diferentes": 0,
+    "etiquetas_nuevas_v7": [
+      "P.HURTADO_____110",
+      "PUDAHUEL______013",
+      "PUDAHUEL______110",
+      "TAP_QUILICURA_110"
+    ]
+  },
+  {
+    "mes": "202405",
+    "filas_v6": 40920,
+    "filas_v7": 44640,
+    "filas_comparadas": 40920,
+    "solo_v6": 0,
+    "solo_v7": 3720,
+    "max_diferencia_precio": 0.0,
+    "precios_diferentes_tol_1e_10": 0,
+    "codigos_exactos_comparados": 0,
+    "codigos_exactos_diferentes": 0,
+    "etiquetas_nuevas_v7": [
+      "LAMPA_________023",
+      "P.HURTADO_____110",
+      "PUDAHUEL______013",
+      "PUDAHUEL______110",
+      "TAP_QUILICURA_110"
+    ]
+  },
+  {
+    "mes": "202406",
+    "filas_v6": 40320,
+    "filas_v7": 43200,
+    "filas_comparadas": 40320,
+    "solo_v6": 0,
+    "solo_v7": 2880,
+    "max_diferencia_precio": 0.0,
+    "precios_diferentes_tol_1e_10": 0,
+    "codigos_exactos_comparados": 40320,
+    "codigos_exactos_diferentes": 0,
+    "etiquetas_nuevas_v7": [
+      "P.HURTADO_____110",
+      "PUDAHUEL______013",
+      "PUDAHUEL______110",
+      "TAP_QUILICURA_110"
+    ]
+  },
+  {
+    "mes": "202407",
+    "filas_v6": 18816,
+    "filas_v7": 20160,
+    "filas_comparadas": 18816,
+    "solo_v6": 0,
+    "solo_v7": 1344,
+    "max_diferencia_precio": 0.0,
+    "precios_diferentes_tol_1e_10": 0,
+    "codigos_exactos_comparados": 18816,
+    "codigos_exactos_diferentes": 0,
+    "etiquetas_nuevas_v7": [
+      "P.HURTADO_____110",
+      "PUDAHUEL______013",
+      "PUDAHUEL______110",
+      "TAP_QUILICURA_110"
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+{
+  "dataluna_2020_2022": {
+    "filas": 20447,
+    "desde_local": "2020-09-01",
+    "hasta_local": "2022-12-31",
+    "originales_verificados": [
+      {
+        "archivo": "2020/01_Enero/Version Definitiva/Transferencia_Norte_2020_01_Enero_v1002.xlsx",
+        "sha256": "c9dddbcd6d68477cef4d7bc3972e0f30d93ef7617aac8c2663e1338808df30fa",
+        "bytes": 10844457
+      },
+      {
+        "archivo": "2020/02_Febrero/Version Definitiva/Transferencia_Norte_2020_02_Febrero_v0903.xlsx",
+        "sha256": "f826f0b451816349cd8b1cf05306300da26169c234b5081d3d8f6781fbac38aa",
+        "bytes": 10193233
+      },
+      {
+        "archivo": "2020/03_Marzo/Version Definitiva/Transferencia_Norte_2020_03_Marzo_v0804.xlsx",
+        "sha256": "79a984007fcce44c01e9a5b04b200637a6ba4c50156fa68d6422288d56f9b790",
+        "bytes": 10962513
+      },
+      {
+        "archivo": "2020/04_Abril/Version Definitiva/Transferencia_Norte_2020_04_Abril_v0805.xlsx",
+        "sha256": "bd0223f9ad59a3059a42fdb3b34513420e82217285959c328833602fef52c338",
+        "bytes": 10582453
+      },
+      {
+        "archivo": "2020/05_Mayo/Version Definitiva/Transferencia_Norte_2020_05_Mayo_v0806.xlsx",
+        "sha256": "e74f66cc85199d28f24f4a6476eff21f20ca0a683570ccc3e1d1c2f499728c10",
+        "bytes": 11041743
+      },
+      {
+        "archivo": "2020/06_Junio/Version Definitiva/Transferencia_Norte_2020_06_Junio_v0807.xlsx",
+        "sha256": "3951fd75e9b8cab943a8a04a487417d3d271cc0d8ac65ef2ba1af083c2828871",
+        "bytes": 11027316
+      },
+      {
+        "archivo": "2020/07_Julio/Version Definitiva/Transferencia_Norte_2020_07_Julio_v1008.xlsx",
+        "sha256": "dad0585e0ec01e0e14cfca3926778e5a7ace4857e06ef05723729826ac1b9a20",
+        "bytes": 11487509
+      },
+      {
+        "archivo": "2020/08_Agosto/Version Definitiva/Transferencia_Norte_2020_08_Agosto_v0709.xlsx",
+        "sha256": "58f40ff4fc7e8fd5ecc6fe7646fcb5d5868939373b32bac6d2d6483804a1f5a8",
+        "bytes": 11499903
+      },
+      {
+        "archivo": "2020/09_Septiembre/Version Definitiva/Transferencia_Norte_2020_09_Septiembre_v0710.xlsx",
+        "sha256": "2495598d8eee39737e75307231a0ddc2ec124ae7c8f554d3e8884810d088a979",
+        "bytes": 11419450
+      },
+      {
+        "archivo": "2020/10_Octubre/Version Definitiva/Transferencia_Norte_2020_10_Octubre_v0911.xlsx",
+        "sha256": "9500cd418c3d07d883714e14a1d27490d50bec77829c08a0e27e4f1c6e45b92c",
+        "bytes": 11829776
+      },
+      {
+        "archivo": "2020/11_Noviembre/Version Definitiva/Transferencia_Norte_2020_11_Noviembre_v0712.xlsx",
+        "sha256": "fc1cdf2aa9c4705bd71be172fea4c5d7240aa307e27485bcd343ec218859bef4",
+        "bytes": 11534938
+      },
+      {
+        "archivo": "2020/12_Diciembre/Version Definitiva/Transferencia_Norte_2020_12_Diciembre_v0801.xlsx",
+        "sha256": "f349cd97d7b5f8fdfaeba6b6bb3e5a534f16c65aad93c1e9bf2bcf62f224da17",
+        "bytes": 11911068
+      },
+      {
+        "archivo": "2021/01_Enero/Definitivo/Transferencia_Norte_2021_01_Enero_v0502.xlsx",
+        "sha256": "c6fe55a23395eff5f18d75813d441d6a566c02cca231471ff33eb6407b219e21",
+        "bytes": 11899386
+      },
+      {
+        "archivo": "2021/02_Febrero/Definitivo/Transferencia_Norte_2021_02_Febrero_v0503.xlsx",
+        "sha256": "3789cdadba1d67a9eb2796a45a213e4f8b7e261adadaf6b303cd921e8aeba459",
+        "bytes": 11138379
+      },
+      {
+        "archivo": "2021/03_Marzo/Definitivo/Transferencia_Norte_2021_03_Marzo_v0804.xlsx",
+        "sha256": "70bbd9ed626633be8a1e1906518d6ee0985cc2e26455569c262133ad096b1162",
+        "bytes": 12774739
+      },
+      {
+        "archivo": "2021/04_Abril/Definitivo/Transferencia_Norte_2021_04_Abril_v0705.xlsx",
+        "sha256": "b2c80249daeff29c537417033d3dcb0b6e1bd6651e9071f5bb72e01736e3ddfd",
+        "bytes": 12447855
+      },
+      {
+        "archivo": "2021/05_Mayo/Definitivo/Transferencia_Norte_2021_05_Mayo_v0806.xlsx",
+        "sha256": "cb2af65531ad5503e824ec4014ef319ca9e863c9f595c4746646d2af325a0b5c",
+        "bytes": 12907291
+      },
+      {
+        "archivo": "2021/06_Junio/Definitivo/Transferencia_Norte_2021_06_Junio_v0707.xlsx",
+        "sha256": "5fabf379ffb10cd96e4978eac1fdd96c4a11c2c065627e38453855c46e2b9770",
+        "bytes": 12541252
+      },
+      {
+        "archivo": "2021/07_Julio/Definitivo/Transferencia_Norte_2021_07_Julio_v0908.xlsx",
+        "sha256": "0fbea0e5806c2adf08aaedd2f1cd83e101ebd845391d725bbb6dd6a56dda8f6d",
+        "bytes": 12979142
+      },
+      {
+        "archivo": "2021/08_Agosto/Definitivo/Transferencia_Norte_2021_08_Agosto_v0709.xlsx",
+        "sha256": "e95e0184de656d4034f0156c10b65776b65aa6d96b6ab84b7f54b5d0737200a2",
+        "bytes": 12997045
+      },
+      {
+        "archivo": "2021/09_Septiembre/Definitivo/Transferencia_Norte_2021_09_Septiembre_v0710.xlsx",
+        "sha256": "431adc792117b952ede151f5cead10d0d3f68f750ddbf3ad252b5e6832326619",
+        "bytes": 12569083
+      },
+      {
+        "archivo": "2021/10_Octubre/Definitivo/Transferencia_Norte_2021_10_Octubre_v0811.xlsx",
+        "sha256": "587229a98c6950934c6a6f6c505cfd0655703f23ea95ffa591458ec335aca74b",
+        "bytes": 13066956
+      },
+      {
+        "archivo": "2021/11_Noviembre/Definitivo/Transferencia_Norte_2021_11_Noviembre_v0712.xlsx",
+        "sha256": "f8dc86b59f7c5a023124d5bd3d08aa1600c2caabae7fae980b11874d293d9362",
+        "bytes": 12688631
+      },
+      {
+        "archivo": "2021/12_Diciembre/Definitivo/Transferencia_Norte_2021_12_Diciembre_v0701.xlsx",
+        "sha256": "802271e90126397dc2da9a828153a80aa2e78b23ec8e4cc1adcb849abf052683",
+        "bytes": 13271098
+      },
+      {
+        "archivo": "2022/01_Enero/Definitivo/Transferencia_Norte_2022_01_Enero_v0802.xlsx",
+        "sha256": "06e5fba83f6a94bbb99ee3e4eedb445c643309d202014ddfa4ba032a57833bf8",
+        "bytes": 13411013
+      },
+      {
+        "archivo": "2022/02_Febrero/Definitivo/Transferencia_Norte_2022_02_Febrero_v0803.xlsx",
+        "sha256": "2b50f28a086e201a57fea8fdc7a7751b2457263a309ba9536d824ebd52229775",
+        "bytes": 12195291
+      },
+      {
+        "archivo": "2022/03_Marzo/Definitivo/Transferencia_Norte_2022_03_Marzo_v0804.xlsx",
+        "sha256": "d290a0fbdac2e947845ad825592ba228546467d8763e63ec0bb7c4636d016f0d",
+        "bytes": 13613534
+      },
+      {
+        "archivo": "2022/04_Abril/Definitivo/Transferencia_Norte_2022_04_Abril_v0905.xlsx",
+        "sha256": "6ccb6248fbc40f06eb64edb59433061ca6c993b14d23789b9493a6c1056d842a",
+        "bytes": 13460925
+      },
+      {
+        "archivo": "2022/05_Mayo/Definitivo/Transferencia_Norte_2022_05_Mayo_v0806.xlsx",
+        "sha256": "12bfe6f17d8ee6da44243eab9e3193b4b725420d671147716476b3bb6c1a28bf",
+        "bytes": 14655174
+      },
+      {
+        "archivo": "2022/06_Junio/Definitivo/Transferencia_Norte_2022_06_Junio_v0807.xlsx",
+        "sha256": "f1877f368777f64e56e1d529332d19e3912d3339584b7e07219054a413038a2c",
+        "bytes": 14298675
+      },
+      {
+        "archivo": "2022/07_Julio/Definitivo/Transferencia_Norte_2022_07_Julio_v0808.xlsx",
+        "sha256": "9e39415f343e096c015c89cd34bdee4d4ead3664438e88d0e780fae941ad58ca",
+        "bytes": 15119321
+      },
+      {
+        "archivo": "2022/08_Agosto/Definitivo/Transferencia_Norte_2022_08_Agosto_v0809.xlsx",
+        "sha256": "1360482e99a9aa76a97d1fc809b757e874943f6f1e4e96988a590be4e0c0ebfc",
+        "bytes": 15319897
+      },
+      {
+        "archivo": "2022/09_Septiembre/Definitivo/Transferencia_Norte_2022_09_Septiembre_v1110.xlsx",
+        "sha256": "d86b35994670eb9c941999ed462eff4905a24456e3fbf62a57bd9a068b3e5e30",
+        "bytes": 14868905
+      },
+      {
+        "archivo": "2022/10_Octubre/Definitivo/Transferencia_Norte_2022_10_Octubre_v0911.xlsx",
+        "sha256": "2c157207319c6dcdef9cd3e8af44cf96b768fc503b122827a799fe1151367fc7",
+        "bytes": 15453359
+      },
+      {
+        "archivo": "2022/11_Noviembre/Definitivo/Transferencia_Norte_2022_11_Noviembre_v0712.xlsx",
+        "sha256": "c1dd93433764859a7e59c18c6c11371211058db48d79eeb894f7a361cda08b6b",
+        "bytes": 15059185
+      },
+      {
+        "archivo": "2022/12_Diciembre/Definitivo/Transferencia_Norte_2022_12_Diciembre_v1001.xlsx",
+        "sha256": "0a2e264aa4fa49086085544b7758c65e31942486e26015158ee85ee05659a7f4",
+        "bytes": 15242944
+      }
+    ],
+    "unidad_verificada": false,
+    "nota": "Los 36 libros Norte originales cubren 2020–2022; DATALUNA aparece desde septiembre 2020. No se interpreta como entrada ni se imputa cero enero–agosto 2020."
+  },
+  "libros_2023": [
+    {
+      "archivo_original": "2023/01_Enero/Definitivo/1_Transferencia_Puntos_de_Medida_2023_01_Enero_v0802.xlsx",
+      "sha256": "73e638db6eff5e822f1f5ebc6dc39041f2dbdf7208109fa5a69fedbbcff29e9c",
+      "filas_extraidas": 0,
+      "canales_seleccionados": [],
+      "filas_fuera_calendario": [
+        755
+      ],
+      "nota": "Cada socket tiene D/R separados; R puede estar firmado negativo en el libro. No se impone convención de CSV posterior."
+    },
+    {
+      "archivo_original": "2023/02_Febrero/Definitivo/1_Transferencia_Puntos_de_Medida_2023_02_Febrero_v0803.xlsx",
+      "sha256": "1fb1fae85d8e8f136d9d00fd90ee303f0920e034facce573f0ed410bcf70e920",
+      "filas_extraidas": 2688,
+      "canales_seleccionados": [
+        {
+          "IDSOCKET": "TPLIBERT_110_H1_DLA",
+          "columna_excel": 3721,
+          "columna_letras": "EMC",
+          "canal_origen": "kWhD",
+          "total_mensual_origen": 0,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 672,
+          "suma_reconstruida": 0.0,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H1_DLA",
+          "columna_excel": 3722,
+          "columna_letras": "EMD",
+          "canal_origen": "kWhR",
+          "total_mensual_origen": 9017250.03718801,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 672,
+          "suma_reconstruida": 9017250.037188,
+          "error_total_mensual": -1.1175870895385742e-08
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H2_DLA",
+          "columna_excel": 3723,
+          "columna_letras": "EME",
+          "canal_origen": "kWhD",
+          "total_mensual_origen": 0,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 672,
+          "suma_reconstruida": 0.0,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H2_DLA",
+          "columna_excel": 3724,
+          "columna_letras": "EMF",
+          "canal_origen": "kWhR",
+          "total_mensual_origen": 1655335.0313112,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 672,
+          "suma_reconstruida": 1655335.0313112,
+          "error_total_mensual": 0.0
+        }
+      ],
+      "filas_fuera_calendario": [
+        683,
+        684
+      ],
+      "nota": "Cada socket tiene D/R separados; R puede estar firmado negativo en el libro. No se impone convención de CSV posterior."
+    },
+    {
+      "archivo_original": "2023/03_Marzo/Definitivo/1_Transferencia_Puntos_de_Medida_2023_03_Marzo_v1104.xlsx",
+      "sha256": "32db31dc2e6857d3f0e01ac74318def6f8dc233b9c28b17fac86f87052822cf6",
+      "filas_extraidas": 2976,
+      "canales_seleccionados": [
+        {
+          "IDSOCKET": "TPLIBERT_110_H1_DLA",
+          "columna_excel": 3763,
+          "columna_letras": "ENS",
+          "canal_origen": "kWhD",
+          "total_mensual_origen": 0,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 744,
+          "suma_reconstruida": 0.0,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H1_DLA",
+          "columna_excel": 3764,
+          "columna_letras": "ENT",
+          "canal_origen": "kWhR",
+          "total_mensual_origen": 10380912.1223202,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 744,
+          "suma_reconstruida": 10380912.1223202,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H2_DLA",
+          "columna_excel": 4967,
+          "columna_letras": "GIA",
+          "canal_origen": "kWhD",
+          "total_mensual_origen": 0,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 744,
+          "suma_reconstruida": 0.0,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H2_DLA",
+          "columna_excel": 4968,
+          "columna_letras": "GIB",
+          "canal_origen": "kWhR",
+          "total_mensual_origen": 1926100.4933474,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 744,
+          "suma_reconstruida": 1926100.4933474,
+          "error_total_mensual": 0.0
+        }
+      ],
+      "filas_fuera_calendario": [
+        755
+      ],
+      "nota": "Cada socket tiene D/R separados; R puede estar firmado negativo en el libro. No se impone convención de CSV posterior."
+    },
+    {
+      "archivo_original": "2023/04_Abril/Definitivo/1_Transferencia_Puntos_de_Medida_2023_04_Abril_v0905.xlsx",
+      "sha256": "497ed28775b3e24d7f023e2e8db46d31d7d332d3e236be25846ccc1a34fdc941",
+      "filas_extraidas": 2884,
+      "canales_seleccionados": [
+        {
+          "IDSOCKET": "TPLIBERT_110_H1_DLA",
+          "columna_excel": 3781,
+          "columna_letras": "EOK",
+          "canal_origen": "kWhD",
+          "total_mensual_origen": 0,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 721,
+          "suma_reconstruida": 0.0,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H1_DLA",
+          "columna_excel": 3782,
+          "columna_letras": "EOL",
+          "canal_origen": "kWhR",
+          "total_mensual_origen": 10228497.0399143,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 721,
+          "suma_reconstruida": 10228497.039914299,
+          "error_total_mensual": -1.862645149230957e-09
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H2_DLA",
+          "columna_excel": 4989,
+          "columna_letras": "GIW",
+          "canal_origen": "kWhD",
+          "total_mensual_origen": 0,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 721,
+          "suma_reconstruida": 0.0,
+          "error_total_mensual": 0.0
+        },
+        {
+          "IDSOCKET": "TPLIBERT_110_H2_DLA",
+          "columna_excel": 4990,
+          "columna_letras": "GIX",
+          "canal_origen": "kWhR",
+          "total_mensual_origen": 1854467.5722006,
+          "coordinado": "DATALUNA",
+          "subestacion": "TAP LIBERTADORES",
+          "tension_origen": "110",
+          "filas": 721,
+          "suma_reconstruida": 1854467.5722005998,
+          "error_total_mensual": -2.3283064365386963e-10
+        }
+      ],
+      "filas_fuera_calendario": [],
+      "nota": "Cada socket tiene D/R separados; R puede estar firmado negativo en el libro. No se impone convención de CSV posterior."
+    }
+  ],
+  "filas_canales_2023": 8548,
+  "dataluna_2023_01": {
+    "archivo_original": "2023/01_Enero/Definitivo/2_Transferencia_Norte_2023_01_Enero_v0802.xlsx",
+    "sha256": "8d455e3e8b844739d139ea63263d09f8bc5041bd1d50f26d1de291d4ee671f6b",
+    "filas_extraidas": 744,
+    "canales_seleccionados": [
+      {
+        "IDSOCKET": "DATALUNA",
+        "columna_excel": 258,
+        "columna_letras": "IX",
+        "canal_origen": "valor_firmado_sin_unidad_rotulada",
+        "total_mensual_origen": -12013042.3126305,
+        "coordinado": "DATALUNA",
+        "subestacion": "TAP LIBERTADORES",
+        "tension_origen": "110",
+        "filas": 744,
+        "suma_reconstruida": -12013042.3126305,
+        "error_total_mensual": 0.0
+      }
+    ],
+    "filas_fuera_calendario": [
+      755
+    ],
+    "nota": "Cada socket tiene D/R separados; R puede estar firmado negativo en el libro. No se impone convención de CSV posterior."
+  }
+}

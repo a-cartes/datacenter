@@ -1,0 +1,230 @@
+[
+  {
+    "archivo": "Unconfirmed 224290.crdownload",
+    "bytes": 15791517,
+    "miembros": [
+      {
+        "nombre": "Homologación barras cmg_2309.xlsx",
+        "offset": 0,
+        "data_offset": 106,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "efbd8065",
+        "bytes_comprimidos": 70863,
+        "bytes_miembro": 74304,
+        "tamanos_explicitos": true,
+        "miembro_completo": true
+      },
+      {
+        "nombre": "cmg2309_def.xlsm",
+        "offset": 70969,
+        "data_offset": 71015,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "3cc78871",
+        "bytes_comprimidos": 44613325,
+        "bytes_miembro": 57045544,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 232472.crdownload",
+    "bytes": 30056026,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2205_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "c5ee6970",
+        "bytes_comprimidos": 110964761,
+        "bytes_miembro": 200240849,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 276938.crdownload",
+    "bytes": 14843332,
+    "miembros": [
+      {
+        "nombre": "FPen_2208_def.zip",
+        "offset": 0,
+        "data_offset": 47,
+        "flags": 0,
+        "metodo": 0,
+        "crc32": "f29c7a68",
+        "bytes_comprimidos": 76170946,
+        "bytes_miembro": 76170946,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 337954.crdownload",
+    "bytes": 16465348,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2111_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "24c84f88",
+        "bytes_comprimidos": 127626405,
+        "bytes_miembro": 239210582,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 417903.crdownload",
+    "bytes": 13368771,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2109_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "141a1fa2",
+        "bytes_comprimidos": 112195510,
+        "bytes_miembro": 223898414,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 421226.crdownload",
+    "bytes": 94140932,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2111_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "24c84f88",
+        "bytes_comprimidos": 127626405,
+        "bytes_miembro": 239210582,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 468400.crdownload",
+    "bytes": 16904812,
+    "miembros": [
+      {
+        "nombre": "cmg2207_def.xlsm",
+        "offset": 0,
+        "data_offset": 46,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "6b16566f",
+        "bytes_comprimidos": 46953173,
+        "bytes_miembro": 52418803,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 642124.crdownload",
+    "bytes": 125218336,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2202_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "9fe56675",
+        "bytes_comprimidos": 171716136,
+        "bytes_miembro": 283190934,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 804120.crdownload",
+    "bytes": 13761988,
+    "miembros": [
+      {
+        "nombre": "cmg2312_def.xlsm",
+        "offset": 0,
+        "data_offset": 46,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "b9817deb",
+        "bytes_comprimidos": 43091309,
+        "bytes_miembro": 57390241,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 804699.crdownload",
+    "bytes": 15297955,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2209_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "27ca4c52",
+        "bytes_comprimidos": 127562099,
+        "bytes_miembro": 204322367,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 996373.crdownload",
+    "bytes": 16178589,
+    "miembros": [
+      {
+        "nombre": "Centrales_marginales_por_barra_2205_def.xlsm",
+        "offset": 0,
+        "data_offset": 74,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "c5ee6970",
+        "bytes_comprimidos": 110964761,
+        "bytes_miembro": 200240849,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  },
+  {
+    "archivo": "Unconfirmed 99892.crdownload",
+    "bytes": 15207966,
+    "miembros": [
+      {
+        "nombre": "cmg2210_def.xlsm",
+        "offset": 0,
+        "data_offset": 46,
+        "flags": 0,
+        "metodo": 8,
+        "crc32": "a5388e0b",
+        "bytes_comprimidos": 42495333,
+        "bytes_miembro": 52561523,
+        "tamanos_explicitos": true,
+        "miembro_completo": false
+      }
+    ]
+  }
+]

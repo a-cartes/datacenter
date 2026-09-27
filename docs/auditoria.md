@@ -1,5 +1,7 @@
 # Prueba de reproducción en un entorno nuevo
 
+> Esta página conserva la documentación de **v0.1.0**, con cobertura parcial de 2024. Para el dataset ampliado y su verificación consulte la [guía 2020–2026](ampliacion_2020_2026.md).
+
 [Inicio](../README.md) · [Instrucciones](reproducir.md) · [Proceso](proceso.md)
 
 **Resultado: satisfactorio.** El 25 de septiembre de 2026, hora de Chile, se instaló un entorno virtual nuevo y se reconstruyó el paquete en una carpeta temporal independiente. La prueba se realizó en el mismo equipo del trabajo original, con Python 3.13.15 sobre macOS ARM64. No es una réplica realizada por otro investigador ni una prueba en Linux o Windows.

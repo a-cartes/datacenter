@@ -1,0 +1,46 @@
+[
+  {
+    "barra": "QUILICURA_____110",
+    "codigo": "BA01T0054SE037T0054",
+    "fecha": "2023-10-01",
+    "hora": 1,
+    "fila": 11906,
+    "columna_precio": 32,
+    "lectura_independiente_openpyxl": [
+      202310,
+      1,
+      1,
+      "QUILICURA_____110",
+      102.68
+    ],
+    "valor_extraido": 102.68,
+    "archivo_fuente": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202310/cmg2310_def.xlsm",
+    "libro_sha256": "bb017af76f8818c17a91054ef78f674be2f8d5c59843f10c997624af88c4a15f",
+    "hoja": "CMG Barras",
+    "lector_independiente": "openpyxl.read_only,data_only",
+    "valor_exportacion_v3": 102.75,
+    "fuente_exportacion_v3": "SOCHER_2026_v3/precios/CEN_CMg_historicos_locales_2023_20240714_deduplicado.csv"
+  },
+  {
+    "barra": "QUILLOTA______110",
+    "codigo": "BA01T0002SE032T0002",
+    "fecha": "2023-10-19",
+    "hora": 8,
+    "fila": 14577,
+    "columna_precio": 32,
+    "lectura_independiente_openpyxl": [
+      202310,
+      19,
+      8,
+      "QUILLOTA______110",
+      41.99
+    ],
+    "valor_extraido": 41.99,
+    "archivo_fuente": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202310/cmg2310_def.xlsm",
+    "libro_sha256": "bb017af76f8818c17a91054ef78f674be2f8d5c59843f10c997624af88c4a15f",
+    "hoja": "CMG Barras",
+    "lector_independiente": "openpyxl.read_only,data_only",
+    "valor_exportacion_v3": 51.65,
+    "fuente_exportacion_v3": "SOCHER_2026_v3/precios/CEN_CMg_historicos_locales_2023_20240714_deduplicado.csv"
+  }
+]

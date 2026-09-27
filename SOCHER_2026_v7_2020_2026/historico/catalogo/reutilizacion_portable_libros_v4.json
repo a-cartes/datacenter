@@ -1,0 +1,66 @@
+[
+  {
+    "mes": "202402",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/cmg2402_def.xlsm",
+    "ruta_portable_desde_v7": "historico/libros/202402/cmg2402_def.xlsm",
+    "bytes": 56323817,
+    "sha256": "430f41776e00a97c6bcba0e98e889290637e5808803eeeb926eee072838e5bee",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202402",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/homologacion_202402_def.xlsx",
+    "ruta_portable_desde_v7": "historico/libros/202402/homologacion_202402_def.xlsx",
+    "bytes": 187239,
+    "sha256": "01f42afdbd54c3e58b82f2860da3a72afc45eed09b263188d83823752ac33ef3",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202404",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/cmg2404_def.xlsm",
+    "ruta_portable_desde_v7": "historico/libros/202404/cmg2404_def.xlsm",
+    "bytes": 61534259,
+    "sha256": "0579cca0eccc6383dda86bcdad15ce156fb5c3ca9c5530a578b80c441ab24352",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202404",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/homologacion_202404_def.xlsx",
+    "ruta_portable_desde_v7": "historico/libros/202404/homologacion_202404_def.xlsx",
+    "bytes": 192644,
+    "sha256": "8345a2de0b3702420a899636fd265e1b5ae58f5b22c94619346e34a43d66da13",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202406",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/cmg2406_def.xlsm",
+    "ruta_portable_desde_v7": "historico/libros/202406/cmg2406_def.xlsm",
+    "bytes": 62002838,
+    "sha256": "fb7b0b0ae7c3e7f2ceba22458804c3cb42901ee5ec6663e187af0b4caaa5c19b",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202406",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/homologacion_202406_def.xlsx",
+    "ruta_portable_desde_v7": "historico/libros/202406/homologacion_202406_def.xlsx",
+    "bytes": 195624,
+    "sha256": "0bafbbed3718c2af9fd886a8e7b153f5dadec1f4546e6388d1dfbbb2c0b85ae5",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202407",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/cmg2407_def.xlsm",
+    "ruta_portable_desde_v7": "historico/libros/202407/cmg2407_def.xlsm",
+    "bytes": 32941429,
+    "sha256": "c99d3b749b5c302023c3f23958db26c6a566d8591a88558bbdae2327f3179a16",
+    "accion": "copia_identica_sin_modificar_original"
+  },
+  {
+    "mes": "202407",
+    "fuente_original": "SOCHER_2026_v4/precios/originales/homologacion_202407_def.xlsx",
+    "ruta_portable_desde_v7": "historico/libros/202407/homologacion_202407_def.xlsx",
+    "bytes": 196209,
+    "sha256": "48292fe4bfcd7326824aba469bb4ac72e1314aa962cace2b1fcf68e7a4ca2d54",
+    "accion": "copia_identica_sin_modificar_original"
+  }
+]

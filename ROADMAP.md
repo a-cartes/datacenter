@@ -1,6 +1,6 @@
 # Ruta del artículo
 
-## Base observada
+## Base observada — primera entrega v0.1.0
 
 - [x] Integrar los precios disponibles y sus identidades históricas.
 - [x] Calcular diferenciales descriptivos respecto de Quillota 110 y 220 kV.
@@ -19,13 +19,21 @@
 - [ ] Obtener una réplica y revisión por otro investigador.
 - [x] Publicar una primera versión de trabajo con sus productos asociados en el repositorio privado.
 
+## Ampliación 2020–2026 — v0.2.0
+
+- [x] Adquirir y extraer los 55 meses del régimen histórico.
+- [x] Cerrar las 27 fuentes DEF modernas y el PRE separado.
+- [x] Integrar y verificar las 31 variables en CSV completo, anual y Parquet.
+- [x] Ampliar las mediciones y conservar sus unidades, signos y límites.
+- [ ] Congelar los insumos y reconstruir la nueva entrega en Linux.
+
 ## Validación documental y eléctrica
 
 - [ ] Validar centros, campus y fases.
 - [ ] Adjudicar fechas realizadas y distinguirlas de previsiones.
 - [ ] Acreditar vínculos centro–medidor–barra y sus vigencias.
 - [ ] Conciliar la convención horaria de precios y mediciones.
-- [ ] Ampliar la historia anterior y posterior a los eventos seleccionados.
+- [ ] Evaluar si la ventana observada 2020–2026 ofrece antecedentes y seguimiento suficientes para cada evento validado.
 
 ## Evaluación de impacto
 

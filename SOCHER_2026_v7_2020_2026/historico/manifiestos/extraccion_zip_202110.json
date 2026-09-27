@@ -1,0 +1,16 @@
+{
+  "mes": "202110",
+  "origen": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/originales/cmg2110_def.zip",
+  "sha256_zip": "5189ce37477db28e908eed95c8d0fefa69684f9c38561f8d845b63fa7f072f94",
+  "miembros": [
+    {
+      "ruta_zip": [
+        "cmg2110_def.zip",
+        "cmg2110_def.xlsm"
+      ],
+      "archivo": "historico/libros/202110/cmg2110_def.xlsm",
+      "sha256": "4a4972da28f55d71155d775871a2c67a57ac61af38a322dae65d561234b2e455",
+      "crc32": "293765da"
+    }
+  ]
+}

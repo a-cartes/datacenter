@@ -15,3 +15,22 @@ SOCHER_2026_dataset/tablas/
 
 # Ejecuciones locales posteriores; los controles de referencia se incorporan explícitamente.
 .pytest_cache/
+
+# Ampliación 2020–2026: entradas voluminosas y productos en releases privadas
+SOCHER_2026_v7_2020_2026/entrega/
+SOCHER_2026_v7_2020_2026/paquetes/
+SOCHER_2026_v7_2020_2026/historico/originales/
+SOCHER_2026_v7_2020_2026/historico/libros/
+SOCHER_2026_v7_2020_2026/historico/derivados/
+SOCHER_2026_v7_2020_2026/moderno/datos/*
+SOCHER_2026_v7_2020_2026/moderno/conci/
+SOCHER_2026_v7_2020_2026/moderno/fuentes/tsv_originales/
+SOCHER_2026_v7_2020_2026/mediciones/tablas/
+SOCHER_2026_v7_2020_2026/mediciones/originales/
+*.partial
+*.download.lock
+!SOCHER_2026_v7_2020_2026/moderno/datos/cobertura_barras_meses_moderno.csv
+!SOCHER_2026_v7_2020_2026/moderno/datos/cobertura_diaria_etiquetas_moderno.csv.gz
+!SOCHER_2026_v7_2020_2026/moderno/datos/identidades_publicadas_por_mes.csv
+!SOCHER_2026_v7_2020_2026/moderno/datos/resumen_particiones_moderno.csv
+!SOCHER_2026_v7_2020_2026/moderno/datos/resumen_marcas_fuente.csv

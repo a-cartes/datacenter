@@ -1,0 +1,412 @@
+{
+  "generado_utc": "2026-09-27T04:20:19.402394+00:00",
+  "fuentes_homologacion": {
+    "202309": {
+      "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202309/Homologación barras cmg_2309.xlsx",
+      "sha256": "b42281266ad0f7f9ea50300bcf61e249772a9687e459367574c75b257fbc7077",
+      "hoja": "HOMOLOGACIÓN"
+    },
+    "202310": {
+      "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202310/Homologación barras cmg_2310_def.xlsx",
+      "sha256": "dd4b52d72e622c1e528755a6023e561ab17c5867eec7fd03ae78e19673947e0f",
+      "hoja": "HOMOLOGACIÓN"
+    }
+  },
+  "barras_compartidas": 58,
+  "nemotecnicos_literales_distintos": 56,
+  "interpretacion": "Cambio literal observado en homologaciones mensuales; no se normalizan ceros ni se declara continuidad física por semejanza. Comparaciones por código exacto entre meses no son comparaciones completas de barras físicas.",
+  "filas": [
+    {
+      "barra_cmg": "A.JAHUEL2_____220",
+      "codigo_fisico_202309": "BA12T002SE002T002",
+      "nombre_fisico_202309": "BA S/E ALTO JAHUEL 220KV BP2",
+      "codigo_fisico_202310": "BA12T0002SE002T0002",
+      "nombre_fisico_202310": "BA S/E ALTO JAHUEL 220KV BP2"
+    },
+    {
+      "barra_cmg": "A.JAHUEL______066",
+      "codigo_fisico_202309": "BA06T002SE002T002",
+      "nombre_fisico_202309": "BA S/E ALTO JAHUEL 66KV",
+      "codigo_fisico_202310": "BA06T0002SE002T0002",
+      "nombre_fisico_202310": "BA S/E ALTO JAHUEL 66KV"
+    },
+    {
+      "barra_cmg": "A.JAHUEL______110",
+      "codigo_fisico_202309": "BA01T002SE002T002",
+      "nombre_fisico_202309": "BA S/E ALTO JAHUEL 110KV BP1",
+      "codigo_fisico_202310": "BA01T0002SE002T0002",
+      "nombre_fisico_202310": "BA S/E ALTO JAHUEL 110KV BP1"
+    },
+    {
+      "barra_cmg": "A.JAHUEL______154",
+      "codigo_fisico_202309": "BA03T002SE002T002",
+      "nombre_fisico_202309": "BA S/E ALTO JAHUEL 154KV BP",
+      "codigo_fisico_202310": "BA03T0002SE002T0002",
+      "nombre_fisico_202310": "BA S/E ALTO JAHUEL 154KV BP"
+    },
+    {
+      "barra_cmg": "A.JAHUEL______220",
+      "codigo_fisico_202309": "BA04T002SE002T002",
+      "nombre_fisico_202309": "BA S/E ALTO JAHUEL 220KV BP1",
+      "codigo_fisico_202310": "BA04T0002SE002T0002",
+      "nombre_fisico_202310": "BA S/E ALTO JAHUEL 220KV BP1"
+    },
+    {
+      "barra_cmg": "AJAHUEL_______500",
+      "codigo_fisico_202309": "BA05T002SE002T002",
+      "nombre_fisico_202309": "BA S/E ALTO JAHUEL 500KV BPA",
+      "codigo_fisico_202310": "BA05T0002SE002T0002",
+      "nombre_fisico_202310": "BA S/E ALTO JAHUEL 500KV BPA"
+    },
+    {
+      "barra_cmg": "BJOSDMNA______012",
+      "codigo_fisico_202309": "BA02T055SE004T055",
+      "nombre_fisico_202309": "BA S/E BAJOS DE MENA 15 kV BP1",
+      "codigo_fisico_202310": "BA02T0055SE004T0055",
+      "nombre_fisico_202310": "BA S/E BAJOS DE MENA 15 kV BP1"
+    },
+    {
+      "barra_cmg": "BJOSDMNA______110",
+      "codigo_fisico_202309": "BA01T055SE004T055",
+      "nombre_fisico_202309": "BA S/E BAJOS DE MENA 110 kV BP1",
+      "codigo_fisico_202310": "BA01T0055SE004T0055",
+      "nombre_fisico_202310": "BA S/E BAJOS DE MENA 110 kV BP1"
+    },
+    {
+      "barra_cmg": "C.CHENA2______220",
+      "codigo_fisico_202309": "BA09T054SE010T054",
+      "nombre_fisico_202309": "BA S/E CHENA 220KV BP2 (AIS)",
+      "codigo_fisico_202310": "BA09T0054SE010T0054",
+      "nombre_fisico_202310": "BA S/E CHENA 220KV BP2 (AIS)"
+    },
+    {
+      "barra_cmg": "C.CHENA_______110",
+      "codigo_fisico_202309": "BA02T054SE010T054",
+      "nombre_fisico_202309": "BA S/E CHENA 110KV BP1",
+      "codigo_fisico_202310": "BA02T0054SE010T0054",
+      "nombre_fisico_202310": "BA S/E CHENA 110KV BP1"
+    },
+    {
+      "barra_cmg": "C.CHENA_______220",
+      "codigo_fisico_202309": "BA10T054SE010T054",
+      "nombre_fisico_202309": "BA S/E CHENA 220KV BT1",
+      "codigo_fisico_202310": "BA10T0054SE010T0054",
+      "nombre_fisico_202310": "BA S/E CHENA 220KV BT1"
+    },
+    {
+      "barra_cmg": "C.NAVIA_______110",
+      "codigo_fisico_202309": "BA01T002SE008T002",
+      "nombre_fisico_202309": "BA S/E CERRO NAVIA 110KV BP1",
+      "codigo_fisico_202310": "BA01T0002SE008T0002",
+      "nombre_fisico_202310": "BA S/E CERRO NAVIA 110KV BP1"
+    },
+    {
+      "barra_cmg": "C.NAVIA_______220",
+      "codigo_fisico_202309": "BA03T002SE008T002",
+      "nombre_fisico_202309": "BA S/E CERRO NAVIA 220KV BP1",
+      "codigo_fisico_202310": "BA03T0002SE008T0002",
+      "nombre_fisico_202310": "BA S/E CERRO NAVIA 220KV BP1"
+    },
+    {
+      "barra_cmg": "CERRILLOS_____013",
+      "codigo_fisico_202309": "BA01T058SE156T058",
+      "nombre_fisico_202309": "BA S/E CERRILLOS 23KV",
+      "codigo_fisico_202310": "BA01T0058SE156T0058",
+      "nombre_fisico_202310": "BA S/E CERRILLOS 23KV"
+    },
+    {
+      "barra_cmg": "CERRILLOS_____110",
+      "codigo_fisico_202309": "BA02T058SE156T058",
+      "nombre_fisico_202309": "BA S/E CERRILLOS 110KV BP1",
+      "codigo_fisico_202310": "BA02T0058SE156T0058",
+      "nombre_fisico_202310": "BA S/E CERRILLOS 110KV BP1"
+    },
+    {
+      "barra_cmg": "CHACABUCO_____013",
+      "codigo_fisico_202309": "BA03T054SE009T054",
+      "nombre_fisico_202309": "BA S/E CHACABUCO 12.5KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE009T0054",
+      "nombre_fisico_202310": "BA S/E CHACABUCO 12.5KV BP1"
+    },
+    {
+      "barra_cmg": "CHACABUCO_____023",
+      "codigo_fisico_202309": "BA05T054SE009T054",
+      "nombre_fisico_202309": "BA S/E CHACABUCO 23KV BP2",
+      "codigo_fisico_202310": "BA05T0054SE009T0054",
+      "nombre_fisico_202310": "BA S/E CHACABUCO 23KV BP2"
+    },
+    {
+      "barra_cmg": "CHACABUCO_____110",
+      "codigo_fisico_202309": "BA01T054SE009T054",
+      "nombre_fisico_202309": "BA S/E CHACABUCO 110KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE009T0054",
+      "nombre_fisico_202310": "BA S/E CHACABUCO 110KV BP1"
+    },
+    {
+      "barra_cmg": "CHICUREO______023",
+      "codigo_fisico_202309": "BA04T054SE115T054",
+      "nombre_fisico_202309": "BA S/E CHICUREO 23KV BA1",
+      "codigo_fisico_202310": "BA04T0054SE115T0054",
+      "nombre_fisico_202310": "BA S/E CHICUREO 23KV BA1"
+    },
+    {
+      "barra_cmg": "CHICUREO______220",
+      "codigo_fisico_202309": "BA01T054SE115T054",
+      "nombre_fisico_202309": "BA S/E CHICUREO 220KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE115T0054",
+      "nombre_fisico_202310": "BA S/E CHICUREO 220KV BP1"
+    },
+    {
+      "barra_cmg": "EL_SALTO______110",
+      "codigo_fisico_202309": "BA03T054SE014T054",
+      "nombre_fisico_202309": "BA S/E EL SALTO 110KV BP1-1",
+      "codigo_fisico_202310": "BA03T0054SE014T0054",
+      "nombre_fisico_202310": "BA S/E EL SALTO 110KV BP1-1"
+    },
+    {
+      "barra_cmg": "EL_SALTO______220",
+      "codigo_fisico_202309": "BA01T054SE014T054",
+      "nombre_fisico_202309": "BA S/E EL SALTO 220KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE014T0054",
+      "nombre_fisico_202310": "BA S/E EL SALTO 220KV BP1"
+    },
+    {
+      "barra_cmg": "L.VEGAS2______110",
+      "codigo_fisico_202309": "BA02T057SE021T057",
+      "nombre_fisico_202309": "BA S/E LAS VEGAS (CHILQUINTA) 110KV BP2",
+      "codigo_fisico_202310": "BA02T0057SE021T0057",
+      "nombre_fisico_202310": "BA S/E LAS VEGAS (CHILQUINTA) 110KV BP2"
+    },
+    {
+      "barra_cmg": "L.VEGAS_______013",
+      "codigo_fisico_202309": "BA05T057SE021T057",
+      "nombre_fisico_202309": "BA S/E LAS VEGAS (CHILQUINTA) 12kV BP1",
+      "codigo_fisico_202310": "BA05T0057SE021T0057",
+      "nombre_fisico_202310": "BA S/E LAS VEGAS (CHILQUINTA) 12kV BP1"
+    },
+    {
+      "barra_cmg": "L.VEGAS_______044",
+      "codigo_fisico_202309": "BA03T057SE021T057",
+      "nombre_fisico_202309": "BA S/E LAS VEGAS (CHILQUINTA) 44kV BP1",
+      "codigo_fisico_202310": "BA03T0057SE021T0057",
+      "nombre_fisico_202310": "BA S/E LAS VEGAS (CHILQUINTA) 44kV BP1"
+    },
+    {
+      "barra_cmg": "L.VEGAS_______110",
+      "codigo_fisico_202309": "BA01T057SE021T057",
+      "nombre_fisico_202309": "BA S/E LAS VEGAS (CHILQUINTA) 110KV BP1",
+      "codigo_fisico_202310": "BA01T0057SE021T0057",
+      "nombre_fisico_202310": "BA S/E LAS VEGAS (CHILQUINTA) 110KV BP1"
+    },
+    {
+      "barra_cmg": "LAMPA________023",
+      "codigo_fisico_202309": "BA03T054SE020T054",
+      "nombre_fisico_202309": "BA S/E LAMPA 23KV BP2",
+      "codigo_fisico_202310": "BA03T0054SE020T0054",
+      "nombre_fisico_202310": "BA S/E LAMPA 23KV BP2"
+    },
+    {
+      "barra_cmg": "LAMPA_________220",
+      "codigo_fisico_202309": "BA01T054SE020T054",
+      "nombre_fisico_202309": "BA S/E LAMPA 220KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE020T0054",
+      "nombre_fisico_202310": "BA S/E LAMPA 220KV BP1"
+    },
+    {
+      "barra_cmg": "LA_POLVORA____110",
+      "codigo_fisico_202309": "BA03T707SE001T707",
+      "nombre_fisico_202309": "BA S/E LA POLVORA 110KV BP1",
+      "codigo_fisico_202310": "BA03T0707SE001T0707",
+      "nombre_fisico_202310": "BA S/E LA POLVORA 110KV BP1"
+    },
+    {
+      "barra_cmg": "LO_AGUIRRE____012",
+      "codigo_fisico_202309": "BA02T054SE022T054",
+      "nombre_fisico_202309": "BA S/E LO AGUIRRE 12KV BP1",
+      "codigo_fisico_202310": "BA02T0054SE022T0054",
+      "nombre_fisico_202310": "BA S/E LO AGUIRRE 12KV BP1"
+    },
+    {
+      "barra_cmg": "LO_AGUIRRE____110",
+      "codigo_fisico_202309": "BA01T054SE022T054",
+      "nombre_fisico_202309": "BA S/E LO AGUIRRE 110KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE022T0054",
+      "nombre_fisico_202310": "BA S/E LO AGUIRRE 110KV BP1"
+    },
+    {
+      "barra_cmg": "LO_AGUIRRE____220",
+      "codigo_fisico_202309": "BA03T002SE102T002",
+      "nombre_fisico_202309": "BA S/E SECCIONADORA LO AGUIRRE 230KV BP1",
+      "codigo_fisico_202310": "BA03T0002SE102T0002",
+      "nombre_fisico_202310": "BA S/E SECCIONADORA LO AGUIRRE 230KV BP1"
+    },
+    {
+      "barra_cmg": "LO_AGUIRRE____500",
+      "codigo_fisico_202309": "BA01T002SE102T002",
+      "nombre_fisico_202309": "BA S/E SECCIONADORA LO AGUIRRE 525KV BP1",
+      "codigo_fisico_202310": "BA01T0002SE102T0002",
+      "nombre_fisico_202310": "BA S/E SECCIONADORA LO AGUIRRE 525KV BP1"
+    },
+    {
+      "barra_cmg": "LO_ESPEJO_____110",
+      "codigo_fisico_202309": "BA01L011SE003L011",
+      "nombre_fisico_202309": "BA S/E LO ESPEJO (FFCC) 110KV",
+      "codigo_fisico_202310": "BA01L0011SE003L0011",
+      "nombre_fisico_202310": "BA S/E LO ESPEJO (FFCC) 110KV"
+    },
+    {
+      "barra_cmg": "MAIPO_________110",
+      "codigo_fisico_202309": "BA02T061SE005T061",
+      "nombre_fisico_202309": "BA S/E MAIPO 110KV [NO_MOSTRAR]",
+      "codigo_fisico_202310": "BA02T0061SE005T0061",
+      "nombre_fisico_202310": "BA S/E MAIPO 110KV [NO_MOSTRAR]"
+    },
+    {
+      "barra_cmg": "MAIPO_________220",
+      "codigo_fisico_202309": "BA01T061SE005T061",
+      "nombre_fisico_202309": "BA S/E MAIPO 220KV [NO_MOSTRAR]",
+      "codigo_fisico_202310": "BA01T0061SE005T0061",
+      "nombre_fisico_202310": "BA S/E MAIPO 220KV [NO_MOSTRAR]"
+    },
+    {
+      "barra_cmg": "P.HURTADO_____023",
+      "codigo_fisico_202309": "BA01T058SE270T058",
+      "nombre_fisico_202309": "BA S/E PADRE HURTADO 23KV B1",
+      "codigo_fisico_202310": "BA01T0058SE270T0058",
+      "nombre_fisico_202310": "BA S/E PADRE HURTADO 23KV B1"
+    },
+    {
+      "barra_cmg": "PANAMERICANA__012",
+      "codigo_fisico_202309": "BA03T054SE035T054",
+      "nombre_fisico_202309": "BA S/E PANAMERICANA 12KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE035T0054",
+      "nombre_fisico_202310": "BA S/E PANAMERICANA 12KV BP1"
+    },
+    {
+      "barra_cmg": "POLPAICO______023",
+      "codigo_fisico_202309": "BA02T054SE089T054",
+      "nombre_fisico_202309": "BA S/E POLPAICO 23KV BP1",
+      "codigo_fisico_202310": "BA02T0054SE089T0054",
+      "nombre_fisico_202310": "BA S/E POLPAICO 23KV BP1"
+    },
+    {
+      "barra_cmg": "POLPAICO______220",
+      "codigo_fisico_202309": "BA01T002SE030T002",
+      "nombre_fisico_202309": "BA S/E POLPAICO (TRANSELEC) 220KV BP1",
+      "codigo_fisico_202310": "BA01T0002SE030T0002",
+      "nombre_fisico_202310": "BA S/E POLPAICO (TRANSELEC) 220KV BP1"
+    },
+    {
+      "barra_cmg": "POLPAICO______500",
+      "codigo_fisico_202309": "BA02T002SE030T002",
+      "nombre_fisico_202309": "BA S/E POLPAICO (TRANSELEC) 500KV BPA",
+      "codigo_fisico_202310": "BA02T0002SE030T0002",
+      "nombre_fisico_202310": "BA S/E POLPAICO (TRANSELEC) 500KV BPA"
+    },
+    {
+      "barra_cmg": "PUDAHUEL______013",
+      "codigo_fisico_202309": "BA03T054SE036T054",
+      "nombre_fisico_202309": "BA S/E PUDAHUEL 12KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE036T0054",
+      "nombre_fisico_202310": "BA S/E PUDAHUEL 12KV BP1"
+    },
+    {
+      "barra_cmg": "PUDAHUEL______110",
+      "codigo_fisico_202309": "BA01T054SE036T054",
+      "nombre_fisico_202309": "BA S/E PUDAHUEL 110KV BP1 [No_Mostrar]",
+      "codigo_fisico_202310": "BA01T0054SE036T0054",
+      "nombre_fisico_202310": "BA S/E PUDAHUEL 110KV BP1 [NO_MOSTRAR]"
+    },
+    {
+      "barra_cmg": "QUILICURA_____013",
+      "codigo_fisico_202309": "BA05T054SE037T054",
+      "nombre_fisico_202309": "BA S/E QUILICURA 12KV BP2",
+      "codigo_fisico_202310": "BA05T0054SE037T0054",
+      "nombre_fisico_202310": "BA S/E QUILICURA 12KV BP2"
+    },
+    {
+      "barra_cmg": "QUILICURA_____023",
+      "codigo_fisico_202309": "BA03T054SE037T054",
+      "nombre_fisico_202309": "BA S/E QUILICURA 23KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE037T0054",
+      "nombre_fisico_202310": "BA S/E QUILICURA 23KV BP1"
+    },
+    {
+      "barra_cmg": "QUILICURA_____110",
+      "codigo_fisico_202309": "BA01T054SE037T054",
+      "nombre_fisico_202309": "BA S/E QUILICURA 110KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE037T0054",
+      "nombre_fisico_202310": "BA S/E QUILICURA 110KV BP1"
+    },
+    {
+      "barra_cmg": "QUILLOTA______110",
+      "codigo_fisico_202309": "BA01T002SE032T002",
+      "nombre_fisico_202309": "BA S/E QUILLOTA 110KV BP1",
+      "codigo_fisico_202310": "BA01T0002SE032T0002",
+      "nombre_fisico_202310": "BA S/E QUILLOTA 110KV BP1"
+    },
+    {
+      "barra_cmg": "QUILLOTA______220",
+      "codigo_fisico_202309": "BA02T002SE032T002",
+      "nombre_fisico_202309": "BA S/E QUILLOTA 220KV BP1-1",
+      "codigo_fisico_202310": "BA02T0002SE032T0002",
+      "nombre_fisico_202310": "BA S/E QUILLOTA 220KV BP1-1"
+    },
+    {
+      "barra_cmg": "RECOLETA______013",
+      "codigo_fisico_202309": "BA03T054SE038T054",
+      "nombre_fisico_202309": "BA S/E RECOLETA 13.2KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE038T0054",
+      "nombre_fisico_202310": "BA S/E RECOLETA 13.2KV BP1 [NO_MOSTRAR]"
+    },
+    {
+      "barra_cmg": "RECOLETA______110",
+      "codigo_fisico_202309": "BA01T054SE038T054",
+      "nombre_fisico_202309": "BA S/E RECOLETA 110KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE038T0054",
+      "nombre_fisico_202310": "BA S/E RECOLETA 110KV BP1"
+    },
+    {
+      "barra_cmg": "SANTA_MARTA___013",
+      "codigo_fisico_202309": "BA03T054SE046T054",
+      "nombre_fisico_202309": "BA S/E SANTA MARTA 12KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE046T0054",
+      "nombre_fisico_202310": "BA S/E SANTA MARTA 12KV BP1"
+    },
+    {
+      "barra_cmg": "SANTA_MARTA___023",
+      "codigo_fisico_202309": "BA08T054SE046T054",
+      "nombre_fisico_202309": "BA S/E SANTA MARTA 23KV BA3",
+      "codigo_fisico_202310": "BA08T0054SE046T0054",
+      "nombre_fisico_202310": "BA S/E SANTA MARTA 23KV BA3"
+    },
+    {
+      "barra_cmg": "SANTA_MARTA___110",
+      "codigo_fisico_202309": "BA01T054SE046T054",
+      "nombre_fisico_202309": "BA S/E SANTA MARTA 110KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE046T0054",
+      "nombre_fisico_202310": "BA S/E SANTA MARTA 110KV BP1"
+    },
+    {
+      "barra_cmg": "SAN_BERNARDO__013",
+      "codigo_fisico_202309": "BA03T054SE040T054",
+      "nombre_fisico_202309": "BA S/E SAN BERNARDO 12KV BP1",
+      "codigo_fisico_202310": "BA03T0054SE040T0054",
+      "nombre_fisico_202310": "BA S/E SAN BERNARDO 12KV BP1"
+    },
+    {
+      "barra_cmg": "SAN_BERNARDO__110",
+      "codigo_fisico_202309": "BA01T054SE040T054",
+      "nombre_fisico_202309": "BA S/E SAN BERNARDO 110KV BP1",
+      "codigo_fisico_202310": "BA01T0054SE040T0054",
+      "nombre_fisico_202310": "BA S/E SAN BERNARDO 110KV BP1"
+    },
+    {
+      "barra_cmg": "TLIBERTADORES_110",
+      "codigo_fisico_202309": "BA01T043SE001T043",
+      "nombre_fisico_202309": "BA S/E TAP LIBERTADORES 110 KV BP1",
+      "codigo_fisico_202310": "BA01T0043SE001T0043",
+      "nombre_fisico_202310": "BA S/E TAP LIBERTADORES 110 KV BP1"
+    }
+  ]
+}

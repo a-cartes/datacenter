@@ -1,0 +1,758 @@
+{
+  "generado_utc": "2026-09-27T04:24:36.622449+00:00",
+  "archivos": [
+    {
+      "archivo": "historico/catalogo/LEEME_fuentes_historicas.md",
+      "bytes": 6984,
+      "sha256": "74f3013319dce812a34caa382a10039f936a441d5f83922e3071a3eb2c7dfdef",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/catalogo/archivos_historicos_disponibles.json",
+      "bytes": 2233,
+      "sha256": "6f4719f8290e66ebfab9874b9ccea671ee5ac47dc69f0c22eaffc67819f04ef9",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/catalogo_cmg_oficial_2020_2024.json",
+      "bytes": 49470,
+      "sha256": "8750983813b01b89eccef5bcb39fbebb2ea7441bd2f7278e9681e68a30add05f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/cobertura_historica_actual.csv",
+      "bytes": 8458,
+      "sha256": "bddb60712e56b86c76cde14a42124550015ad1d1701f2aa776f9f155e6e95ef1",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/catalogo/cobertura_historica_actual.json",
+      "bytes": 26062,
+      "sha256": "d490c4a305e300c9a28527ea8427a22eb711ba73cb24485d063afdbf89d509c5",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/catalogo/definitivos_cmg_2020_2024.csv",
+      "bytes": 19901,
+      "sha256": "3750482bbcd2ecd8ca16aa7c65ba30f57214945159bcd8b4cbf34bf77381595f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/descargas_historicas_registradas.json",
+      "bytes": 64815,
+      "sha256": "02ad39b94daa585c1f5258b00c86ad8c3b9e646ce769b9b8104dd0f6be89b1bc",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/catalogo/descargas_parciales_observadas.json",
+      "bytes": 11386,
+      "sha256": "fbb4294dac645db9a66a9627e757c26a41dbc0516db5f4e9d972e0c37c06ac30",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/inventariar_descargas_parciales.py",
+      "bytes": 1737,
+      "sha256": "4dabb5e4a4f839185b3d8ec254afd668dd646e7d91c379d0a85601c426ce7881",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/miembros_en_parciales.json",
+      "bytes": 5590,
+      "sha256": "608305fe516642f05a78227bf96a95e7852199821f67d12d2cee7d05430f1257",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/procesar_lote_disponible.py",
+      "bytes": 1724,
+      "sha256": "c9413eed4eb079763037d2d9d979c72d05ada0b538b0922c214f4dc1f570928c",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/recuperacion_parciales_ultimo_lote.json",
+      "bytes": 130,
+      "sha256": "652638a2253e0b698d3fde74c096905c025971d28db3b815a60212395053e07e",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/catalogo/recuperar_libros_de_parciales.py",
+      "bytes": 8317,
+      "sha256": "f58545b1cf7a33c404ad561d8c8da03a73c04e7f45aec8c9a60569678656911a",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/registrar_descargas_historicas.py",
+      "bytes": 5760,
+      "sha256": "648e240dfbed344b64bf1508acf082e4fcc3f351990afd6b4c33def94b6b0c9b",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/reliquidaciones_disponibles_no_seleccionadas.csv",
+      "bytes": 8843,
+      "sha256": "94a2f57a40780318d97165b6aec2ae10e1afa45a859e5812165a991b5523840b",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/resumir_cobertura_historica.py",
+      "bytes": 2303,
+      "sha256": "25eab4445483f52443d364ee5cc3c53918efd23faba994945cb1f5511994856b",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/catalogo/reutilizacion_portable_libros_v4.json",
+      "bytes": 2811,
+      "sha256": "b5de84a92749c0feb4fb6fa99bfe35dc087315a74dcbef69f670738961d3afcf",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/extraer_precios_historicos.py",
+      "bytes": 12077,
+      "sha256": "406671bf1d5b40f173bae44c63c055a3d3a8f52b49800b75fb6cef4c5b2d942e",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202001.json",
+      "bytes": 534,
+      "sha256": "7511566980bfcb60aafa70c8559d9faa6f30174850a2e6bbe5b59ea0e71e089c",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202002.json",
+      "bytes": 542,
+      "sha256": "f95269d5e99363d6806a85d82e74793bb83ef681ba81d5b49fcf0f1fc4b4bc00",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202003.json",
+      "bytes": 534,
+      "sha256": "494058b0e2256847da64ff8e031c1f67c68b4bb9752e0ff28c45d1d79d2b1984",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202004.json",
+      "bytes": 542,
+      "sha256": "7e9e9bf65e1e22ffe77954d775376a4f84f239b30faf871b8e37816447537a80",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202005.json",
+      "bytes": 542,
+      "sha256": "ddc400d4d33bf07ca8355513aa2877419373f1ad13f8bba617d1ee19fb248539",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202006.json",
+      "bytes": 561,
+      "sha256": "2e188414f697536f2f1c924a2f6caef60a1ae98c8ebe630625d678f21c0bbc3f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202007.json",
+      "bytes": 561,
+      "sha256": "22591d4e87723e10a8374eb31cf3d7d1fbe1a17ec73d377cbe72d6ceffab1233",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202008.json",
+      "bytes": 544,
+      "sha256": "4557997292adc2c0dd9b4eaca4b2d79bd0109327e1694eeedef62c63eba680a8",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202009.json",
+      "bytes": 542,
+      "sha256": "9c903a606518dce9fc90739a0609d5b4518f653d26f2055447db977d7a093b18",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202010.json",
+      "bytes": 534,
+      "sha256": "361e510862697551856372deadc2df039eb6636c0e363065cedb2c573cf2145f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202011.json",
+      "bytes": 534,
+      "sha256": "93ddde8a98946d40c7a6e2fa5550aece65c9c1d0a0de699cb9156b3f1135fd19",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202012.json",
+      "bytes": 496,
+      "sha256": "f385f85fe9a5e33c5eb11e3edc9581275dc00372ad7a1d9c18ca7e0ae26dee45",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202101.json",
+      "bytes": 561,
+      "sha256": "972725ff992c661c09e85c4e8c68b362a195b38d8bf5c3297a8f87183721d97d",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202102.json",
+      "bytes": 560,
+      "sha256": "ef82067a7fb56b1754076cd6f8c826db048dbeb2881e17a5df101fb1992a1a93",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202103.json",
+      "bytes": 562,
+      "sha256": "a01938a55ba4c30c617948460cb59542537ad822a56d75e4eec01d563b8ceaf2",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202104.json",
+      "bytes": 534,
+      "sha256": "27836645a6369235ca3d8abc56ce898e6f6db8cdea15e10ade1bdc12fb8ec7d0",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202105.json",
+      "bytes": 542,
+      "sha256": "11793a9c2d4498b4f0093e59d5e73243c9f1481031441ab6d8c1fc8d0229025d",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202106.json",
+      "bytes": 542,
+      "sha256": "992804acb05fed87c5095f68f4814f493dda49d1a005b6a2037576b3ddf32aed",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202107.json",
+      "bytes": 542,
+      "sha256": "b51e7c52e3a346082d5c547d869a6a674349a5fe20786ba5f620bbb94a8b30d8",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202108.json",
+      "bytes": 542,
+      "sha256": "4da815a6675cbd8ceeba2808fb523e48c7c9c07911bd036f51e05e3622e3fbc6",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202109.json",
+      "bytes": 542,
+      "sha256": "0ec49df9ec640f53e11c7529b524b4f2cf66756f85cae009d720faa7fb8f4e3f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202110.json",
+      "bytes": 534,
+      "sha256": "8d85829feb588f3874702f9e57014147b45b3921afb6178911cc876ae14be0fe",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202111.json",
+      "bytes": 546,
+      "sha256": "5df637718779760e60740ee061c282d59e95c5861a38efe3cdeee71bc52c6ee3",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202112.json",
+      "bytes": 534,
+      "sha256": "9ecc03afee3761b9af5a4e08ea0cad5d334c50e84f3752170ff20935fd415b49",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202201.json",
+      "bytes": 534,
+      "sha256": "9e91eba3b62cbefb7f695a984c243c3711fbf2b7b9d15644c29ab97e4702e061",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202202.json",
+      "bytes": 542,
+      "sha256": "a7c5cd98f7771ffef01a2cf747dad9b705c4bd5f54b7fc109cbecfd53a1c931b",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202203.json",
+      "bytes": 534,
+      "sha256": "9cfad0163d9a9aaaf15d40d4ac84ac7b8e12d5938847bba99b4156f85c4b6f87",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202204.json",
+      "bytes": 534,
+      "sha256": "c716cdfde88898ec2e9d8da2202082bd4c7122986b5aab0008eda6e36d2c1188",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202205.json",
+      "bytes": 542,
+      "sha256": "a145527ba6a1a46fa1eab95e679abf05994980863d55cf8da102d0ef03808719",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202206.json",
+      "bytes": 534,
+      "sha256": "1e0b4563cf9fb78bee374f3f29124bf1daafebf5c5dfdb1f592c70e8e5f71a5e",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202207.json",
+      "bytes": 542,
+      "sha256": "0e373ef4719e8918a8f1b5238c506ff4d3d58c6c1094e4026157005e30d10083",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202208.json",
+      "bytes": 542,
+      "sha256": "21cc8ef6b6d1fd7da34165a2e47280383d55d41bc4cdaf73cb681b81ccb64ddf",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202209.json",
+      "bytes": 542,
+      "sha256": "02ac5ee7313691512f0a88867b35d8a026f760e058e3bfe956451f4c961dbdf6",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202210.json",
+      "bytes": 542,
+      "sha256": "5bbacf2a6f7bd4e6dcde5cb3a88d0c94b4d9c3347ca8db696d81c49b0e0c56cd",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202211.json",
+      "bytes": 534,
+      "sha256": "b205b5ab27bc305ec0bb6e1779dc75133eab1d2340ebca09ea148425621951b7",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202212.json",
+      "bytes": 534,
+      "sha256": "e48250272af4fa2875ea17202a71f1dee660dd4e64f2d7c7bc2b8438073108c5",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202301.json",
+      "bytes": 542,
+      "sha256": "7e3b9ad853d1d381cfae8d8a159ec48ac6371ea35635c2d3eb281430fea3c65d",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202302.json",
+      "bytes": 542,
+      "sha256": "9eae39bb124e48220ba6b63bf2b1580bd852f54df1c71afd4172d9611fdd0eb9",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202303.json",
+      "bytes": 542,
+      "sha256": "b472152f564af6ec0d4213ecdf51ae45765f11b6fbf7d6d236441c51eea34ced",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202304.json",
+      "bytes": 534,
+      "sha256": "a66dfca6d73be7491b3214209b3562a054180db8174fb268d4dbb5c399baab80",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202305.json",
+      "bytes": 542,
+      "sha256": "3cdf1460ac44a2ff973805f5fd12db6f035d9ad3522732df27cdda43aebb5423",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202306.json",
+      "bytes": 542,
+      "sha256": "a3cbc29c2ec7b206b0f2517490dec4353e6436fea9a0c1ed4be3a0ee33be3781",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202309.json",
+      "bytes": 849,
+      "sha256": "d58e909c6cb9e4b2392be545fa4bd1997248b6f9a902d97275bfce8012aabefd",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202310.json",
+      "bytes": 845,
+      "sha256": "02351263ff4067e10789539d95cb8a4c80a844800fee7cefbc4695e111337e40",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202311.json",
+      "bytes": 845,
+      "sha256": "6ee48ac6f9de6efaa9946cf0c4ca87b28e955a125d34a9a5406d51c020841648",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202312.json",
+      "bytes": 857,
+      "sha256": "b44d9a284379a4b497289c3a98bd255f2ea3afcd24a0a6654d792c220b06d877",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202401.json",
+      "bytes": 845,
+      "sha256": "58147bf423c695cd32f97bb15bd37449407523354c46727489b785d0eb7ae7b9",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202403.json",
+      "bytes": 857,
+      "sha256": "35a6e646e10648ccd10b620eb56b61800f640f5f7c969690a1b7a046f2dcc385",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/extraccion_zip_202405.json",
+      "bytes": 857,
+      "sha256": "eccd2477ce4853860a1f3afe5f1702e97d430195ba470decd347a69db5ec500a",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202001.json",
+      "bytes": 983,
+      "sha256": "0e2d3da559b321d241d81f7279e0c5c4b466580ab9ee014e4af49683b2ba6832",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202002.json",
+      "bytes": 983,
+      "sha256": "ea0bbfd5fc9eaa0044d5605a39410ff32cfa5416cad305b7da588825ab8fea46",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202003.json",
+      "bytes": 983,
+      "sha256": "3e96dcbf86cfd4c1588eed2f020cd803b64148489d900e8d481881153f400e0d",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202004.json",
+      "bytes": 983,
+      "sha256": "f4dd7e52bb05045a3e9f375d9dc98b36183fc4625891302518533f0398294fec",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202005.json",
+      "bytes": 983,
+      "sha256": "f8ba085c160ed29a908a85ecd6ce02f534d54949b84c2edb51886a3eeecde29a",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202006.json",
+      "bytes": 983,
+      "sha256": "561c6adc4377b722376996f396c6fd4c5489c704bd23c868863a0dad558d6fd5",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202007.json",
+      "bytes": 983,
+      "sha256": "200dab5f09b804810bc974e72a1062d0b2ab969a5efe79bc21e1dfeec825f064",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202008.json",
+      "bytes": 983,
+      "sha256": "586d4a4cea852ffae174a0b7223ed53339daea2bae5e734806dfbe699e1e186e",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202009.json",
+      "bytes": 983,
+      "sha256": "67fe99cc7bc6c3d4c39f3a30f4877c9afc650da6f765c330757dc10c2a826b9a",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202010.json",
+      "bytes": 983,
+      "sha256": "632619e4bd9c8bdd0c6a05c00ea52b6b23f7ecbdf916f4ea77581d04c1e237ef",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202011.json",
+      "bytes": 983,
+      "sha256": "cb6363ccdd671f3830b1a7b341fe09245ff50a790bd0c3ce0790dbd08baf411b",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202012.json",
+      "bytes": 983,
+      "sha256": "09b643769c90025990a04b379f190b86318dccbf533b7150a45f3011740d33ed",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202101.json",
+      "bytes": 983,
+      "sha256": "5c80b5a8d8c3ab4daab52e035a817cdf61a00c63407ce93a6194fafbe4a7645b",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202102.json",
+      "bytes": 983,
+      "sha256": "e7c5ce0a8bf14b22c28ed74955a7f7c6c7f25811bdb52d13446d9a91e9425058",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202103.json",
+      "bytes": 983,
+      "sha256": "521b6f3e720b1a42a442bed85ac1ac14ddf8df47656263b72a2b711a904901e4",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202104.json",
+      "bytes": 983,
+      "sha256": "688e3548ea298391845cd924da23d03cd2da5fc2d3fdec619b62a71def83db65",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202105.json",
+      "bytes": 983,
+      "sha256": "7d8177c0c1eb17447c7b6f7e7a46bfd9d20b7897cb8387c57ce76457adb6c304",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202106.json",
+      "bytes": 983,
+      "sha256": "c77e80ad0326bd9078263e9740bf0535d1de2271a70157c5ce44fde60cf81b1f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202107.json",
+      "bytes": 983,
+      "sha256": "80d8472b2e9c4e587646eb17829ef10bbb8e4cf5a8b7f4b4034f1597cb068efd",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202108.json",
+      "bytes": 983,
+      "sha256": "c60b753cce0b0d7236b3f011d2e9ae98e1a3e6094f53d330c8feeaa34b26669c",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202109.json",
+      "bytes": 983,
+      "sha256": "894dff50963b6e1f7b68aebceadd8e31afdc5652c69d2c1eabc6dad0220eeab9",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202110.json",
+      "bytes": 983,
+      "sha256": "e6326d3ea09eae411e1c297f1d0f5856e294bf72a65a40a8b9215630e4eea238",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202111.json",
+      "bytes": 983,
+      "sha256": "9ed0e7e60745180e60c8814a62d318a58b4fa1af700568309637612b95a4162f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202112.json",
+      "bytes": 983,
+      "sha256": "e836f24dc213e568e3a1778a690983a0d6093dc1cbba6ce7f0e09a7cbdd098bd",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202201.json",
+      "bytes": 983,
+      "sha256": "aae9a4331395cb890902407b5392a3f151bc8b8d79d290a9312ecddb9798ee68",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202202.json",
+      "bytes": 983,
+      "sha256": "2d4b2dfd8c1ef7bf8060caa6826afdff35fa30cb6ff51acf1b97d51bcfd48ed7",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202203.json",
+      "bytes": 983,
+      "sha256": "b250b69926ca0b1bf7a8323f4034faf19714c2a065a6348e860402d4ce601462",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202204.json",
+      "bytes": 983,
+      "sha256": "eb6ec4ffbd77b587aa433f7b4cde1f8274e7a48b2c2098132c74c774fddc8968",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202205.json",
+      "bytes": 983,
+      "sha256": "2f7346e104b22ebf33606edc56c1d26d69bc110c7fe6370ce1002b343da8c0c7",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202206.json",
+      "bytes": 983,
+      "sha256": "a4b9f7e8a4d1ad127bd3154bd869906039ce44b1d7ed4efcfc896db171a9f652",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202207.json",
+      "bytes": 983,
+      "sha256": "cb05e7c4f8e8ce389b555dea0c83ea5da63f8ef034f227e4cf2c92915b47bace",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202208.json",
+      "bytes": 983,
+      "sha256": "e8231a49db7deaefdf486d5916d5bf026dd7b4479e209e53e094774cdf403b19",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202209.json",
+      "bytes": 983,
+      "sha256": "4eb8f8c9cfc6638aad17f9b81714538d599d39d4c13665b7fa3eab32545c401c",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202210.json",
+      "bytes": 983,
+      "sha256": "0c94ff2bd3c58e16576f2a50a01aab6f2d2ff29c056b9420b762c92fb6e57702",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202211.json",
+      "bytes": 983,
+      "sha256": "eeb949d4e48c07ad96fb57a5c52da16ec71038c520b5715178a1fe2101c9e65c",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202212.json",
+      "bytes": 983,
+      "sha256": "1ce4fcecffc7a3cbbd9e6fc2e446afdf98dd91f8d01efb379032603712cf2046",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202301.json",
+      "bytes": 983,
+      "sha256": "9e494b95e2e09ee69cdc7dc94ba877ffca7cb115b1380c2b8f95409d851b4119",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202302.json",
+      "bytes": 983,
+      "sha256": "8b05630c931d0ecce9d2a338d8913be58d36b82a48882071114fe7aeed6fd2d1",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202303.json",
+      "bytes": 983,
+      "sha256": "358c52709d276d4c4322bd59e7f62eb3836b9d27160e31c355413a208885fa1d",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202304.json",
+      "bytes": 983,
+      "sha256": "ac9f588f8ce57d738c3e82370b9bfed0b526d03a08e26dabd7f428041d57416a",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202305.json",
+      "bytes": 983,
+      "sha256": "9b27877e85ff1bbdec59cbebc04c597f11e914b2cc21d5a493d5dd60536a406a",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202306.json",
+      "bytes": 983,
+      "sha256": "3f8dc96c445c4c1743d2f78513eba3a3ba939813d1927bf32d6a89acda77b423",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202307.json",
+      "bytes": 983,
+      "sha256": "170251c714266ca76559da6fbc5e6d5eaf58a3b1a2ca3fc2b49b416138d40b20",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202308.json",
+      "bytes": 983,
+      "sha256": "524bb7256434ee0163cd2bfe7f4bcda4c4421b1014745a83b1092203e3228550",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202309.json",
+      "bytes": 1302,
+      "sha256": "dd6520b4ea7d3be370147ec5eaaf6b2758d7dbd663fad8292adc90b48eae7cea",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202310.json",
+      "bytes": 1306,
+      "sha256": "8bd355d49cc1949957a143585425100600f6c8c56e53ca188ccde66fae2a69ef",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202311.json",
+      "bytes": 1306,
+      "sha256": "ef00fb626e0f2c68f03527281e055ae18e903fa342e5b9ee33e9a79556a79378",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202312.json",
+      "bytes": 1306,
+      "sha256": "aa9f8c77934286ae5ff7b346d6eb78aed4f72d9d18952fd215f59730a8ce4404",
+      "copiado_ahora": true
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202401.json",
+      "bytes": 1306,
+      "sha256": "a32ae2f8fe3d07f8e52f3935d509c6093e83d83d850a777d524027cce6af9c7f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202402.json",
+      "bytes": 1296,
+      "sha256": "9ec3d71f934e115f5379805c6e17e0d5895d8b7e50b97b2122fd31d25f6b8dd8",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202403.json",
+      "bytes": 1306,
+      "sha256": "f4babbed7a21ff6da8f1bd74f91670bf72f21885cbd1a6ce9fffe4fa58a64b9f",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202404.json",
+      "bytes": 1296,
+      "sha256": "413531aa6ec756f8f352803c653fd5dc545b35bdbac5011299fb0122e5cad3f4",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202405.json",
+      "bytes": 1306,
+      "sha256": "ff68f94f244b0b7b06fcd61e55e52b19d77f939f451f33ae1625e89489e2d376",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202406.json",
+      "bytes": 1296,
+      "sha256": "6645d3a465e7a3338ed4281fdc5652dcf207eee34d68abfa43286c6a3aaa4672",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/precios_202407.json",
+      "bytes": 1294,
+      "sha256": "f0f97d29c021468e24791b4d8fbf61d2c75a0025db8355ea8719e15c21038020",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/recuperacion_parcial_202307_0cfd69dc826fad27.json",
+      "bytes": 2210,
+      "sha256": "e78b6f87b3ce98a9643bb64487ddd48fb42705a1ef46bce21994a382b899fa65",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/recuperacion_parcial_202308_902f448654a3f0ae.json",
+      "bytes": 2210,
+      "sha256": "43c93aea5f39e3bf19114c1c630f994eda984d83f498edeb669a3be5f17a7fee",
+      "copiado_ahora": false
+    },
+    {
+      "archivo": "historico/manifiestos/recuperacion_parcial_202309_02fa3e3fb4c00b4b.json",
+      "bytes": 1883,
+      "sha256": "26cf325c213312c741ec087aa47ccfc194d1c4a62e9af3b353a50ab2ce62a57a",
+      "copiado_ahora": false
+    }
+  ],
+  "n_archivos": 125,
+  "bytes": 331138,
+  "regla": "Sólo .py/.json/.md y CSV dentro de catálogo; excluye originales, derivados, libros y cachés. No operaciones Git/remoto."
+}

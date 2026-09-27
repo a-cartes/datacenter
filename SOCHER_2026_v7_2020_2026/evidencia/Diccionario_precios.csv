@@ -1,0 +1,32 @@
+variable,tipo,descripcion
+fecha,string,Fecha civil rotulada en la fuente; no es fecha UTC.
+anio,int64,Año de fecha.
+mes,string,Mes civil YYYY-MM.
+regimen_precio,string,Histórico hasta 14/07/2024 o nuevo CMg Real desde 15/07/2024.
+barra_cmg,string,Etiqueta de barra seleccionada; no identifica necesariamente un activo estable entre meses.
+barra_cmg_original,string,Etiqueta histórica original antes de normalización; moderna preservada literalmente.
+codigo_fisico_mensual,string,"Código de homologación mensual histórica exacta, si disponible; no se transporta entre meses."
+nombre_fisico_mensual,string,"Nombre de homologación histórica mensual, si disponible."
+id_info_fuente,string,"ID_INFO moderno original, puede estar vacío; no se imputa desde nombre."
+barra_info_fuente,string,Nombre moderno original asociado a ID_INFO; texto original preservado.
+familia_barra_historica,string,Familia usada por el filtro histórico; no es identidad física certificada.
+estado_identidad,string,Estado de homologación/selección documentado por cada extractor.
+barra_mes_id,string,Identificador de registro dentro de régimen y mes. No es identificador longitudinal.
+hora_etiqueta_historica,int64,Etiqueta histórica 1–25. Vacía en régimen moderno. No convertir a UTC ni equiparar automáticamente con hora moderna.
+hora_fuente_moderna,int64,HRA moderna 0–24 original. Vacía en histórico. Conserva la numeración fuente.
+precio_usd_mwh,float64,"Precio histórico publicado o media moderna sólo con cuatro intervalos 0,15,30,45. USD/MWh."
+precio_usd_mwh_media_intervalos,float64,"Media moderna de intervalos observados, incluso si hora incompleta; vacía en histórico. No sustituye automáticamente al precio horario válido."
+precio_clp_kwh,float64,Precio moderno CLP/kWh sólo para horas completas; vacío en histórico.
+n_intervalos,int64,Cantidad de intervalos modernos observados. Vacía en histórico (fuente ya horaria).
+minutos_observados,string,"Minutos modernos observados, separados por coma; vacíos en histórico."
+hora_completa_4_intervalos,bool,"Validez de agregación moderna 15→60 minutos. Vacía en histórico, no falsa."
+version_fuente,string,DEF histórico o REAL-DEF moderno. PRE se entrega en otro archivo.
+fuente_id,string,"Llave a Fuentes_precios.csv: archivos, SHA-256, unidades, reloj y método."
+fila_fuente,int64,"Fila del libro histórico. En moderno, trazabilidad al TSV y capa de intervalos mediante fuente_id."
+columna_fuente,int64,Columna del libro histórico; vacía en moderno.
+precio_ref_quillota_110_usd_mwh,float64,"Precio de QUILLOTA______110 con coincidencia exacta única de fecha y hora dentro del mismo mes/régimen. Referencia descriptiva, no control causal."
+diferencial_quillota_110_usd_mwh,float64,"precio_usd_mwh menos precio_ref_quillota_110_usd_mwh. Vacío si falta cualquiera, referencia ambigua o hora incompleta."
+id_ref_quillota_110,string,barra_mes_id de la observación única de referencia Quillota 110 con precio válido; no identidad longitudinal.
+precio_ref_quillota_220_usd_mwh,float64,"Precio de QUILLOTA______220 con coincidencia exacta única de fecha y hora dentro del mismo mes/régimen. Referencia descriptiva, no control causal."
+diferencial_quillota_220_usd_mwh,float64,"precio_usd_mwh menos precio_ref_quillota_220_usd_mwh. Vacío si falta cualquiera, referencia ambigua o hora incompleta."
+id_ref_quillota_220,string,barra_mes_id de la observación única de referencia Quillota 220 con precio válido; no identidad longitudinal.

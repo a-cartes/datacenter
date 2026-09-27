@@ -1,0 +1,29 @@
+{
+  "mes": "202310",
+  "filas": 43152,
+  "barras_etiqueta": 58,
+  "fecha_min": "2023-10-01",
+  "fecha_max": "2023-10-31",
+  "dias": 31,
+  "fuente_filas_seleccionadas_antes_corte": 43152,
+  "libro": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202310/cmg2310_def.xlsm",
+  "libro_sha256": "bb017af76f8818c17a91054ef78f674be2f8d5c59843f10c997624af88c4a15f",
+  "homologacion": {
+    "archivo": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202310/Homologación barras cmg_2310_def.xlsx",
+    "sha256": "dd4b52d72e622c1e528755a6023e561ab17c5867eec7fd03ae78e19673947e0f",
+    "hoja": "HOMOLOGACIÓN"
+  },
+  "estado_identidad": {
+    "homologacion_mensual_exacta": 41664,
+    "etiqueta_sin_homologacion_mensual": 1488
+  },
+  "faltantes_explicitos": [],
+  "duplicados": 0,
+  "outputs": {
+    "historico/derivados/precios_202310.parquet": "e47f2078f5d877590d673a15e279f60fa9123a4b554a978a09f22d0235ceb636",
+    "historico/derivados/precios_202310.csv.gz": "93894389ef26d5e17ebba7a9dde10fe35758eb3f3eef484485733305b267c778"
+  },
+  "script_sha256": "406671bf1d5b40f173bae44c63c055a3d3a8f52b49800b75fb6cef4c5b2d942e",
+  "ejecucion_utc": "2026-09-27T03:44:51.731179+00:00",
+  "segundos": 17.2
+}

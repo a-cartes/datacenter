@@ -1,0 +1,46 @@
+name: Reconstrucción de precios 2020–2026
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reconstruir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: v0.2.0
+      - uses: actions/setup-python@v7
+        with:
+          python-version-file: .python-version
+          cache: pip
+          cache-dependency-path: requirements-lock.txt
+      - name: Instalar versiones declaradas
+        run: python -m pip install -r requirements-lock.txt
+      - name: Comprobar referencias y detección de datos alterados
+        run: |
+          python SOCHER_2026_v7_2020_2026/scripts/probar_referencias_descriptivas.py
+          python SOCHER_2026_v7_2020_2026/scripts/probar_verificador_entrega.py
+          python SOCHER_2026_v7_2020_2026/scripts/probar_wrapper_reproduccion.py --wrapper scripts/reproducir_2020_2026.py
+      - name: Descargar instantánea de insumos de esta versión privada
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download v0.2.0 --repo "$GITHUB_REPOSITORY" --pattern 'Insumos_reproduccion_2020_2026.zip' --dir artifacts/insumos
+      - name: Reconstruir y comprobar todos los valores
+        run: python scripts/reproducir_2020_2026.py --insumos artifacts/insumos/Insumos_reproduccion_2020_2026.zip
+      - name: Preservar informes de reproducción
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: evidencia-2020-2026
+          path: |
+            artifacts/reproduccion_2020_2026.json
+            SOCHER_2026_v7_2020_2026/entrega/Manifiesto_entrega.json
+            SOCHER_2026_v7_2020_2026/entrega/Verificacion_entrega.json
+            SOCHER_2026_v7_2020_2026/entrega/Cobertura_por_anio.csv
+          if-no-files-found: warn
+          retention-days: 90

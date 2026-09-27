@@ -1,5 +1,17 @@
 # Historial de versiones
 
+## v0.2.0 — 27 de septiembre de 2026
+
+- Amplía precios a 3.411.527 registros de barra y hora publicada, entre 01/01/2020 y 18/09/2026, en 31 variables.
+- Integra 55 particiones históricas y 27 modernas DEF; mantiene septiembre PRE separado.
+- Añade CSV completo, siete CSV anuales, Parquet, diccionario, cobertura y reporte de faltantes.
+- Conserva los relojes originales y códigos mensuales, sin inferir UTC ni tratamientos.
+- Incorpora 1.862.581 mediciones de 15 minutos en una capa separada, con antecedentes horarios y agregado HT1 + HT2 sujeto a validación eléctrica.
+- Valida las 31 columnas entre CSV y Parquet, la concatenación anual y el archivo comprimido. Recontrasta los 178.016 precios anteriores sin diferencias.
+- Preserva fuentes, huellas, extracción desde ZIP/OOXML/TSV y cuatro adquisiciones verificadas en GitHub Actions.
+- Distribuye un paquete de insumos para reconstrucción exacta de los CSV; los originales nacionales permanecen como etapa de adquisición separada.
+- La verificación computacional no resuelve fechas de tratamiento, continuidad física ni validez causal.
+
 ## 0.1.0 — Base observada, paquete de trabajo
 
 Preparación local: 25 de septiembre de 2026. [Primera versión del repositorio privado](https://github.com/a-cartes/datacenter/releases/tag/v0.1.0): 26 de septiembre UTC, todavía 25 de septiembre en Chile.

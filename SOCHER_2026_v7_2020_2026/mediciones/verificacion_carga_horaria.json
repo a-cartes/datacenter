@@ -1,0 +1,61 @@
+{
+  "fuente": "tablas/mediciones_candidatos_15min.parquet",
+  "sha256_fuente": "8ec616e347cfe1610295b8d7441ab14fcda05469564cbbe726230a73f2c20e32",
+  "horas": 21912,
+  "horas_incompletas": 0,
+  "dias_locales": 913,
+  "desde_local": "2024-02-01 00:00:00.000",
+  "hasta_local": "2026-08-31 23:45:00.000",
+  "mediciones_HT1_HT2_HT3": 242500,
+  "comparacion_2024": {
+    "filas": 67384,
+    "errores_max_kwh": {
+      "energia_D_kwh": 0.0,
+      "energia_R_kwh": 0.0
+    },
+    "sha256_extracto_v3": "6af8d821eaa1738d5526684a860ef9cc81f5f35c17247d249c461c84d7f2d37c"
+  },
+  "HT2_R_positivo_intervalos": 74,
+  "energia_D_HT1_HT2_kwh": 85701047.4719743,
+  "energia_R_HT1_HT2_kwh": 5.921067000000001,
+  "no_incluye_HT3_ni_lineas": true,
+  "no_convierte_fecha_presencia_en_tratamiento": true,
+  "no_acredita_carga_total_campus": true,
+  "catalogo_tablas": [
+    {
+      "archivo": "tablas/carga_HT1_HT2_hora_etiqueta.parquet",
+      "filas": 21912,
+      "columnas": 18,
+      "bytes": 666447,
+      "sha256": "682ee16382fe274010731e3e3eef46d5025877db0c2bdfa0d01b8c5ef8d5c082"
+    },
+    {
+      "archivo": "tablas/dataluna_horario_2020_2022_no_homologado.parquet",
+      "filas": 20447,
+      "columnas": 30,
+      "bytes": 505971,
+      "sha256": "6e2581733d9aa93356603854513bc487790346aece5a5bd1d3893251fcbc08aa"
+    },
+    {
+      "archivo": "tablas/dataluna_horario_2023_01_no_homologado.parquet",
+      "filas": 744,
+      "columnas": 21,
+      "bytes": 31877,
+      "sha256": "d5698b8e1532cebfe11ceb83761b6d9f80cdfa4725c62540a42a040da5d9b758"
+    },
+    {
+      "archivo": "tablas/mediciones_canales_horarios_2023_01_04.parquet",
+      "filas": 8548,
+      "columnas": 21,
+      "bytes": 114892,
+      "sha256": "5ca19600ad7d3162b78da842ae7d1d6c1dcf95445df51a5145918fdc421fedf0"
+    },
+    {
+      "archivo": "tablas/mediciones_candidatos_15min.parquet",
+      "filas": 1862581,
+      "columnas": 37,
+      "bytes": 44441083,
+      "sha256": "8ec616e347cfe1610295b8d7441ab14fcda05469564cbbe726230a73f2c20e32"
+    }
+  ]
+}

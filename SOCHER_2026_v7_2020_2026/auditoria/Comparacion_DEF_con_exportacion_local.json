@@ -1,0 +1,248 @@
+{
+  "fuente_previa": "SOCHER_2026_v3/precios/CEN_CMg_historicos_locales_2023_20240714_deduplicado.csv",
+  "nota": "Comparación diagnóstica de códigos exactos. No permite igualar versiones o afirmar continuidad temporal.",
+  "meses": [
+    {
+      "mes": "202301",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2232,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202302",
+      "n_exportacion_local": 2016,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2016,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202303",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2232,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202304",
+      "n_exportacion_local": 2163,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2163,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202305",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2232,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202306",
+      "n_exportacion_local": 2160,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2160,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202307",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2232,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202308",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2232,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202309",
+      "n_exportacion_local": 2160,
+      "n_comparadas_codigo_exacto": 0,
+      "n_no_comparables": 2160,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": null,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202310",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 2232,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 437,
+      "max_diferencia": 9.75,
+      "ejemplos_diferentes": [
+        {
+          "codigo_fisico": "BA01T0002SE032T0002",
+          "fecha": "2023-10-19",
+          "hora_etiqueta": 8,
+          "costo_en_dolares": 51.65,
+          "precio_usd_mwh": 41.99
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 1,
+          "costo_en_dolares": 102.75,
+          "precio_usd_mwh": 102.68
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 10,
+          "costo_en_dolares": 65.58,
+          "precio_usd_mwh": 65.52
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 11,
+          "costo_en_dolares": 104.03,
+          "precio_usd_mwh": 103.93
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 12,
+          "costo_en_dolares": 111.18,
+          "precio_usd_mwh": 111.07
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 13,
+          "costo_en_dolares": 111.18,
+          "precio_usd_mwh": 111.07
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 14,
+          "costo_en_dolares": 111.18,
+          "precio_usd_mwh": 111.07
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 15,
+          "costo_en_dolares": 111.18,
+          "precio_usd_mwh": 111.07
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 16,
+          "costo_en_dolares": 111.18,
+          "precio_usd_mwh": 111.07
+        },
+        {
+          "codigo_fisico": "BA01T0054SE037T0054",
+          "fecha": "2023-10-01",
+          "hora_etiqueta": 17,
+          "costo_en_dolares": 111.21,
+          "precio_usd_mwh": 111.1
+        }
+      ]
+    },
+    {
+      "mes": "202311",
+      "n_exportacion_local": 2160,
+      "n_comparadas_codigo_exacto": 2160,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202312",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 2232,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202401",
+      "n_exportacion_local": 1488,
+      "n_comparadas_codigo_exacto": 1488,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202402",
+      "n_exportacion_local": 1392,
+      "n_comparadas_codigo_exacto": 1392,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202403",
+      "n_exportacion_local": 1488,
+      "n_comparadas_codigo_exacto": 1488,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202404",
+      "n_exportacion_local": 2163,
+      "n_comparadas_codigo_exacto": 2163,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202405",
+      "n_exportacion_local": 2232,
+      "n_comparadas_codigo_exacto": 2232,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202406",
+      "n_exportacion_local": 2160,
+      "n_comparadas_codigo_exacto": 2160,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    },
+    {
+      "mes": "202407",
+      "n_exportacion_local": 1344,
+      "n_comparadas_codigo_exacto": 1344,
+      "n_no_comparables": 0,
+      "diferencias_mayores_1e_10": 0,
+      "max_diferencia": 0.0,
+      "ejemplos_diferentes": []
+    }
+  ]
+}

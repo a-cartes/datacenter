@@ -1,0 +1,60 @@
+[
+  {
+    "mes": "202402",
+    "ruta": "SOCHER_2026_v4/precios/originales/cmg2402_def.xlsm",
+    "bytes": 56323817,
+    "sha256": "430f41776e00a97c6bcba0e98e889290637e5808803eeeb926eee072838e5bee",
+    "estado": "reutilizar_libro_local_sin_recopia",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/03/cmg2402_def.zip"
+  },
+  {
+    "mes": "202404",
+    "ruta": "SOCHER_2026_v4/precios/originales/cmg2404_def.xlsm",
+    "bytes": 61534259,
+    "sha256": "0579cca0eccc6383dda86bcdad15ce156fb5c3ca9c5530a578b80c441ab24352",
+    "estado": "reutilizar_libro_local_sin_recopia",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/05/cmg2404_def.zip"
+  },
+  {
+    "mes": "202405",
+    "ruta": "SOCHER_2026_v4/precios/originales/cmg2405_def.xlsm",
+    "bytes": 64398873,
+    "sha256": "b9ce4415885c1b98f0041ecb16dc9799069ce72e8618218c35c54e2296b044f1",
+    "estado": "reutilizar_libro_local_sin_recopia",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/06/cmg2405_def.zip"
+  },
+  {
+    "mes": "202406",
+    "ruta": "SOCHER_2026_v4/precios/originales/cmg2406_def.xlsm",
+    "bytes": 62002838,
+    "sha256": "fb7b0b0ae7c3e7f2ceba22458804c3cb42901ee5ec6663e187af0b4caaa5c19b",
+    "estado": "reutilizar_libro_local_sin_recopia",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/07/cmg2406_def.zip"
+  },
+  {
+    "mes": "202407",
+    "ruta": "SOCHER_2026_v4/precios/originales/cmg2407_def.xlsm",
+    "bytes": 32941429,
+    "sha256": "c99d3b749b5c302023c3f23958db26c6a566d8591a88558bbdae2327f3179a16",
+    "estado": "reutilizar_libro_local_sin_recopia",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/08/cmg2407_def.zip"
+  },
+  {
+    "mes": "202012",
+    "ruta": "SOCHER_2026_v7_2020_2026/historico/originales/cmg2012_def.zip",
+    "bytes": 192039097,
+    "sha256": "e6f6b03219d939334bfeac0ad41a69fa7124afcb2e946dee633a914d072e263c",
+    "estado": "descargado_por_root_copiado_localmente",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2021/01/cmg2012_def.zip",
+    "miembros_exteriores": [
+      {
+        "nombre": "cmg2012_def.zip",
+        "bytes": 127821175
+      },
+      {
+        "nombre": "FPen_2012_pre.zip",
+        "bytes": 64217684
+      }
+    ]
+  }
+]

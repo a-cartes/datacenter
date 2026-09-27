@@ -1,0 +1,171 @@
+{
+  "fecha_corte": "2026-09-27",
+  "creado_utc": "2026-09-27T04:26:23.577761+00:00",
+  "alcance": "barras seleccionadas para el artículo; no universo nacional ni panel causal equilibrado",
+  "estado": "82_fuentes_DEF_integradas",
+  "fuentes_DEF_esperadas": 82,
+  "fuentes_DEF_integradas": 82,
+  "fuentes_DEF_pendientes": 0,
+  "filas_precios_DEF": 3411527,
+  "fecha_desde": "2020-01-01",
+  "fecha_hasta": "2026-09-18",
+  "filas_faltantes_documentados": 513,
+  "fuentes_PRE_separadas": 1,
+  "mediciones": [
+    {
+      "archivo": "mediciones_separadas/carga_HT1_HT2_hora_etiqueta.csv",
+      "filas": 21912,
+      "columnas": 24,
+      "fuente": "mediciones/tablas/carga_HT1_HT2_hora_etiqueta.parquet",
+      "sha256_fuente": "682ee16382fe274010731e3e3eef46d5025877db0c2bdfa0d01b8c5ef8d5c082"
+    },
+    {
+      "archivo": "mediciones_separadas/dataluna_horario_2020_2022_no_homologado.csv",
+      "filas": 20447,
+      "columnas": 32,
+      "fuente": "mediciones/tablas/dataluna_horario_2020_2022_no_homologado.parquet",
+      "sha256_fuente": "6e2581733d9aa93356603854513bc487790346aece5a5bd1d3893251fcbc08aa"
+    },
+    {
+      "archivo": "mediciones_separadas/dataluna_horario_2023_01_no_homologado.csv",
+      "filas": 744,
+      "columnas": 23,
+      "fuente": "mediciones/tablas/dataluna_horario_2023_01_no_homologado.parquet",
+      "sha256_fuente": "d5698b8e1532cebfe11ceb83761b6d9f80cdfa4725c62540a42a040da5d9b758"
+    },
+    {
+      "archivo": "mediciones_separadas/mediciones_canales_horarios_2023_01_04.csv",
+      "filas": 8548,
+      "columnas": 23,
+      "fuente": "mediciones/tablas/mediciones_canales_horarios_2023_01_04.parquet",
+      "sha256_fuente": "5ca19600ad7d3162b78da842ae7d1d6c1dcf95445df51a5145918fdc421fedf0"
+    }
+  ],
+  "estimaciones_causales": false,
+  "precios_unidos_a_consumo": false,
+  "UTC_precios_inferido": false,
+  "script": "scripts/construir_entrega.py",
+  "sha256_script": "cc01affcf91475333cb5360991f7a46a2491b64d7183b84cbc9a353a564096bf",
+  "archivos": [
+    {
+      "archivo": "Cobertura_por_anio.csv",
+      "bytes": 464,
+      "sha256": "ebda9a35f07529c1ec61d7ecdc8143a8135e233e8b75e359742b43ed757cf73f"
+    },
+    {
+      "archivo": "Cobertura_por_mes_barra.csv",
+      "bytes": 863972,
+      "sha256": "18e3c7c591e6324f524f08f5376910bff834da9c2f21eb6a5ed2e466f51189f6"
+    },
+    {
+      "archivo": "Cobertura_por_mes_regimen.csv",
+      "bytes": 10610,
+      "sha256": "21ab2917df42267da663445eface79ee6515b769ff1dd81cc7b1df70d1c41576"
+    },
+    {
+      "archivo": "Dataset_precios_barra_hora_2020_2026.csv",
+      "bytes": 1212668988,
+      "sha256": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b"
+    },
+    {
+      "archivo": "Dataset_precios_barra_hora_2020_2026.csv.gz",
+      "bytes": 71073343,
+      "sha256": "f307ac76c1137582ccb698100e79cc156150223d5b4ea9d27a8f7b9e59678710"
+    },
+    {
+      "archivo": "Dataset_precios_barra_hora_2020_2026.parquet",
+      "bytes": 55818438,
+      "sha256": "84ca36dc328434dbeb9c0dda511b8eca1f4ee6caee48c29c0b642db7b7c93a00"
+    },
+    {
+      "archivo": "Diccionario_precios.csv",
+      "bytes": 3515,
+      "sha256": "9ce715d536d764daa42d162c51f61e9a66e8c298dee5cc46103d52b2490338be"
+    },
+    {
+      "archivo": "Faltantes_precios_detalle.csv",
+      "bytes": 115990,
+      "sha256": "9cbd136039f1e820a469e0a432500aee5a5801486a828883ad0658c71bd4a34d"
+    },
+    {
+      "archivo": "Fuentes_precios.csv",
+      "bytes": 54201,
+      "sha256": "abc1a3b455679fe9f14bb78260b4cf14f1269d9b8aac84a78b5e7b238fbb43f9"
+    },
+    {
+      "archivo": "LEEME_dataset.md",
+      "bytes": 9094,
+      "sha256": "1913a67400c0dd2a84270a2d40e2205ef962dc407aacca633e685438fe8dfe0a"
+    },
+    {
+      "archivo": "mediciones_separadas/Cobertura_mediciones_2020_2026.md",
+      "bytes": 6957,
+      "sha256": "6ce89ea288730f8f0a13a36ed5c17aab7283e77aede7b0d169bd33bbfcb88693"
+    },
+    {
+      "archivo": "mediciones_separadas/carga_HT1_HT2_hora_etiqueta.csv",
+      "bytes": 9279221,
+      "sha256": "dd8843fd679daa4f9f1a74912dda5542cf4bbae8c1399f69b8bd0084e0ad4a27"
+    },
+    {
+      "archivo": "mediciones_separadas/dataluna_horario_2020_2022_no_homologado.csv",
+      "bytes": 13602223,
+      "sha256": "256a7d3c2525feaf2a3e8438c8d57bc56b62d2fc3f4b06688b4c7045d44507b5"
+    },
+    {
+      "archivo": "mediciones_separadas/dataluna_horario_2023_01_no_homologado.csv",
+      "bytes": 366991,
+      "sha256": "d747e646faed280ced734cdbadd932b4c75cb7d67c9f5bc1a11f42cff1ebd53f"
+    },
+    {
+      "archivo": "mediciones_separadas/mediciones_canales_horarios_2023_01_04.csv",
+      "bytes": 3984824,
+      "sha256": "61fc32c15062ab4e492eb75ff538e6fd7efa350f83f748dc6bcfe1eea36d13ea"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2020.csv",
+      "bytes": 150614390,
+      "sha256": "d3776314040d0c837d43890a2cdbf1e8c71ae7b084f07075d5fabebe716c75c5"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2021.csv",
+      "bytes": 150751881,
+      "sha256": "3535705027cb9000b6f1dd4e664d767ae56698f1b567f74cfd7156287283dad3"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2022.csv",
+      "bytes": 151295389,
+      "sha256": "6d70fa7e795b2ddbcd4be6a66f0baab2a0c02b040adf7b9319edea62a1978a65"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2023.csv",
+      "bytes": 161977735,
+      "sha256": "6c905f9c091671cb78dcd7ec8ea38d7e038a523995d108d18ca65b6efa3c9239"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2024.csv",
+      "bytes": 198972813,
+      "sha256": "8c536bdde3b82eb920e996c6c2b88276292b03dba9573d28e6b95ae62863e9df"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2025.csv",
+      "bytes": 231653780,
+      "sha256": "2e7bc9faf415307df32af011a7fa873ec55e21582fd5e4eb8a12d8ea16eaa85e"
+    },
+    {
+      "archivo": "por_anio/Dataset_precios_barra_hora_2026.csv",
+      "bytes": 167406462,
+      "sha256": "3f19404e93e2df17bf6b54dddf14985c9d60e287859ff07f9d13b1c4995d2815"
+    },
+    {
+      "archivo": "preliminares_separados/202609_PRE_horario.csv",
+      "bytes": 14646493,
+      "sha256": "5762e31d891cc0e468bd06dc9903a03b1729098a7b9ccb1d0db2695e20cb9e4e"
+    },
+    {
+      "archivo": "preliminares_separados/Fuentes_PRE.csv",
+      "bytes": 896,
+      "sha256": "e47ecaba4a4868f78ff73219f15a99fcc6c95fc790c4826bc9426d491a4a432f"
+    }
+  ]
+}

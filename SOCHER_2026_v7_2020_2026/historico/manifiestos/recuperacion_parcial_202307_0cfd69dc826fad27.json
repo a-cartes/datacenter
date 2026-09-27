@@ -1,0 +1,65 @@
+{
+  "mes": "202307",
+  "observado_utc": "2026-09-27T04:13:36.304401+00:00",
+  "estado_contenedor": "ZIP_INCOMPLETO_NO_VALIDADO_COMO_CONJUNTO",
+  "fuente_parcial": "/Users/yo/Downloads/Unconfirmed 283424.crdownload",
+  "bytes_parcial": 187579730,
+  "mtime_parcial_ns": 1790481679404133741,
+  "mtime_parcial_utc": "2026-09-27T04:01:19.404134+00:00",
+  "copia_estable": "originales/parciales_preservados/202307_0cfd69dc826fad27.zip.part",
+  "copia_sha256": "0cfd69dc826fad27c953ead2b290dfee297c2bb817454550b767eef31cd10c0a",
+  "url_oficial_correspondiente": "https://www.coordinador.cl/wp-content/uploads/2023/08/cmg2307_def.zip",
+  "metodo_asociacion_url": "Mes del nombre de miembro DEF y catálogo de enlaces observados; nombre temporal del navegador no acredita URL de transporte.",
+  "miembros_observados": [
+    {
+      "nombre": "cmg2307_def.xlsm",
+      "offset": 0,
+      "data_offset": 46,
+      "flags": 0,
+      "metodo": 8,
+      "crc32": "a3186b93",
+      "bytes_comprimidos": 49819104,
+      "bytes_miembro": 59750427,
+      "tamanos_explicitos": true,
+      "miembro_completo": true
+    },
+    {
+      "nombre": "FPen_2307_def.zip",
+      "offset": 49819150,
+      "data_offset": 49819197,
+      "flags": 0,
+      "metodo": 0,
+      "crc32": "4483f15f",
+      "bytes_comprimidos": 76634051,
+      "bytes_miembro": 76634051,
+      "tamanos_explicitos": true,
+      "miembro_completo": true
+    },
+    {
+      "nombre": "Registro CMg Centrales que marginan por Barra 20230701 a 20230731.xlsm",
+      "offset": 126453248,
+      "data_offset": 126453348,
+      "flags": 0,
+      "metodo": 8,
+      "crc32": "a202fda4",
+      "bytes_comprimidos": 93073602,
+      "bytes_miembro": 195097237,
+      "tamanos_explicitos": true,
+      "miembro_completo": false
+    }
+  ],
+  "recuperados": [
+    {
+      "tipo": "libro_precios",
+      "nombre_miembro": "cmg2307_def.xlsm",
+      "offset": 0,
+      "data_offset": 46,
+      "bytes_comprimidos": 49819104,
+      "archivo": "libros/202307/cmg2307_def.xlsm",
+      "bytes": 59750427,
+      "sha256": "873f96c89a1138c227ba07570f86dfda8ba983e030a8d6af5bff7cf17417f953",
+      "crc32_verificado": "a3186b93",
+      "zip_ooxml_interno_verificado": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "mes": "202308",
+  "filas": 43152,
+  "barras_etiqueta": 58,
+  "fecha_min": "2023-08-01",
+  "fecha_max": "2023-08-31",
+  "dias": 31,
+  "fuente_filas_seleccionadas_antes_corte": 43152,
+  "libro": "/Users/yo/Downloads/Medidas Transferencias económicas-selected/SOCHER_2026_v7_2020_2026/historico/libros/202308/cmg2308_def.xlsm",
+  "libro_sha256": "f95de1bd0328617d279394bc87144667d79ed7857b46812d02371adf0306e38e",
+  "homologacion": null,
+  "estado_identidad": {
+    "etiqueta_sin_homologacion_mensual": 43152
+  },
+  "faltantes_explicitos": [],
+  "duplicados": 0,
+  "outputs": {
+    "historico/derivados/precios_202308.parquet": "ba5b7991562175a43ea570913c4c336008f929ff930e070f63ffaf8aef8fc96a",
+    "historico/derivados/precios_202308.csv.gz": "9af02586745893b1aa77e8c14c55632c089929c5c392de49fd7784638968f95b"
+  },
+  "script_sha256": "406671bf1d5b40f173bae44c63c055a3d3a8f52b49800b75fb6cef4c5b2d942e",
+  "ejecucion_utc": "2026-09-27T04:14:04.979572+00:00",
+  "segundos": 17.0
+}

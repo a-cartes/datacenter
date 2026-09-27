@@ -1,0 +1,31 @@
+{
+  "mes": "2026-04",
+  "version_solicitada": "DEF",
+  "url": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/4/2026_04_REAL-DEF.tsv",
+  "origen_patron": "https://www.coordinador.cl/wp-content/themes/coordinador-electrico/assets/js/temporal.js?v=2.0; líneas1458–1522 observadas el2026-09-27",
+  "consulta_inicio_utc": "2026-09-27T04:06:02.100115+00:00",
+  "consulta_fin_utc": "2026-09-27T04:12:55.717690+00:00",
+  "http_status": 200,
+  "etag": "\"49b5fe8602ea884b0c81e69704a9f6bd-78\"",
+  "last_modified": "Wed, 13 May 2026 19:47:20 GMT",
+  "bytes_tsv_original": 408555748,
+  "bytes_gzip_local": 111509075,
+  "sha256_tsv_descomprimido": "ff5f179ac928d1d267dad15dea2b16a134dab7c4d505d7e76e178ac85c35b9dd",
+  "sha256_gzip_local": "7a8babda996bee4d53a8aba11f58d3afb88a32e10b8e4ff023580a19048dbdd7",
+  "archivo": "fuentes/tsv_originales/202604_DEF.tsv.gz",
+  "precaucion": "ETag multipart no equivale a MD5; SHA256 calculado sobre todos los bytes TSV recibidos",
+  "cabeceras_http": {
+    "x-amz-id-2": "phkzcagGQjxJyEA7rIgeOzLOkOIwfC9nJLuPJ0BfXLfCPseQKUcm0vRFX6GvILUgAwUA9xjbTfHEq2q1PQ5EP0FDaffclm4N",
+    "x-amz-request-id": "SAE2ZEFGF12RWCE1",
+    "Date": "Sun, 27 Sep 2026 04:06:02 GMT",
+    "Last-Modified": "Wed, 13 May 2026 19:47:20 GMT",
+    "ETag": "\"49b5fe8602ea884b0c81e69704a9f6bd-78\"",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Content-Type": "binary/octet-stream",
+    "Content-Length": "408555748",
+    "Server": "AmazonS3",
+    "Connection": "close"
+  },
+  "segundos": 413.7
+}

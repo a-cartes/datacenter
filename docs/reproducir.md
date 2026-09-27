@@ -1,5 +1,7 @@
 # Reproducir esta versión
 
+> Esta página conserva la documentación de **v0.1.0**, con cobertura parcial de 2024. Para el dataset ampliado y su verificación consulte la [guía 2020–2026](ampliacion_2020_2026.md).
+
 [Inicio](../README.md) · [Datos](datos.md) · [Método](metodologia.md)
 
 ## Alcance comprobado

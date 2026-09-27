@@ -1,0 +1,51 @@
+{
+  "fecha_utc": "2026-09-27T03:38:26.839590+00:00",
+  "estado": "OK",
+  "filas_15min": 1862581,
+  "meses_csv": 40,
+  "sockets": 30,
+  "horas_HT1_HT2": 21912,
+  "horas_dataluna_2020_2022": 20447,
+  "horas_dataluna_enero2023": 744,
+  "valores_hora_canal_febrero_abril2023": 8548,
+  "descargas_verificadas": [
+    {
+      "archivo": "originales_descargados/2026/07_Julio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "bytes": 264953193,
+      "sha256": "ac23a2e410641d46a0ef270324a90235f0f721c374b54f8627e4f0e0bbe8a5d7",
+      "anio": 2026,
+      "mes": 7
+    },
+    {
+      "archivo": "originales_descargados/2026/08_Agosto/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "bytes": 265202358,
+      "sha256": "a6cc97e95b16af6c906a5e70a85a38ea759764ace5f22785e36d5922893ead72",
+      "anio": 2026,
+      "mes": 8
+    }
+  ],
+  "scripts": [
+    {
+      "archivo": "scripts/ampliar_mediciones.py",
+      "sha256": "cf22734461ba554487bcef9a14502e9e8378da3d1f1ba6f89c2890593f86c4ab"
+    },
+    {
+      "archivo": "scripts/antecedentes_horarios.py",
+      "sha256": "1138be607f0d1dd2c9f242a75eb1694e041dd892b7bff444e3cf3b2ceb504676"
+    },
+    {
+      "archivo": "scripts/auditar_productos.py",
+      "sha256": "a2cc8e5a3999a073d18ab982f336101cbd7c84abc279cdb7e49f695d86cc2d9f"
+    },
+    {
+      "archivo": "scripts/consultar_box_publico.py",
+      "sha256": "f0b236771870e04ca25f998e3fe0e3bee8f2f06dd57b7fa8f86a03ede4fb6abc"
+    },
+    {
+      "archivo": "scripts/resumir_y_verificar_carga.py",
+      "sha256": "bcb739ca3ee7decd182c8c9e6b20ea0cbccea563fc6eda0c95eee5862376f238"
+    }
+  ],
+  "sin_unir_relojes_no_conciliados": true,
+  "sin_imputar_tratamiento_o_consumo_faltante": true
+}
