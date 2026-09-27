@@ -21,17 +21,17 @@ jobs:
           cache-dependency-path: requirements-lock.txt
       - name: Instalar versiones declaradas
         run: python -m pip install -r requirements-lock.txt
-      - name: Comprobar referencias y detección de datos alterados
-        run: |
-          python SOCHER_2026_v7_2020_2026/scripts/probar_referencias_descriptivas.py
-          python SOCHER_2026_v7_2020_2026/scripts/probar_verificador_entrega.py
-          python SOCHER_2026_v7_2020_2026/scripts/probar_wrapper_reproduccion.py --wrapper scripts/reproducir_2020_2026.py
       - name: Descargar instantánea de insumos de esta versión privada
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh release download v0.2.0 --repo "$GITHUB_REPOSITORY" --pattern 'Insumos_reproduccion_2020_2026.zip' --dir artifacts/insumos
       - name: Reconstruir y comprobar todos los valores
         run: python scripts/reproducir_2020_2026.py --insumos artifacts/insumos/Insumos_reproduccion_2020_2026.zip
+      - name: Comprobar referencias y detección de datos alterados
+        run: |
+          python SOCHER_2026_v7_2020_2026/scripts/probar_referencias_descriptivas.py
+          python SOCHER_2026_v7_2020_2026/scripts/probar_verificador_entrega.py
+          python SOCHER_2026_v7_2020_2026/scripts/probar_wrapper_reproduccion.py --wrapper scripts/reproducir_2020_2026.py
       - name: Preservar informes de reproducción
         if: always()
         uses: actions/upload-artifact@v7
