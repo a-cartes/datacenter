@@ -1,5 +1,13 @@
 # Historial de versiones
 
+## Auditoría posterior a v0.2.0 — 27 de septiembre de 2026
+
+- Recomprueba integridad de 55 libros históricos, 11 homologaciones usadas y 28 originales modernos (27 DEF y 1 PRE separado).
+- Contrasta julio/agosto de 2023 y febrero de 2024 con nuevas descargas oficiales completas: libros de precios idénticos a los usados.
+- Preserva una homologación adicional de agosto de 2023 como evidencia, pendiente de una nueva versión; no modifica códigos ni precios publicados.
+- Añade informes, programas y límites del [control de descargas](docs/integridad_descargas_20260927.md). La integridad de archivos no equivale a una nueva validación celda por celda ni causal.
+- Mantiene sin cambios el CSV, los archivos de la versión, el paquete de insumos y el tag v0.2.0.
+
 ## v0.2.0 — 27 de septiembre de 2026
 
 - Amplía precios a 3.411.527 registros de barra y hora publicada, entre 01/01/2020 y 18/09/2026, en 31 variables.

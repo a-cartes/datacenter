@@ -1,0 +1,9 @@
+{
+  "control_utc": "2026-09-27T05:34:04.032726+00:00",
+  "archivo": "entrega/Dataset_precios_barra_hora_2020_2026.csv",
+  "bytes": 1212668988,
+  "sha256": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b",
+  "sha256_publicado_v020": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b",
+  "csv_no_modificado": true,
+  "alcance": "Comprobación posterior a la auditoría; igualdad del CSV publicado, no completitud de fuentes ni validez causal."
+}

@@ -1,0 +1,96 @@
+{
+  "inicio_utc": "2026-09-27T05:32:13.958290+00:00",
+  "fin_utc": "2026-09-27T05:32:14.751516+00:00",
+  "mes": "202308",
+  "estado": "OK",
+  "errores": [],
+  "url_oficial_observada": "https://www.coordinador.cl/wp-content/uploads/2023/09/cmg2308_def.zip",
+  "archivo_descargado": "/Users/yo/Downloads/cmg2308_def (3).zip",
+  "bytes_descarga": 216871545,
+  "mtime_descarga_ns": 1790487072996943323,
+  "copia_preservada": "auditoria/control_descargas_20260927/originales_contraste/202308_3544146cbd1deed6.zip",
+  "sha256_zip": "3544146cbd1deed6a6b3ed70bb0ae79f50ed37f76d37b451e6d13c0db1f92845",
+  "directorio_central_legible": true,
+  "crc_todos_miembros_exteriores_correcto": true,
+  "n_miembros_exteriores": 4,
+  "miembros_exteriores": [
+    {
+      "nombre": "cmg2308_def.xlsm",
+      "bytes": 58686889,
+      "bytes_comprimidos": 46787191,
+      "crc32": "c69139e4",
+      "offset": 0
+    },
+    {
+      "nombre": "FPen_2308_def.zip",
+      "bytes": 76749239,
+      "bytes_comprimidos": 76749239,
+      "crc32": "52218362",
+      "offset": 46787237
+    },
+    {
+      "nombre": "Registro CMg Centrales que marginan por Barra 20230801 a 20230831.xlsm",
+      "bytes": 196244744,
+      "bytes_comprimidos": 93286139,
+      "crc32": "86722381",
+      "offset": 123536523
+    },
+    {
+      "nombre": "Homologación barras cmg 2308.xlsx",
+      "bytes": 59318,
+      "bytes_comprimidos": 48148,
+      "crc32": "99f8a285",
+      "offset": 216822762
+    }
+  ],
+  "miembros_comparados_con_entrega": [
+    {
+      "tipo": "precios",
+      "miembro": "cmg2308_def.xlsm",
+      "bytes": 58686889,
+      "crc32": "c69139e4",
+      "sha256_nueva_descarga": "f95de1bd0328617d279394bc87144667d79ed7857b46812d02371adf0306e38e",
+      "sha256_usado_registrado": "f95de1bd0328617d279394bc87144667d79ed7857b46812d02371adf0306e38e",
+      "sha256_usado_actual": "f95de1bd0328617d279394bc87144667d79ed7857b46812d02371adf0306e38e",
+      "coincide_con_usado": true,
+      "estado": "comparado_con_fuente_congelada"
+    },
+    {
+      "tipo": "homologacion",
+      "miembro": "Homologación barras cmg 2308.xlsx",
+      "bytes": 59318,
+      "crc32": "99f8a285",
+      "sha256_nueva_descarga": "435602c95a5e18e813f3f677d3140bd6298be046a5fd36c60459552be562f304",
+      "sha256_usado_registrado": null,
+      "sha256_usado_actual": null,
+      "coincide_con_usado": null,
+      "estado": "miembro_adicional_no_incorporado_en_fuente_congelada",
+      "sidecar_auditoria": "auditoria/control_descargas_20260927/miembros_nuevos/202308/Homologación barras cmg 2308.xlsx",
+      "incorporacion": "PENDIENTE_VERSION_FUTURA_NO_INCORPORADA_A_V0.2.0"
+    }
+  ],
+  "fuente_entrega": {
+    "fuente_id": "historico_202308_DEF",
+    "archivo_derivado": "historico/derivados/precios_202308.parquet",
+    "sha256_derivado": "ba5b7991562175a43ea570913c4c336008f929ff930e070f63ffaf8aef8fc96a",
+    "filas": "43152",
+    "version": "DEF",
+    "archivo_original": "historico/libros/202308/cmg2308_def.xlsm",
+    "sha256_original": "f95de1bd0328617d279394bc87144667d79ed7857b46812d02371adf0306e38e",
+    "semantica_hora": "etiqueta_fuente_1_25_sin_conversion_UTC",
+    "unidad_precio_original": "mills/kWh",
+    "factor_numerico_usd_mwh": "1",
+    "metodo_precio": "valor_horario_publicado",
+    "archivo_control": "historico/manifiestos/precios_202308.json",
+    "url_original": "https://www.coordinador.cl/wp-content/uploads/2023/09/cmg2308_def.zip",
+    "url_indice": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2023-costos-marginales-de-energia/",
+    "titulo_oficial": "Costo Marginal Definitivo Agosto 2023",
+    "fecha_publicacion_literal": "22/09/2023",
+    "fecha_desde": "2023-08-01",
+    "fecha_hasta": "2023-08-31",
+    "regimen_precio": "historico_antes_20240715",
+    "sha256_contenido_tsv_descomprimido": ""
+  },
+  "datos_congelados_modificados": false,
+  "alcance": "CRC de todos los miembros del ZIP exterior y comparación SHA de libros. No estima efectos ni modifica homologaciones de la versión congelada; no equivale a validación económica o causal."
+}

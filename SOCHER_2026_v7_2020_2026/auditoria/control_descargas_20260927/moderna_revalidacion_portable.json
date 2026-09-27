@@ -1,0 +1,2035 @@
+{
+  "tipo_control": "integridad_de_descarga_y_archivo_moderno_solo_lectura",
+  "inicio_utc": "2026-09-27T05:34:59.027592+00:00",
+  "fin_utc": "2026-09-27T05:35:11.765846+00:00",
+  "resultado": "OK",
+  "fuentes_esperadas_segun_indice": 28,
+  "indice_fuentes": "fuentes/indice_tsv_moderno.json",
+  "sha256_indice_fuentes": "9e740449f2bd1f28ec514348afd25435e7ed4f3b3554b14c4ff642154ffea93d",
+  "fuentes_comprobadas": 28,
+  "definitivas": 27,
+  "preliminares": 1,
+  "bytes_gzip_comprobados": 2923786186,
+  "bytes_tsv_leidos_integramente": 10809879936,
+  "archivos_analiticos_parquet_con_linaje_comprobado": 56,
+  "parciales_interrumpidos_excluidos": true,
+  "control_manifest_parciales": {
+    "archivo": "fuentes/descargas_interrumpidas/manifest_interrupcion.json",
+    "sha256_manifest": "d138133837d53ca0f9930ad97e079e3c40e07f5c56766bba6f4f33bdc6d27943",
+    "cantidad_registrada": 3,
+    "cantidad_observada": 3,
+    "faltantes": [],
+    "no_registrados": [],
+    "controles": {
+      "manifest_sin_rutas_duplicadas": true,
+      "inventario_exacto": true,
+      "todos_los_tamanos_y_hashes_coinciden": true,
+      "ningun_parcial_es_fuente_analitica": true
+    }
+  },
+  "alcance_confirmado": [
+    "Los 28 originales gzip conservados coinciden en tamaño y SHA256 con sus metadatos de descarga.",
+    "La lectura completa hasta EOF valida gzip/CRC y obtiene exactamente los bytes TSV registrados por Content-Length y por el SHA256 de la descarga.",
+    "Los nombres y hashes de procedencia de las particiones analíticas verificadas coinciden con los originales completos registrados.",
+    "El inventario, los tamaños y los hashes de los parciales coinciden con el manifiesto de interrupciones y ninguno se utiliza como fuente analítica."
+  ],
+  "limites": [
+    "Es un control contra la versión preservada y las cabeceras HTTP registradas; no se realizó otra consulta a la versión remota actual.",
+    "La integridad del archivo no demuestra que el proveedor haya publicado todas las horas, barras o fechas posibles ni excluye errores en los datos de origen.",
+    "No valida la asociación entre barra y centro de datos, la fecha de tratamiento, la elegibilidad causal ni la conciliación de convenciones horarias.",
+    "DEF y PRE se comprueban por separado. Este control de bytes no interpreta la cobertura temporal; ésta debe consultarse en los metadatos de extracción y en la auditoría de cobertura correspondiente."
+  ],
+  "fuentes": [
+    {
+      "mes": "2024-07",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202407_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2024/7/2024_07_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202407_DEF.json",
+      "sha256_metadato": "48b097a7b9947f27baad5d2659d1dc1e130a4ee121fc8a1dbb857c7951ae2bfe",
+      "etag_registrado": "\"adc0052efbbae543279d57fdfaa31bf1-41\"",
+      "consulta_original_utc": "2026-09-27T03:28:38.351732+00:00",
+      "gzip_bytes_actuales": 58590828,
+      "gzip_sha256_actual": "3417fccd37d1f35510688ae6905388e939c6bd4092d537572c707d2a1c6dafe2",
+      "tsv_bytes_leidos": 214223069,
+      "tsv_sha256_actual": "0c4c4b4f43b61121e465a500b3f2a9be89d385a3d7279bc21c79addcfbef6fcc",
+      "content_length_http_registrado": 214223069,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 97920,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202407_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "0c4c4b4f43b61121e465a500b3f2a9be89d385a3d7279bc21c79addcfbef6fcc"
+            ],
+            "mes_fuente": [
+              "2024-07"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "7ae1d9e1667a139fe5acabe5995b3878be2a08a310c58b7193bf595356797f3b",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 24480,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202407_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "0c4c4b4f43b61121e465a500b3f2a9be89d385a3d7279bc21c79addcfbef6fcc"
+            ],
+            "mes_fuente": [
+              "2024-07"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "890d8013c3674cd5639c3080b8a2a97ea040781265e44bf0327a94ed0052fcab",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2024-08",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202408_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2024/8/2024_08_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202408_DEF.json",
+      "sha256_metadato": "4b98724cbe742d04cc4d1c3bd910392fd59ebf1e4e0d72505b69d9c6b5869712",
+      "etag_registrado": "\"c481a5f2fd813d75e24893be4cfb498a-75\"",
+      "consulta_original_utc": "2026-09-27T03:30:51.864578+00:00",
+      "gzip_bytes_actuales": 104387541,
+      "gzip_sha256_actual": "6d46e3b328a9c95443996aea8cf3b4222025689bbd9acf24427c048946ef32eb",
+      "tsv_bytes_leidos": 389267332,
+      "tsv_sha256_actual": "6539019075bf5092ff775aad38f1b15870533a703c0258aa72ef8ce536502371",
+      "content_length_http_registrado": 389267332,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178560,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202408_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "6539019075bf5092ff775aad38f1b15870533a703c0258aa72ef8ce536502371"
+            ],
+            "mes_fuente": [
+              "2024-08"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "6d044a5271fdc6092214c619ae887e659de10c57814e0c6267f8e67be1e6b608",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44640,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202408_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "6539019075bf5092ff775aad38f1b15870533a703c0258aa72ef8ce536502371"
+            ],
+            "mes_fuente": [
+              "2024-08"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "8527f1b2be2e2b6272f01cde42ea39a39c3afe4832a87eb2a76fa8726a62534c",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2024-09",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202409_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2024/9/2024_09_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202409_DEF.json",
+      "sha256_metadato": "c81cfb4fa8f41bf39adec67ec7d9a9288e229cfdd5b7b00abe68e151a319f9fd",
+      "etag_registrado": "\"d111fa071400f4901fa818eeb5191f84-72\"",
+      "consulta_original_utc": "2026-09-27T03:32:05.425451+00:00",
+      "gzip_bytes_actuales": 101702838,
+      "gzip_sha256_actual": "ff3c6163bc0fe03fad43e87f731a7c6e59c47270428479bb4d926e0ea84410ed",
+      "tsv_bytes_leidos": 374732719,
+      "tsv_sha256_actual": "628988769f046e0ccce5beaca79ec68b2b9c88464da928c39c2ec9634551b27a",
+      "content_length_http_registrado": 374732719,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 172800,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202409_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "628988769f046e0ccce5beaca79ec68b2b9c88464da928c39c2ec9634551b27a"
+            ],
+            "mes_fuente": [
+              "2024-09"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "e53c5e39acff0cb0123044009ea2a73d7f3d3a5c040255efc0e0529346d3a39e",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 43200,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202409_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "628988769f046e0ccce5beaca79ec68b2b9c88464da928c39c2ec9634551b27a"
+            ],
+            "mes_fuente": [
+              "2024-09"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "75b60885910e3243ab3309024951ff9e49bfca5e56b7b6816c21d3243322bef6",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2024-10",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202410_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2024/10/2024_10_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202410_DEF.json",
+      "sha256_metadato": "5b954a92d3a0b2645941be15e7cf6fca5c49dd65f8006d2b2480d08c0dfbfd8b",
+      "etag_registrado": "\"1b113c8315a79e0964666ca2b01ff677-74\"",
+      "consulta_original_utc": "2026-09-27T03:35:15.196886+00:00",
+      "gzip_bytes_actuales": 102155537,
+      "gzip_sha256_actual": "39ac9a9873ccb578ab91b9af58b2c41f288782a428fe495595d36ed8c3decf00",
+      "tsv_bytes_leidos": 385236171,
+      "tsv_sha256_actual": "c812b1dc021b518799147eee9e5f2b08f7beff6a421a64882d2ec66324cd0958",
+      "content_length_http_registrado": 385236171,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178560,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202410_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "c812b1dc021b518799147eee9e5f2b08f7beff6a421a64882d2ec66324cd0958"
+            ],
+            "mes_fuente": [
+              "2024-10"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "8f724a92dfaeca028639fa4846ad9086282af22d425ac5a5233495ecac5e7f01",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44640,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202410_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "c812b1dc021b518799147eee9e5f2b08f7beff6a421a64882d2ec66324cd0958"
+            ],
+            "mes_fuente": [
+              "2024-10"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "9e1ffe784ab9783b28efb35d6d0542e6f09994a271166920f6b19a17aed116df",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2024-11",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202411_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2024/11/2024_11_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202411_DEF.json",
+      "sha256_metadato": "4af42c9d8f119f7354bac000b981b56ad3c43ac9c62252dc9f51b03428ae7564",
+      "etag_registrado": "\"0ca68aaca721c53783e2f1364530175c-71\"",
+      "consulta_original_utc": "2026-09-27T03:54:01.866979+00:00",
+      "gzip_bytes_actuales": 96379626,
+      "gzip_sha256_actual": "49c4120dbc83f337fb1191f0cc1f2082afc00382de25ab1b42a444dc1d3e84f8",
+      "tsv_bytes_leidos": 372290703,
+      "tsv_sha256_actual": "d9e3c16cffd8e0bb748c69798751b001a09bf3743a36793d86efe52d57f1a7a7",
+      "content_length_http_registrado": 372290703,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 172800,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202411_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "d9e3c16cffd8e0bb748c69798751b001a09bf3743a36793d86efe52d57f1a7a7"
+            ],
+            "mes_fuente": [
+              "2024-11"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "731c277f5fec4693999e935a887c2a784bdc87df06969dd84bbec6ea1b1fd1c7",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 43200,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202411_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "d9e3c16cffd8e0bb748c69798751b001a09bf3743a36793d86efe52d57f1a7a7"
+            ],
+            "mes_fuente": [
+              "2024-11"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "a43d55df97e1638011ba2bc6ba2cb3ad4df4c1b4b719c47c1df6e7bbb378fbf1",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2024-12",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202412_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2024/12/2024_12_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202412_DEF.json",
+      "sha256_metadato": "d10a1951ca93aaef5817fb290baa557e0dd6e6e151937219442fae62fd00ca6e",
+      "etag_registrado": "\"a29d0d3b63a17b58172d5e6157b787ad-75\"",
+      "consulta_original_utc": "2026-09-27T03:47:37.797063+00:00",
+      "gzip_bytes_actuales": 105270323,
+      "gzip_sha256_actual": "f76a9dc4b112605fc1b4ccddfbe869274f4d18559b8a8b17675216540688614d",
+      "tsv_bytes_leidos": 391947383,
+      "tsv_sha256_actual": "2b157751a7de77074114ea169926eae168f6acb641153cd17112126f7a2fd541",
+      "content_length_http_registrado": 391947383,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178560,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202412_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "2b157751a7de77074114ea169926eae168f6acb641153cd17112126f7a2fd541"
+            ],
+            "mes_fuente": [
+              "2024-12"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "cc7f1875d1729a2a71257d961c601ccf0a8168372f5446aab32fb1f64b7ae8f3",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44640,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202412_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "2b157751a7de77074114ea169926eae168f6acb641153cd17112126f7a2fd541"
+            ],
+            "mes_fuente": [
+              "2024-12"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "6061f464c50813ba31fa3e353cdd00991d3fdf8706479d1d6bc40edb492ec7d0",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-01",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202501_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/1/2025_01_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202501_DEF.json",
+      "sha256_metadato": "ea21f01d845c643810105224f3c7d665d1661ef0679e9ad4094b34a90dd48543",
+      "etag_registrado": "\"6ed324e00ceb9fbc97f23e1dc848256b-76\"",
+      "consulta_original_utc": "2026-09-27T03:54:31.565601+00:00",
+      "gzip_bytes_actuales": 106835021,
+      "gzip_sha256_actual": "8823412810c8c787157fbcb9441214e980f56b41494dba7e8f053d796ea070ba",
+      "tsv_bytes_leidos": 396058186,
+      "tsv_sha256_actual": "2e5fd1fff8d411c059f89ff5caea7974e0b651a8dc83ca90c0514171ef728ce1",
+      "content_length_http_registrado": 396058186,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 181248,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202501_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "2e5fd1fff8d411c059f89ff5caea7974e0b651a8dc83ca90c0514171ef728ce1"
+            ],
+            "mes_fuente": [
+              "2025-01"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "678da0d40a49512b0ca44ab23629b7423660b074ea0653abd6eab84648de32b0",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 45312,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202501_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "2e5fd1fff8d411c059f89ff5caea7974e0b651a8dc83ca90c0514171ef728ce1"
+            ],
+            "mes_fuente": [
+              "2025-01"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "0d1040bb27ee11b1cce9da87fe35d5b58ee9b262673dded4d92ff92bb7ba802f",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-02",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202502_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/2/2025_02_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202502_DEF.json",
+      "sha256_metadato": "8ee4b4455fb6a5158472da6a61cbbf41e8aff5e3822b811a76c9d04b06d12d10",
+      "etag_registrado": "\"9b2d78bed0e903f28ecb4f3e6f718bb3-70\"",
+      "consulta_original_utc": "2026-09-27T03:59:21.428720+00:00",
+      "gzip_bytes_actuales": 98677097,
+      "gzip_sha256_actual": "9c02ce446fdee1e04dfbebb54a2ca49575a52c562b6b5c64a03f41431be77dd1",
+      "tsv_bytes_leidos": 362585016,
+      "tsv_sha256_actual": "fc8a9c7b5d110dc8bfc463119c4c5c3142d7be5b1d33799f97a99e63bc5f177c",
+      "content_length_http_registrado": 362585016,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 163968,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202502_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "fc8a9c7b5d110dc8bfc463119c4c5c3142d7be5b1d33799f97a99e63bc5f177c"
+            ],
+            "mes_fuente": [
+              "2025-02"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "22ca4936eca0f1d697021afe821e88e053600c2ddc5202674870e051c1475bd8",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 40992,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202502_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "fc8a9c7b5d110dc8bfc463119c4c5c3142d7be5b1d33799f97a99e63bc5f177c"
+            ],
+            "mes_fuente": [
+              "2025-02"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "1291bf521e39ffa4a682fa82e64e7252438d7e7f094a41086970c318b55df811",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-03",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202503_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/3/2025_03_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202503_DEF.json",
+      "sha256_metadato": "d33b054c61a5910a34f25240e83803c95f77f6c38444c46769bf3c7125dcf7bd",
+      "etag_registrado": "\"c8c41dbf7e85d914641df0f1c4915631-78\"",
+      "consulta_original_utc": "2026-09-27T04:06:33.135317+00:00",
+      "gzip_bytes_actuales": 111181458,
+      "gzip_sha256_actual": "cdd6356ed47600192c207075cf01c18082f26e08b305a910bf13bc48847faf61",
+      "tsv_bytes_leidos": 405471653,
+      "tsv_sha256_actual": "90b0f5e40365149c6f1d0fc9e4acbe64374f9f16ddbf905dce6ffc5ac9a82a43",
+      "content_length_http_registrado": 405471653,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 181536,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202503_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "90b0f5e40365149c6f1d0fc9e4acbe64374f9f16ddbf905dce6ffc5ac9a82a43"
+            ],
+            "mes_fuente": [
+              "2025-03"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "e47ff9d2a3e9844c49a4686264b553e8c47b94c1a5409362fbc1eaad1c99bef8",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 45384,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202503_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "90b0f5e40365149c6f1d0fc9e4acbe64374f9f16ddbf905dce6ffc5ac9a82a43"
+            ],
+            "mes_fuente": [
+              "2025-03"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "e32bb25bedeaa2fa35838528d9b0646cb71694c32398680b661909d9d84d1705",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-04",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202504_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/4/2025_04_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202504_DEF.json",
+      "sha256_metadato": "2553092bec2e562e1d9008844d33d9303fcc9fad148263074dbc2f3cb3514c65",
+      "etag_registrado": "\"3c0d3e9b33f804c800a862d90ad32dcd-77\"",
+      "consulta_original_utc": "2026-09-27T04:07:29.583053+00:00",
+      "gzip_bytes_actuales": 112924139,
+      "gzip_sha256_actual": "a405f15e9daafa8a5ea3414d2388f847de35b50e5250c36e4179a2b5c93a3521",
+      "tsv_bytes_leidos": 400826591,
+      "tsv_sha256_actual": "ddd5ac14eb40204ce2981ca1989696a305a47eb80d078baca6441f13c760a257",
+      "content_length_http_registrado": 400826591,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 175924,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202504_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "ddd5ac14eb40204ce2981ca1989696a305a47eb80d078baca6441f13c760a257"
+            ],
+            "mes_fuente": [
+              "2025-04"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "433c2f2d4d449b8fc3cfab9b6b04ef877b0a1e564e675ee4f8b1a490d71e2348",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 43981,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202504_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "ddd5ac14eb40204ce2981ca1989696a305a47eb80d078baca6441f13c760a257"
+            ],
+            "mes_fuente": [
+              "2025-04"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "a71b9e2d6a51f4ebe84b6de6d12562f52483ef89dc3ae178dda621847a63ee14",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-05",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202505_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/5/2025_05_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202505_DEF.json",
+      "sha256_metadato": "23db2991fe4fd49900a1c34f67e16a2569691c0e44185ac256a582c2beb715c8",
+      "etag_registrado": "\"2d1ea31368b8c72cd6ff192c7ce12bb5-79\"",
+      "consulta_original_utc": "2026-09-27T04:11:19.062657+00:00",
+      "gzip_bytes_actuales": 118114114,
+      "gzip_sha256_actual": "64fefd542831b4ca64f3ae2dafc1af68fd13ea57585818410d5b9f81dea0716c",
+      "tsv_bytes_leidos": 413016986,
+      "tsv_sha256_actual": "dcad993cf2fe6be7f769388f2f6b27e64779d1a5acdb4326cfa581eecd11da80",
+      "content_length_http_registrado": 413016986,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 181536,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202505_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "dcad993cf2fe6be7f769388f2f6b27e64779d1a5acdb4326cfa581eecd11da80"
+            ],
+            "mes_fuente": [
+              "2025-05"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "f6153ea9f77063dc7d84a803a4109a425cae23518a3c21bf8ce4a3350c69d3bc",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 45384,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202505_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "dcad993cf2fe6be7f769388f2f6b27e64779d1a5acdb4326cfa581eecd11da80"
+            ],
+            "mes_fuente": [
+              "2025-05"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "18eb32081ffa56d29a19c1647df1d435f1fc0567320eb8b69fa561a9a8820f87",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-06",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202506_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/6/2025_06_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202506_DEF.json",
+      "sha256_metadato": "ba071424bfd42a40ee0fdbfed4cb3df2c73eb1d65b5c4cd6f607e58eecd30820",
+      "etag_registrado": "\"d7690196046227cfc5136b8b1603df98-78\"",
+      "consulta_original_utc": "2026-09-27T03:26:36.644693+00:00",
+      "gzip_bytes_actuales": 120660271,
+      "gzip_sha256_actual": "da56eb39b005e69ee658aa09ee5dad85a181af9dac604a6aa1ab24e4db4ea87c",
+      "tsv_bytes_leidos": 405648371,
+      "tsv_sha256_actual": "e71c266bb47df924430bf1024be34cad01cf6dd9f712fc7a7e6f25b2e8d6adc8",
+      "content_length_http_registrado": 405648371,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 175680,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202506_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "e71c266bb47df924430bf1024be34cad01cf6dd9f712fc7a7e6f25b2e8d6adc8"
+            ],
+            "mes_fuente": [
+              "2025-06"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "99c499699c7ce271c411bbacdf6050d73eb8848da4a314ce630e44aa06bf9be6",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 43920,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202506_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "e71c266bb47df924430bf1024be34cad01cf6dd9f712fc7a7e6f25b2e8d6adc8"
+            ],
+            "mes_fuente": [
+              "2025-06"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "b15d06495b27d2da1ab862cecdc568281ba4eba1961871bc167a0cef6462a6b2",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-07",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202507_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/7/2025_07_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202507_DEF.json",
+      "sha256_metadato": "5901d07703ed3471cbaaa85d0bbab0c47da09c82aad787e90d7d95600be7c0c9",
+      "etag_registrado": "\"26edbdc506f7de24fca828c9589875ab-80\"",
+      "consulta_original_utc": "2026-09-27T04:16:05.438339+00:00",
+      "gzip_bytes_actuales": 119979730,
+      "gzip_sha256_actual": "5d255e6f34468e1013218b70c5151d5e755e2d4e7c90d309c2b63b8a09536eff",
+      "tsv_bytes_leidos": 418410147,
+      "tsv_sha256_actual": "08ed08089625fee28197bd85b8020e1a2290412d309b68bdd295a0e79e7f1a40",
+      "content_length_http_registrado": 418410147,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 181536,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202507_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "08ed08089625fee28197bd85b8020e1a2290412d309b68bdd295a0e79e7f1a40"
+            ],
+            "mes_fuente": [
+              "2025-07"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "f5f72fd77e4da4168421965a438caa3fd0876efbd2af4163c98a10757fd07ae8",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 45384,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202507_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "08ed08089625fee28197bd85b8020e1a2290412d309b68bdd295a0e79e7f1a40"
+            ],
+            "mes_fuente": [
+              "2025-07"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "240925a91b4468ee803d793c27a6ef7dcd9af39a72276d91c7c78cea73e0d5f3",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-08",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202508_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/8/2025_08_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202508_DEF.json",
+      "sha256_metadato": "85ea98b3ea357e67c8834e02411808a717edd4f26be79548457fbe337b3cfc73",
+      "etag_registrado": "\"75fe48f3a778ad5379597b76726e1fc7-79\"",
+      "consulta_original_utc": "2026-09-27T04:14:50.821066+00:00",
+      "gzip_bytes_actuales": 110933771,
+      "gzip_sha256_actual": "833df0bc83d02c368947d80dc4921b64e164cd1b0acb20bdc6cec4356d0ccd0d",
+      "tsv_bytes_leidos": 410209716,
+      "tsv_sha256_actual": "d0c6b98e26de76890831443698a3962378abf9ba2a9f053290f6a55c08660a17",
+      "content_length_http_registrado": 410209716,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 181536,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202508_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "d0c6b98e26de76890831443698a3962378abf9ba2a9f053290f6a55c08660a17"
+            ],
+            "mes_fuente": [
+              "2025-08"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "0610682f7fefd54e9adcfa9b75b045b4b9cca6d56aa678a11e446850aaeb60ba",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 45384,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202508_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "d0c6b98e26de76890831443698a3962378abf9ba2a9f053290f6a55c08660a17"
+            ],
+            "mes_fuente": [
+              "2025-08"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "c1eaf0a0f8ef797f32fae6c2ed77984f8543d3fde8658f90dd95733531f00f1e",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-09",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202509_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/9/2025_09_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202509_DEF.json",
+      "sha256_metadato": "df7ab33fcce3bf1a12dde6fd2cc748b7bdb704f91032cc9c555e6047d96e060b",
+      "etag_registrado": "\"88ac0b70d95b34962d79d3d01167ab06-76\"",
+      "consulta_original_utc": "2026-09-27T04:19:17.853884+00:00",
+      "gzip_bytes_actuales": 103399689,
+      "gzip_sha256_actual": "dedc60c53701d55c6a0481a8a452076823bb0991c0f4b2772860fd6d1862c648",
+      "tsv_bytes_leidos": 395125066,
+      "tsv_sha256_actual": "fcd48e9c870fcfbcc4e356e1e44ed92ed427f178dcdd41a95388405739565137",
+      "content_length_http_registrado": 395125066,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178560,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202509_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "fcd48e9c870fcfbcc4e356e1e44ed92ed427f178dcdd41a95388405739565137"
+            ],
+            "mes_fuente": [
+              "2025-09"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "88f09fb5a4ebc95736ab1adcfd7993ff54580c417be31dce1afaf49fa37a8d98",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44640,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202509_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "fcd48e9c870fcfbcc4e356e1e44ed92ed427f178dcdd41a95388405739565137"
+            ],
+            "mes_fuente": [
+              "2025-09"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "888faebb063d3edd544a94ae4feedd54b0c4a72e566429dd22e3216e1bce7a79",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-10",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202510_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/10/2025_10_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202510_DEF.json",
+      "sha256_metadato": "379b25f013e1d9eec3f6c158125050b94898276dfbdfbe040c524f47d926f28e",
+      "etag_registrado": "\"377c49a866ac364c8cad0f99b249359a-78\"",
+      "consulta_original_utc": "2026-09-27T04:13:58.978386+00:00",
+      "gzip_bytes_actuales": 104835998,
+      "gzip_sha256_actual": "e6a9e3706177503605db164d88c5a935f60b7f1817c6a40d5206de47866f7c7e",
+      "tsv_bytes_leidos": 407761191,
+      "tsv_sha256_actual": "3ea5231bf4ab9f3d62cae416166d6b2900b1de3971da13c1cd983d7f8eccbba7",
+      "content_length_http_registrado": 407761191,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 184512,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202510_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "3ea5231bf4ab9f3d62cae416166d6b2900b1de3971da13c1cd983d7f8eccbba7"
+            ],
+            "mes_fuente": [
+              "2025-10"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "81590e192464ee88207c363122c37142c1a70697b5c97a90a60de317412b3452",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46128,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202510_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "3ea5231bf4ab9f3d62cae416166d6b2900b1de3971da13c1cd983d7f8eccbba7"
+            ],
+            "mes_fuente": [
+              "2025-10"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "8bc243a5e18ed6fe5aa57e49ffb81c2f9a8baed3f95564ec2d691a9860484c60",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-11",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202511_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/11/2025_11_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202511_DEF.json",
+      "sha256_metadato": "9d9a1b7bce19b8f5317cae4143e6b5d0a4904aa74a0cabec6c1d445d3e69a19b",
+      "etag_registrado": "\"c52b634935d79db495b58bd8ba471cc4-76\"",
+      "consulta_original_utc": "2026-09-27T04:17:46.885912+00:00",
+      "gzip_bytes_actuales": 103613110,
+      "gzip_sha256_actual": "bf30ed866ad607a238eaffeacebe0994dd086332a37888f211c3d46cb23ed5db",
+      "tsv_bytes_leidos": 396808941,
+      "tsv_sha256_actual": "df5b0cc0834a1f2529707487fcbaf72fce0be341f1a4d1c79f9dd78485bdb874",
+      "content_length_http_registrado": 396808941,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178560,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202511_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "df5b0cc0834a1f2529707487fcbaf72fce0be341f1a4d1c79f9dd78485bdb874"
+            ],
+            "mes_fuente": [
+              "2025-11"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "91935444db060fce4fae77c4ea9caf280f1fb09c2181e1786b0eaf18f38d2068",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44640,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202511_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "df5b0cc0834a1f2529707487fcbaf72fce0be341f1a4d1c79f9dd78485bdb874"
+            ],
+            "mes_fuente": [
+              "2025-11"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "390f2d4477992f5fd04039ae8304a0dbac3350ed8ed2191ff984b9ede8213189",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2025-12",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202512_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2025/12/2025_12_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202512_DEF.json",
+      "sha256_metadato": "bfe766365eedd28ec22e24ddbbeaffedac17918f0fb0c8dad113e8b532ca0a5a",
+      "etag_registrado": "\"09bc30291fa127e078221842c56101eb-79\"",
+      "consulta_original_utc": "2026-09-27T04:08:39.802090+00:00",
+      "gzip_bytes_actuales": 106993622,
+      "gzip_sha256_actual": "8c241ddd0248bcbe2f76ebe8d97ce650a6a18c1f7a9a854fde33b3d65dffbc66",
+      "tsv_bytes_leidos": 410652880,
+      "tsv_sha256_actual": "811e1086bc92e6c0a94404753e3173cf481a01ed3d706ef0dabc7a33e12f24d5",
+      "content_length_http_registrado": 410652880,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 184512,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202512_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "811e1086bc92e6c0a94404753e3173cf481a01ed3d706ef0dabc7a33e12f24d5"
+            ],
+            "mes_fuente": [
+              "2025-12"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "655f320888371b41a1e1c0fcfa8834ed0e7639f413471d71869a48ef719b2667",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46128,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202512_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "811e1086bc92e6c0a94404753e3173cf481a01ed3d706ef0dabc7a33e12f24d5"
+            ],
+            "mes_fuente": [
+              "2025-12"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "7814871fc5b4a18d51fe92168325e17e93abd32670d33b73c4b7d08f8c4a3455",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-01",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202601_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/1/2026_01_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202601_DEF.json",
+      "sha256_metadato": "cde643b4fa0bb2d2788e2f20c6bd3e0c843cefa4ef04068b70c57222f6ffb21a",
+      "etag_registrado": "\"3d82a4dad02077cd90334158ce1fe41c-79\"",
+      "consulta_original_utc": "2026-09-27T04:13:59.105809+00:00",
+      "gzip_bytes_actuales": 109934590,
+      "gzip_sha256_actual": "8c92362acc481b2875fc5557508e1f024b79a332ccaa64409d6e1ea78486813d",
+      "tsv_bytes_leidos": 411869992,
+      "tsv_sha256_actual": "a37d4e6d4b4c3e8e0f62fe7fa5a0a68e2f8a2b632882a16e46c75e46f3148c10",
+      "content_length_http_registrado": 411869992,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 184512,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202601_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "a37d4e6d4b4c3e8e0f62fe7fa5a0a68e2f8a2b632882a16e46c75e46f3148c10"
+            ],
+            "mes_fuente": [
+              "2026-01"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "a2d7facd9c59a5a510ef833ee850bd35982514d3ab9b417e9b2d808d53287fd1",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46128,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202601_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "a37d4e6d4b4c3e8e0f62fe7fa5a0a68e2f8a2b632882a16e46c75e46f3148c10"
+            ],
+            "mes_fuente": [
+              "2026-01"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "32e911ef1e1b5600afbe5bb4b2a106f771bcf5104fa48e592ac2116b7b5af305",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-02",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202602_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/2/2026_02_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202602_DEF.json",
+      "sha256_metadato": "28682c92fd6739a4184fcfff4300d3539734eff2d0b37da2d8eea7d100f1e206",
+      "etag_registrado": "\"b84f4d340db724c9488d777c931e9b5d-72\"",
+      "consulta_original_utc": "2026-09-27T04:13:59.741618+00:00",
+      "gzip_bytes_actuales": 94281274,
+      "gzip_sha256_actual": "145544bd69bdcd793f84085f54f9319b7adc101640cb11fdef5a8512cd5f40ed",
+      "tsv_bytes_leidos": 373106534,
+      "tsv_sha256_actual": "ca518328bc1ab711323918f5e058b5a07ea9c653df0e9371dd0cb1a142a77dbe",
+      "content_length_http_registrado": 373106534,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 166656,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202602_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "ca518328bc1ab711323918f5e058b5a07ea9c653df0e9371dd0cb1a142a77dbe"
+            ],
+            "mes_fuente": [
+              "2026-02"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "499a2301c2461451c319cac5f6b8c1585386805b767b800f8f98ca1015485c4b",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 41664,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202602_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "ca518328bc1ab711323918f5e058b5a07ea9c653df0e9371dd0cb1a142a77dbe"
+            ],
+            "mes_fuente": [
+              "2026-02"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "6e4ed9d7bdd409576ff3f486e7c845700073cc7dc69a307ac965ded557243ae5",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-03",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202603_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/3/2026_03_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202603_DEF.json",
+      "sha256_metadato": "16043ce6bc765c9c09fcf7a28a2d35dbe80d364fc9625df611e1995b6d22cd11",
+      "etag_registrado": "\"539e4ab1f78325c5e3e9b64a5eaff9b3-80\"",
+      "consulta_original_utc": "2026-09-27T04:22:27.458786+00:00",
+      "gzip_bytes_actuales": 112949005,
+      "gzip_sha256_actual": "d382908f463dcdd020c196dfb421d2d74e8c230b057f7e1d6976c6fa13b78913",
+      "tsv_bytes_leidos": 417928533,
+      "tsv_sha256_actual": "647ca844bd7656a63c3ec8f82943379e486cc4f276745a8b3fda820c5129289f",
+      "content_length_http_registrado": 417928533,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 184512,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202603_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "647ca844bd7656a63c3ec8f82943379e486cc4f276745a8b3fda820c5129289f"
+            ],
+            "mes_fuente": [
+              "2026-03"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "31172b0a9996452c40dfde3d03cf96f5b90bb95aa3995554f1354dff19c99698",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46128,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202603_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "647ca844bd7656a63c3ec8f82943379e486cc4f276745a8b3fda820c5129289f"
+            ],
+            "mes_fuente": [
+              "2026-03"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "1a103cb0b030a880e4d2e6e57f1271717db58d31c0c0a0a242a803a673203565",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-04",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202604_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/4/2026_04_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202604_DEF.json",
+      "sha256_metadato": "5ff358fea7fdf98b42b8fdda4c8dc5d52bb2667e2f5ff964110d09bbf471b492",
+      "etag_registrado": "\"49b5fe8602ea884b0c81e69704a9f6bd-78\"",
+      "consulta_original_utc": "2026-09-27T04:12:55.717690+00:00",
+      "gzip_bytes_actuales": 111509075,
+      "gzip_sha256_actual": "7a8babda996bee4d53a8aba11f58d3afb88a32e10b8e4ff023580a19048dbdd7",
+      "tsv_bytes_leidos": 408555748,
+      "tsv_sha256_actual": "ff5f179ac928d1d267dad15dea2b16a134dab7c4d505d7e76e178ac85c35b9dd",
+      "content_length_http_registrado": 408555748,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178808,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202604_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "ff5f179ac928d1d267dad15dea2b16a134dab7c4d505d7e76e178ac85c35b9dd"
+            ],
+            "mes_fuente": [
+              "2026-04"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "b58bc0b09e031ebb719e3d6412d58855c1151028163a98c875c37bdf7e933d16",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44702,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202604_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "ff5f179ac928d1d267dad15dea2b16a134dab7c4d505d7e76e178ac85c35b9dd"
+            ],
+            "mes_fuente": [
+              "2026-04"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "d2911582a0a685421747862e4d8e035b33e1393fabf2a19fc94dc753495ff5e8",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-05",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202605_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/5/2026_05_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202605_DEF.json",
+      "sha256_metadato": "202dd4c100e0b00f7aa360a7d15be4dfaa6285f8332a53d6bf561e2149bf3ac7",
+      "etag_registrado": "\"54a689eb63a94f1f66fbb6e28a349d83-82\"",
+      "consulta_original_utc": "2026-09-27T04:14:21.622899+00:00",
+      "gzip_bytes_actuales": 120582294,
+      "gzip_sha256_actual": "42d7f3fc8989f991e5142993caa97a6ce9b71f8203c43092cc4484cec670d92e",
+      "tsv_bytes_leidos": 429264512,
+      "tsv_sha256_actual": "8c6f24c9dfd6a9f2ae168ac63b3ccbe8da278bcdfaaafb9ffb4109d1731d9ca0",
+      "content_length_http_registrado": 429264512,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 184512,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202605_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "8c6f24c9dfd6a9f2ae168ac63b3ccbe8da278bcdfaaafb9ffb4109d1731d9ca0"
+            ],
+            "mes_fuente": [
+              "2026-05"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "ebf5df8b383110b9ed8ff5eaaf84ed38a24678f18d47dc3391d24a17c1b2ec01",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46128,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202605_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "8c6f24c9dfd6a9f2ae168ac63b3ccbe8da278bcdfaaafb9ffb4109d1731d9ca0"
+            ],
+            "mes_fuente": [
+              "2026-05"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "734a60b61a5dcfc21e6f851a7827a361cbfbd9198dd3ae02d06e7d8b555a9f6b",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-06",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202606_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/6/2026_06_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202606_DEF.json",
+      "sha256_metadato": "c7f06dfbb1622afd3cc462ed7dea1e7e6253f1cccab10ec69ae4415e16d98f2f",
+      "etag_registrado": "\"e1592bea65a46e83c0ae05dab7926d97-81\"",
+      "consulta_original_utc": "2026-09-27T04:06:01.388136+00:00",
+      "gzip_bytes_actuales": 121463548,
+      "gzip_sha256_actual": "e633b50dff639b6514565a914df739c5af56feb6783a9aece30289c3f847940c",
+      "tsv_bytes_leidos": 421735969,
+      "tsv_sha256_actual": "7c176548da13a86dde081106f8cd6289fc85e9723d9f6b6be2efd4c66cd7e3b8",
+      "content_length_http_registrado": 421735969,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 178560,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202606_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "7c176548da13a86dde081106f8cd6289fc85e9723d9f6b6be2efd4c66cd7e3b8"
+            ],
+            "mes_fuente": [
+              "2026-06"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "20e68d5c836c837f4fe1362a7546a61da318320e81bd3a10c05985f26e99d8c5",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 44640,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202606_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "7c176548da13a86dde081106f8cd6289fc85e9723d9f6b6be2efd4c66cd7e3b8"
+            ],
+            "mes_fuente": [
+              "2026-06"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "612b6a2c89251a2fb0fd68b286889143e1377d391ef3b42acf217ede0e7ff2f6",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-07",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202607_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/7/2026_07_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202607_DEF.json",
+      "sha256_metadato": "981e4590c12529aca4021379b13208d6d0790ebe7178301ddccc991948280b34",
+      "etag_registrado": "\"ba6ad63f8050eb803a09327f132be708-82\"",
+      "consulta_original_utc": "2026-09-27T04:06:44.975473+00:00",
+      "gzip_bytes_actuales": 117547781,
+      "gzip_sha256_actual": "f410fdae3972b4668f4ff65ff50be3ba2b22040704dbaba49dba89a7134dfc5e",
+      "tsv_bytes_leidos": 428683863,
+      "tsv_sha256_actual": "11af6e989fef1f881fe7679a1cf33a071278dfdb8106e4da08a5157cda63dce9",
+      "content_length_http_registrado": 428683863,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 184512,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202607_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "11af6e989fef1f881fe7679a1cf33a071278dfdb8106e4da08a5157cda63dce9"
+            ],
+            "mes_fuente": [
+              "2026-07"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "54bd511e8603fe43adac2954b4be6657a12839ce6c3e32ca4fbbe9dc40d917c3",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46128,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202607_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "11af6e989fef1f881fe7679a1cf33a071278dfdb8106e4da08a5157cda63dce9"
+            ],
+            "mes_fuente": [
+              "2026-07"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "15a5d6cd0a3cc7e8fea47f075eae00ee5d23301d98033f3edb9de02fadf7b3b8",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-08",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202608_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/8/2026_08_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202608_DEF.json",
+      "sha256_metadato": "0459bc22ed2b4477929c89ed3bcc18308cba8cd59930d06de15b4050a9953921",
+      "etag_registrado": "\"60f2b30a583aecfb33c99cadceea0e7c-80\"",
+      "consulta_original_utc": "2026-09-27T03:59:31.062285+00:00",
+      "gzip_bytes_actuales": 109191931,
+      "gzip_sha256_actual": "a6825bcfa1f175559c7026e221bf8435add81ff17e225cdd9cb7dbb1b8c22342",
+      "tsv_bytes_leidos": 418063227,
+      "tsv_sha256_actual": "6abcb0d1090aed464f2472645f87e82e8ae849ffe31417ab731d2fcef5bd30f5",
+      "content_length_http_registrado": 418063227,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 185760,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202608_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "6abcb0d1090aed464f2472645f87e82e8ae849ffe31417ab731d2fcef5bd30f5"
+            ],
+            "mes_fuente": [
+              "2026-08"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "bf88365e97fbca264b61e806284618a92219eea884b9a6d96b0db5f88f75d554",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 46440,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202608_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "6abcb0d1090aed464f2472645f87e82e8ae849ffe31417ab731d2fcef5bd30f5"
+            ],
+            "mes_fuente": [
+              "2026-08"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "bb550a7f08fdea5ff6f8f4f342f4b01d74c437e96302b27d8634787cb05d524e",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-09",
+      "version": "DEF",
+      "original": "fuentes/tsv_originales/202609_DEF.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/9/2026_09_REAL-DEF.tsv",
+      "metadato": "fuentes/metadatos/202609_DEF.json",
+      "sha256_metadato": "1ec5071235e6858cfbc66a21f0425c9ea458dde5f928d46ad709e47df2e55140",
+      "etag_registrado": "\"c7983bc5549aa877ecd759a05395422c-47\"",
+      "consulta_original_utc": "2026-09-27T03:25:34.386129+00:00",
+      "gzip_bytes_actuales": 61357214,
+      "gzip_sha256_actual": "cdbe6988bcb6bc4cd3a23bb38bdd89d902bb3ef30eda847aa5a3c159af75bd9e",
+      "tsv_bytes_leidos": 241578198,
+      "tsv_sha256_actual": "e240fb34dc29e106b9404261dce7add00b3194f7e05adc5cbafd048e6bbb3c25",
+      "content_length_http_registrado": 241578198,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 108864,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202609_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "e240fb34dc29e106b9404261dce7add00b3194f7e05adc5cbafd048e6bbb3c25"
+            ],
+            "mes_fuente": [
+              "2026-09"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "2fb7f5f1fa49ff36e6a049204dc7e9ec8f30a0e95282556efcbee309b06a9638",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 27216,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202609_DEF.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "e240fb34dc29e106b9404261dce7add00b3194f7e05adc5cbafd048e6bbb3c25"
+            ],
+            "mes_fuente": [
+              "2026-09"
+            ],
+            "version": [
+              "REAL-DEF"
+            ]
+          },
+          "sha256_parquet_actual": "976eca7b48cdbe501fecea4d3aab72df6953517e26cb541e2c99e38bd470f629",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    },
+    {
+      "mes": "2026-09",
+      "version": "PRE",
+      "original": "fuentes/tsv_originales/202609_PRE.tsv.gz",
+      "url_registrada": "https://cen-datalake-public.s3.amazonaws.com/costos_marginales/CMG_REAL/2026/9/2026_09_REAL-PRE.tsv",
+      "metadato": "fuentes/metadatos/202609_PRE.json",
+      "sha256_metadato": "a5dc06db2961109d01787d669c6f10babf7a96ed764dfefb578aff11bf6ca0b2",
+      "etag_registrado": "\"0363735b34d6c9337524dba792174ffd-59\"",
+      "consulta_original_utc": "2026-09-27T03:43:17.977975+00:00",
+      "gzip_bytes_actuales": 78334761,
+      "gzip_sha256_actual": "27eb844f839ffa49e5502234ed9ca5c3a56bcea9a732e054588b8136404e90bd",
+      "tsv_bytes_leidos": 308821239,
+      "tsv_sha256_actual": "7876a5dde559d7e80ceac1256ac037a409655bbb0b0640b4169a33cdfb54f117",
+      "content_length_http_registrado": 308821239,
+      "error_descompresion": null,
+      "controles": {
+        "gzip_tamano_coincide": true,
+        "gzip_sha256_coincide": true,
+        "gzip_lectura_hasta_EOF_y_CRC_correctos": true,
+        "tsv_tamano_coincide_metadato": true,
+        "tsv_tamano_coincide_Content_Length_registrado": true,
+        "tsv_sha256_coincide": true,
+        "archivo_no_cambio_durante_lectura": true,
+        "fuente_es_original_completo_y_no_parcial": true,
+        "linaje_parquet_coincide": true
+      },
+      "linaje_analitico": [
+        {
+          "resolucion": "15min",
+          "filas": 139356,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202609_PRE.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "7876a5dde559d7e80ceac1256ac037a409655bbb0b0640b4169a33cdfb54f117"
+            ],
+            "mes_fuente": [
+              "2026-09"
+            ],
+            "version": [
+              "REAL-PRE"
+            ]
+          },
+          "sha256_parquet_actual": "b90b703756fa67bea4b134c09f52eded783ce29d07bd3f6051974224a7070340",
+          "coincide_con_extraccion_y_original": true
+        },
+        {
+          "resolucion": "horario",
+          "filas": 34839,
+          "fuentes_referidas": {
+            "archivo_fuente": [
+              "202609_PRE.tsv.gz"
+            ],
+            "sha256_tsv_fuente": [
+              "7876a5dde559d7e80ceac1256ac037a409655bbb0b0640b4169a33cdfb54f117"
+            ],
+            "mes_fuente": [
+              "2026-09"
+            ],
+            "version": [
+              "REAL-PRE"
+            ]
+          },
+          "sha256_parquet_actual": "91d440b1944240c0ae7881ceffdd83f709b98b4a25b9bd7808ad0d683ecfe497",
+          "coincide_con_extraccion_y_original": true
+        }
+      ],
+      "resultado": "OK"
+    }
+  ],
+  "parciales": [
+    {
+      "archivo": "fuentes/descargas_interrumpidas/202509_DEF.tsv.gz.partial",
+      "bytes_actuales": 46978396,
+      "sha256_actual": "54fdf35d494a9468802375a530c0fcb01ee617d06ed8ee577d6481e27f17e954",
+      "esta_fuera_de_originales_validos": true,
+      "referido_como_original": false,
+      "referido_por_particiones_analiticas": false,
+      "coincide_con_manifest_de_interrupcion": true
+    },
+    {
+      "archivo": "fuentes/descargas_interrumpidas/202510_DEF.tsv.gz.partial",
+      "bytes_actuales": 8291719,
+      "sha256_actual": "411daff5060d01032bd0649543e2a0d174cc15b42e6c0572f594c4cb58292ea6",
+      "esta_fuera_de_originales_validos": true,
+      "referido_como_original": false,
+      "referido_por_particiones_analiticas": false,
+      "coincide_con_manifest_de_interrupcion": true
+    },
+    {
+      "archivo": "fuentes/descargas_interrumpidas/202511_DEF.tsv.gz.partial",
+      "bytes_actuales": 3096101,
+      "sha256_actual": "d3d47f437c776b98a2ac1207bc860d57855831dc38570ff69e0527db8d88467f",
+      "esta_fuera_de_originales_validos": true,
+      "referido_como_original": false,
+      "referido_por_particiones_analiticas": false,
+      "coincide_con_manifest_de_interrupcion": true
+    }
+  ],
+  "script_control_sha256": "70d3055d7679d8dac5813087ea63056e129d1ecc9256e9a1b1a24b3b089323c9",
+  "modificaciones_a_fuentes_o_tablas_publicadas": false
+}

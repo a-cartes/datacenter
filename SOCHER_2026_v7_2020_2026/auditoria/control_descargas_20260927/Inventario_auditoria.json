@@ -1,0 +1,101 @@
+{
+  "fecha_utc": "2026-09-27T05:36:42.281031+00:00",
+  "alcance": "Informes, programas y homologación adicional de auditoría; excluye originales nacionales voluminosos. No cambia v0.2.0.",
+  "archivos": [
+    {
+      "archivo": "Resumen_contrastes_completos_20260927.md",
+      "bytes": 1594,
+      "sha256": "4b85c83fb10c37d598d0077259c11d7a94776f3ef88c62b671a9c4f0945dbd52"
+    },
+    {
+      "archivo": "auditar_historicos_ejecucion_original.py",
+      "bytes": 16468,
+      "sha256": "d313f96cef6c318281b92978ccc8ba10263b083d037f7c2030f2352db18ba2ce"
+    },
+    {
+      "archivo": "auditar_historicos_solo_lectura.py",
+      "bytes": 22147,
+      "sha256": "fa666716c02361a1c4f40e291c635a78ff8be77f6cefe381278d3db120fc57ab"
+    },
+    {
+      "archivo": "auditar_moderno.py",
+      "bytes": 12438,
+      "sha256": "70d3055d7679d8dac5813087ea63056e129d1ecc9256e9a1b1a24b3b089323c9"
+    },
+    {
+      "archivo": "auditar_moderno_ejecucion_original.py",
+      "bytes": 8905,
+      "sha256": "7bd7d8fb1bc2fddb131f49e7cd38fb1512623563757e11794384b9c2b255be5f"
+    },
+    {
+      "archivo": "auditoria_historicos_20260927T052420Z.json",
+      "bytes": 217524,
+      "sha256": "cb19f0a63f4a9522b905bcdee93cca7d88ac34c2f84126e36af797faac05eb9e"
+    },
+    {
+      "archivo": "auditoria_historicos_20260927T052420Z.md",
+      "bytes": 1414,
+      "sha256": "4f69d3a2f6470b761700d6050ab738afe997fd948223511654c1a55e9f3bed49"
+    },
+    {
+      "archivo": "auditoria_historicos_20260927T053529Z.json",
+      "bytes": 248633,
+      "sha256": "da5f5def308a29daab691d3142bf0bf03d1fd533026e59e3536a54805bf2d84e"
+    },
+    {
+      "archivo": "auditoria_historicos_20260927T053529Z.md",
+      "bytes": 1454,
+      "sha256": "d83e7979e96f6fcdced83d708cb2ad0e67e0ff617eb5ab488c970e426246dbe7"
+    },
+    {
+      "archivo": "contrastar_zip_descarga_completa.py",
+      "bytes": 6735,
+      "sha256": "a29af26c162969fe95b7f24e11cd2b8699556a666e4760c33459ff1d62064c31"
+    },
+    {
+      "archivo": "contraste_zip_completo_202307_20260927T053008Z.json",
+      "bytes": 3294,
+      "sha256": "e3bfe47b1fff1446b82ac94fde611a410a373facbe14aadbf1aabff22001b297"
+    },
+    {
+      "archivo": "contraste_zip_completo_202308_20260927T053125Z.json",
+      "bytes": 3896,
+      "sha256": "cb0372b574f55449eca628bce9315ecfc7145020540c12f9f0541b69df912724"
+    },
+    {
+      "archivo": "contraste_zip_completo_202308_20260927T053213Z.json",
+      "bytes": 4096,
+      "sha256": "b90a569acc9762c2d147511203885e7a6974b6ec1c47391096360c77ae29bf9f"
+    },
+    {
+      "archivo": "contraste_zip_completo_202402_20260927T052841Z.json",
+      "bytes": 4186,
+      "sha256": "a19cdc7cc38c82f9eb664b84be60820fa2775c5edae7473b5fb7ad329edba280"
+    },
+    {
+      "archivo": "csv_al_cierre_sin_cambios.json",
+      "bytes": 477,
+      "sha256": "89467b420bfc009c5abbf787ed8e44ee7649bdb589f7e7db5dbb295130773dbc"
+    },
+    {
+      "archivo": "csv_publicado_sin_cambios.json",
+      "bytes": 412,
+      "sha256": "70576e506da42f52c145cb793db9525c8c6b58171c3cf9b479dfde3b70308afa"
+    },
+    {
+      "archivo": "miembros_nuevos/202308/Homologación barras cmg 2308.xlsx",
+      "bytes": 59318,
+      "sha256": "435602c95a5e18e813f3f677d3140bd6298be046a5fd36c60459552be562f304"
+    },
+    {
+      "archivo": "moderna_revalidacion_portable.json",
+      "bytes": 78244,
+      "sha256": "a1a5f774fdb581bf96bfd005fabf94e059d8c7a9269c14aa7f069f5a27d54b0a"
+    },
+    {
+      "archivo": "moderno.json",
+      "bytes": 77324,
+      "sha256": "81cac6f9926f1463a47a6bd9edbcf4bfd0a22869f3a5d8aab0f7d7239949eec4"
+    }
+  ]
+}

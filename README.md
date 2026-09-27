@@ -10,6 +10,8 @@ El proyecto estudia cómo la entrada y expansión de centros de datos puede afec
 
 **Estado científico:** datos observados y controles de calidad. La asignación de tratamientos, la vigencia de conexiones centro–barra y la conciliación horaria siguen en validación. Esta entrega no presenta efectos causales estimados.
 
+**Descargas auditadas el 27/09/2026:** no se detectó truncación en las fuentes de precios utilizadas. Se revisaron 55 libros históricos y 28 originales modernos; tres libros recuperados desde descargas interrumpidas coinciden con nuevas descargas completas. La homologación adicional de agosto de 2023 quedó separada, pendiente de incorporar en una futura versión. [Resultado, evidencia y límites del control](docs/integridad_descargas_20260927.md).
+
 | Entrega 2020–2026 | Dimensión verificada |
 |---|---:|
 | Observaciones de barra × fecha × hora publicada | **3.411.527** |

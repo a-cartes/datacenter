@@ -1,0 +1,8 @@
+{
+  "archivo_csv": "entrega/Dataset_precios_barra_hora_2020_2026.csv",
+  "bytes": 1212668988,
+  "sha256_actual": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b",
+  "sha256_publicado": "19bc55d1a30cc59d63c2160a494ea39a42b625cdbb5f66761c360616e3f00d0b",
+  "csv_no_modificado": true,
+  "alcance": "Comprueba estabilidad del CSV publicado, no integridad de todas las fuentes ni validez causal."
+}

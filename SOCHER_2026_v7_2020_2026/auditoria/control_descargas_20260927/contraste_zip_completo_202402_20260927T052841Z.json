@@ -1,0 +1,101 @@
+{
+  "inicio_utc": "2026-09-27T05:28:41.331463+00:00",
+  "fin_utc": "2026-09-27T05:28:42.224551+00:00",
+  "mes": "202402",
+  "estado": "OK",
+  "errores": [],
+  "url_oficial_observada": "https://www.coordinador.cl/wp-content/uploads/2024/03/cmg2402_def.zip",
+  "archivo_descargado": "/Users/yo/Downloads/cmg2402_def.zip",
+  "bytes_descarga": 255316155,
+  "mtime_descarga_ns": 1790486665550432863,
+  "copia_preservada": "auditoria/control_descargas_20260927/originales_contraste/202402_5e3240d12a85b9fd.zip",
+  "sha256_zip": "5e3240d12a85b9fd1028dea019945efaf182b06e133fbfde8faffc50e49f8268",
+  "directorio_central_legible": true,
+  "crc_todos_miembros_exteriores_correcto": true,
+  "n_miembros_exteriores": 5,
+  "miembros_exteriores": [
+    {
+      "nombre": "cmg2402_def.xlsm",
+      "bytes": 56323817,
+      "bytes_comprimidos": 43476459,
+      "crc32": "33683eed",
+      "offset": 0
+    },
+    {
+      "nombre": "Homologación barras cmg_2402_def.xlsx",
+      "bytes": 187239,
+      "bytes_comprimidos": 176476,
+      "crc32": "48203699",
+      "offset": 43476505
+    },
+    {
+      "nombre": "Registro CMg Centrales que marginan por Barra 20240201 a 20240229.xlsm",
+      "bytes": 189460447,
+      "bytes_comprimidos": 90712460,
+      "crc32": "3bc1dbbf",
+      "offset": 43653095
+    },
+    {
+      "nombre": "FPen_2402_def.zip",
+      "bytes": 79269665,
+      "bytes_comprimidos": 79269665,
+      "crc32": "4a69d236",
+      "offset": 134365655
+    },
+    {
+      "nombre": "CMgBarras_15_min_Salida_2402.csv",
+      "bytes": 226996874,
+      "bytes_comprimidos": 41680075,
+      "crc32": "4dee786c",
+      "offset": 213635367
+    }
+  ],
+  "miembros_comparados_con_entrega": [
+    {
+      "tipo": "precios",
+      "miembro": "cmg2402_def.xlsm",
+      "bytes": 56323817,
+      "crc32": "33683eed",
+      "sha256_nueva_descarga": "430f41776e00a97c6bcba0e98e889290637e5808803eeeb926eee072838e5bee",
+      "sha256_usado_registrado": "430f41776e00a97c6bcba0e98e889290637e5808803eeeb926eee072838e5bee",
+      "sha256_usado_actual": "430f41776e00a97c6bcba0e98e889290637e5808803eeeb926eee072838e5bee",
+      "coincide_con_usado": true,
+      "estado": "comparado_con_fuente_congelada"
+    },
+    {
+      "tipo": "homologacion",
+      "miembro": "Homologación barras cmg_2402_def.xlsx",
+      "bytes": 187239,
+      "crc32": "48203699",
+      "sha256_nueva_descarga": "01f42afdbd54c3e58b82f2860da3a72afc45eed09b263188d83823752ac33ef3",
+      "sha256_usado_registrado": "01f42afdbd54c3e58b82f2860da3a72afc45eed09b263188d83823752ac33ef3",
+      "sha256_usado_actual": "01f42afdbd54c3e58b82f2860da3a72afc45eed09b263188d83823752ac33ef3",
+      "coincide_con_usado": true,
+      "estado": "comparado_con_fuente_congelada"
+    }
+  ],
+  "fuente_entrega": {
+    "fuente_id": "historico_202402_DEF",
+    "archivo_derivado": "historico/derivados/precios_202402.parquet",
+    "sha256_derivado": "75d1b3fbbbb4393f3feae8dd8ab9c88e61334c8cb2f2015bfd299b8863e6b3ff",
+    "filas": "40368",
+    "version": "DEF",
+    "archivo_original": "historico/libros/202402/cmg2402_def.xlsm",
+    "sha256_original": "430f41776e00a97c6bcba0e98e889290637e5808803eeeb926eee072838e5bee",
+    "semantica_hora": "etiqueta_fuente_1_25_sin_conversion_UTC",
+    "unidad_precio_original": "mills/kWh",
+    "factor_numerico_usd_mwh": "1",
+    "metodo_precio": "valor_horario_publicado",
+    "archivo_control": "historico/manifiestos/precios_202402.json",
+    "url_original": "https://www.coordinador.cl/wp-content/uploads/2024/03/cmg2402_def.zip",
+    "url_indice": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2024-costos-marginales-de-energia/",
+    "titulo_oficial": "Costo Marginal Definitivo Febrero 2024",
+    "fecha_publicacion_literal": "21/03/2024",
+    "fecha_desde": "2024-02-01",
+    "fecha_hasta": "2024-02-29",
+    "regimen_precio": "historico_antes_20240715",
+    "sha256_contenido_tsv_descomprimido": ""
+  },
+  "datos_congelados_modificados": false,
+  "alcance": "CRC de todos los miembros del ZIP exterior y comparación SHA de libros. No estima efectos ni modifica homologaciones de la versión congelada; no equivale a validación económica o causal."
+}

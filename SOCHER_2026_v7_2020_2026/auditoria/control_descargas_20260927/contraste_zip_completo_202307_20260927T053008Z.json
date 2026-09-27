@@ -1,0 +1,76 @@
+{
+  "inicio_utc": "2026-09-27T05:30:08.484872+00:00",
+  "fin_utc": "2026-09-27T05:30:09.230451+00:00",
+  "mes": "202307",
+  "estado": "OK",
+  "errores": [],
+  "url_oficial_observada": "https://www.coordinador.cl/wp-content/uploads/2023/08/cmg2307_def.zip",
+  "archivo_descargado": "/Users/yo/Downloads/cmg2307_def (3).zip",
+  "bytes_descarga": 219527321,
+  "mtime_descarga_ns": 1790486982544814194,
+  "copia_preservada": "auditoria/control_descargas_20260927/originales_contraste/202307_1702129eb6d2a05d.zip",
+  "sha256_zip": "1702129eb6d2a05dbcbce5fa3304536ae08eff038bc99f50ca80a6b493cddd59",
+  "directorio_central_legible": true,
+  "crc_todos_miembros_exteriores_correcto": true,
+  "n_miembros_exteriores": 3,
+  "miembros_exteriores": [
+    {
+      "nombre": "cmg2307_def.xlsm",
+      "bytes": 59750427,
+      "bytes_comprimidos": 49819104,
+      "crc32": "a3186b93",
+      "offset": 0
+    },
+    {
+      "nombre": "FPen_2307_def.zip",
+      "bytes": 76634051,
+      "bytes_comprimidos": 76634051,
+      "crc32": "4483f15f",
+      "offset": 49819150
+    },
+    {
+      "nombre": "Registro CMg Centrales que marginan por Barra 20230701 a 20230731.xlsm",
+      "bytes": 195097237,
+      "bytes_comprimidos": 93073602,
+      "crc32": "a202fda4",
+      "offset": 126453248
+    }
+  ],
+  "miembros_comparados_con_entrega": [
+    {
+      "tipo": "precios",
+      "miembro": "cmg2307_def.xlsm",
+      "bytes": 59750427,
+      "crc32": "a3186b93",
+      "sha256_nueva_descarga": "873f96c89a1138c227ba07570f86dfda8ba983e030a8d6af5bff7cf17417f953",
+      "sha256_usado_registrado": "873f96c89a1138c227ba07570f86dfda8ba983e030a8d6af5bff7cf17417f953",
+      "sha256_usado_actual": "873f96c89a1138c227ba07570f86dfda8ba983e030a8d6af5bff7cf17417f953",
+      "coincide_con_usado": true,
+      "estado": "comparado_con_fuente_congelada"
+    }
+  ],
+  "fuente_entrega": {
+    "fuente_id": "historico_202307_DEF",
+    "archivo_derivado": "historico/derivados/precios_202307.parquet",
+    "sha256_derivado": "11babc0d53ccaa4ea0f4529bbf5b5c9a10214180b7e95ba3c241bcf28580f163",
+    "filas": "43152",
+    "version": "DEF",
+    "archivo_original": "historico/libros/202307/cmg2307_def.xlsm",
+    "sha256_original": "873f96c89a1138c227ba07570f86dfda8ba983e030a8d6af5bff7cf17417f953",
+    "semantica_hora": "etiqueta_fuente_1_25_sin_conversion_UTC",
+    "unidad_precio_original": "mills/kWh",
+    "factor_numerico_usd_mwh": "1",
+    "metodo_precio": "valor_horario_publicado",
+    "archivo_control": "historico/manifiestos/precios_202307.json",
+    "url_original": "https://www.coordinador.cl/wp-content/uploads/2023/08/cmg2307_def.zip",
+    "url_indice": "https://www.coordinador.cl/mercados/documentos/transferencias-economicas/costos-marginales-de-energia/2023-costos-marginales-de-energia/",
+    "titulo_oficial": "Costo Marginal Definitivo Julio 2023",
+    "fecha_publicacion_literal": "21/08/2023",
+    "fecha_desde": "2023-07-01",
+    "fecha_hasta": "2023-07-31",
+    "regimen_precio": "historico_antes_20240715",
+    "sha256_contenido_tsv_descomprimido": ""
+  },
+  "datos_congelados_modificados": false,
+  "alcance": "CRC de todos los miembros del ZIP exterior y comparación SHA de libros. No estima efectos ni modifica homologaciones de la versión congelada; no equivale a validación económica o causal."
+}
