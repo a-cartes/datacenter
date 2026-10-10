@@ -1,0 +1,10 @@
+{
+  "estado": "success",
+  "commit_ejecutado": "0b7ee6c0f67870921bc379a11dae556446df3cdf",
+  "ejecucion": "https://github.com/a-cartes/datacenter/actions/runs/38015858759",
+  "integridad_y_enlaces": "https://github.com/a-cartes/datacenter/actions/runs/38015858728",
+  "artefacto_id": 11656131960,
+  "sha256_zip": "825bd14f2dc6e521d6aa03123d7c2b86099b27295063c393a3d5d308c4099735",
+  "verificacion_json_sha256": "444acbb2dea19e9a376211ad0733dbd7d55f4fcecabdd6ee4cf6fb225c714e8c",
+  "alcance": "35 comprobaciones científicas desde paneles derivados; corrección de desempates incluida. El commit posterior solo incorpora esta evidencia y documentación."
+}

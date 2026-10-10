@@ -33,6 +33,8 @@ La ejecución no sobrescribe una salida existente. Para repetir, use `--salida /
 python SOCHER_2026_RM/scripts/reproducir.py --solo-integridad
 ```
 
+La versión [v0.3.0](https://github.com/a-cartes/datacenter/tree/v0.3.0) pasó las 35 comprobaciones científicas en Mac y Linux; los [informes y la ejecución externa](evidencia/README.md) quedan archivados.
+
 ## Qué puede comprobarse
 
 | Alcance | Estado del paquete |

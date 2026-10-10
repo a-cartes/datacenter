@@ -4,7 +4,7 @@
 
 - Nueva entrada principal 2017–2025 y manuscrito aportado por los autores.
 - Reconstrucción de muestras y emparejamiento, estimación Sun–Abraham, sensibilidad de Lampa, tendencias previas, Figura 1 y cuenta condicional 2030.
-- Paneles, inventario, fuentes, decisiones y referencias con SHA-256; 35 controles científicos de consistencia en la ejecución local.
+- Paneles, inventario, fuentes, decisiones y referencias con SHA-256; 35 controles científicos de consistencia superados localmente y en Linux, con informes archivados.
 - Separación explícita entre reproducción desde derivados y adquisición de originales.
 - Versiones previas conservadas; no se presenta inferencia causal robusta ni simulación PET26 ejecutada.
 - Documentación de acceso público y citación actualizadas.

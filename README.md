@@ -23,6 +23,8 @@ La [nota metodológica](SOCHER_2026_RM/documentacion/METODO.md) explica las dos 
 
 ![Lampa y sus controles](SOCHER_2026_RM/evidencia/figura_1.png)
 
+La entrega fija [v0.3.0](https://github.com/a-cartes/datacenter/tree/v0.3.0) cuenta con **35 comprobaciones científicas superadas en Mac y Linux**. Consulte los [informes de reproducción](SOCHER_2026_RM/evidencia/README.md).
+
 ## Ejecutar el análisis
 
 Desde una copia de este repositorio, con Python 3.13 y R disponibles:

@@ -1,0 +1,340 @@
+{
+  "estado": "OK",
+  "alcance": "Regeneración desde paneles derivados, covariables e historias congeladas; sin descargar originales ni ejecutar PET26.",
+  "controles": [
+    {
+      "control": "Reconstrucción del emparejamiento muestra_comuna",
+      "estado": "OK",
+      "detalle": {
+        "filas": 198,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_comuna_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 243,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito",
+      "estado": "OK",
+      "detalle": {
+        "filas": 297,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_ctrl_corr_menor05",
+      "estado": "OK",
+      "detalle": {
+        "filas": 297,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_ctrl_corr_menor05_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 144,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_ctrl_lejos5km",
+      "estado": "OK",
+      "detalle": {
+        "filas": 99,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_ctrl_lejos5km_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 324,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_nobal",
+      "estado": "OK",
+      "detalle": {
+        "filas": 297,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_nobal_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 546,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_distrito_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 540,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_nodo_r2km",
+      "estado": "OK",
+      "detalle": {
+        "filas": 198,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_nodo_r2km_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 711,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_nodo_r3km",
+      "estado": "OK",
+      "detalle": {
+        "filas": 297,
+        "columnas": 14
+      }
+    },
+    {
+      "control": "Reconstrucción del emparejamiento muestra_nodo_r3km_sin_emparejar",
+      "estado": "OK",
+      "detalle": {
+        "filas": 666,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "estimaciones.csv",
+      "estado": "OK",
+      "detalle": {
+        "filas": 6,
+        "columnas": 11
+      }
+    },
+    {
+      "control": "sensibilidad_exclusion.csv",
+      "estado": "OK",
+      "detalle": {
+        "filas": 3,
+        "columnas": 12
+      }
+    },
+    {
+      "control": "Contrastes por cohorte",
+      "estado": "OK",
+      "detalle": {
+        "filas": 3,
+        "columnas": 8
+      }
+    },
+    {
+      "control": "Figura 1 y series anuales",
+      "estado": "OK",
+      "detalle": {
+        "filas": 18,
+        "columnas": 7
+      }
+    },
+    {
+      "control": "Series mensuales",
+      "estado": "OK",
+      "detalle": {
+        "filas": 216,
+        "columnas": 7
+      }
+    },
+    {
+      "control": "Controles Lampa 2020-2021",
+      "estado": "OK",
+      "detalle": {
+        "filas": 18,
+        "columnas": 6
+      }
+    },
+    {
+      "control": "189 observaciones únicas y 297 filas con copias",
+      "estado": "OK",
+      "detalle": null
+    },
+    {
+      "control": "Tres tratados y 18 controles",
+      "estado": "OK",
+      "detalle": null
+    },
+    {
+      "control": "Cada distrito-año suma peso uno",
+      "estado": "OK",
+      "detalle": null
+    },
+    {
+      "control": "Pesos por cohorte 5/12,4/12,3/12",
+      "estado": "OK",
+      "detalle": null
+    },
+    {
+      "control": "ATT independiente y regresión",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": 1.052630869121544,
+        "referencia": 1.0526308691
+      }
+    },
+    {
+      "control": "Contraste contra período previo completo",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": -0.08662832481245138,
+        "referencia": -0.08662832481245138
+      }
+    },
+    {
+      "control": "Misma muestra con Lampa 2023",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": 1.015138792474,
+        "referencia": 1.015138792474
+      }
+    },
+    {
+      "control": "IC fecha anterior 0",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": -0.5060533163664,
+        "referencia": -0.5060533163664
+      }
+    },
+    {
+      "control": "IC fecha anterior 1",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": 2.536330901315,
+        "referencia": 2.536330901315
+      }
+    },
+    {
+      "control": "Test completo singular",
+      "estado": "OK",
+      "detalle": null
+    },
+    {
+      "control": "Test ventana común F",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": 193.230353980338,
+        "referencia": 193.230353980339
+      }
+    },
+    {
+      "control": "Test ventana común p",
+      "estado": "OK",
+      "detalle": {
+        "obtenido": 6.20234916684e-15,
+        "referencia": 6.20234916684e-15
+      }
+    },
+    {
+      "control": "96 precios auditados frente a extracto horario",
+      "estado": "OK",
+      "detalle": null
+    },
+    {
+      "control": "Inventario, hitos y fuentes",
+      "estado": "OK",
+      "detalle": {
+        "registros": 63,
+        "hitos": 138,
+        "fuentes": 65
+      }
+    },
+    {
+      "control": "Sensibilidad energética independiente",
+      "estado": "OK",
+      "detalle": null
+    }
+  ],
+  "versiones_python": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "pyarrow": "21.0.0",
+    "matplotlib": "3.10.6",
+    "statsmodels": "0.14.5",
+    "scipy": "1.16.3"
+  },
+  "versiones_R": {
+    "R": "R version 4.6.1 (2026-06-24)",
+    "fixest": "0.14.2"
+  },
+  "cifras_tabla_1": [
+    {
+      "especificacion": "Principal distrital, Lampa 2022",
+      "USD_MWh": 1.0526308691,
+      "IC95_inferior": 0.484443944,
+      "IC95_superior": 1.6208177943
+    },
+    {
+      "especificacion": "Misma muestra, Lampa 2023",
+      "USD_MWh": 1.0151387925,
+      "IC95_inferior": -0.5060533164,
+      "IC95_superior": 2.5363309013
+    },
+    {
+      "especificacion": "Exclusión de Lampa",
+      "USD_MWh": 0.032729946,
+      "IC95_inferior": -0.3517083056,
+      "IC95_superior": 0.4171681976
+    },
+    {
+      "especificacion": "Contraste descriptivo contra todo el período previo",
+      "USD_MWh": -0.0866283248,
+      "IC95_inferior": null,
+      "IC95_superior": null
+    }
+  ],
+  "ejecucion": {
+    "python": "3.13.16",
+    "sistema": "Linux",
+    "tareas": [
+      {
+        "programa": "scripts/preparar_muestra.py",
+        "codigo_salida": 0,
+        "log": "01_preparar_muestra.log"
+      },
+      {
+        "programa": "scripts/resultados_socher.R",
+        "codigo_salida": 0,
+        "log": "02_resultados_socher.log"
+      },
+      {
+        "programa": "scripts/contrastes_cierre_20261009.R",
+        "codigo_salida": 0,
+        "log": "03_contrastes_cierre_20261009.log"
+      },
+      {
+        "programa": "scripts/diagnostico_cierre_20261009.py",
+        "codigo_salida": 0,
+        "log": "04_diagnostico_cierre_20261009.log"
+      },
+      {
+        "programa": "scripts/calculos_comparacion_2030.py",
+        "codigo_salida": 0,
+        "log": "05_calculos_comparacion_2030.log"
+      },
+      {
+        "programa": "scripts/verificar_cierre.py",
+        "codigo_salida": 0,
+        "log": "06_verificar_cierre.log"
+      }
+    ]
+  }
+}
