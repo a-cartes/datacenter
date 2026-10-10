@@ -8,7 +8,7 @@ En las muestras con factores de penalización, `L = P_Quillota220 × (fp − 1)`
 
 ## Emparejamiento y tratamiento
 
-El probit usa log población, log viviendas, proporción de inmigrantes, proporción de pueblos originarios y materialidad aceptable. Se seleccionan diez vecinos con reemplazo y se aplica soporte común. Las muestras y los diagnósticos de todas las variantes quedan incluidos. Los empates exactos se resuelven por identificador alfanumérico ascendente; la [nota de portabilidad](PORTABILIDAD.md) documenta su diferencia con dos muestras históricas de radios. El emparejamiento demográfico no garantiza comparabilidad eléctrica ni tendencias paralelas.
+El probit usa log población, log viviendas, proporción de inmigrantes, proporción de pueblos originarios y materialidad aceptable. Se seleccionan diez vecinos con reemplazo y se aplica soporte común. Las muestras y los diagnósticos de todas las variantes quedan incluidos. Para ordenar se redondea la distancia del puntaje a doce decimales; los empates se resuelven por identificador alfanumérico ascendente; la [nota de portabilidad](PORTABILIDAD.md) documenta su diferencia con dos muestras históricas de radios. El emparejamiento demográfico no garantiza comparabilidad eléctrica ni tendencias paralelas.
 
 La muestra principal contiene 3 distritos tratados, 18 controles y 9 años: 189 observaciones únicas, representadas por 297 filas con copias. Colina-3 entra en 2021, Lampa-4 en 2022 y San Bernardo-11 en 2023. La corrección de Lampa desde 2023 y el cambio de universo de barras son posteriores al protocolo inicial; se conserva la fila con Lampa 2023 sobre la misma muestra. Las decisiones anteriores no se presentan como prerregistro de todos los análisis posteriores.
 

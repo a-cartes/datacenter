@@ -93,13 +93,14 @@ def match(U, alt):
     info["tratadas_fuera_de_soporte"] = T.loc[~sup, "unidad"].tolist()
     T = T[sup]
     pairs = []
-    info["desempate"] = "distancia absoluta en puntaje; empate exacto: identificador alfanumérico ascendente"
+    info["desempate"] = "distancia absoluta en puntaje; distancia redondeada a 12 decimales, luego identificador alfanumérico ascendente"
     info["empates_en_corte"] = []
     for _, t in T.iterrows():
         # Los nodos de un mismo distrito pueden tener covariables y puntajes idénticos.
         # El quicksort por defecto no fija el orden de empates entre arquitecturas.
+        # Redondear a 12 decimales neutraliza diferencias de precisión entre BLAS.
         # Desempate explícito por identificador alfanumérico, sin usar los precios.
-        ranked = C.assign(_dist=(C.ps - t.ps).abs(), _id=C.unidad.astype(str))
+        ranked = C.assign(_dist=(C.ps - t.ps).abs().round(12), _id=C.unidad.astype(str))
         ranked = ranked.sort_values(["_dist", "_id"], kind="stable")
         if len(ranked) > K and ranked.iloc[K-1]._dist == ranked.iloc[K]._dist:
             distance = ranked.iloc[K-1]._dist

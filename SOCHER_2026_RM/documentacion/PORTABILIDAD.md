@@ -1,10 +1,10 @@
 # Reproducción entre Mac y Linux
 
-La primera ejecución pública en Linux detectó una diferencia respecto de las muestras históricas: el ordenamiento por distancia del puntaje probit no especificaba un desempate. Dos nodos ubicados en el mismo distrito tienen las mismas covariables censales; sus puntajes y distancias empatan exactamente. El orden de `quicksort` para empates puede depender de la arquitectura.
+La primera ejecución pública en Linux detectó una diferencia respecto de las muestras históricas: el ordenamiento por distancia del puntaje probit no especificaba un desempate. Dos nodos ubicados en el mismo distrito tienen las mismas covariables censales; sus puntajes y distancias son iguales matemáticamente, aunque el cálculo matricial puede introducir diferencias en los últimos decimales. El orden de `quicksort` para empates puede depender de la arquitectura.
 
 ## Corrección y alcance
 
-El programa activo ordena por distancia absoluta y, en caso de empate exacto, por identificador alfanumérico ascendente. Este criterio utiliza identificadores, no precios ni resultados posteriores. Se aplica a todas las variantes. El informe de cada emparejamiento registra ahora los pares y los candidatos empatados en el décimo puesto.
+El programa activo ordena por distancia absoluta redondeada a doce decimales y, en caso de empate, por identificador alfanumérico ascendente. El redondeo se aplica al ordenamiento, no a precios, covariables, coeficientes ni puntajes guardados. Evita que diferencias de precisión matricial entre plataformas decidan entre covariables idénticas. Este criterio utiliza identificadores, no precios ni resultados posteriores. Se aplica a todas las variantes. El informe de cada emparejamiento registra ahora los pares y los candidatos empatados en el décimo puesto.
 
 - En el radio de 2 km, los nodos 675 y 715, ambos de Renca-5, empatan en el corte. La regla explícita selecciona 675; la muestra histórica seleccionaba 715. Se mantienen diez controles únicos y dos tratados dentro del soporte. Cambia la composición eléctrica de esta alternativa: no se afirma equivalencia de sus resultados.
 - En el radio de 3 km se reordenan copias de controles empatados; permanecen las mismas unidades y sus pesos.
