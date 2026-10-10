@@ -8,6 +8,7 @@
 - Separación explícita entre reproducción desde derivados y adquisición de originales.
 - Versiones previas conservadas; no se presenta inferencia causal robusta ni simulación PET26 ejecutada.
 - Documentación de acceso público y citación actualizadas.
+- Desempate explícito entre nodos con covariables idénticas para asegurar portabilidad Mac/Linux; referencias históricas conservadas. No cambia la muestra ni las estimaciones distritales del resumen.
 
 # Historial de versiones
 

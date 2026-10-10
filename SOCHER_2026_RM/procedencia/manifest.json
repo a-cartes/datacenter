@@ -207,6 +207,41 @@
       "sha256": "cdc84d8729629b999d96a2cbc79f9a0fac729727e6849ebc8511e2bbf913d2a1"
     },
     {
+      "archivo": "procedencia/articulo_virginia.json",
+      "bytes": 238,
+      "sha256": "146188b88e7b3efe00560055ffed546e906fff5aeb1932c479eb24ba335a655b"
+    },
+    {
+      "archivo": "procedencia/manifiesto_originales_historicos.csv",
+      "bytes": 56005,
+      "sha256": "f0c2e15e38b90a3d00a8b4db83f0eb99bc96e5d21025389461204ad14f0c0687"
+    },
+    {
+      "archivo": "procedencia/registro_fuentes.csv",
+      "bytes": 13878,
+      "sha256": "5058049870adfb0df5922b5c41aeb62b642feaa899f5e6fee2fb0dbdd7d86e19"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/clientes_digitales_cne_anual.csv",
+      "bytes": 315191,
+      "sha256": "d173b895966eaaf518620ea5bfd8cb7e46bfc4f213dfa9e0ef3373f19317b294"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/clientes_digitales_cne_mensual.csv",
+      "bytes": 3684342,
+      "sha256": "c682fe3f1bd1021753e100a1e87bfc076f68a608de4363b18bdfa493bc524981"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/proyectos_digitales_etapas.csv",
+      "bytes": 6646,
+      "sha256": "10818a62bb3ef3125893f467585fc25257dec7bedbca3f216a5f702b7631b786"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/resumen_digital_cne.csv",
+      "bytes": 4052,
+      "sha256": "27ba83289de5c98416a695b221920a75e35c39b42b5ef0810cb8341ff9bd330c"
+    },
+    {
       "archivo": "referencia/cierre_socher_20261009/INFORME_CIERRE.txt",
       "bytes": 6443,
       "sha256": "05252b14a172800ff292705dd5ce22d034257101094fb86cd8941f1a7b619086"
@@ -362,6 +397,16 @@
       "sha256": "d5f610793d3031c1f39e347fde5c1e68e7b8bb84e00609945443b3261e0189f4"
     },
     {
+      "archivo": "referencia/emparejamiento_portable/muestra_nodo_r2km.csv",
+      "bytes": 23915,
+      "sha256": "1a7667ecca863b533dc4029add44b27b3a488c349d3eb922e866f21deeca1458"
+    },
+    {
+      "archivo": "referencia/emparejamiento_portable/muestra_nodo_r3km.csv",
+      "bytes": 39994,
+      "sha256": "bdbc450e4c57a2296fc81a4f9fb4a420baaca6cfae4f6e98e3a86812f09b1717"
+    },
+    {
       "archivo": "referencia/piloto_conciliacion.json",
       "bytes": 9425,
       "sha256": "ca055bce96e03425c95eae255e3b84198dca3ccbdd8f192fb41879265e34f6eb"
@@ -515,41 +560,6 @@
       "archivo": "referencia/socher_20261005/verificacion_documento.json",
       "bytes": 807,
       "sha256": "3d811c9767416c26d7504fea2370fe5ec5e4b2786aa4c25a46e5f94153204ca7"
-    },
-    {
-      "archivo": "prospectiva_2030/extraidos/demanda_digital/clientes_digitales_cne_anual.csv",
-      "bytes": 315191,
-      "sha256": "d173b895966eaaf518620ea5bfd8cb7e46bfc4f213dfa9e0ef3373f19317b294"
-    },
-    {
-      "archivo": "prospectiva_2030/extraidos/demanda_digital/clientes_digitales_cne_mensual.csv",
-      "bytes": 3684342,
-      "sha256": "c682fe3f1bd1021753e100a1e87bfc076f68a608de4363b18bdfa493bc524981"
-    },
-    {
-      "archivo": "prospectiva_2030/extraidos/demanda_digital/proyectos_digitales_etapas.csv",
-      "bytes": 6646,
-      "sha256": "10818a62bb3ef3125893f467585fc25257dec7bedbca3f216a5f702b7631b786"
-    },
-    {
-      "archivo": "prospectiva_2030/extraidos/demanda_digital/resumen_digital_cne.csv",
-      "bytes": 4052,
-      "sha256": "27ba83289de5c98416a695b221920a75e35c39b42b5ef0810cb8341ff9bd330c"
-    },
-    {
-      "archivo": "procedencia/articulo_virginia.json",
-      "bytes": 238,
-      "sha256": "146188b88e7b3efe00560055ffed546e906fff5aeb1932c479eb24ba335a655b"
-    },
-    {
-      "archivo": "procedencia/manifiesto_originales_historicos.csv",
-      "bytes": 56005,
-      "sha256": "f0c2e15e38b90a3d00a8b4db83f0eb99bc96e5d21025389461204ad14f0c0687"
-    },
-    {
-      "archivo": "procedencia/registro_fuentes.csv",
-      "bytes": 13878,
-      "sha256": "5058049870adfb0df5922b5c41aeb62b642feaa899f5e6fee2fb0dbdd7d86e19"
     }
   ]
 }

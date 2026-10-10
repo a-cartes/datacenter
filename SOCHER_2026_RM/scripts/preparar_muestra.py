@@ -83,20 +83,32 @@ def match(U, alt):
                           "pseudo_r2": float(m.prsquared)}
         if (U.ps[y == 1] > 0.999).any() or not m.mle_retvals.get("converged"):
             raise RuntimeError("separación o no convergencia")
-    except Exception as e:  # separación con muy pocos tratados: probit penalizado L2 (registrado)
-        m = sm.Probit(y, X).fit_regularized(alpha=1.0, L1_wt=0.0, disp=0, maxiter=500)
+    except Exception as e:  # separación con muy pocos tratados: probit penalizado (la API discreta aplica L1)
+        m = sm.Probit(y, X).fit_regularized(alpha=1.0, disp=0, maxiter=500)
         U["ps"] = m.predict(X)
-        info["probit"] = {"nota": f"probit estándar falló ({e}); se usa probit con penalización L2 (alpha=1)",
+        info["probit"] = {"nota": f"probit estándar falló ({e}); se usa probit con penalización L1 (alpha=1)",
                           "coef": pd.Series(m.params, index=X.columns).round(4).to_dict()}
     T, C = U[U.tratada], U[~U.tratada]
     sup = T.ps <= C.ps.max()
     info["tratadas_fuera_de_soporte"] = T.loc[~sup, "unidad"].tolist()
     T = T[sup]
     pairs = []
+    info["desempate"] = "distancia absoluta en puntaje; empate exacto: identificador alfanumérico ascendente"
+    info["empates_en_corte"] = []
     for _, t in T.iterrows():
-        d = (C.ps - t.ps).abs().sort_values()
-        for u in C.loc[d.index[:K], "unidad"]:
+        # Los nodos de un mismo distrito pueden tener covariables y puntajes idénticos.
+        # El quicksort por defecto no fija el orden de empates entre arquitecturas.
+        # Desempate explícito por identificador alfanumérico, sin usar los precios.
+        ranked = C.assign(_dist=(C.ps - t.ps).abs(), _id=C.unidad.astype(str))
+        ranked = ranked.sort_values(["_dist", "_id"], kind="stable")
+        if len(ranked) > K and ranked.iloc[K-1]._dist == ranked.iloc[K]._dist:
+            distance = ranked.iloc[K-1]._dist
+            info["empates_en_corte"].append({"tratada": t.unidad, "distancia": float(distance),
+                "candidatos": ranked.loc[ranked._dist == distance, "unidad"].tolist(),
+                "elegidos": ranked.head(K).loc[lambda x: x._dist == distance, "unidad"].tolist()})
+        for u in ranked.head(K).unidad:
             pairs.append({"tratada": t.unidad, "control": u})
+    info["pares"] = pairs
     P = pd.DataFrame(pairs)
     m_ = P.control.value_counts()
     info["controles_unicos"] = int(len(m_))

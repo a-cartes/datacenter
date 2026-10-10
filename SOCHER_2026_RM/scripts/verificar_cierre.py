@@ -21,8 +21,10 @@ def frame(name,a,b,keys):
     ok(name,True,{'filas':len(a),'columnas':len(a.columns)})
 
 for source in sorted((PACKAGE/'datos/analitico').glob('muestra_*.csv')):
+    portable = REF/"emparejamiento_portable"/source.name
+    expected = portable if portable.exists() else source
     frame('Reconstrucción del emparejamiento '+source.stem,
-          pd.read_csv(R/'datos/analitico'/source.name),pd.read_csv(source),
+          pd.read_csv(R/'datos/analitico'/source.name),pd.read_csv(expected),
           ['unidad_copia','anio'] if 'sin_emparejar' not in source.name else ['unidad','anio'])
 for file,keys in [('estimaciones.csv',['especificacion']),('sensibilidad_exclusion.csv',['excluida'])]:
     frame(file,pd.read_csv(R/'resultados/socher_20261005'/file),pd.read_csv(REF/'socher_20261005'/file),keys)

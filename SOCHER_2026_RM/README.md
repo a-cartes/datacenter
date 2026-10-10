@@ -38,7 +38,7 @@ python SOCHER_2026_RM/scripts/reproducir.py --solo-integridad
 | Alcance | Estado del paquete |
 |---|---|
 | Integridad de los insumos publicados | SHA-256 y tamaños en `procedencia/manifest.json` |
-| Emparejamiento y muestras | Se reconstruyen desde paneles, covariables e historias; se comparan con las muestras congeladas |
+| Emparejamiento y muestras | Se reconstruyen desde paneles, covariables e historias; se comparan con las referencias históricas y el desempate explícito documentado para radios |
 | Tabla 1, figura y pretendencias | Se reestiman con R y Python, con comprobaciones independientes de agregación |
 | Inventario y conexiones | 63 registros, 138 hitos y 65 fuentes; matrices y procedencia consultables |
 | 96 precios de agosto de 2021 | Se contrastan valores archivados contra el extracto horario; el programa público no relee el XLSM original |
@@ -47,6 +47,7 @@ python SOCHER_2026_RM/scripts/reproducir.py --solo-integridad
 
 ## Leer la evidencia
 
+- [Desempate y reproducción entre Mac y Linux](documentacion/PORTABILIDAD.md).
 - [Cómo se llegó al análisis actual](documentacion/TRAZABILIDAD.md).
 - [Mapa de afirmaciones, insumos y resultados](documentacion/MAPA_RESULTADOS.md).
 - [Definiciones y ponderaciones](documentacion/METODO.md).
