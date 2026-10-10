@@ -14,7 +14,10 @@ def close(name,a,b,tol=1e-7):
     ok(name,np.isclose(a,b,rtol=tol,atol=tol),{'obtenido':float(a),'referencia':float(b)})
 def frame(name,a,b,keys):
     a=a.sort_values(keys).reset_index(drop=True);b=b.sort_values(keys).reset_index(drop=True)
-    pd.testing.assert_frame_equal(a,b,check_dtype=False,rtol=1e-7,atol=1e-8)
+    try:
+        pd.testing.assert_frame_equal(a,b,check_dtype=False,rtol=1e-7,atol=1e-8)
+    except AssertionError as error:
+        raise AssertionError(name + ":\n" + str(error)) from error
     ok(name,True,{'filas':len(a),'columnas':len(a.columns)})
 
 for source in sorted((PACKAGE/'datos/analitico').glob('muestra_*.csv')):

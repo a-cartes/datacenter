@@ -39,5 +39,8 @@ jobs:
             SOCHER_2026_RM/salidas/reproduccion/*.csv
             SOCHER_2026_RM/salidas/reproduccion/*.png
             SOCHER_2026_RM/salidas/reproduccion/*.log
+            SOCHER_2026_RM/salidas/reproduccion/trabajo/datos/analitico/*.csv
+            SOCHER_2026_RM/salidas/reproduccion/trabajo/resultados/emparejamiento*.json
+            SOCHER_2026_RM/salidas/reproduccion/trabajo/resultados/socher_20261005/*.csv
           if-no-files-found: warn
           retention-days: 90
