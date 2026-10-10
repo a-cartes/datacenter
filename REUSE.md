@@ -1,7 +1,9 @@
-# Publicación y reutilización
+# Acceso y reutilización
 
-Este paquete se conserva en un repositorio privado de investigación. Una eventual versión pública, su licencia de código y las condiciones de redistribución de fuentes se definirán antes de abrir el acceso.
+El repositorio es público. Sus archivos permiten consultar y revisar el trabajo; esa visibilidad no asigna automáticamente una licencia general de reutilización.
 
-La inclusión de documentos del Coordinador u otras entidades conserva su procedencia. No les asigna una nueva licencia. El inventario distingue archivos preservados, extractos utilizados y referencias cuyos originales no se incluyen.
+El código, los datos derivados y la documentación propia se atribuyen a sus autores. No se incorpora una licencia nueva en esta revisión. Para usos que requieran permiso, contacte a alancartes@outlook.com.
 
-La citación identifica esta base de trabajo. No afirma que el artículo haya sido publicado ni que exista un DOI asignado.
+Las fuentes del Coordinador, CNE, INE, operadores y editoriales conservan sus condiciones y derechos. Los manifiestos identifican procedencia, versiones y huellas; no transfieren derechos sobre documentos de terceros. El paquete SOCHER RM prioriza derivados, metadatos y enlaces sobre descargas masivas de originales.
+
+La citación identifica un recurso de investigación. No afirma publicación del artículo, aceptación en el congreso ni asignación de un DOI al repositorio. Cite una versión o commit concreto y las fuentes primarias utilizadas.

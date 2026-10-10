@@ -1,0 +1,68 @@
+{
+ "1_abril2024_hora_vs_cuartos": {
+  "pares": 1077174,
+  "abs_dif_max": 0.017414999999999736,
+  "abs_dif_p99": 0.00802749999999719,
+  "share_menor_0_01": 0.998763430977725,
+  "share_menor_0_01_si_se_desplaza_una_hora": 0.3064103979836374,
+  "etiquetas_hora_csv": [
+   1,
+   25
+  ],
+  "conclusion": "hora histórica h = promedio de cuartos HORA=h; HRA moderna = h-1"
+ },
+ "2_tsv_vs_muestra_diaria_20240715": {
+  "union": {
+   "both": 144000,
+   "left_only": 0,
+   "right_only": 0
+  },
+  "abs_dif_max": 0.0,
+  "identicos": 1.0
+ },
+ "3_universo_barras_julio2024": {
+  "historico_1_14": 1500,
+  "moderno_15_31": 1500,
+  "solo_historico": [],
+  "solo_moderno": []
+ },
+ "4_nivel_D_RM_particion_julio": {
+  "2023": {
+   "D_1_14": 0.10444998266296819,
+   "D_15_31": 0.8099807252998286,
+   "diferencia": 0.7055307426368603,
+   "ee_aprox_dias": 0.7981602378836018,
+   "E_1_14": 59.46449404761904,
+   "E_15_31": 57.72764705882353,
+   "barras_RM_dia": [
+    206,
+    206
+   ]
+  },
+  "2024": {
+   "D_1_14": 0.8762571543040291,
+   "D_15_31": 0.3204263358314775,
+   "diferencia": -0.5558308184725516,
+   "ee_aprox_dias": 0.8728279322898006,
+   "E_1_14": 43.591190476190484,
+   "E_15_31": 52.427595177696084,
+   "barras_RM_dia": [
+    208,
+    208
+   ]
+  },
+  "2025": {
+   "D_1_14": 4.92411884697303,
+   "D_15_31": 3.009143754791609,
+   "diferencia": -1.9149750921814213,
+   "ee_aprox_dias": 0.9873123698760999,
+   "E_1_14": 101.22179319940476,
+   "E_15_31": 74.32483701593138,
+   "barras_RM_dia": [
+    211,
+    211
+   ]
+  }
+ },
+ "4_nota": "Diferencias de nivel entre mitades de julio ocurren también sin cambio de régimen; la comparación diaria no aísla un quiebre metodológico. Con efectos de año, un cambio común a todas las barras se absorbe; uno que cambie diferencias entre barras no."
+}

@@ -1,0 +1,15 @@
+{
+ "valores_no_numericos_por_campo": {
+  "PERSONAS": 0,
+  "INMIGRANTES": 15256,
+  "PUEBLOS_ORIGINARIOS": 9122,
+  "DE_65_MAS_ANOS": 9802,
+  "TOTAL_VIVIENDAS": 0,
+  "IND_MAT_ACEPTABLE": 0,
+  "IND_MAT_RECUPERABLE": 0,
+  "IND_MAT_IRRECUPERABLE": 0
+ },
+ "distritos": 451,
+ "comunas": 52,
+ "cobertura_microdatos_mediana": 1.0
+}

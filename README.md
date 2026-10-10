@@ -1,109 +1,74 @@
-<p align="center"><img src="docs/assets/portada.svg" alt="Centros de datos y costos marginales. Investigación para Chile con panel de barras y horas." width="100%"></p>
+# Centros de datos y costos marginales eléctricos en la Región Metropolitana
 
-# Centros de datos y costos marginales en Chile
+Repositorio de datos, código y evidencia del estudio **¿Dónde se conecta la inteligencia artificial? Centros de datos y costos marginales eléctricos en la Región Metropolitana ante el horizonte 2030**.
 
-**Datos, código y trazabilidad del artículo:** *Entrada de centros de datos y diferenciales nodales de costo marginal: evidencia causal para Chile*.
+La versión vigente es el **cierre analítico para SOCHER 2026**, con precios 2017–2025, inventario trazable y documentación eléctrica por etapa. Establece una línea de base ante la expansión digital: **no demuestra un incremento causal robusto de precios ni contiene una simulación contrafactual de 2030**.
 
-[Descargar dataset](https://github.com/a-cartes/datacenter/releases/tag/v0.2.0) · [Guía 2020–2026](docs/ampliacion_2020_2026.md) · [Proceso](docs/proceso.md) · [Método](docs/metodologia.md) · [Reproducción](docs/ampliacion_2020_2026.md#reconstrucción-desde-la-versión-privada) · [Pendientes](ROADMAP.md)
+[Reproducir el cierre](SOCHER_2026_RM/README.md) · [Manuscrito](SOCHER_2026_RM/manuscrito/Resumen_extendido_Alan_Cartes.pdf) · [Método](SOCHER_2026_RM/documentacion/METODO.md) · [Mapa de resultados](SOCHER_2026_RM/documentacion/MAPA_RESULTADOS.md) · [Historia y decisiones](SOCHER_2026_RM/documentacion/TRAZABILIDAD.md)
 
-El proyecto estudia cómo la entrada y expansión de centros de datos puede afectar las diferencias de costos marginales entre nodos eléctricos de Chile. La versión **v0.2.0** amplía la capa de precios desde el **1 de enero de 2020 hasta el 18 de septiembre de 2026**, último día publicado en la fuente definitiva consultada. La revisión de disponibilidad se hizo el 27 de septiembre de 2026.
+## Resultados de esta versión
 
-**Estado científico:** datos observados y controles de calidad. La asignación de tratamientos, la vigencia de conexiones centro–barra y la conciliación horaria siguen en validación. Esta entrega no presenta efectos causales estimados.
+| Resultado | Valor o alcance |
+|---|---|
+| Inventario | 63 registros de instalaciones o etapas, 138 hitos, 65 fuentes |
+| Muestra principal | 3 distritos tratados, 18 controles, 189 observaciones distrito-año |
+| Estimación histórica principal | 1,05263 USD/MWh; sensible a Lampa y a la evolución previa de los controles |
+| Misma muestra con fecha anterior de Lampa | 1,01514 USD/MWh |
+| Exclusión de Lampa | 0,03273 USD/MWh |
+| Contraste descriptivo con todo el período previo | −0,08663 USD/MWh |
+| Diagnóstico de conexiones | Apertura, conexión y utilización de capacidad son hitos distintos |
+| Escala 2030 | 5,455728–9,09288 TWh/año bajo supuestos explícitos; sensibilidad, no impacto de precios estimado |
 
-**Etapa v8 construida:** [panel analítico y evidencia](docs/panel_causal_v8.md), con **142.151 filas diarias**, **4.756 mensuales**, matriz de **24 hitos**, **33 fuentes catalogadas**, protocolo registrado, Excel de revisión y [manuscrito en español con resumen en inglés](SOCHER_2026_v8_panel_causal/documentos/manuscrito_v8.md). La nueva homologación enlaza 53 de 58 etiquetas de agosto de 2023 sin modificar precios. Se acreditó la energización de Ascenty E53 el 5 de mayo de 2025 y su ruta nominal hacia Chacabuco 110 kV; sigue abierta la naturaleza de la carga y el contrafactual. No hay ATT habilitado y v0.2.0 permanece intacta.
+La [nota metodológica](SOCHER_2026_RM/documentacion/METODO.md) explica las dos ponderaciones, los intervalos convencionales, el test previo singular y los límites de comparación con Virginia. La [Tabla 1 reproducida](SOCHER_2026_RM/evidencia/tabla_1.csv) conserva la sensibilidad a fechas y exclusión de Lampa.
 
-**Descargas auditadas el 27/09/2026:** no se detectó truncación en las fuentes de precios utilizadas. Se revisaron 55 libros históricos y 28 originales modernos; tres libros recuperados desde descargas interrumpidas coinciden con nuevas descargas completas. La homologación adicional de agosto de 2023 quedó separada de v0.2.0 y se incorpora como metadatos en v8. [Resultado, evidencia y límites del control](docs/integridad_descargas_20260927.md).
+![Lampa y sus controles](SOCHER_2026_RM/evidencia/figura_1.png)
 
-**Resultado nuevo E53:** en la ventana declarada de 104 días previos y 90 posteriores, Chacabuco 110 sube **16,57 USD/MWh** y Quillota 110 sube **15,58**; el diferencial aumenta **0,99 USD/MWh**, frente a **0,24** en los primeros 28 días. Son cambios descriptivos, sin atribución causal. Se verificaron independientemente los 25 contrastes y se recuperaron 90.532 mediciones agregadas ET7, sin considerarlas consumo exclusivo de Ascenty. [Informe, figura, fuentes y reproducción](SOCHER_2026_v8_panel_causal/investigacion_e53_20260927/README.md). El Excel previo conserva su carácter de instantánea anterior a esta ampliación.
+## Ejecutar el análisis
 
-**Avance ODATA:** se recuperó la carta original del titular que declara inicio de operación de Lampa para el **1 de agosto de 2022**, junto con su comprobante SMA. Los precios históricos de Batuco tienen soporte común de 105 días previos y 90 posteriores, pero falta acreditar el empalme vigente, conciliar el inicio de octubre registrado por OGP y justificar la comparación causal. Se distinguen suministro inicial y conexión de alta tensión posterior; se documenta también por qué una solicitud de Alto Jahuel en 2024 no acredita entrada ese año. [Informe integrado y siguientes documentos necesarios](SOCHER_2026_v8_panel_causal/investigacion_odata_20260927/README.md). La revisión de literatura incorpora cuatro trabajos primarios de 2026. No se habilita un ATT ni se modifica v0.2.0.
+Desde una copia de este repositorio, con Python 3.13 y R disponibles:
 
-| Entrega 2020–2026 | Dimensión verificada |
-|---|---:|
-| Observaciones de barra × fecha × hora publicada | **3.411.527** |
-| Variables del CSV principal | **31** |
-| Particiones de precios DEF integradas | **82**: 55 históricas y 27 modernas |
-| Archivos CSV por año | **7** |
-| Registros de medición a 15 minutos, en capa separada | **1.862.581** |
-| Fuentes mensuales de mediciones | **40**, mayo de 2023–agosto de 2026 |
+```bash
+python3 -m venv .venv-socher
+source .venv-socher/bin/activate
+python -m pip install -r SOCHER_2026_RM/requirements-lock.txt
+Rscript SOCHER_2026_RM/scripts/instalar_R.R
+python SOCHER_2026_RM/scripts/reproducir.py
+```
 
-Se integraron todos los meses del período solicitado hasta el corte observado. Las 82 particiones corresponden a 81 meses calendario: julio de 2024 se divide entre dos regímenes de publicación, sin duplicar fechas. Eso no significa que todas las barras existan o tengan observaciones durante todo el período. Los [informes de cobertura](SOCHER_2026_v7_2020_2026/evidencia/Cobertura_por_mes_regimen.csv) describen días, barras, horas y vacíos. Las identidades publicadas y los 30 sockets candidatos **no equivalen a centros independientes**.
+El programa comprueba hashes, reconstruye muestras y emparejamiento, ejecuta las regresiones, regenera la figura y contrasta los resultados con referencias congeladas. Publica un informe verificable en `SOCHER_2026_RM/salidas/reproduccion/verificacion.json`. No requiere credenciales ni conexión a internet después de instalar dependencias. Se conservan los [resultados de la verificación local](SOCHER_2026_RM/evidencia/verificacion_local.json) y existe un [flujo de comprobación en GitHub Actions](.github/workflows/socher-rm.yml).
 
-## Abrir los datos
+La reproducción comienza en **paneles derivados**, no en una nueva descarga de todos los originales. La [guía de fuentes](SOCHER_2026_RM/documentacion/FUENTES_Y_RECONSTRUCCION.md) detalla lo incluido, los manifiestos, los programas de extracción y las tareas manuales necesarias para ese alcance adicional.
 
-En la [versión privada v0.2.0](https://github.com/a-cartes/datacenter/releases/tag/v0.2.0) se encuentran:
-
-- **Dataset_precios_barra_hora_2020_2026.csv.gz**: CSV completo comprimido; al descomprimir contiene exactamente el mismo CSV verificado.
-- **CSV_por_anio_2020_2026.zip**: siete CSV para abrir cada año por separado en Excel, junto con el diccionario y las coberturas.
-- **Dataset_precios_barra_hora_2020_2026.parquet**: copia por columnas para R o Python.
-- **Capas_complementarias_2020_2026.zip**: mediciones horarias y de 15 minutos separadas, y precios preliminares de septiembre, con sus guías.
-- **Insumos_reproduccion_2020_2026.zip**: particiones y metadatos congelados para reconstruir la entrega.
-- **SHA256SUMS.txt** e informes de verificación para comprobar la integridad de las descargas.
-
-El CSV completo excede la capacidad de filas de una hoja de Excel. Cada CSV anual cabe dentro de ese límite. En Excel, importar desde **Datos → Desde texto/CSV**, con UTF-8 y separador coma; los decimales usan punto. El repositorio y sus archivos son privados y requieren acceso autorizado.
-
-Esta versión tiene 31 columnas de precios, referencias y trazabilidad. La anterior tenía 66 columnas en un panel de trabajo que reunía más capas. No son dos conversiones del mismo archivo: **v0.2.0 amplía el tiempo y mantiene consumo y evidencia de eventos separados hasta validar sus enlaces**. La [versión v0.1.0](https://github.com/a-cartes/datacenter/releases/tag/v0.1.0), con 178.016 filas de 2024, CSV y Excel, permanece disponible.
-
-## Del original al dato analizable
+## El trabajo detrás de los resultados
 
 ```mermaid
 flowchart LR
-    A[Fuentes oficiales preservadas] --> B[Extracción histórica y moderna]
-    B --> C[Etiquetas, códigos y reloj de cada fuente]
-    C --> D[Precios horarios y diferenciales]
-    D --> E[CSV y Parquet verificados]
-    E --> F[Validación de eventos y vínculos eléctricos]
-    F --> G[Muestra causal y estimación]
-    classDef disponible fill:#e5f4f2,stroke:#16827d,color:#123b3a;
-    classDef pendiente fill:#fff4df,stroke:#bf8735,color:#63451b;
-    class A,B,C,D,E disponible;
-    class F,G pendiente;
+    A[Originales y manifiestos] --> B[Extracción y continuidad de precios]
+    B --> C[Barra y subestación a distrito]
+    D[Inventario y hitos documentados] --> E[Historia de exposición]
+    C --> F[Panel y covariables]
+    E --> G[Emparejamiento y estimación]
+    F --> G
+    G --> H[Auditoría Lampa y controles]
+    H --> I[Tabla y figura SOCHER]
 ```
 
-La documentación adapta **W3C PROV-DM** para enlazar fuentes, transformaciones y productos. Es una forma de organizar la procedencia, no una teoría nueva ni una certificación. El [registro del proceso](docs/proceso.md) y la [guía ampliada](docs/ampliacion_2020_2026.md) explican los problemas que cambian la interpretación:
+- [Decisiones fechadas y revisiones posteriores](SOCHER_2026_RM/archivo/documentacion/REGISTRO_DECISIONES.md).
+- [Validación de la medida eléctrica y cambios de publicación](SOCHER_2026_RM/archivo/documentacion/VALIDACION_MEDIDA.md).
+- [Inventario de instalaciones y fuentes](SOCHER_2026_RM/datos/instalaciones/instalaciones.csv).
+- [Matriz de conexiones y potencia](SOCHER_2026_RM/referencia/cierre_socher_20261009/matriz_conexiones_potencias.csv).
+- [Diagnóstico de Lampa y de los controles](SOCHER_2026_RM/referencia/cierre_socher_20261009/INFORME_CIERRE.txt).
+- [Comparabilidad del diseño con Virginia](SOCHER_2026_RM/referencia/cierre_socher_20261009/correspondencia_virginia.csv).
+- [Bases PET26 y viabilidad de la siguiente etapa](SOCHER_2026_RM/archivo/prospectiva_documentacion/INFORME_VIABILIDAD.md).
 
-| Problema observado | Tratamiento en la base |
-|---|---|
-| Cambio de publicación el 15 de julio de 2024 | Regímenes separados; se preservan ambas convenciones horarias. |
-| Identidades, tensiones y códigos cambian | Identificador mensual y campos literales; no se inventa continuidad física. |
-| Archivo nacional descargado parcialmente | Sólo se recupera un libro interno si está completo y verifica tamaño, CRC y su estructura; el contenedor queda marcado como incompleto. |
-| DEF, PRE y reliquidaciones difieren | Versión preservada; PRE separado; no se afirma que DEF sea la última reliquidación. |
-| Cuatro intervalos de 15 minutos forman la hora moderna | Precio horario válido sólo con 0, 15, 30 y 45 presentes. |
-| Diferencias entre octubre de 2023 y una exportación antigua | Se conservan fuente, magnitudes y celdas contrastadas; no se rellenan huecos mezclando versiones. |
-| Millones de filas y riesgo de pérdida al exportar | Comparación de las 31 columnas CSV/Parquet, nulos incluidos; hashes y concatenación anual. |
+## Investigación anterior y siguientes etapas
 
-Los precios originales seleccionados de la base anterior coinciden en sus **178.016 filas** con la nueva extracción. La asignación de códigos se vuelve a evaluar con la homologación exacta de cada mes.
+Las carpetas `SOCHER_2026_dataset` y v2–v8 se conservan como antecedentes. La [portada histórica de v8](README_historico_v8.md) documenta aquella etapa 2020–2026; no es el estado vigente del resumen RM. Las versiones publicadas v0.1.0 y v0.2.0 mantienen sus archivos. No se reescribe el historial ni se mezclan automáticamente sus muestras con el cierre 2017–2025.
 
-## Reproducir y revisar
-
-La [guía de reproducción](docs/ampliacion_2020_2026.md#reconstrucción-desde-la-versión-privada) distingue dos alcances:
-
-1. **Reconstruir exactamente la entrega** desde las particiones archivadas y comprobadas de la versión privada.
-2. **Volver a adquirir y extraer los originales**, con los scripts y catálogos. El proveedor puede actualizar una fuente; la reproducción exacta exige conservar la instantánea original. Algunas descargas históricas requieren la interfaz del portal.
-
-La [verificación local completa](SOCHER_2026_v7_2020_2026/evidencia/Verificacion_entrega.json) compara todas las filas y columnas. La concatenación de los siete CSV anuales y la descompresión de gzip reproducen el CSV principal byte por byte. Las pruebas de corrupción, referencias ambiguas y archivos alterados están conservadas en el código.
-
-**Reconstrucción remota completada en Linux:** [GitHub Actions](https://github.com/a-cartes/datacenter/actions/runs/36295132374). Recuperó las 3.411.527 filas con el mismo SHA-256 del CSV publicado y aprobó las pruebas de referencias y detección de archivos alterados. [Informe conservado](docs/evidencia-v0.2.0/CI_reproduccion.json). También se preserva la [reconstrucción local desde el paquete](docs/evidencia-v0.2.0/Local_reproduccion.json).
-
-El [diccionario](SOCHER_2026_v7_2020_2026/evidencia/Diccionario_precios.csv), las [fuentes](SOCHER_2026_v7_2020_2026/evidencia/Fuentes_precios.csv) y los [faltantes](SOCHER_2026_v7_2020_2026/evidencia/Faltantes_precios_detalle.csv) permiten auditar el resultado sin descargar todos los originales nacionales.
-
-## Límites de interpretación
-
-- El costo marginal nodal no es la tarifa pagada por un centro de datos.
-- Quillota 110 y 220 son referencias descriptivas; su diferencia de precio no acredita por sí sola un efecto causal.
-- Los precios históricos conservan horas 1–25 y los modernos HRA 0–24; todavía no existe una conciliación validada con las mediciones en UTC.
-- El agregado HT1 + HT2 no certifica el consumo total de un campus. D y R permanecen separados.
-- Una fecha prevista, una energización y una entrada operacional son hitos diferentes. La primera medición disponible no es una inauguración.
-- Los vacíos permanecen vacíos; no se convierten en cero ni en unidades nunca tratadas.
-
-El [modelo metodológico](docs/metodologia.md) presenta los supuestos para ATT, DiD escalonado, estudio de eventos y exposición a otros centros. La [hoja de ruta](ROADMAP.md) separa las tareas cumplidas de las pendientes.
-
-## Research overview
-
-This project builds a traceable electricity-node dataset to study the effects of data-center entry and expansion on nodal marginal-cost differentials in Chile. Version 0.2.0 covers published definitive prices from January 2020 to 18 September 2026, preserving source versions, historical identities and time labels. Measurement layers remain separate until electrical links and time conventions are validated. No causal effect is claimed at this stage.
+La [hoja de ruta](ROADMAP.md) separa esta línea de base de la simulación de red pendiente y de la futura evaluación causal con retiros medidos por instalación. Este repositorio no acredita aceptación en SOCHER ni publicación en una revista.
 
 ## Autoría y citación
 
-Alan Cartes Fica · Universidad del Bío-Bío.
+**Alan Cartes Fica, Ricardo Troncoso y Rodrigo Romo — Universidad del Bío-Bío, Chile.** Correspondencia: alancartes@outlook.com.
 
-[CITATION.cff](CITATION.cff) describe este recurso de investigación, no un artículo ya publicado. Cite la versión específica y las fuentes primarias del Coordinador Eléctrico Nacional. Las condiciones de reutilización están en [REUSE.md](REUSE.md).
+Use [CITATION.cff](CITATION.cff), identifique la versión o el commit consultado y cite las fuentes primarias correspondientes. El [registro de cambios](CHANGELOG.md) permite distinguir entregas. Las [condiciones de reutilización](REUSE.md) distinguen el trabajo propio de las fuentes de terceros.

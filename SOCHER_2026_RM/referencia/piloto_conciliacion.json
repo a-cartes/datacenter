@@ -1,0 +1,416 @@
+{
+ "fecha_ejecucion": "2026-10-02T19:24:06",
+ "referencia": "QUILLOTA______220",
+ "definiciones": {
+  "E": "P de Quillota 220",
+  "L": "E*(FP-1)",
+  "C": "P-E*FP",
+  "D": "P-E=L+C"
+ },
+ "2024-07-15": {
+  "archivo_minuto": {
+   "nombre": "CMgxBarraMinuto_20240715.csv",
+   "barras": 1500,
+   "eventos": 46791,
+   "subsistemas_designados": {
+    "SD1": 45782,
+    "SD2": 872,
+    "SD4": 118,
+    "SD5": 10,
+    "SD3": 5,
+    "SD6": 4
+   },
+   "abs_promedio_minutos_menos_P15_todas": {
+    "n": 144000,
+    "p50": 0.19115166666666283,
+    "p90": 1.2583699999999993,
+    "p99": 3.7931611000000016,
+    "p100": 53.36655000000002
+   },
+   "abs_promedio_minutos_menos_P15_quillota220": {
+    "n": 96,
+    "p50": 0.0,
+    "p90": 3.3333333391283304e-06,
+    "p99": 0.75,
+    "p100": 0.75
+   },
+   "nota": "Los precios por minuto usan factores distintos de los reales de 15 minutos; solo coinciden donde FP=1."
+  },
+  "comparativo_vs_promedios": {
+   "union": {
+    "both": 144000,
+    "left_only": 0,
+    "right_only": 0
+   },
+   "abs_R_menos_P_promedios": {
+    "n": 144000,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "p100": 0.0
+   },
+   "abs_preliminar_menos_real": {
+    "n": 144000,
+    "p50": 0.0,
+    "p90": 0.0,
+    "p99": 0.0,
+    "p100": 53.9986347
+   },
+   "abs_enlinea_menos_real": {
+    "n": 144000,
+    "p50": 0.7727199999999996,
+    "p90": 5.526587,
+    "p99": 23.219783600000042,
+    "p100": 52.70351000000001
+   },
+   "filas_MODIFICADO": {
+    "NO": 143830,
+    "SI": 170
+   },
+   "tipo_cambio_unico": [
+    908.92
+   ]
+  },
+  "peso_por_kwh_vs_mills": {
+   "n": 129046,
+   "p50": 0.9089200005812395,
+   "p90": 0.90892005945893,
+   "p99": 0.9089201100180978,
+   "p100": 0.908920456321875
+  },
+  "factores": {
+   "barras_con_factor": 1535,
+   "barras_precio_sin_factor": 0,
+   "barras_factor_sin_precio": [
+    "BARRA 1",
+    "BARRA 10",
+    "BARRA 11",
+    "BARRA 12",
+    "BARRA 13",
+    "BARRA 14",
+    "BARRA 15",
+    "BARRA 16",
+    "BARRA 17",
+    "BARRA 18",
+    "BARRA 19",
+    "BARRA 2",
+    "BARRA 20",
+    "BARRA 21",
+    "BARRA 22",
+    "BARRA 23",
+    "BARRA 24",
+    "BARRA 25",
+    "BARRA 26",
+    "BARRA 27",
+    "BARRA 28",
+    "BARRA 29",
+    "BARRA 3",
+    "BARRA 30",
+    "BARRA 4",
+    "BARRA 5",
+    "BARRA 6 ",
+    "BARRA 7",
+    "BARRA 8",
+    "BARRA 9",
+    "LLANBLANCOS1__023",
+    "LLANBLANCOS2__023",
+    "MEJILLONES_____PM",
+    "TAP.ALGARR____066",
+    "TEST_BARRA____220"
+   ],
+   "tipo_filas": {
+    "LEÍDO": 137042,
+    "ESTIMADO": 10318
+   },
+   "quillota220_fp": {
+    "n": 96,
+    "p0": 1.0,
+    "p100": 1.0
+   }
+  },
+  "identidad_lambda_fp": {
+   "barra_intervalos_evaluados": 127991,
+   "desviacion_relativa_lambda": {
+    "n": 127991,
+    "p50": 3.191521779592096e-08,
+    "p90": 6.623905371677549e-08,
+    "p99": 1.8685178384476697e-07,
+    "p100": 0.008822638751935372
+   },
+   "share_desv_menor_1e-4": 0.9999609347532248,
+   "por_tipo_factor": {
+    "ESTIMADO": {
+     "n": 5950,
+     "p50": 0.0,
+     "p90": 5.160192924002708e-08,
+     "p99": 2.171615592758547e-07,
+     "p100": 2.5251092010768e-07
+    },
+    "LEÍDO": {
+     "n": 122041,
+     "p50": 3.273032627443063e-08,
+     "p90": 6.651724680334486e-08,
+     "p99": 1.8219553376953732e-07,
+     "p100": 0.008822638751935372
+    }
+   }
+  },
+  "quillota220_subsistema": {
+   "SD1": 96
+  },
+  "identidad_D_igual_L_mas_C_max_abs": 2.842170943040401e-14,
+  "intervalos": {
+   "total": 96,
+   "con_mas_de_un_subsistema": 44,
+   "solo_un_subsistema": 52
+  },
+  "C_abs_por_estado": {
+   "barras_en_subsistema_de_quillota": {
+    "n": 129226,
+    "p50": 2.00000000916134e-06,
+    "p90": 4.9999999873762135e-06,
+    "p99": 8.269999995036414e-06,
+    "p100": 25.638914999999997
+   },
+   "barras_en_otro_subsistema": {
+    "n": 14774,
+    "p50": 50.779116,
+    "p90": 58.6657898134,
+    "p99": 62.76,
+    "p100": 225.52895999999998
+   }
+  },
+  "desacoples_registrados": [
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "23:36",
+    "HORA_FIN": "00:00",
+    "LINEA": "NIRIVILO______066 -> TAPCSJAVIER___066",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_5",
+    "JERARQUIA": "SD20240715_1 -> SD20240715_5"
+   },
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "09:04",
+    "HORA_FIN": "10:33",
+    "LINEA": "POLPAICO______500 -> N.P.AZUCAR____500",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_2",
+    "JERARQUIA": "SD20240715_1 -> SD20240715_2"
+   },
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "11:00",
+    "HORA_FIN": "17:17",
+    "LINEA": "POLPAICO______500 -> N.P.AZUCAR____500",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_2",
+    "JERARQUIA": "SD20240715_1 -> SD20240715_2"
+   },
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "11:36",
+    "HORA_FIN": "12:59",
+    "LINEA": "CRUCERO_______220 -> M.ELENA_______220",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_6",
+    "JERARQUIA": "SD20240715_2 -> SD20240715_6"
+   },
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "12:27",
+    "HORA_FIN": "13:27",
+    "LINEA": "C.NAVIA_______220 -> C.NAVIA_______110",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_4",
+    "JERARQUIA": "SD20240715_1 -> SD20240715_4"
+   },
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "13:50",
+    "HORA_FIN": "16:30",
+    "LINEA": "C.NAVIA_______220 -> C.NAVIA_______110",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_4",
+    "JERARQUIA": "SD20240715_1 -> SD20240715_4"
+   },
+   {
+    "FECHA": "20240715",
+    "HORA_INICIO": "20:13",
+    "HORA_FIN": "23:00",
+    "LINEA": "PINATAS_______066 -> TAP.MANZANO___066",
+    "CAUSAL": "Ctrl. Transferencia",
+    "SUBSISTEMA": "SD20240715_3",
+    "JERARQUIA": "SD20240715_1 -> SD20240715_3"
+   }
+  ],
+  "barras_SD4": [
+   "ALTAMIRANO____013",
+   "ALTAMIRANO____110",
+   "BATUCO________013",
+   "BATUCO________110",
+   "BRASIL________013",
+   "BRASIL________110",
+   "C.NAVIA_______110",
+   "CANTERAS______023",
+   "CANTERAS______110",
+   "CARRASCAL_____012",
+   "CARRASCAL_____110",
+   "CHACABUCO_____013",
+   "CHACABUCO_____023",
+   "CHACABUCO_____110",
+   "CURACAVI______012",
+   "CURACAVI______044",
+   "L.VEGAS2______110",
+   "LORD_COCHRANE_012",
+   "LO_AGUIRRE____012",
+   "LO_AGUIRRE____110",
+   "LO_BOZA_______013",
+   "LO_BOZA_______023",
+   "LO_BOZA_______110",
+   "LO_PRADO______012",
+   "LO_PRADO______044",
+   "LO_PRADO______110",
+   "METRO_________020",
+   "METRO_________110",
+   "PAJARITOS_____013",
+   "PAJARITOS_____023",
+   "PAJARITOS_____110",
+   "POLPAICO______023",
+   "PPEUCO________023",
+   "PPEUCO________110",
+   "PUDAHUEL______013",
+   "PUDAHUEL______110",
+   "QUILICURA_____013",
+   "QUILICURA_____023",
+   "QUILICURA_____110",
+   "RECOLETA______013",
+   "RECOLETA______110",
+   "RENCA_________110",
+   "SANT_SOLAR____110",
+   "SAN_CRISTOBAL_012",
+   "SAN_CRISTOBAL_110",
+   "SAN_JOSE______013",
+   "SAN_JOSE______110",
+   "SAN_PABLO_____013",
+   "SAN_PABLO_____023",
+   "SAN_PABLO_____110",
+   "TAP_CARRASCAL_110",
+   "TAP_CHACABUCO_110",
+   "TAP_LO_BOZA___110",
+   "TAP_PAJARITOS_110",
+   "TAP_QUILICURA_110",
+   "TAP_RECOLETA__110",
+   "TAP_SAN_JOSE__110",
+   "TLIBERTADORES_110",
+   "T_ALTAMIRANO__110"
+  ],
+  "SD4_resumen": {
+   "intervalos_desacoplados": 14,
+   "C_medio_desacoplado": 24.874014593802634,
+   "L_medio_desacoplado": 3.1530294261247334,
+   "D_medio_dia": 6.605848210741526,
+   "C_medio_dia": 3.8479956184656925,
+   "L_medio_dia": 2.757852592275834
+  }
+ },
+ "2017-12": {
+  "barras_precio": 1235,
+  "precios_vacios": 1512,
+  "barras_factor": 1251,
+  "barras_central_marginal": 1235,
+  "minutos_por_barra_hora": {
+   "n": 918840,
+   "p0": 60.0,
+   "p100": 60.0
+  },
+  "subsistemas_por_barra_hora_max": 1,
+  "busqueda_tramos_top5": [
+   {
+    "a": 8,
+    "b": 18,
+    "media": 0.0005100146354628076,
+    "share_menor_0_5pct": 0.9988505693255502
+   },
+   {
+    "a": 8,
+    "b": 17,
+    "media": 0.0009114201790417579,
+    "share_menor_0_5pct": 0.9775316181312437
+   },
+   {
+    "a": 8,
+    "b": 19,
+    "media": 0.0009826102788097189,
+    "share_menor_0_5pct": 0.9768391476637617
+   },
+   {
+    "a": 8,
+    "b": 16,
+    "media": 0.0013138400612143744,
+    "share_menor_0_5pct": 0.9561798595374625
+   },
+   {
+    "a": 9,
+    "b": 18,
+    "media": 0.0013523250229368214,
+    "share_menor_0_5pct": 0.9685541076035835
+   }
+  ],
+  "tramos_elegidos": {
+   "1": "horas 1-8",
+   "2": "horas 9-18",
+   "3": "horas 19-24"
+  },
+  "barra_horas_sin_factor": 2256,
+  "quillota220_fp": {
+   "n": 744,
+   "p0": 1.0,
+   "p100": 1.0
+  },
+  "identidad_lambda_fp": {
+   "evaluadas": 852761,
+   "desv_log": {
+    "n": 852761,
+    "p50": 0.0004840190294919111,
+    "p90": 0.0009307555992825733,
+    "p99": 0.0013341640052058068,
+    "p100": 0.009673442599262172
+   },
+   "share_menor_0_5pct": 0.9996775180853721,
+   "nota": "Precios publicados con un decimal; error de redondeo esperado de hasta 0,05/P."
+  },
+  "quillota220_subsistema": {
+   "SD1": 744
+  },
+  "horas": {
+   "total": 744,
+   "subsistemas_por_hora": {
+    "3": 312,
+    "4": 96,
+    "5": 120,
+    "6": 144,
+    "7": 48,
+    "8": 24
+   }
+  },
+  "C_abs": {
+   "mismo_subsistema_que_quillota": {
+    "n": 693480,
+    "p50": 0.0237199999999973,
+    "p90": 0.04567999999999728,
+    "p99": 0.06851999999999947,
+    "p100": 0.11534000000000333
+   },
+   "otro_subsistema": {
+    "n": 223104,
+    "p50": 5.388399999999997,
+    "p90": 53.3,
+    "p99": 145.5,
+    "p100": 281.81688
+   }
+  },
+  "horas_precio_quillota_cero": 38
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "fecha": "2026-10-05",
+  "autores": [
+    "Alan Cartes Fica",
+    "Ricardo Troncoso"
+  ],
+  "filiacion": "Universidad del Bío-Bío",
+  "correo_correspondencia": "alancartes@outlook.com",
+  "formato": "A4, Times New Roman 11, 4 páginas previstas; rango 2-4 aportado por usuario",
+  "estado": "Versión de envío con resultados preliminares e identificación completa; no enviado",
+  "faltantes_identificacion": [],
+  "gestion_envio": "Recepción SOCHER fuera del plazo publicado no confirmada",
+  "trabajo_en_curso": "Estimación contrafactual de precios y costos 2030 pendiente, declarada en el manuscrito",
+  "datos": "Bases de Replica_RM_desde_cero; no se modificaron bases previas",
+  "reproduccion": [
+    "Rscript scripts/resultados_socher.R",
+    "python scripts/calculos_comparacion_2030.py",
+    "python scripts/crear_resumen_socher.py"
+  ],
+  "prospectiva": "Bases PET26 incorporadas: tres escenarios, 349 barras y 496 líneas; entradas y salidas de demanda 2030 conciliadas. Equivalencias de energía y sensibilidad de valoración spot; todavía no son efectos estimados de precios 2030"
+}

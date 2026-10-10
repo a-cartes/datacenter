@@ -1,0 +1,13 @@
+{
+  "fecha": "2026-10-09",
+  "revision": "Enfoque prospectivo en subtítulo, introducción y conclusión; síntesis de conexiones",
+  "paginas": 4,
+  "tablas_numericas_inalteradas": true,
+  "revision_visual": "Cuatro páginas inspeccionadas; sin desbordamiento ni solapamiento",
+  "pronostico_causal_2030_estimado": false,
+  "fuente_proyeccion": "https://systep.cl/data-centers-cuadruplicaran-su-demanda-de-energia-a-2030-alza-presionara-al-sistema-electrico/",
+  "hashes": {
+    "docx": "37564ca30dbcb89b25b8221afcfd29b76e15df71b211226ae8eba96228cd5208",
+    "pdf": "a5b7acb0af83b179767dc16bb2dc1ff9bd4956e5dc47815dce958d14f981dff7"
+  }
+}

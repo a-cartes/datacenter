@@ -1,0 +1,555 @@
+{
+  "version": "socher-2026-rm-v1",
+  "archivos": [
+    {
+      "archivo": "datos/analitico/muestra_comuna.csv",
+      "bytes": 25953,
+      "sha256": "62731b2cf0bfba21d32cc651ec8ae5087c796151bed3841fae2fc351dbab5242"
+    },
+    {
+      "archivo": "datos/analitico/muestra_comuna_sin_emparejar.csv",
+      "bytes": 27744,
+      "sha256": "b9274153e78da3751146f32622fbf12936a05ec9f4105fcc1fc8ddc6d5e6e047"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito.csv",
+      "bytes": 41095,
+      "sha256": "a2850b6d4777213b6710cc77061e728bf55cbe51c351b48463bcaf111846bac7"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_ctrl_corr_menor05.csv",
+      "bytes": 42578,
+      "sha256": "44eeaeeca262b5b7f18e2ff5c8168114938f9cccbc89dd869f7a45afe7659675"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_ctrl_corr_menor05_sin_emparejar.csv",
+      "bytes": 16698,
+      "sha256": "218532c273b9221234641ff74f497a279249ba883a21270483d007372fde978e"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_ctrl_lejos5km.csv",
+      "bytes": 13217,
+      "sha256": "37778e3164e549246df5730feb73daf39e13a1014554079cb7b68b6270f30693"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_ctrl_lejos5km_sin_emparejar.csv",
+      "bytes": 37462,
+      "sha256": "932bdc1fae12fb0923f51b5428aa624412f107f3d0a0a069e974adadeb95f4f7"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_nobal.csv",
+      "bytes": 40278,
+      "sha256": "9279614b89d84dbe27ac0bcddd34503740586906c96ed93e6bbdb11ee520838b"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_nobal_sin_emparejar.csv",
+      "bytes": 62997,
+      "sha256": "0d2f97821b04cda71bb273adb79c031f696a3fc3e525c135271e17c739bd2871"
+    },
+    {
+      "archivo": "datos/analitico/muestra_distrito_sin_emparejar.csv",
+      "bytes": 62279,
+      "sha256": "6e3215cbc2f0ccaafea9e154504e7b9ca82bd38d1930bc8d20213072d298e1d8"
+    },
+    {
+      "archivo": "datos/analitico/muestra_nodo_r2km.csv",
+      "bytes": 23905,
+      "sha256": "c046ea36576e0ffbd59bd443fa67ae2f21a19f78742a755b638f69d80ce73c44"
+    },
+    {
+      "archivo": "datos/analitico/muestra_nodo_r2km_sin_emparejar.csv",
+      "bytes": 77579,
+      "sha256": "a82510fd03fbd4b021bd9af5cac4cb8b0373654b84c27dfe9c87ea63d27d41f4"
+    },
+    {
+      "archivo": "datos/analitico/muestra_nodo_r3km.csv",
+      "bytes": 39994,
+      "sha256": "d3d717228eb89f33a17a38d24bff0217cf943611e8ebde9e5a5fe4980daf5d09"
+    },
+    {
+      "archivo": "datos/analitico/muestra_nodo_r3km_sin_emparejar.csv",
+      "bytes": 72814,
+      "sha256": "7f7d4a8e561aa2d0cb23075911803a2d62c774c8381f6481347c8abc62b14861"
+    },
+    {
+      "archivo": "datos/covariables/covariables_comuna.csv",
+      "bytes": 11451,
+      "sha256": "e3d524f3dcfdf7eb2e0e3af1871b68af7aea645b0673eab447fe5ad9ba735778"
+    },
+    {
+      "archivo": "datos/covariables/covariables_distrito.csv",
+      "bytes": 109340,
+      "sha256": "d10e682f3f503446747a63f907cb1451f28a946ad36188f735fa37f3841d79c9"
+    },
+    {
+      "archivo": "datos/covariables/covariables_meta.json",
+      "bytes": 321,
+      "sha256": "f76ad53cc22cf6ec9a64758a745af3a75a13aa74084db023790302cbdda4acf6"
+    },
+    {
+      "archivo": "datos/geo/alias_codigos.csv",
+      "bytes": 101,
+      "sha256": "192468eefb283ad8559ff3b4c150c5dd591df3a38104cf363544a68e64f228b0"
+    },
+    {
+      "archivo": "datos/geo/barras_diccionario.csv",
+      "bytes": 519402,
+      "sha256": "870ceabc1c438fc8451480544cb9404305bc692d625af9cc08c9651032e18819"
+    },
+    {
+      "archivo": "datos/geo/barras_infotecnica.csv",
+      "bytes": 308824,
+      "sha256": "07c695bdc98434d775141bd87a9da0b707c21144265d00e6d7014504007fc5d4"
+    },
+    {
+      "archivo": "datos/geo/barras_vigencia.csv",
+      "bytes": 10323921,
+      "sha256": "53cf7811583ddae3289dc0c21249619252827135e127a2a876290ec389f50563"
+    },
+    {
+      "archivo": "datos/geo/barras_vinculos_todos.csv",
+      "bytes": 233360,
+      "sha256": "e323cb98624d1c55bf0daad6f418a3ab846bfd675091a852b17fe4d44203c3ca"
+    },
+    {
+      "archivo": "datos/geo/subestaciones_infotecnica.csv",
+      "bytes": 586076,
+      "sha256": "ee770d15bbfce23cf860e87f99cf6908891b97fa94ae6ea14ee5caf2f7e74e73"
+    },
+    {
+      "archivo": "datos/geo/subestaciones_unidades.csv",
+      "bytes": 597772,
+      "sha256": "7b96d04df3373644aae9cc2b91223365ca57a387d16837a5fbb1711293cc05a5"
+    },
+    {
+      "archivo": "datos/instalaciones/candidatos_directorios.csv",
+      "bytes": 23879,
+      "sha256": "26e35ee34078ee1b1fc5334f837cfb5204bec6c29b9efa8a4ab1445271df53bb"
+    },
+    {
+      "archivo": "datos/instalaciones/cartas_coordinador.csv",
+      "bytes": 909368,
+      "sha256": "67752ef3cdd621f5b59c8b57771ccacd7d18e35b6a9002d8797ed5ec974dd0c3"
+    },
+    {
+      "archivo": "datos/instalaciones/fuentes_instalaciones.csv",
+      "bytes": 13737,
+      "sha256": "fba7d874803df109208e17033d70ea15298cc1139d05dee19737865be9301bf1"
+    },
+    {
+      "archivo": "datos/instalaciones/hitos.csv",
+      "bytes": 17203,
+      "sha256": "968c772fb8f7e3ff9cb92cd73b730389686432fe3da75a0bbfbf241ea4827eec"
+    },
+    {
+      "archivo": "datos/instalaciones/instalaciones.csv",
+      "bytes": 18366,
+      "sha256": "5daf9980275837f5926847fcc58f4ff68cc12b69d4a42d3ffd2d088bd7704618"
+    },
+    {
+      "archivo": "datos/instalaciones/instalaciones_geo.csv",
+      "bytes": 23805,
+      "sha256": "f52ccefdc308d4185d0cb7cfcd655bdd184c718371f68075f57dc1ecac6bfbfe"
+    },
+    {
+      "archivo": "datos/instalaciones/sea_expedientes.csv",
+      "bytes": 83397,
+      "sha256": "61cc4f22700522112a2c9358b3755832c2cbb33e6acdac8ad7440839e73d5407"
+    },
+    {
+      "archivo": "datos/instalaciones/sea_resultados_brutos.csv",
+      "bytes": 132034,
+      "sha256": "011b1ef800479c77dce20633bdfb06c2f6d035bb67dfd9c33439af4fd7bacc2b"
+    },
+    {
+      "archivo": "datos/panel/barra_anio.parquet",
+      "bytes": 926929,
+      "sha256": "8a570026ae20379cd1fc4043a6983214961796a300e66782dc0232d83e778ba1"
+    },
+    {
+      "archivo": "datos/panel/barra_mes.parquet",
+      "bytes": 5987785,
+      "sha256": "5d96fd413a13cec2f149d337cedbeb43ff3bb53c39cdb313cc586e9ef4f743bb"
+    },
+    {
+      "archivo": "datos/panel/referencia_mes.csv",
+      "bytes": 5045,
+      "sha256": "80155028166fd453b23903f4eb324ec85b9f94411437009ff3db8425c4df98f9"
+    },
+    {
+      "archivo": "datos/precios_hist/202108.parquet",
+      "bytes": 3087276,
+      "sha256": "aa76a497e7cc590433001b6a8986ed252e62ac27088d3f2667b8d8857b524b10"
+    },
+    {
+      "archivo": "datos/unidades/historia_comuna.csv",
+      "bytes": 1640,
+      "sha256": "bd780073bed9332ce0726f564c8806ca5f62bd4ce057b8a4b415c63b135f2085"
+    },
+    {
+      "archivo": "datos/unidades/historia_distrito.csv",
+      "bytes": 4272,
+      "sha256": "9d3af590c54e46e10de522c32d11f1838efad6b046b8c8875875106a8bbd6df9"
+    },
+    {
+      "archivo": "datos/unidades/historia_nodo_r2km.csv",
+      "bytes": 6264,
+      "sha256": "9d6f8e9c79f1d8a6bac4c4c9f5e66fb0baaf866db1db13bd41ad8283ea4af9fb"
+    },
+    {
+      "archivo": "datos/unidades/historia_nodo_r3km.csv",
+      "bytes": 6626,
+      "sha256": "a0f46b0fec8a58c4c855af466702414f225159378d170f04dfe2d044c167a70f"
+    },
+    {
+      "archivo": "datos/unidades/historia_nodo_r5km.csv",
+      "bytes": 7697,
+      "sha256": "cdc84d8729629b999d96a2cbc79f9a0fac729727e6849ebc8511e2bbf913d2a1"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/INFORME_CIERRE.txt",
+      "bytes": 6443,
+      "sha256": "05252b14a172800ff292705dd5ce22d034257101094fb86cd8941f1a7b619086"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/REGLAS_REVISION.txt",
+      "bytes": 1284,
+      "sha256": "ed32fda5d093661cf58c0cbe22eaa16e0dfde19c6f190b4964c924a8618589d0"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/agosto_2021_grupos_horarios.csv",
+      "bytes": 124492,
+      "sha256": "879ebdba5136e9abbd6e23094f7134400a29543b4e29c2c5ea2dcaa21010df9b"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/barras_2020_2021.csv",
+      "bytes": 30651,
+      "sha256": "b86cb704df501586920405d5ecc6009da81055202fbad67a8108d4af91820d50"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/cambios_controles_2020_2021.csv",
+      "bytes": 1891,
+      "sha256": "f08d70282b32a6f10430f3c465e8d2de58f26ce85f96c41c6d880753bf68160b"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/conexiones_operadores_CNE_2025.csv",
+      "bytes": 3261,
+      "sha256": "a3f638453088604240f4bd28d7468dff0a9cab7a84aa205c8d5b48cd1a36d7e8"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/contrastes_cohortes.csv",
+      "bytes": 428,
+      "sha256": "3dabe9e79051512c031e0374b23c9c5a373404e2b629e9a918933805b1051c8f"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/contrastes_estadisticos.json",
+      "bytes": 772,
+      "sha256": "b26c870edc9558048cbfeb40778c37d25f587a44c77616031c25a5c1427fa172"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/correspondencia_virginia.csv",
+      "bytes": 1631,
+      "sha256": "59172d6f95aa192de182034348a0c96f477bab91792001755c1c9508e3d21050"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/diagnostico.json",
+      "bytes": 910,
+      "sha256": "6087f4a1710d13e95fa8686fa4f6886bf69c853b2c7f079dab2354e56a905cce"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/diagnostico_lampa.png",
+      "bytes": 134013,
+      "sha256": "078e89aca70c86f81eaff4f0f83771cfbad4b5c4b18f728547456750db2d5206"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/diagnostico_tension.csv",
+      "bytes": 2259,
+      "sha256": "448f91ff8e65df5aabba3b6fd4c1bba3a85b38c118dec0eb51a76dbb05f6f774"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/diccionario_nodos_relevantes.csv",
+      "bytes": 4718,
+      "sha256": "81ba1a8879db59bb7eb8adaa55bf85bb415bfaf005b2d91b0f4b1ffb3143842f"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/estado_documento.json",
+      "bytes": 333,
+      "sha256": "6389ceda0a1221f6155f52a172a7260a20ae566a9c6d5998b442489acf0c889d"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/integridad_insumos.json",
+      "bytes": 331,
+      "sha256": "4242324aded2a22eec754b19215fb8d8fba49868ffa41c18cb1ea804fcc81bda"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/matriz_conexiones_potencias.csv",
+      "bytes": 2923,
+      "sha256": "8f54c875f167622d1e19171a1183ab110c61b552d027b390c3d49417fe750bbb"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/muestra_original_agosto_2021.csv",
+      "bytes": 3554,
+      "sha256": "25f43b6076db68502c66a5ee1d09a24abbc844eeb7965e19c9d8d31b69e5fbf4"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/revision_bibliografica_20261009.json",
+      "bytes": 1945,
+      "sha256": "3baafaf6290af48f4134922fb6af176b82f0109f67a5d9594568adb5848e97ed"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/series_grupos_anuales.csv",
+      "bytes": 1727,
+      "sha256": "78ee35bd50625a35de56d8325c64231551ba5970507a1e9d588d302bd0a9b969"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/series_grupos_mensuales.csv",
+      "bytes": 22568,
+      "sha256": "198f73bf408a6014241e53d6760897ee9990984c952d4f51d9ddab1cbe2e0672"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/verificacion_agosto_2021.json",
+      "bytes": 490,
+      "sha256": "f4521ac9e407f1681845a6e06adde27c695a6bcf1099fb15360d736f7c8229f9"
+    },
+    {
+      "archivo": "referencia/cierre_socher_20261009/verificacion_enfoque_2030.json",
+      "bytes": 639,
+      "sha256": "0c88e4341dfec962b03746493059b13f7d677c3462aff91b2ab1b8f73f5e34e3"
+    },
+    {
+      "archivo": "referencia/continuidad_precios.json",
+      "bytes": 1786,
+      "sha256": "7d1a5932ee5bf3826b7e2563940454e8ddf6db51557ce7e77b0edb9821f8b340"
+    },
+    {
+      "archivo": "referencia/diagnostico_unidades.json",
+      "bytes": 6797,
+      "sha256": "ab4bc8f910e4c6cb2e9e1c0cb1658b4a9b17dec16cdec712afa252e058d2c9c5"
+    },
+    {
+      "archivo": "referencia/emparejamiento_comuna.json",
+      "bytes": 2811,
+      "sha256": "4329c86ba3b7700f2970c14649a9dbe62f383a1c8569cb3785ed98b705c3365a"
+    },
+    {
+      "archivo": "referencia/emparejamiento_distrito.json",
+      "bytes": 2828,
+      "sha256": "c2a5b262b9e92a5fee75f42875b371943e5f8bd95e96bb459cf2a0b8832adfb5"
+    },
+    {
+      "archivo": "referencia/emparejamiento_distrito_ctrl_corr_menor05.json",
+      "bytes": 2833,
+      "sha256": "5487bf498f08bd1538f7ea5326643688572ad3f40c12db3d2d2e2b06bd4fc958"
+    },
+    {
+      "archivo": "referencia/emparejamiento_distrito_ctrl_lejos5km.json",
+      "bytes": 2713,
+      "sha256": "675f7067c3d8451871bf7581e621f6f343af1615c9e555a6c545be6e33a3a868"
+    },
+    {
+      "archivo": "referencia/emparejamiento_distrito_nobal.json",
+      "bytes": 2827,
+      "sha256": "3b908544621b60cbcf43311d77476f0694dc67dcef7afe14ebd0a022ca32623c"
+    },
+    {
+      "archivo": "referencia/emparejamiento_nodo_r2km.json",
+      "bytes": 2815,
+      "sha256": "39e94a88e43a59034ba30570d830313cb467baab398fc8eee281792a9daacd06"
+    },
+    {
+      "archivo": "referencia/emparejamiento_nodo_r3km.json",
+      "bytes": 2833,
+      "sha256": "d5f610793d3031c1f39e347fde5c1e68e7b8bb84e00609945443b3261e0189f4"
+    },
+    {
+      "archivo": "referencia/piloto_conciliacion.json",
+      "bytes": 9425,
+      "sha256": "ca055bce96e03425c95eae255e3b84198dca3ccbdd8f192fb41879265e34f6eb"
+    },
+    {
+      "archivo": "referencia/socher_20261005/comparacion_2030.json",
+      "bytes": 3080,
+      "sha256": "ad7349e77048a29d84941638d212b54c118a5ec1d4a0379429d39cf322426a67"
+    },
+    {
+      "archivo": "referencia/socher_20261005/contexto_SEN_2030.csv",
+      "bytes": 450,
+      "sha256": "6574c27e1800b7880a18ae8b5a5196037d20c29ef4cf0e5623540500767dc08c"
+    },
+    {
+      "archivo": "referencia/socher_20261005/estado_documento.json",
+      "bytes": 1105,
+      "sha256": "57db3e04ba8e573ce5b5a2c3c7db951a05ed80377fd34c86c69b3790f27a18fe"
+    },
+    {
+      "archivo": "referencia/socher_20261005/estimaciones.csv",
+      "bytes": 911,
+      "sha256": "0e4b47ac82d6c2586d482b0eb0bd7fda2a344f2c6414b727651b92b3c7537829"
+    },
+    {
+      "archivo": "referencia/socher_20261005/figura_eventos.png",
+      "bytes": 68584,
+      "sha256": "dca152376392f67194cc139447dde8ba7e9532db0f6c8fa9e318d2eed041e98d"
+    },
+    {
+      "archivo": "referencia/socher_20261005/figura_eventos_datos.csv",
+      "bytes": 621,
+      "sha256": "c46275a5c8801f5791fe7945c3c5938250ad3aad397f92c3ee05589ac97f6876"
+    },
+    {
+      "archivo": "referencia/socher_20261005/fuentes_ampliacion_intro.json",
+      "bytes": 3075,
+      "sha256": "c948e6dbad124dfb98378ca6e94b25398d911aa5c8e92e76f2b8a0fea59da5bb"
+    },
+    {
+      "archivo": "referencia/socher_20261005/muestra_principal.csv",
+      "bytes": 40913,
+      "sha256": "2eb2bf7c22a40408aa65d276a60637258771481c9c69a998d1f53f48be1c6fc8"
+    },
+    {
+      "archivo": "referencia/socher_20261005/principal_nodos_incorporados_cohortes.csv",
+      "bytes": 375,
+      "sha256": "6ec65d2596a8b60ea660f2e4ac96f8f21444697596d6679c7ddf3b633b01d53b"
+    },
+    {
+      "archivo": "referencia/socher_20261005/principal_nodos_incorporados_eventos.csv",
+      "bytes": 1248,
+      "sha256": "93ffd778088c61770b3236f1e78332c99d99b54e266615a148a662d3607ede45"
+    },
+    {
+      "archivo": "referencia/socher_20261005/referencia_anterior_cohortes.csv",
+      "bytes": 254,
+      "sha256": "17f1928983717da31496e235259e408c40a10d907822d5b9113caa7110fec505"
+    },
+    {
+      "archivo": "referencia/socher_20261005/referencia_anterior_eventos.csv",
+      "bytes": 1244,
+      "sha256": "85bff523a71594cba10ad5c75ffbf77e9d4d1c8763014aa81b9aef69bcf28d64"
+    },
+    {
+      "archivo": "referencia/socher_20261005/resultados.json",
+      "bytes": 4292,
+      "sha256": "213f7b4db9157909d8f3afd39500e14a44f2b334f2c63ae21449284a88ab783e"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_barras_fijas_cohortes.csv",
+      "bytes": 372,
+      "sha256": "748e2fd5623b7a83b715a1c9020a306478dc3af8582f7fb78255820be82a7ea8"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_barras_fijas_eventos.csv",
+      "bytes": 1253,
+      "sha256": "6d91cd6570f37b1811af62c3f7a1d4ef71edc953aec2fcb304ed4c5f7087aeec"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_calendario_siguiente_cohortes.csv",
+      "bytes": 284,
+      "sha256": "1268fe33c88fc7f0af64bdc7326daad52a40e547453aa58a36197845f14ee4e8"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_calendario_siguiente_eventos.csv",
+      "bytes": 1245,
+      "sha256": "e684cad1cba9fd90a5cd46d54e91341188d69416d03905aff729e1afd8bd9b6f"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_controles_baja_correlacion_cohortes.csv",
+      "bytes": 375,
+      "sha256": "58aebfec015614290aec39c2ca4a41c7dc140e71522135efc14b7927b4b9bebb"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_controles_baja_correlacion_eventos.csv",
+      "bytes": 1235,
+      "sha256": "8d9bbb8f2c6c52d16e2a331ed756e1f9b5d90b277178c57a655b94724788d6b7"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_controles_lejos_cohortes.csv",
+      "bytes": 109,
+      "sha256": "370e27045ae942a770e289de49a2e5d9377cec187b09788ed49ebae3fca8fead"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_controles_lejos_eventos.csv",
+      "bytes": 1008,
+      "sha256": "50cc0923d4262bee2818c711b1c3d93d79041de96733b2267e93c772b9552bd6"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_demanda_RM_2030.csv",
+      "bytes": 261,
+      "sha256": "df50a896bc08a6a0f0f994b6455fca51d1f174dc3d693082b5f5ed6e9031133d"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sensibilidad_exclusion.csv",
+      "bytes": 510,
+      "sha256": "51db26a514c84f673316c752d9f640c0a2c5a2814667959133b4389a4bcefe27"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sin_COLINA_3_cohortes.csv",
+      "bytes": 226,
+      "sha256": "30b842411d5767384f2aa516c7525076890bd9064db7902dc7367685e736b92e"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sin_COLINA_3_eventos.csv",
+      "bytes": 1128,
+      "sha256": "ae2d17756691783e10d087bb3b9443b45335d68d47f69e9267321548e7e363e1"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sin_LAMPA_4_cohortes.csv",
+      "bytes": 258,
+      "sha256": "6b6c1db23d5896caa18118fe5da70aaf4863f2acb6229240233999c7a2bf7d0f"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sin_LAMPA_4_eventos.csv",
+      "bytes": 1270,
+      "sha256": "b6b6d1434db80d9d3d9f7ef1c55d63fe1e9c646a812fdcb8bfb51040a628a0cd"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sin_SAN BERNARDO_11_cohortes.csv",
+      "bytes": 285,
+      "sha256": "689a0a93ffa3848c002bdd10ad4a7321ee8c29da90594756caea995427edce97"
+    },
+    {
+      "archivo": "referencia/socher_20261005/sin_SAN BERNARDO_11_eventos.csv",
+      "bytes": 1128,
+      "sha256": "cb22f5fef7ab48cd44e095c11471bac4a7b60d8ee0799e7627c239221047c6b6"
+    },
+    {
+      "archivo": "referencia/socher_20261005/verificacion_documento.json",
+      "bytes": 807,
+      "sha256": "3d811c9767416c26d7504fea2370fe5ec5e4b2786aa4c25a46e5f94153204ca7"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/clientes_digitales_cne_anual.csv",
+      "bytes": 315191,
+      "sha256": "d173b895966eaaf518620ea5bfd8cb7e46bfc4f213dfa9e0ef3373f19317b294"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/clientes_digitales_cne_mensual.csv",
+      "bytes": 3684342,
+      "sha256": "c682fe3f1bd1021753e100a1e87bfc076f68a608de4363b18bdfa493bc524981"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/proyectos_digitales_etapas.csv",
+      "bytes": 6646,
+      "sha256": "10818a62bb3ef3125893f467585fc25257dec7bedbca3f216a5f702b7631b786"
+    },
+    {
+      "archivo": "prospectiva_2030/extraidos/demanda_digital/resumen_digital_cne.csv",
+      "bytes": 4052,
+      "sha256": "27ba83289de5c98416a695b221920a75e35c39b42b5ef0810cb8341ff9bd330c"
+    },
+    {
+      "archivo": "procedencia/articulo_virginia.json",
+      "bytes": 238,
+      "sha256": "146188b88e7b3efe00560055ffed546e906fff5aeb1932c479eb24ba335a655b"
+    },
+    {
+      "archivo": "procedencia/manifiesto_originales_historicos.csv",
+      "bytes": 56005,
+      "sha256": "f0c2e15e38b90a3d00a8b4db83f0eb99bc96e5d21025389461204ad14f0c0687"
+    },
+    {
+      "archivo": "procedencia/registro_fuentes.csv",
+      "bytes": 13878,
+      "sha256": "5058049870adfb0df5922b5c41aeb62b642feaa899f5e6fee2fb0dbdd7d86e19"
+    }
+  ]
+}

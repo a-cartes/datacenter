@@ -1,0 +1,115 @@
+{
+ "n_tratadas": 3,
+ "n_controles": 13,
+ "probit": {
+  "convergio": true,
+  "coef": {
+   "const": -10.71,
+   "l_pob": 4.0091,
+   "l_viv": -2.4844,
+   "sh_inmigrantes": -13.0542,
+   "sh_pueblos_originarios": -44.8405,
+   "sh_viv_mat_aceptable": -3.3259
+  },
+  "pseudo_r2": 0.2878827282587052
+ },
+ "tratadas_fuera_de_soporte": [],
+ "controles_unicos": 11,
+ "posiciones_de_control": 30,
+ "balance_antes": {
+  "l_pob": {
+   "tratados": 9.934011230492429,
+   "controles": 9.470135779259126,
+   "dif_estandarizada": 0.584130242954621
+  },
+  "l_viv": {
+   "tratados": 8.773550493941139,
+   "controles": 8.330814722809016,
+   "dif_estandarizada": 0.5917613852536873
+  },
+  "sh_inmigrantes": {
+   "tratados": 0.049306633200251866,
+   "controles": 0.04528661106281347,
+   "dif_estandarizada": 0.15131494507609908
+  },
+  "sh_pueblos_originarios": {
+   "tratados": 0.09108027598929397,
+   "controles": 0.11286109752653742,
+   "dif_estandarizada": -0.6979666745131217
+  },
+  "sh_viv_mat_aceptable": {
+   "tratados": 0.8708320578957643,
+   "controles": 0.8124078052645971,
+   "dif_estandarizada": 0.6817453698947996
+  }
+ },
+ "balance_despues_pesos_frecuencia": {
+  "l_pob": {
+   "tratados": 9.934011230492429,
+   "controles": 9.547355647455763,
+   "dif_estandarizada": 0.5535781055507094
+  },
+  "l_viv": {
+   "tratados": 8.773550493941139,
+   "controles": 8.383029212465077,
+   "dif_estandarizada": 0.5587132016093951
+  },
+  "sh_inmigrantes": {
+   "tratados": 0.049306633200251866,
+   "controles": 0.047480099226072055,
+   "dif_estandarizada": 0.07089228839518806
+  },
+  "sh_pueblos_originarios": {
+   "tratados": 0.09108027598929397,
+   "controles": 0.1056757412262157,
+   "dif_estandarizada": -0.5159917215975388
+  },
+  "sh_viv_mat_aceptable": {
+   "tratados": 0.8708320578957643,
+   "controles": 0.8308134080509931,
+   "dif_estandarizada": 0.5315201342331016
+  }
+ },
+ "balance_despues_unicos": {
+  "l_pob": {
+   "tratados": 9.934011230492429,
+   "controles": 9.625972826892562,
+   "dif_estandarizada": 0.4410212172870877
+  },
+  "l_viv": {
+   "tratados": 8.773550493941139,
+   "controles": 8.461953272500558,
+   "dif_estandarizada": 0.44579767982332097
+  },
+  "sh_inmigrantes": {
+   "tratados": 0.049306633200251866,
+   "controles": 0.04754889072363004,
+   "dif_estandarizada": 0.06822232071160991
+  },
+  "sh_pueblos_originarios": {
+   "tratados": 0.09108027598929397,
+   "controles": 0.10663083121288301,
+   "dif_estandarizada": -0.549756902665859
+  },
+  "sh_viv_mat_aceptable": {
+   "tratados": 0.8708320578957643,
+   "controles": 0.8371952649294748,
+   "dif_estandarizada": 0.4467575188559055
+  }
+ },
+ "alternativa": "distrito_ctrl_corr_menor05",
+ "panel_balanceado_de_barras": true,
+ "filas_muestra_emparejada": 297,
+ "unidades_panel_sin_emparejar": 16,
+ "anios": [
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ]
+}

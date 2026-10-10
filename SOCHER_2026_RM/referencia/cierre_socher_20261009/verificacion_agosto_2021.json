@@ -1,0 +1,17 @@
+{
+  "mes": 202108,
+  "dia": 13,
+  "barras": [
+    "LAMPA_________220",
+    "QUILLOTA______220",
+    "ANDES_________013",
+    "ANDES_________110"
+  ],
+  "celdas": 96,
+  "error_maximo": 0.0,
+  "libro": "cmg2108_def.xlsm",
+  "horas_controles_C_mayor_1": 155,
+  "horas_totales": 744,
+  "C_promedio": 15.085719325122586,
+  "nota": "C residual según factores por tramos; no identifica causa operativa ni toda congestión. Verificación directa de precios, no reextracción completa del libro."
+}

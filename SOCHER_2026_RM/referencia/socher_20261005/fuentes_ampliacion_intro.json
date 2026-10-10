@@ -1,0 +1,59 @@
+{
+  "fecha_consulta": "2026-10-05",
+  "hechos_verificados": [
+    {
+      "tema": "PDATA",
+      "fuente": "https://minciencia.gob.cl/uploads/filer_public/95/6b/956b8c9f-d937-4b4d-8f6c-a871495a52ff/plan_nacional_de_data_centers_pdata.pdf",
+      "uso": "Ambición de hub regional; campus IA, cómputo para I+D y multi-nube estatal. Política y objetivos, no impactos observados."
+    },
+    {
+      "tema": "Alto Jahuel",
+      "fuente": "https://firma.sea.gob.cl/publicaciones/2026/07/24/1784914495_42EC06A7-D626-4DCD-8456-E599CAEE7C3F",
+      "expediente": "PERTI-2026-5962",
+      "titular": "DC Terranova SpA",
+      "uso": "No ingreso al SEIA según antecedentes, resuelvo 1-2, pp. 9-10. No se presenta como primera exención nacional ni RCA favorable; distinto de Grenergy Campus Sur."
+    },
+    {
+      "tema": "Virginia",
+      "fuente": "https://jlarc.virginia.gov/landing-2024-data-centers-in-virginia.asp",
+      "uso": "Northern Virginia mayor mercado mundial. Referencia de mecanismos, no identidad estructural o destino inevitable para Santiago."
+    },
+    {
+      "tema": "Climatescope",
+      "fuente": "https://www.global-climatescope.org/downloads/climatescope-2022-power-report-en.pdf",
+      "uso": "Ranking power de mercados emergentes de 2022; primero por segunda vez en tres años. No liderazgo mundial consecutivo actual."
+    },
+    {
+      "tema": "Minería",
+      "fuente": "https://www.codelco.com/division-el-teniente-desarrolla-centro-de-datos-para-anticipar-riesgos-y",
+      "uso": "Aplicaciones documentadas por Codelco; no se atribuye su beneficio a centros nuevos en Santiago."
+    },
+    {
+      "tema": "Astronomía",
+      "fuente": "https://rubinobservatory.org/es/news/rubin-data-deluge",
+      "uso": "Procesamiento intensivo e infraestructura distribuida; no se afirma que todo el cómputo ocurra en Chile."
+    },
+    {
+      "tema": "Economía digital",
+      "fuente": "https://doi.org/10.1257/jel.20171452",
+      "uso": "Reducciones de costos de información."
+    },
+    {
+      "tema": "Productividad de IA",
+      "fuente": "https://doi.org/10.1093/qje/qjae044",
+      "texto_leido": "https://danielle.li/assets/docs/GenerativeAIatWork.pdf",
+      "uso": "Ganancias heterogéneas en atención al cliente; no inferencia directa de PIB o empleo regional."
+    },
+    {
+      "tema": "Eficiencia energética",
+      "fuente": "https://doi.org/10.1126/science.aba3758",
+      "texto_leido": "https://smartersmallbuildings.lbl.gov/publications/recalibrating-global-data-center",
+      "uso": "Crecimiento de servicios no equivale mecánicamente a igual crecimiento eléctrico."
+    }
+  ],
+  "afirmaciones_no_incluidas": [
+    "En cuatro años crecerá más que en los últimos treinta: sin base temporal homogénea verificada; se usa proyección 2025-2030 ya documentada.",
+    "Primera exención ambiental en la historia de Chile: resolución específica no acredita primacía.",
+    "Hospedar centros de datos asegura soberanía, seguridad o ganancias de productividad: beneficios dependen de capacidades y gobernanza."
+  ]
+}

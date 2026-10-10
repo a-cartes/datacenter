@@ -1,0 +1,13 @@
+dimension,Virginia,Santiago,alcance
+Versión,"PDF marzo2026,57p,SSRN5736562",Aplicación chilena2017-2025,SHA256 4c192d457ed0b182a6497d057cbd31e78ef00e4e583737bb55d1cf4f17c56315
+Resultado,Congestión+pérdidas PJM,D=Pbarra−PQuillota220,D no es componente PJM observado ni todo efecto sistémico
+Unidad,Census tract-año,Distrito censal2017-año,Agregación geográfica; no implica conexión
+Ventana,2015-2024; entradas2017+,2017-2025; entradas2019+,Al menos2 años pre; ventanas diferentes
+Entrada,Primera operación; fechas completadas con anuncios,"Colina2021,Lampa2022,SanBernardo2023",Fechas de apertura; etapas de conexión posteriores se registran aparte
+Barras,Incluye nuevos nodos,Incluye barras con cobertura anual>=90%,Canteras2024 excluida por75%; entra2025; NuevaLampa220soloSep2025 no alcanza90%
+Matching,"Probit10NN reemplazo,ACS ingreso educación etc.","Probit10NN reemplazo,Censo población viviendas demografía materialidad",Sustituciones de covariables; no réplica exacta
+Pesos,1/m por copia,1/m por copia,Cada control único peso total1
+Estimación,"Sun-Abraham,FEterritorio/año,referencia−1","Mismo esquema,3tratados18controles",Virginia19tratados115controles
+Inferencia,Agrupación por census tract,Agrupación por distrito; intervalos t convencionales,Tres tratados y pretrayectorias impiden afirmación causal firme
+Resultado,"2.4914 USD/MWh,SE1.2460 publicado","1.052630869 USD/MWh; ICt[0.484444,1.620818]",No prueba igualdad ni diferencia entre países
+Alcance,Análisis causal reportado por autores,Réplica adaptada y diagnóstico de identificación,No reestimamos microdatos/código de Virginia

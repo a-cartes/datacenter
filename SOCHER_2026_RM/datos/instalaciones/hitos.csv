@@ -1,0 +1,139 @@
+id,hito,fecha_min,fecha_max,precision,fuente,pasaje
+ADEXUS_SCL,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect
+ANACONDA,operacion_primera_intervalo,,2011-07-24,cota_superior,DCM_2011,DCM (Wayback 24/07/2011)
+ASC_DH,ingreso_SEA,2024-12-16,2024-12-16,dia,SEA_2163905912,Data Hall Quilicura (DIA); estado Aprobado
+ASC_DH,RCA,2025-11-17,2025-11-17,dia,SEA_2163905912,RCA 202513001408
+ASC_DH,operacion_primera_intervalo,,,no_opera_2025,SEA_2163905912,RCA 17/11/2025; no operaba en 2025
+ASC_SCL1,anuncio,2019-06-04,2019-06-04,dia,INVESTCHILE_2019,Confirmó la construcción; se esperaba operar en 2020
+ASC_SCL1,ingreso_SEA,2020-07-13,2020-07-13,dia,SEA_2147377549,Data Center Ascenty (DIA); estado Aprobado
+ASC_SCL1,operacion_primera_intervalo,2020-11-01,2020-11-30,mes_apertura,DEVTEL_2022; INVESTCHILE_2019; SEA_2147377549,Developing Telecoms (15/08/2022): Chile 1 abrió en noviembre de 2020; InvestChile (04/06/2019) preveía 2020
+ASC_SCL1,apertura,2020-11-01,2020-11-30,mes,DEVTEL_2022,When Ascenty opened Chile 1 (noviembre de 2020)
+ASC_SCL1,RCA,2021-02-16,2021-02-16,dia,SEA_2147377549,RCA 113/2021
+ASC_SCL2,ingreso_SEA,2021-02-08,2021-02-08,dia,SEA_2150658104,Data Center Chile 2 (DIA); estado Aprobado
+ASC_SCL2,RCA,2021-07-05,2021-07-05,dia,SEA_2150658104,RCA 486/2021
+ASC_SCL2,operacion_primera_intervalo,2022-07-01,2022-08-15,intervalo,DEVTEL_2022; SEA_2150658104,Construcción terminada en julio 2022; nota de apertura 15/08/2022
+ASC_SCL2,apertura,2022-07-01,2022-08-15,intervalo,DEVTEL_2022,Second structure Chile 2 (15/08/2022)
+ASC_SCL3,operacion_primera_intervalo,2025-08-28,2025-08-28,dia_inauguracion,TELETIME_2025,Teletime 28/08/2025: inauguración
+ASC_SCL3,inauguracion,2025-08-28,2025-08-28,dia,TELETIME_2025,"Inaugurou o terceiro data center... nesta quinta-feira, 28"
+AWS_HUE,ingreso_SEA,2023-01-18,2023-01-18,dia,SEA_2156924976,Centro de Almacenamiento de Datos Huechuraba (DIA); estado Aprobado
+AWS_HUE,RCA,2024-07-17,2024-07-17,dia,SEA_2156924976,RCA 202413001289
+AWS_HUE,operacion_primera_intervalo,,,no_opera_2025,SEA_2156924976; INVESTCHILE_2025,Región AWS prevista fines 2026
+AWS_PA,ingreso_SEA,2022-07-27,2022-07-27,dia,SEA_2156418711,Centro de Almacenamiento de Datos Puente Alto (DIA); estado Desistido
+AWS_PA,operacion_primera_intervalo,,,no_opera_2025,SEA_2156418711; CARTA_DE04810-22,DIA desistida; carta DE04810-22 sobre conexión en S/E Bajos de Mena
+AWS_PH,ingreso_SEA,2022-09-22,2022-09-22,dia,SEA_2156924955,Centro de Almacenamiento de Datos Padre Hurtado (DIA); estado Aprobado
+AWS_PH,RCA,2024-01-24,2024-01-24,dia,SEA_2156924955,RCA 20241300136
+AWS_PH,anuncio_region,2025-05-12,2025-05-12,dia,INVESTCHILE_2025,Operación esperada a fines de 2026
+AWS_PH,operacion_primera_intervalo,,,no_opera_2025,SEA_2156924955; INVESTCHILE_2025,Región AWS Chile prevista para fines de 2026 (InvestChile 12/05/2025); SNIFA fase de construcción
+BRUC_LB,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect
+CIRION_SAN1,operacion_primera_intervalo,,2023-12-02,cota_superior,DCM_2023,Listado DCM (Wayback 02/12/2023); Cirion lo describe como su centro operativo en 2024-2025
+CIRION_SAN2,ingreso_SEA,2023-05-30,2023-05-30,dia,SEA_2159277278,Data Center Cirion (DIA); estado Aprobado
+CIRION_SAN2,RCA,2024-02-05,2024-02-05,dia,SEA_2159277278,RCA 20241300153
+CIRION_SAN2,operacion_primera_intervalo,2025-01-01,2026-10-02,intervalo_amplio,SEA_2159277278; SNIFA_2026,85% de avance con operación esperada a fines del primer semestre 2025 (prensa); SNIFA construcción
+CLARO_CE,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026; DCATLAS_2026,Directorios
+CLARO_LIRAY,ingreso_SEA,2011-10-21,2011-10-21,dia,SEA_6156448,"Claro-Chile, Data Center Colina (DIA); estado Aprobado"
+CLARO_LIRAY,RCA,2012-08-31,2012-08-31,dia,SEA_6156448,RCA 388/2012
+CLARO_LIRAY,operacion_primera_intervalo,2013-01-01,2013-12-31,anio,LATERCERA_2022; SEA_6156448; SNIFA_2026,La Tercera (16/05/2022): diseño 2011 y puesta en marcha 2013; RCA 388/2012; SNIFA en operación
+CLARO_LIRAY,puesta_en_marcha,2013-01-01,2013-12-31,anio,LATERCERA_2022,Comenzó en 2011 con el diseño... para 2013 lo echaron a andar
+CLARO_LIRAY,expansion,2023-05-01,2023-05-31,mes,DCATLAS_2026,Tercera fase inaugurada en 2023 (prensa)
+CLARO_SALTO,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026; DCATLAS_2026,Directorios
+CMET_LF,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect
+EDGE_SCL01,operacion_primera_intervalo,2020-10-01,2021-01-19,intervalo,EDGECONNEX_2021; SEA_2152904629; SNIFA_2026,Comunicado EdgeConneX 19/01/2021 anuncia capacidad disponible con Oracle como cliente ancla; DIA 2021 posterior
+EDGE_SCL01,anuncio_disponibilidad,2021-01-19,2021-01-19,dia,EDGECONNEX_2021,SCL01 facility provides... 7MWs
+EDGE_SCL01,ingreso_SEA,2021-08-17,2021-08-17,dia,SEA_2152904629,Data Center EDCSCL01 (DIA); estado Aprobado
+EDGE_SCL01,RCA,2022-02-08,2022-02-08,dia,SEA_2152904629,RCA 20221300166
+EDGE_SCL0203,ingreso_SEA,2022-02-24,2022-02-24,dia,SEA_2155167505,Data Center SCL02-SCL03 (DIA); estado Aprobado
+EDGE_SCL0203,RCA,2022-09-27,2022-09-27,dia,SEA_2155167505,RCA 202213001545
+EDGE_SCL0203,solicitud_entrada_operacion,2024-05-30,2024-05-30,dia_carta,CARTA_DE03409-24,Ampliación Data Center Tercera Etapa 40 MW (NUP 3975)
+EDGE_SCL0203,puesta_en_servicio_electrica,2024-08-06,2024-08-06,dia_declarado,CARTA_DE05310-24,Ampliación Data Center Cuarta Etapa en 40 MVA (NUP 3349): puesta en servicio 6/08/2024
+EDGE_SCL0203,operacion_primera_intervalo,2022-09-27,2024-09-30,intervalo_amplio,EDGECONNEX_DS2024; SEA_2155167505; CARTA_DE05310-24; CARTA_DE03409-24,"RCA 27/09/2022; ficha técnica EdgeConneX (sept 2024) informa SCL02 en operación y SCL03 planificado; carta DE05310-24 declara puesta en servicio de cuarta etapa 06/08/2024; carta DE03409-24 (30/05/2024): nueva solicitud de entrada en operación de ""Ampliación Data Center Tercera Etapa 40 MW"" (NUP 3975)"
+EDGE_SCL04,ingreso_SEA,2023-08-22,2023-08-22,dia,SEA_2159660804,Data Center SCL04 (DIA); estado Aprobado
+EDGE_SCL04,RCA,2024-07-15,2024-07-15,dia,SEA_2159660804,RCA 202413001282
+EDGE_SCL04,operacion_primera_intervalo,2024-07-15,,desconocido,SEA_2159660804,RCA 15/07/2024
+EDGE_SCL11,ingreso_SEA,2021-07-19,2021-07-19,dia,SEA_2152236746,Data Center EDCSCL11 (DIA); estado Desistido
+EDGE_SCL11,operacion_primera_intervalo,,,no_opera_2025,SEA_2152236746,DIA desistida
+EDGE_SECANT,ingreso_SEA,2021-09-21,2021-09-21,dia,SEA_2152964274,Subestación Electrica SCL99 (DIA); estado Aprobado
+EDGE_SECANT,RCA,2022-07-07,2022-07-07,dia,SEA_2152964274,RCA 202213001385
+EDGE_SECANT,operacion_primera_intervalo,2024-01-22,2024-07-15,intervalo,CARTAS_EDGECONNEX; SEA_2152964274,Cartas OP00241-24 (22/01/2024) antes de puesta en servicio; barra CANTERAS en precios desde 2024
+ENT_AMU,operacion_primera_intervalo,,2011-07-24,cota_superior,DCM_2011; UPTIME_2017; INFLECT_2026,Listado en Data Center Map (Wayback 24/07/2011); Uptime 17/02/2017
+ENT_CDLV,operacion_documentada,2010-02-27,2010-02-27,dia,ENTEL_2020,Mantuvo operaciones durante el terremoto de 2010
+ENT_CDLV,operacion_primera_intervalo,2010-01-01,2010-05-31,intervalo,ENTEL_MEM2010; ENTEL_2020; SEA_7409062,Memoria Entel 2010: inauguración primera etapa mayo 2010; nota Entel 2020 indica operación durante terremoto de febrero 2010
+ENT_CDLV,inauguracion,2010-05-01,2010-05-31,mes,ENTEL_MEM2010,"Memoria 2010, p. impresa 77: inauguración de la primera etapa en mayo de 2010"
+ENT_CDLV,ingreso_SEA,2012-10-30,2012-10-30,dia,SEA_7409062,"Ampliación Sistema de Almacenamiento de Combustibles, Calle Los Vientos (DIA); estado Aprobado"
+ENT_CDLV,RCA,2013-06-20,2013-06-20,dia,SEA_7409062,RCA 299/2013
+ENT_CDLV,cambio_titular,2022-05-03,2022-05-03,dia,DCATLAS_2026,Adquisición por Equinix (no es entrada)
+ENT_CDLV3,ingreso_SEA,2014-09-02,2014-09-02,dia,SEA_2129751932,Data Center III Entel -Pudahuel (DIA); estado Aprobado
+ENT_CDLV3,RCA,2015-04-17,2015-04-17,dia,SEA_2129751932,RCA 155/2015
+ENT_CDLV3,operacion_primera_intervalo,2015-04-17,2026-09-30,intervalo_amplio,SEA_2129751932; SNIFA_2026,RCA 155/2015 (17/04/2015) y SNIFA 'en fase de operación'; fecha de operación no hallada
+ENT_CNT,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Solo directorio Inflect
+ENT_LONGO,operacion_primera_intervalo,,2017-02-17,cota_superior,UPTIME_2017; EQUINIX_2022,Uptime 17/02/2017
+ENT_NUN,operacion_primera_intervalo,,2017-02-17,cota_superior,UPTIME_2017,Uptime 17/02/2017 enumera cinco centros de Entel
+ENT_PDV,operacion_primera_intervalo,,2017-02-17,cota_superior,UPTIME_2017,Uptime 17/02/2017 enumera cinco centros de Entel
+EQX_ST5,ingreso_SEA,2024-04-18,2024-04-18,dia,SEA_2161802015,Datacenter ST5 (DIA); estado Aprobado
+EQX_ST5,RCA,2025-04-30,2025-04-30,dia,SEA_2161802015,RCA 202513001172
+EQX_ST5,operacion_primera_intervalo,,,no_opera_2025,SEA_2161802015; CARTA_DE03714-26,RCA 30/04/2025; conexión a Nueva SE Seccionadora Enea 110 kV en tramitación (2026)
+GOOG_CERR,ingreso_SEA,2019-07-19,2019-07-19,dia,SEA_2143763121,Cerrillos Data Center (DIA); estado Renuncia RCA
+GOOG_CERR,RCA,2020-02-25,2020-02-25,dia,SEA_2143763121,RCA 127/2020
+GOOG_CERR,operacion_primera_intervalo,,,no_opera_2025,SEA_2143763121; CARTA_OP01263-25,Renuncia a RCA; desistimiento SAC Pucará de Chena NUP 550 (28/05/2025)
+GOOG_QUIL,ingreso_SEA,2014-12-22,2014-12-22,dia,SEA_2130056592,Ampliación del Almacenamiento de Combustible Data Center Param (DIA); estado Aprobado
+GOOG_QUIL,operacion_primera_intervalo,2015-01-01,2015-01-31,mes_puesta_en_marcha,GOOGLE_WEB; SEA_2130056592,Google: puesta en marcha enero de 2015
+GOOG_QUIL,puesta_en_marcha,2015-01-01,2015-01-31,mes,GOOGLE_WEB,Desde su puesta en marcha en enero de 2015
+GOOG_QUIL,RCA,2016-01-26,2016-01-26,dia,SEA_2130056592,RCA 044/2016
+GOOG_QUIL2,ingreso_SEA,2017-09-20,2017-09-20,dia,SEA_2132722997,Ampliación Data Center PARAM (DIA); estado Aprobado
+GOOG_QUIL2,RCA,2018-03-07,2018-03-07,dia,SEA_2132722997,RCA 074/2018
+GOOG_QUIL2,operacion_primera_intervalo,2018-03-07,,desconocido,SEA_2132722997; SNIFA_2026,RCA 074/2018; SNIFA 'iniciada la fase de construcción'
+GOOG_SE_LIB,operacion_primera_intervalo,2020-04-01,2020-07-10,intervalo,CARTA_DE03485-20; CARTA_OP01036-20,"Barra TLIBERTADORES_110 con precio desde abril 2020; carta DE03485-20 (10/07/2020) sobre entrada en operación de SE Los Libertadores (NUP 341), solicitada por Dataluna (OP01036-20, 20/05/2020)"
+GOOG_SE_LIB,entrada_operacion_electrica,2020-07-10,2020-07-10,dia_carta,CARTA_DE03485-20,Entrada en Operación del Proyecto SE Los Libertadores (NUP 341)
+GTD_MONEDA,operacion_primera_intervalo,,2024-07-12,cota_superior,DCM_2024; INFLECT_2026,DCM 2024; Inflect
+GTD_PANAM,operacion_primera_intervalo,,2024-07-12,cota_superior,DCM_2024; DCATLAS_2026,DCM 2024; DC Atlas
+GTD_PROV,operacion_primera_intervalo,,2024-07-12,cota_superior,DCM_2024; INFLECT_2026,DCM 2024; Inflect
+HOSTNAME,operacion_primera_intervalo,,2016-07-05,cota_superior,DCM_2016,DCM (Wayback 05/07/2016)
+INTERCITY,operacion_primera_intervalo,,2016-07-05,cota_superior,DCM_2016,DCM 2016
+INTERNEXA,operacion_primera_intervalo,,2024-07-12,cota_superior,DCM_2024; INFLECT_2026,DCM 2024; Inflect
+IPXON,operacion_primera_intervalo,,2016-07-05,cota_superior,DCM_2016,DCM (Wayback 05/07/2016)
+KYNDRYL,operacion_primera_intervalo,,2026-09-30,cota_superior,DCATLAS_2026,DC Atlas
+MSFT_SCL03,ingreso_SEA,2021-12-16,2021-12-16,dia,SEA_2154183885,Proyecto Microsoft SCL03 (DIA); estado Aprobado
+MSFT_SCL03,RCA,2023-04-04,2023-04-04,dia,SEA_2154183885,RCA 202313001133
+MSFT_SCL03,operacion_primera_intervalo,2023-04-04,2025-06-19,intervalo,SEA_2154183885; MICROSOFT_2025,RCA 04/04/2023; región Chile Central operativa 19/06/2025 con tres ubicaciones no individualizadas
+MSFT_SCL03,region_operativa,2025-06-19,2025-06-19,dia,MICROSOFT_2025,Chile Central comprende tres ubicaciones físicas independientes (sin individualizar)
+NXNET,operacion_primera_intervalo,,2016-07-05,cota_superior,DCM_2016,DCM 2016
+ODATA_ST01,ingreso_SEA,2020-07-23,2020-07-23,dia,SEA_2147474024,PROYECTO ODATA DATACENTER (DIA); estado Aprobado
+ODATA_ST01,RCA,2021-02-09,2021-02-09,dia,SEA_2147474024,RCA 098/2021
+ODATA_ST01,inicio_construccion,2021-05-15,2021-05-15,cota_superior,PORTALINNOVA_2021,Ya está construyéndose en la comuna de Lampa
+ODATA_ST01,autorizacion_conexion_definitiva,2023-07-03,2023-07-03,dia_carta,CARTA_DE02932-23,"Informe de Autorización de Conexión Definitivo, proyecto Odata Datacenter ST01"
+ODATA_ST01,operacion_primera_intervalo,2021-05-15,2023-11-07,intervalo_amplio,PORTALINNOVA_2021; DCR_2023; SEA_2147474024,Construcción iniciada (15/05/2021); 'fully licensed and operational' (07/11/2023); fuentes secundarias indican 2022 sin verificación primaria
+ODATA_ST01,operacion_documentada,2023-11-07,2023-11-07,cota_superior,DCR_2023,Fully licensed and operational
+ODATA_ST02,ingreso_SEA,2021-05-24,2021-05-24,dia,SEA_2151904956,PROYECTO ODATA SAN BERNARDO (DIA); estado Aprobado
+ODATA_ST02,RCA,2021-12-27,2021-12-27,dia,SEA_2151904956,RCA 202113001320
+ODATA_ST02,operacion_primera_intervalo,2023-01-01,2023-11-07,intervalo,ALIGNED_2023; SEA_2151904956; CARTA_OP02215-26,Comunicado 07/11/2023 anuncia apertura; solicitud de entrada en operación de NUP 3129 recién el 28/09/2026
+ODATA_ST02,apertura_anunciada,2023-11-07,2023-11-07,dia,DCR_2023,"Apertura del segundo sitio (ST02, hasta 40,6 MW TI)"
+ODATA_ST02,solicitud_entrada_operacion,2026-09-28,2026-09-28,dia_carta,CARTA_OP02215-26,Solicitud de Entrada en Operación del proyecto NUP 3129 Odata San Bernardo ST02
+ODATA_STA,ingreso_SEA,2020-09-17,2020-09-17,dia,SEA_2148377353,DATACENTER SANTA TERESA (DIA); estado Desistido
+ODATA_STA,operacion_primera_intervalo,,,no_opera_2025,SEA_2148377353,DIA desistida
+PIT_ELBOSQUE,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect
+POWERHOST,operacion_primera_intervalo,,2022-09-28,cota_superior,DCM_2022,DCM (Wayback 28/09/2022)
+SCALA_HB01,ingreso_SEA,2024-09-02,2024-09-02,dia,SEA_2162968448,Ampliación Data Center Campus Scala Huechuraba (DIA); estado Aprobado
+SCALA_HB01,RCA,2025-03-04,2025-03-04,dia,SEA_2162968448,RCA 20251300183
+SCALA_HB01,operacion_primera_intervalo,2024-09-02,2026-10-02,intervalo_amplio,SEA_2162968448,DIA de ampliación (sept 2024) señala proyecto original en ejecución; fuentes secundarias indican 2025
+SCALA_LAMPA,ingreso_SEA,2021-09-10,2021-09-10,dia,SEA_2152920300,SCALA DATA CENTER CAMPUS (DIA); estado Aprobado
+SCALA_LAMPA,RCA,2022-08-04,2022-08-04,dia,SEA_2152920300,RCA 202213001416
+SCALA_LAMPA,operacion_primera_intervalo,,,no_opera_2025,SEA_2152920300; SNIFA_2026,SNIFA: inicio de ejecución (Res. SMA 860/2025)
+SCLIX_REC,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect
+SONDA_KUDOS,ingreso_SEA,2018-03-26,2018-03-26,dia,SEA_2138736697,"Proyecto ""Ampliación Edificio de Data Center y Oficinas SONDA, Parque Empresarial Aconcagua"" (DIA); estado Aprobado"
+SONDA_KUDOS,RCA,2018-11-27,2018-11-27,dia,SEA_2138736697,RCA 404
+SONDA_KUDOS,operacion_primera_intervalo,2020-12-01,2020-12-31,mes_inauguracion,SONDA_2022; SEA_2138736697,Nota SONDA 2022: inaugurado en diciembre de 2020; RCA 404/2018 ampliación
+SONDA_KUDOS,inauguracion,2020-12-01,2020-12-31,mes,SONDA_2022,"Datacenter Kudos, inaugurado en diciembre de 2020"
+SONDA_Q1,ingreso_SEA,2012-02-21,2012-02-21,dia,SEA_6628721,DATA CENTER SONDA (DIA); estado Desistido
+SONDA_Q1,operacion_primera_intervalo,2013-04-04,2013-04-04,dia_inauguracion,SONDA_2013; SEA_6628721,Comunicado SONDA: inauguración 4/04/2013; consultas de pertinencia SEA 2012 indicaban obra en construcción
+SONDA_Q1,inauguracion,2013-04-04,2013-04-04,dia,SONDA_2013,Inauguró su nuevo Data Center... comuna de Quilicura
+SONDA_TEA,operacion_primera_intervalo,,2024-07-12,cota_superior,DCM_2024; SONDA_2013,Listado DCM (Wayback 12/07/2024); SONDA declara casi cuatro décadas operando data centers (2013)
+TEF_APOQ,operacion_primera_intervalo,,2024-12-31,cota_superior,CARTA_OP00401-26; INFLECT_2026,Carta CEN OP00401-26 refiere data center de Telefónica en Apoquindo 7071 con servicios del Coordinador (antecedentes desde DE05086-24)
+TEF_PAINE,ingreso_SEA,2011-08-22,2011-08-22,dia,SEA_5933747,Regularización Data Center Hewlett Packard Chile Comercial Ltda. (DIA); estado Aprobado
+TEF_PAINE,operacion_primera_intervalo,2011-08-22,2016-05-27,intervalo,SEA_5933747; TELEFONICA_2016; SNIFA_2026,DIA de regularización (ago 2011) describe edificio construido; Telefónica presenta el centro de Paine el 27/05/2016
+TEF_PAINE,presentacion_operador,2016-05-27,2016-05-27,dia,TELEFONICA_2016,Telefónica presenta en Chile... Data Center (Paine)
+TEF_SANMARTIN,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026; DCATLAS_2026,Directorios
+TIVIT_ALIC,operacion_primera_intervalo,,2026-09-30,cota_superior,DCATLAS_2026,DC Atlas
+TIVIT_SCL,operacion_primera_intervalo,,2026-09-30,cota_superior,DCATLAS_2026,DC Atlas
+TNS_HUE,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect
+UFINET_MAG,operacion_primera_intervalo,,2024-07-12,cota_superior,DCM_2024,DCM 2024
+WIRENET,operacion_primera_intervalo,,2016-07-05,cota_superior,DCM_2016,DCM 2016
+ZGH_LF,operacion_primera_intervalo,,2026-10-02,cota_superior,INFLECT_2026,Inflect

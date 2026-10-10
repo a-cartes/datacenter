@@ -1,0 +1,5 @@
+especificacion,USD_MWh,IC95_inferior,IC95_superior
+"Principal distrital, Lampa 2022",1.0526308691,0.48444394398,1.6208177943
+"Misma muestra, Lampa 2023",1.015138792474,-0.5060533163664,2.536330901315
+Exclusión de Lampa,0.0327299459726385,-0.35170830561217,0.417168197557447
+Contraste descriptivo contra todo el período previo,-0.08662832481245138,,

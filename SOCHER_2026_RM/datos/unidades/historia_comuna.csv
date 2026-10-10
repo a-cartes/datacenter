@@ -1,0 +1,42 @@
+unidad,estado,instalaciones,G_doc,G_min,con_precio_balanceado
+ALHUÉ,control,,,,True
+BUIN,control,,,,True
+CERRO NAVIA,control,,,,True
+COLINA,previa,CLARO_LIRAY; EDGE_SCL01; EDGE_SCL0203,,,True
+CURACAVÍ,control,,,,True
+EL MONTE,control,,,,True
+ESTACIÓN CENTRAL,control,,,,True
+HUECHURABA,incierta,CLARO_CE; CLARO_SALTO; CIRION_SAN1; TIVIT_ALIC; TNS_HUE,,,True
+LA CISTERNA,control,,,,True
+LA FLORIDA,incierta,CMET_LF; ZGH_LF,,,True
+LA PINTANA,control,,,,True
+LA REINA,control,,,,True
+LAMPA,tratada,ODATA_ST01,2023.0,2021.0,True
+LAS CONDES,incierta,TEF_APOQ; PIT_ELBOSQUE,,,True
+LO BARNECHEA,incierta,BRUC_LB,,,True
+LO ESPEJO,control,,,,True
+LO PRADO,control,,,,True
+MACUL,control,,,,True
+MAIPÚ,control,,,,True
+MELIPILLA,control,,,,True
+PADRE HURTADO,control,,,,False
+PAINE,previa,TEF_PAINE,,,True
+PEDRO AGUIRRE CERDA,control,,,,True
+PEÑAFLOR,control,,,,True
+PEÑALOLÉN,control,,,,True
+PIRQUE,control,,,,True
+PROVIDENCIA,previa,ENT_PDV; KYNDRYL; IPXON; GTD_PROV; INTERNEXA,,,False
+PUDAHUEL,previa,ENT_CDLV,,,True
+PUENTE ALTO,control,,,,True
+QUILICURA,previa,SONDA_Q1; SONDA_KUDOS; GOOG_QUIL; ASC_SCL1; ASC_SCL2; ASC_SCL3; MSFT_SCL03,,,True
+QUINTA NORMAL,control,,,,True
+RECOLETA,incierta,SCLIX_REC,,,True
+RENCA,control,,,,True
+SAN BERNARDO,tratada,ODATA_ST02,2023.0,2023.0,True
+SAN JOAQUÍN,control,,,,True
+SAN JOSÉ DE MAIPO,control,,,,True
+SAN PEDRO,previa,ENT_LONGO,,,True
+SANTIAGO,previa,ENT_AMU; ENT_CNT; SONDA_TEA; GTD_MONEDA; GTD_PANAM; TEF_SANMARTIN; TIVIT_SCL; ANACONDA; NXNET; WIRENET; INTERCITY; ADEXUS_SCL,,,True
+TALAGANTE,control,,,,True
+TILTIL,control,,,,True
+ÑUÑOA,previa,ENT_NUN; UFINET_MAG; POWERHOST; HOSTNAME,,,False

@@ -1,0 +1,4 @@
+escenario,sen_2025_TWh,sen_2030_TWh,incremento_TWh,crecimiento_porcentaje,tasa_anual_porcentaje,fuente
+Bajo,83.4,97.4,14,16.7865707434053,3.15222050585076,"CEN 2511-C13-INF-DPR-01-V1, noviembre 2025, tabla 1-1, p. 5"
+Medio,84,102.6,18.6,22.1428571428571,4.08151734784665,"CEN 2511-C13-INF-DPR-01-V1, noviembre 2025, tabla 1-1, p. 5"
+Alto,84.8,114.6,29.8,35.1415094339623,6.20812774143909,"CEN 2511-C13-INF-DPR-01-V1, noviembre 2025, tabla 1-1, p. 5"

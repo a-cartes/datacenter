@@ -1,0 +1,92 @@
+unidad,estado,instalaciones,G_doc,G_min,comuna,con_precio_balanceado
+ALHUÉ-3,control,,,,ALHUÉ,True
+BUIN-1,control,,,,BUIN,True
+BUIN-2,control,,,,BUIN,True
+BUIN-6,control,,,,BUIN,True
+CERRO NAVIA-1,control,,,,CERRO NAVIA,True
+COLINA-1,previa,CLARO_LIRAY,,,COLINA,False
+COLINA-2,control,,,,COLINA,True
+COLINA-3,tratada,EDGE_SCL01; EDGE_SCL0203,2021.0,2020.0,COLINA,True
+COLINA-5,control,,,,COLINA,True
+CURACAVÍ-3,control,,,,CURACAVÍ,True
+CURACAVÍ-7,control,,,,CURACAVÍ,True
+EL MONTE-3,control,,,,EL MONTE,True
+ESTACIÓN CENTRAL-3,control,,,,ESTACIÓN CENTRAL,True
+HUECHURABA-1,incierta,CIRION_SAN1,,,HUECHURABA,False
+HUECHURABA-3,incierta_por_instalacion_sin_coordenada,,,,HUECHURABA,True
+HUECHURABA-5,incierta,CLARO_CE; CLARO_SALTO; TNS_HUE,,,HUECHURABA,False
+HUECHURABA-6,incierta_por_instalacion_sin_coordenada,,,,HUECHURABA,True
+LA CISTERNA-2,control,,,,LA CISTERNA,True
+LA FLORIDA-11,incierta,ZGH_LF,,,LA FLORIDA,False
+LA FLORIDA-18,control,,,,LA FLORIDA,True
+LA FLORIDA-3,incierta,CMET_LF,,,LA FLORIDA,False
+LA FLORIDA-7,control,,,,LA FLORIDA,True
+LA PINTANA-1,control,,,,LA PINTANA,True
+LA REINA-6,control,,,,LA REINA,True
+LAMPA-4,tratada,ODATA_ST01,2023.0,2021.0,LAMPA,True
+LAS CONDES-1,incierta_por_instalacion_sin_coordenada,,,,LAS CONDES,True
+LAS CONDES-11,incierta,TEF_APOQ,,,LAS CONDES,False
+LAS CONDES-13,incierta_por_instalacion_sin_coordenada,,,,LAS CONDES,True
+LAS CONDES-14,incierta_por_instalacion_sin_coordenada,,,,LAS CONDES,True
+LAS CONDES-16,incierta_por_instalacion_sin_coordenada,,,,LAS CONDES,True
+LAS CONDES-5,incierta_por_instalacion_sin_coordenada,,,,LAS CONDES,True
+LO BARNECHEA-1,incierta,BRUC_LB,,,LO BARNECHEA,True
+LO BARNECHEA-3,control,,,,LO BARNECHEA,True
+LO ESPEJO-6,control,,,,LO ESPEJO,True
+LO PRADO-3,control,,,,LO PRADO,True
+MACUL-5,control,,,,MACUL,True
+MAIPÚ-15,control,,,,MAIPÚ,True
+MAIPÚ-2,control,,,,MAIPÚ,True
+MAIPÚ-5,control,,,,MAIPÚ,True
+MELIPILLA-12,control,,,,MELIPILLA,True
+MELIPILLA-14,control,,,,MELIPILLA,True
+MELIPILLA-16,control,,,,MELIPILLA,True
+MELIPILLA-2,control,,,,MELIPILLA,True
+MELIPILLA-3,control,,,,MELIPILLA,True
+MELIPILLA-7,control,,,,MELIPILLA,True
+PADRE HURTADO-1,control,,,,PADRE HURTADO,False
+PAINE-3,control,,,,PAINE,True
+PAINE-6,previa,TEF_PAINE,,,PAINE,True
+PEDRO AGUIRRE CERDA-2,control,,,,PEDRO AGUIRRE CERDA,True
+PEÑAFLOR-2,control,,,,PEÑAFLOR,True
+PEÑALOLÉN-1,control,,,,PEÑALOLÉN,True
+PEÑALOLÉN-10,control,,,,PEÑALOLÉN,True
+PIRQUE-1,control,,,,PIRQUE,True
+PROVIDENCIA-3,previa,IPXON; GTD_PROV,,,PROVIDENCIA,False
+PROVIDENCIA-4,incierta,INTERNEXA,,,PROVIDENCIA,False
+PUDAHUEL-2,control,,,,PUDAHUEL,True
+PUDAHUEL-7,previa,ENT_CDLV,,,PUDAHUEL,True
+PUENTE ALTO-1,control,,,,PUENTE ALTO,True
+PUENTE ALTO-4,control,,,,PUENTE ALTO,True
+PUENTE ALTO-5,control,,,,PUENTE ALTO,True
+PUENTE ALTO-7,control,,,,PUENTE ALTO,True
+QUILICURA-1,control,,,,QUILICURA,True
+QUILICURA-3,previa,SONDA_Q1; SONDA_KUDOS; GOOG_QUIL; ASC_SCL1; ASC_SCL2; ASC_SCL3; MSFT_SCL03,,,QUILICURA,True
+QUINTA NORMAL-2,control,,,,QUINTA NORMAL,True
+RECOLETA-10,incierta,SCLIX_REC,,,RECOLETA,True
+RENCA-5,control,,,,RENCA,True
+RENCA-7,control,,,,RENCA,True
+SAN BERNARDO-11,tratada,ODATA_ST02,2023.0,2023.0,SAN BERNARDO,True
+SAN BERNARDO-8,control,,,,SAN BERNARDO,True
+SAN JOAQUÍN-1,control,,,,SAN JOAQUÍN,True
+SAN JOSÉ DE MAIPO-2,control,,,,SAN JOSÉ DE MAIPO,True
+SAN JOSÉ DE MAIPO-4,control,,,,SAN JOSÉ DE MAIPO,True
+SAN JOSÉ DE MAIPO-5,control,,,,SAN JOSÉ DE MAIPO,True
+SAN PEDRO-2,previa,ENT_LONGO,,,SAN PEDRO,True
+SAN PEDRO-3,control,,,,SAN PEDRO,True
+SAN PEDRO-5,control,,,,SAN PEDRO,True
+SANTIAGO-1,incierta,ADEXUS_SCL,,,SANTIAGO,False
+SANTIAGO-13,incierta_por_instalacion_sin_coordenada,,,,SANTIAGO,True
+SANTIAGO-2,incierta,SONDA_TEA; GTD_MONEDA,,,SANTIAGO,False
+SANTIAGO-23,incierta_por_instalacion_sin_coordenada,,,,SANTIAGO,True
+SANTIAGO-3,previa,ENT_AMU; ENT_CNT; TEF_SANMARTIN,,,SANTIAGO,False
+SANTIAGO-9,incierta_por_instalacion_sin_coordenada,,,,SANTIAGO,True
+TALAGANTE-2,control,,,,TALAGANTE,True
+TALAGANTE-3,control,,,,TALAGANTE,True
+TALAGANTE-4,control,,,,TALAGANTE,True
+TILTIL-2,control,,,,TILTIL,True
+TILTIL-3,control,,,,TILTIL,False
+TILTIL-4,control,,,,TILTIL,True
+TILTIL-5,control,,,,TILTIL,True
+ÑUÑOA-10,previa,HOSTNAME,,,ÑUÑOA,False
+ÑUÑOA-11,incierta,POWERHOST,,,ÑUÑOA,False

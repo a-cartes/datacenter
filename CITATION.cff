@@ -1,19 +1,24 @@
 cff-version: 1.2.0
-message: "Si utiliza esta base, cite la versión específica del recurso y sus fuentes primarias."
-type: dataset
-title: "Centros de datos y diferenciales nodales de costo marginal en Chile: base observada y código de reconstrucción"
+message: "Cite este paquete reproducible, su versión o commit y las fuentes primarias utilizadas."
+type: software
+title: "¿Dónde se conecta la inteligencia artificial? Centros de datos y costos marginales eléctricos en la Región Metropolitana ante el horizonte 2030"
 authors:
   - family-names: "Cartes Fica"
     given-names: "Alan"
     affiliation: "Universidad del Bío-Bío"
-version: 0.2.0
+  - family-names: "Troncoso"
+    given-names: "Ricardo"
+    affiliation: "Universidad del Bío-Bío"
+  - family-names: "Romo"
+    given-names: "Rodrigo"
+    affiliation: "Universidad del Bío-Bío"
+version: 0.3.0
 repository-code: "https://github.com/a-cartes/datacenter"
-url: "https://github.com/a-cartes/datacenter/releases/tag/v0.2.0"
-date-released: 2026-09-27
-abstract: "Panel de precios nodales, registros de medición y antecedentes documentales para investigar la entrada y expansión de centros de datos en Chile. La versión actual contiene datos observados; la asignación de tratamientos y exposición permanece en validación."
+url: "https://github.com/a-cartes/datacenter"
+abstract: "Paquete del cierre SOCHER 2026: inventario trazable, conexiones eléctricas, panel 2017–2025, adaptación histórica y diagnóstico de identificación. Reproduce los resultados desde paneles derivados; no afirma efecto causal robusto ni simulación contrafactual 2030 ejecutada."
 keywords:
-  - Chile
+  - costos marginales eléctricos
   - centros de datos
-  - costos marginales
-  - datos de panel
+  - transmisión eléctrica
+  - economía regional
   - reproducibilidad

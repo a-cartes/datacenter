@@ -1,0 +1,8 @@
+Revisión posterior a resultados conocidos. 9 de octubre de 2026.
+1. Mantener como referencia el panel distrital y matching del 05/10, entrada Lampa 2022. No seleccionar según signo.
+2. Descomponer 2020-2021 por precios locales y Quillota, D/L/C y control, con idénticas barras y pesos; estudiar meses y cobertura. No inferir avería o causa operativa sin fuente.
+3. Comparar cada cohorte con t=-1 y promedio de su propio pre, conservando pesos de períodos post; este segundo contraste es descriptivo. Test previo conjunto convencional con advertencia de pocos tratados y rango de covarianza.
+4. Añadir sensibilidad Lampa=2023 con la misma muestra del 05/10. Conservar todos los resultados. No usar construcción 2021 como operación.
+5. Clasificar conexiones, MW informáticos, MW eléctricos, MVA y demanda proyectada por separado. Potencia nominal/solicitada no es retiro observado. No estimar dosis causal si falta serie histórica por instalación.
+6. Cualquier comparación eléctrica suplementaria será exploratoria y no reemplazará el principal. No remontar retrospectivamente conexiones observadas solo en 2025.
+7. Cerrar SOCHER con evidencia efectivamente calculada; no imputar un efecto causal futuro ni presentar ausencia de identificación como ausencia de efecto.

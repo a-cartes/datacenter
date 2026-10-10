@@ -1,0 +1,311 @@
+{
+ "ventana": [
+  2017,
+  2025
+ ],
+ "primer_G_elegible": 2019,
+ "instalaciones_consideradas": 61,
+ "instalaciones_operando_2025": 47,
+ "barras_RM_localizadas": 212,
+ "barras_RM_balanceadas": 194,
+ "subestaciones_RM_con_barra_balanceada": 94,
+ "comuna": {
+  "unidades_con_instalaciones": 15,
+  "por_estado": {
+   "previa": 8,
+   "incierta": 5,
+   "tratada": 2
+  },
+  "tratadas": [
+   {
+    "unidad": "LAMPA",
+    "G_doc": 2023.0,
+    "G_min": 2021.0,
+    "instalaciones": "ODATA_ST01"
+   },
+   {
+    "unidad": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02"
+   }
+  ],
+  "tratadas_con_precio_balanceado": 2,
+  "tratadas_con_precio_alguno": 2,
+  "cohortes_G_doc_con_precio_bal": {
+   "2023.0": 2
+  },
+  "G_doc_distinto_de_G_min": 1,
+  "controles_con_precio_balanceado": 25,
+  "unidades_RM": 52
+ },
+ "distrito": {
+  "unidades_con_instalaciones": 22,
+  "por_estado": {
+   "incierta": 11,
+   "previa": 8,
+   "tratada": 3
+  },
+  "tratadas": [
+   {
+    "unidad": "COLINA-3",
+    "G_doc": 2021.0,
+    "G_min": 2020.0,
+    "instalaciones": "EDGE_SCL01; EDGE_SCL0203"
+   },
+   {
+    "unidad": "LAMPA-4",
+    "G_doc": 2023.0,
+    "G_min": 2021.0,
+    "instalaciones": "ODATA_ST01"
+   },
+   {
+    "unidad": "SAN BERNARDO-11",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02"
+   }
+  ],
+  "tratadas_con_precio_balanceado": 3,
+  "tratadas_con_precio_alguno": 3,
+  "cohortes_G_doc_con_precio_bal": {
+   "2021.0": 1,
+   "2023.0": 2
+  },
+  "G_doc_distinto_de_G_min": 2,
+  "controles_con_precio_balanceado": 57,
+  "distritos_con_precio_balanceado": 76,
+  "distritos_RM": 451
+ },
+ "nodo_r2km": {
+  "nodos": 103,
+  "por_estado": {
+   "control": 83,
+   "previa": 8,
+   "incierta": 4,
+   "tratada": 4,
+   "incierta_por_instalacion_sin_coordenada": 4
+  },
+  "tratados_con_precio_balanceado": 3,
+  "tratados": [
+   {
+    "unidad": 683.0,
+    "subestacion": "S/E CHACABUCO",
+    "comuna": "QUILICURA",
+    "G_doc": 2020.0,
+    "G_min": 2020.0,
+    "instalaciones": "ASC_SCL1; ASC_SCL2; ASC_SCL3; MSFT_SCL03",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 684.0,
+    "subestacion": "S/E CHENA",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 710.0,
+    "subestacion": "S/E PANAMERICANA",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 2433.0,
+    "subestacion": "S/E LAS CANTERAS",
+    "comuna": "COLINA",
+    "G_doc": 2021.0,
+    "G_min": 2020.0,
+    "instalaciones": "EDGE_SCL01; EDGE_SCL0203",
+    "con_precio_balanceado": false
+   }
+  ],
+  "controles_con_precio_balanceado": 76,
+  "comunas_de_tratados": [
+   "COLINA",
+   "QUILICURA",
+   "SAN BERNARDO"
+  ]
+ },
+ "nodo_r3km": {
+  "nodos": 103,
+  "por_estado": {
+   "control": 77,
+   "previa": 12,
+   "incierta": 5,
+   "tratada": 5,
+   "incierta_por_instalacion_sin_coordenada": 4
+  },
+  "tratados_con_precio_balanceado": 4,
+  "tratados": [
+   {
+    "unidad": 684.0,
+    "subestacion": "S/E CHENA",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 705.0,
+    "subestacion": "S/E MAIPU",
+    "comuna": "MAIPÚ",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 710.0,
+    "subestacion": "S/E PANAMERICANA",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 1606.0,
+    "subestacion": "S/E BICENTENARIO",
+    "comuna": "MAIPÚ",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 2433.0,
+    "subestacion": "S/E LAS CANTERAS",
+    "comuna": "COLINA",
+    "G_doc": 2020.0,
+    "G_min": 2020.0,
+    "instalaciones": "ASC_SCL1; ASC_SCL2; ASC_SCL3; EDGE_SCL01; EDGE_SCL0203; ODATA_ST01; MSFT_SCL03",
+    "con_precio_balanceado": false
+   }
+  ],
+  "controles_con_precio_balanceado": 70,
+  "comunas_de_tratados": [
+   "COLINA",
+   "MAIPÚ",
+   "SAN BERNARDO"
+  ]
+ },
+ "nodo_r5km": {
+  "nodos": 103,
+  "por_estado": {
+   "control": 58,
+   "previa": 25,
+   "tratada": 10,
+   "incierta": 9,
+   "incierta_por_instalacion_sin_coordenada": 1
+  },
+  "tratados_con_precio_balanceado": 9,
+  "tratados": [
+   {
+    "unidad": 684.0,
+    "subestacion": "S/E CHENA",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 690.0,
+    "subestacion": "S/E LA CISTERNA",
+    "comuna": "LA CISTERNA",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 694.0,
+    "subestacion": "S/E LAMPA",
+    "comuna": "LAMPA",
+    "G_doc": 2023.0,
+    "G_min": 2021.0,
+    "instalaciones": "ODATA_ST01",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 695.0,
+    "subestacion": "S/E LAS ACACIAS",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 705.0,
+    "subestacion": "S/E MAIPU",
+    "comuna": "MAIPÚ",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 710.0,
+    "subestacion": "S/E PANAMERICANA",
+    "comuna": "SAN BERNARDO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 919.0,
+    "subestacion": "S/E LO ESPEJO (FFCC)",
+    "comuna": "LO ESPEJO",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 1606.0,
+    "subestacion": "S/E BICENTENARIO",
+    "comuna": "MAIPÚ",
+    "G_doc": 2023.0,
+    "G_min": 2023.0,
+    "instalaciones": "ODATA_ST02",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 1741.0,
+    "subestacion": "S/E CHICUREO",
+    "comuna": "COLINA",
+    "G_doc": 2021.0,
+    "G_min": 2020.0,
+    "instalaciones": "EDGE_SCL01; EDGE_SCL0203",
+    "con_precio_balanceado": true
+   },
+   {
+    "unidad": 2211.0,
+    "subestacion": "S/E NUEVA LAMPA",
+    "comuna": "LAMPA",
+    "G_doc": 2020.0,
+    "G_min": 2020.0,
+    "instalaciones": "ASC_SCL1; ODATA_ST01",
+    "con_precio_balanceado": false
+   }
+  ],
+  "controles_con_precio_balanceado": 52,
+  "comunas_de_tratados": [
+   "COLINA",
+   "LA CISTERNA",
+   "LAMPA",
+   "LO ESPEJO",
+   "MAIPÚ",
+   "SAN BERNARDO"
+  ]
+ }
+}

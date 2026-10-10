@@ -39,3 +39,7 @@ SOCHER_2026_v7_2020_2026/mediciones/originales/
 SOCHER_2026_v8_panel_causal/panel/panel_diario.csv
 SOCHER_2026_v8_panel_causal/revision/qa/*.png
 SOCHER_2026_v8_panel_causal/revision/contenido_excel.json
+
+# Cierre RM: resultados por ejecución, entornos y cachés locales.
+.venv-socher/
+SOCHER_2026_RM/salidas/

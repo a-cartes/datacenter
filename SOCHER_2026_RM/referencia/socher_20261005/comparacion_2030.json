@@ -1,0 +1,63 @@
+{
+  "insumos": {
+    "fecha_calculo": "2026-10-05",
+    "fuente": "https://systep.cl/data-centers-cuadruplicaran-su-demanda-de-energia-a-2030-alza-presionara-al-sistema-electrico/",
+    "fecha_publicacion": "2025-09-23",
+    "atribucion": "Systep reproduce proyecciones atribuidas al Coordinador; no se obtuvo su tabla técnica original.",
+    "chile_2025_MW": 325,
+    "chile_2030_MW": 1207,
+    "RM_2030_MW": 1038,
+    "RM_2025_MW": null,
+    "definicion_MW": "Demanda eléctrica proyectada reportada. La nota no aclara si es potencia máxima, media o contratada.",
+    "horas_2030": 8760,
+    "supuesto": "Los casos fijan potencia media anual en 60%, 80% y 100% del valor publicado. No son factores de carga medidos ni intervalos de pronóstico. Si los MW originales son ya potencia media, solo corresponde el caso 100%.",
+    "formula_energia": "E_MWh = 1038 MW * fraccion * 8760 h",
+    "formula_valoracion": "V_USD = E_MWh * variacion_uniforme_USD_por_MWh",
+    "alcance_valoracion": "Cambio hipotético en valoración spot bruta de la energía del sector. No es gasto contractual efectivo, costo social, costo de operación del sistema, tarifa residencial ni impacto causal de centros de datos.",
+    "restricciones": [
+      "No se suma cartera de proyectos al agregado de 1038 MW.",
+      "No se extrapola el ATT histórico por MW.",
+      "No se calcula crecimiento RM sin base RM 2025.",
+      "No se aplica PUE a MW cuya definición técnica no está confirmada."
+    ]
+  },
+  "metricas": {
+    "crecimiento_chile_porcentaje": 271.38461538461536,
+    "multiplicador_chile": 3.713846153846154,
+    "CAGR_chile_2025_2030_porcentaje": 30.006414785450808,
+    "participacion_RM_2030_porcentaje": 85.9983429991715
+  },
+  "escenarios_ilustrativos": [
+    {
+      "fraccion_potencia_publicada": 0.6,
+      "potencia_media_MW": 622.8,
+      "energia_TWh": 5.455728,
+      "millones_USD_por_1_USD_MWh": 5.455728,
+      "millones_USD_por_10_USD_MWh": 54.55728
+    },
+    {
+      "fraccion_potencia_publicada": 0.8,
+      "potencia_media_MW": 830.4000000000001,
+      "energia_TWh": 7.274304000000001,
+      "millones_USD_por_1_USD_MWh": 7.274304000000001,
+      "millones_USD_por_10_USD_MWh": 72.74304000000002
+    },
+    {
+      "fraccion_potencia_publicada": 1.0,
+      "potencia_media_MW": 1038.0,
+      "energia_TWh": 9.09288,
+      "millones_USD_por_1_USD_MWh": 9.09288,
+      "millones_USD_por_10_USD_MWh": 90.9288
+    }
+  ],
+  "evidencia_conexion": {
+    "fuente": "https://cartas.coordinador.cl/download_saved_file/6887c8cf3563571c24dc6f4a",
+    "documento": "Coordinador DE 04560-25, 25 de julio de 2025",
+    "proyecto": "Ascenty Data Center Santiago Chile 4",
+    "subestacion_propuesta": "Nueva S/E Seccionadora Punta Verde 110 kV",
+    "fin_2027_MW": 50,
+    "fin_2028_MW": 150,
+    "estado": "Demanda proyectada y aprobación del informe por el Coordinador; no certifica operación ni autorización final de la CNE.",
+    "nota": "Cronogramas de fin de año, no consumo a esa potencia durante todo el año. La carta documenta insuficiencia N-1 en Chacabuco."
+  }
+}

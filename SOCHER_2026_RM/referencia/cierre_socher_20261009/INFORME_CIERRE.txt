@@ -1,0 +1,38 @@
+CIERRE ANALÍTICO SOCHER — 9 OCTUBRE 2026
+
+Conclusión
+Se mantiene la réplica adaptada como referencia, sin afirmar efecto causal. Se explica la caída previa relativa de Lampa mediante el crecimiento mayor del diferencial de los controles en2021. Las conexiones mejoran el diagnóstico de exposición, pero las fuentes disponibles no permiten aún construir una dosis histórica homogénea por instalación. Esto cierra los resultados preliminares del resumen, no un efecto causal definitivo ni un contrafactual2030.
+
+1. Correspondencia con Virginia
+Ejemplar57p marzo2026 del usuario, hash 4c192d457ed0b182a6497d057cbd31e78ef00e4e583737bb55d1cf4f17c56315. Leídas pp.7-14 y ficha existente con tablas pp.33-34. La matriz correspondencia_virginia.csv separa reproducción de método de adaptaciones. La incorporación de nodos tiene umbral local90%: Canteras existe desde2024, pero solo entra al promedio2025. No reestimación de Virginia ni nuevo acceso a sus microdatos. Los2.49 publicados y1.05 chilenos no estiman idéntica variable física ni demuestran diferencia entre mercados.
+
+2. Qué pasó en Lampa y controles
+2020→2021: D de Lampa pasa de0.666456 a1.519782; controles de1.796171 a6.806787. Cambio Lampa 0.853326098; cambio controles 5.010615863. La brecha Lampa−controles cae4.157290USD/MWh. El precio total local de Lampa sube39.647842USD/MWh y Quillota38.794516. No fue una caída absoluta del precio de Lampa ni una demostración de selección por holgura.
+17/18 controles aumentanD. No es un único control atípico. Mismas52 barras de control en2020 y2021 y mismas2 de Lampa; las2 de Lampa presentan precios prácticamente idénticos, cobertura100%. No explica el salto una incorporación de barras en esos años.
+Descomposición del cambio de controles: L+2.030730; C+2.979886USD/MWh. Lampa: L+0.854288; C−0.000962. C es residual por separación de subsistemas con factores por tramos; no toda congestión física. La asimetría es compatible con distinta exposición a restricciones, no identifica por sí sola la línea o falla causante.
+Julio2021: D controles14.7600 yLampa2.7899; agosto21.1215 y2.3632. En agosto el componente C medio de controles es15.0857 y supera1USD/MWh en155/744 horas. Se revisaron 96 celdas del13/08/2021, barrasLampa220,Quillota220,Andes13/110; error frente al libro original 0.0. No se reextrajeron todos los años ni se atribuye el episodio a una contingencia específica sin bitácora operacional.
+
+3. Contrastes y fechas
+ATT referencia−1=1.052630869; contraste descriptivo post menos promedio del pre propio por cohorte=-0.086628325. Se usan los mismos18controles y se ponderan cohortes por5,4,3períodos post. No usar el promedio bruto de coeficientes previos de distinta composición. Tabla contrastes_cohortes.csv.
+Lampa: ATT3.092433; contraste todo su pre−0.124556. Colina−0.225772 y−0.116572; SanBernardo0.463567 y0.013848. Sin Lampa ATT0.032730aprox (valor exacto en resultados05/10).
+Lampa2023 con misma muestra05/10: ATT1.015138792; intervalo[-0.5060533163664, 2.536330901315]. La fecha anterior cambia poco el punto y mucho su error; no conservar solo especificación favorable. El1.32 original combina otra fecha, otro universo de barras y otro matching.
+Test conjunto completo de12 coeficientes previos cohorte-horizonte: covarianza agrupada rango5, Wald no calculable. No reportar un p inventado ni usar pseudoinversa como arreglo. Test exploratorio de3promedios en ventana común−4,−3,−2: F(3,20)=193.230354, pconvencional=6.20234917e-15. No valida inferencia con3tratados. Refuerza junto al diagnóstico descriptivo que no puede defenderse paralelismo. No elegir nueva muestra para pasar el test.
+
+4. Conexiones y potencia
+ST01: cartaDE02932-23 autoriza30MW hacia NuevaLampa220,pañoJ9,en2023. No certifica retiro30MW desde2022. Anexo deEAF312/2025 contiene trabajos programados DI2025070947 para30/06/2025; no equivale a certificado de término efectivo. Base deprevisión CNE2025registraODATA/Batuco023. Diferentes hitos y puntos no deben mezclarse. En precios hayBatuco013/110,no023; no se fuerza alias entre tensiones. NuevaLampa220apareceSep2025,sin pretratamiento local.
+EdgeConneX comparte denominaciónBatuco023 en otra fila; LasCanteras110aparece paraChileII. La carta deChileV tercera etapa mezcla40MVA en encabezado y40MW en cuerpo; confirma energización de paños29/05/2024 pero no retiro40MW. Faltan correspondencias por sociedad/etapa y carga efectiva.
+ST02: cartaOP02215-26,firmada25/09/2026,solicitaEO y da fin de puesta enservicio08/09/2026. La firma esLoEspejoDataCenterSpA,que permite corregir la atribución previaGTD de la filaCNEPanamericana012. No cambia por sí sola la apertura del edificio2023. No tratar40.6MW TI de diseño como potencia eléctrica retirada.
+Ascenty,Google,Microsoft yScala tienen registros por cliente/punto en previsión2025-2045, no serie histórica por edificio2017-2025. Los ceros proyectados Microsoft no prueban consumo cero. Se preserva base original y se corrige solo copia auditada.
+Decisión: no estimar una dosis causal ni reasignar retrospectivamente tratamientos. Una comparación por conexiones requerirá fechas de vigencia de cada suministro y retiro por etapa. La documentación ya permite señalar que independencia geográfica no implica eléctrica y que una conexión futura no prueba exposición histórica.
+
+5. Alcance SOCHER
+Word actualizado con título económico, introducción concentrada, resultado principal calificado, fila fecha original misma muestra, diagnóstico gráficoLampa, ventana previa y mecanismo de conexión. Conserva prospectiva2030 como sensibilidad explícita, no efecto de precios. Los25/13controles comunales yATT1.65 son una escala alternativa, no sustituyen el resultado distrital ni reparan el problema. Extensión máxima4p no verificada en convocatoria;4p es presupuesto editorial de trabajo.
+
+Reproducción desde directorio del artículo
+.venv/bin/python Replica_RM_desde_cero/scripts/diagnostico_cierre_20261009.py
+.venv/bin/python Replica_RM_desde_cero/scripts/verificar_agosto_2021.py
+/usr/local/bin/Rscript Replica_RM_desde_cero/scripts/contrastes_cierre_20261009.R
+Python con pypdf: scripts/archivar_fuentes_cierre_20261009.py (solo fuentes públicas, requiere red)
+Python: scripts/documentar_cierre_20261009.py
+Python con python-docx: scripts/crear_resumen_socher_cierre_20261009.py
+Los tres scripts de análisis no modifican las bases originales.

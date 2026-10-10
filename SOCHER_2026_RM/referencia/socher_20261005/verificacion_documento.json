@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-10-05",
+  "paginas": 4,
+  "palabras_aproximadas_antes": 1721,
+  "palabras_aproximadas_despues": 2215,
+  "incremento_neto": 494,
+  "referencias": 18,
+  "referencias_nuevas": 9,
+  "articulos_academicos_nuevos": 3,
+  "tablas": 2,
+  "figuras": 1,
+  "resultados_numericos": "Sin cambios respecto de la versión anterior",
+  "inspeccion_visual": "Cuatro páginas inspeccionadas tras la última edición; tablas, figura y bibliografía legibles, sin desbordes.",
+  "archivos": {
+    "Resumen_extendido_SOCHER_2026.docx": {
+      "sha256": "cb5d8f838c36f2ef1f92711b0103b51c58efae253b58325e47fccb2ae28a560e",
+      "bytes": 96837
+    },
+    "Resumen_extendido_SOCHER_2026.pdf": {
+      "sha256": "9231f648c2cdafb502813bd0edfbadfaa8accf7cb3c6c697511ff0dd2edc8f32",
+      "bytes": 207320
+    }
+  }
+}

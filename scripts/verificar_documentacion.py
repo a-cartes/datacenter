@@ -7,6 +7,8 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 files = [ROOT / name for name in ['README.md', 'ROADMAP.md', 'CHANGELOG.md', 'REUSE.md']]
 files.extend(sorted((ROOT / 'docs').glob('*.md')))
+files.append(ROOT / 'SOCHER_2026_RM/README.md')
+files.extend(sorted((ROOT / 'SOCHER_2026_RM/documentacion').glob('*.md')))
 errors, count = [], 0
 for path in files:
     text = path.read_text(encoding='utf-8')

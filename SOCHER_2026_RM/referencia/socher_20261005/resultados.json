@@ -1,0 +1,162 @@
+{
+  "fecha": "2026-10-05",
+  "principal": [
+    {
+      "especificacion": "principal_nodos_incorporados",
+      "att": 1.0526308691,
+      "se": 0.27238584928,
+      "ic95_inf": 0.48444394398,
+      "ic95_sup": 1.6208177943,
+      "p_convencional": 0.00096564983497,
+      "gl": 20,
+      "tratadas": 3,
+      "controles": 18,
+      "filas_copias": 297,
+      "unidades_anio": 189
+    }
+  ],
+  "variantes": [
+    {
+      "especificacion": "principal_nodos_incorporados",
+      "att": 1.0526308691,
+      "se": 0.27238584928,
+      "ic95_inf": 0.48444394398,
+      "ic95_sup": 1.6208177943,
+      "p_convencional": 0.00096564983497,
+      "gl": 20,
+      "tratadas": 3,
+      "controles": 18,
+      "filas_copias": 297,
+      "unidades_anio": 189
+    },
+    {
+      "especificacion": "sensibilidad_barras_fijas",
+      "att": 1.2824309241,
+      "se": 0.21337215538,
+      "ic95_inf": 0.83415266012,
+      "ic95_sup": 1.7307091881,
+      "p_convencional": 1.1034772439e-05,
+      "gl": 18,
+      "tratadas": 3,
+      "controles": 16,
+      "filas_copias": 297,
+      "unidades_anio": 171
+    },
+    {
+      "especificacion": "sensibilidad_calendario_siguiente",
+      "att": 2.0669873413,
+      "se": 0.56192388687,
+      "ic95_inf": 0.89483465317,
+      "ic95_sup": 3.2391400295,
+      "p_convencional": 0.0014902722696,
+      "gl": 20,
+      "tratadas": 3,
+      "controles": 18,
+      "filas_copias": 297,
+      "unidades_anio": 189
+    },
+    {
+      "especificacion": "sensibilidad_controles_lejos",
+      "att": -1.7911889466,
+      "se": 5.6990932543,
+      "ic95_inf": -14.4895600476,
+      "ic95_sup": 10.9071821543,
+      "p_convencional": 0.75975699542,
+      "gl": 10,
+      "tratadas": 1,
+      "controles": 10,
+      "filas_copias": 99,
+      "unidades_anio": 99
+    },
+    {
+      "especificacion": "sensibilidad_controles_baja_correlacion",
+      "att": -0.82615221332,
+      "se": 1.1086424384,
+      "ic95_inf": -3.2212285884,
+      "ic95_sup": 1.5689241618,
+      "p_convencional": 0.46941451053,
+      "gl": 13,
+      "tratadas": 3,
+      "controles": 11,
+      "filas_copias": 297,
+      "unidades_anio": 126
+    },
+    {
+      "especificacion": "referencia_anterior",
+      "att": 1.3222187842,
+      "se": 0.68569273508,
+      "ic95_inf": -0.11836819572,
+      "ic95_sup": 2.7628057642,
+      "p_convencional": 0.069743919261,
+      "gl": 18,
+      "tratadas": 3,
+      "controles": 16,
+      "filas_copias": 297,
+      "unidades_anio": 171
+    }
+  ],
+  "exclusion": [
+    {
+      "especificacion": "sin_COLINA_3",
+      "att": 1.9657758919,
+      "se": 0.57348592682,
+      "ic95_inf": 0.76545605221,
+      "ic95_sup": 3.1660957316,
+      "p_convencional": 0.0028214894979,
+      "gl": 19,
+      "tratadas": 2,
+      "controles": 18,
+      "filas_copias": 288,
+      "unidades_anio": 180,
+      "excluida": "COLINA-3"
+    },
+    {
+      "especificacion": "sin_LAMPA_4",
+      "att": 0.032729945973,
+      "se": 0.18367598345,
+      "ic95_inf": -0.35170830561,
+      "ic95_sup": 0.41716819756,
+      "p_convencional": 0.86045686905,
+      "gl": 19,
+      "tratadas": 2,
+      "controles": 18,
+      "filas_copias": 288,
+      "unidades_anio": 180,
+      "excluida": "LAMPA-4"
+    },
+    {
+      "especificacion": "sin_SAN BERNARDO_11",
+      "att": 1.2489855609,
+      "se": 0.19225980143,
+      "ic95_inf": 0.84658117179,
+      "ic95_sup": 1.65138995,
+      "p_convencional": 3.1806996887e-06,
+      "gl": 19,
+      "tratadas": 2,
+      "controles": 18,
+      "filas_copias": 288,
+      "unidades_anio": 180,
+      "excluida": "SAN BERNARDO-11"
+    }
+  ],
+  "fechas": [
+    {
+      "unidad": "COLINA-3",
+      "G": 2021
+    },
+    {
+      "unidad": "LAMPA-4",
+      "G": 2022
+    },
+    {
+      "unidad": "SAN BERNARDO-11",
+      "G": 2023
+    }
+  ],
+  "inferencia": "Intervalos y p convencionales con errores agrupados por distrito y distribución t de fixest; no garantizan cobertura con tres distritos tratados. No se utiliza el p de otra especificación.",
+  "seleccion": "Principal incorpora barras con cobertura anual >=90%, matching previamente calculado para ese universo, ST01=2022 según evidencia de inauguración. Cambios posteriores al protocolo original declarados.",
+  "versiones": {
+    "R": "R version 4.6.1 (2026-06-24)",
+    "fixest": "0.14.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ATT": 1.052630869122,
+  "fecha_original_misma_muestra": {
+    "ATT": 1.015138792474,
+    "IC95": [-0.5060533163664, 2.536330901315]
+  },
+  "test_previo_convencional": {
+    "stat": "NA",
+    "p": "NA",
+    "df1": 12,
+    "df2": 20,
+    "vcov": "Clustered (unidad)"
+  },
+  "restricciones": 12,
+  "rango_covarianza": 5,
+  "advertencia": "Test convencional, solo tres tratados; no constituye inferencia válida de pocos tratamientos por sí mismo. No interpretar no rechazo como prueba de paralelismo.",
+  "test_previo_ventana_comun": {
+    "horizontes": [-4, -3, -2],
+    "coeficientes": [1.230478208308, 1.352375783865, 2.04662528429],
+    "rango": 3,
+    "restricciones": 3,
+    "F": 193.230353980339,
+    "p_convencional": 6.20234916684e-15,
+    "gl": [3, 20]
+  }
+}
