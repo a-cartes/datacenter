@@ -1,0 +1,23 @@
+{
+  "estado": "OK",
+  "reproduccion": {
+    "contrastes": 200,
+    "error_maximo": 4.440892098500626e-16
+  },
+  "LSQR": [
+    {
+      "modelo": "completa_base",
+      "error": 2.446054470084391e-11,
+      "iteraciones": 68,
+      "estado_solver": 2
+    },
+    {
+      "modelo": "completa_Santiago_BESS",
+      "error": 6.065614677197573e-11,
+      "iteraciones": 139,
+      "estado_solver": 2
+    }
+  ],
+  "originales_modificados": 0,
+  "meses": 3
+}

@@ -1,0 +1,16 @@
+{
+  "estado": "OK",
+  "horas_BESS": 2160,
+  "horas_medicion": 744,
+  "filas_15min": 14880,
+  "duplicados_BESS_exactos": 70,
+  "noches_PFV_positivo": 17,
+  "episodio_CerroNavia": {
+    "horas_completas": 8,
+    "flujo_H4_MW": 21.728863159175,
+    "retiro_TAP1_MW": 21.7301366577,
+    "MAE_MW": 0.005368103049999906,
+    "WAPE_pct": 0.024703494205121516,
+    "MW_Canteras": 2.6652978321500003
+  }
+}

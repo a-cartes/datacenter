@@ -1,0 +1,101 @@
+{
+  "ruta": "/generacion-real/v3/findByDate",
+  "filtro": "tipoTecnologia=BESS",
+  "inicio": "2025-12-01",
+  "fin": "2026-01-01",
+  "consulta_UTC": "2026-10-11T23:13:34.597064+00:00",
+  "estado": "completo_pendiente_auditoria",
+  "paginas": [
+    {
+      "archivo": "pagina_0001.json.gz",
+      "sha256": "8cce4a2f68d0ce670d0adcd5b0e014705a8acd1163eafe37a92d3f5481c3c61c",
+      "pagina": 1,
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 1
+      }
+    },
+    {
+      "archivo": "pagina_0002.json.gz",
+      "sha256": "78c2c1f6bfaeb89d042e1b8d147995638a7fb96b2fb3b17f25264d99b24b22d9",
+      "pagina": 2,
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 2
+      }
+    },
+    {
+      "archivo": "pagina_0003.json.gz",
+      "sha256": "f3bfd8584082e48831e4fd1ab88bd01a546154134572e818c902a21f8e76e306",
+      "pagina": 3,
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 3
+      }
+    },
+    {
+      "archivo": "pagina_0004.json.gz",
+      "sha256": "0b582e801ec6027f5b30650e63f9db4ca97fdf69a1002f153cb20394f083222a",
+      "pagina": 4,
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 4
+      }
+    },
+    {
+      "archivo": "pagina_0005.json.gz",
+      "sha256": "cacd4bee7b72ec59ec1c01c5988d682cd8ba5a46860e2eb47364ecd89d612790",
+      "pagina": 5,
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 5
+      }
+    },
+    {
+      "archivo": "pagina_0006.json.gz",
+      "sha256": "a63e2c978c7bc1fd45080d6e2bf9cffb56006d59673fa854b5baa759fc439dad",
+      "pagina": 6,
+      "filas": 8338,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 6
+      }
+    },
+    {
+      "archivo": "pagina_0007.json.gz",
+      "sha256": "41e367f41804d00247038bcf08617744efcb10c1138b207576ec4073843fdbb5",
+      "pagina": 7,
+      "filas": 0,
+      "metadatos": {
+        "startDate": "2025-12-01",
+        "endDate": "2026-01-01",
+        "totalPages": 6,
+        "pageSize": 10000,
+        "page": 7
+      }
+    }
+  ]
+}

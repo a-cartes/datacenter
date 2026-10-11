@@ -1,0 +1,106 @@
+[
+  {
+    "archivo": "pagina_0001.json.gz",
+    "sha256": "9e3f355d24769afbbcd680467da8a9165cd596e1e35cf596d81774fac89cfee8",
+    "pagina": 1,
+    "filas": 10000,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 1
+    }
+  },
+  {
+    "archivo": "pagina_0002.json.gz",
+    "sha256": "b5f20077e807fb35d81c54ca8d09d69c1f64d2e90a5835262e7b0cb80b03d9b7",
+    "pagina": 2,
+    "filas": 10000,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 2
+    }
+  },
+  {
+    "archivo": "pagina_0003.json.gz",
+    "sha256": "23f27a2d58f0c0f20a0012b767c12a71bd88cfa0e13ec9ff6e96e86cd77ccf43",
+    "pagina": 3,
+    "filas": 10000,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 3
+    }
+  },
+  {
+    "archivo": "pagina_0004.json.gz",
+    "sha256": "56a8a7e9e3d6e2cfdac27193720fe3aa33eef8b66683c008b17c27c887195b81",
+    "pagina": 4,
+    "filas": 10000,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 4
+    }
+  },
+  {
+    "archivo": "pagina_0005.json.gz",
+    "sha256": "e0dbc467cd99a2a21f730e68275bb02d6f07b1343e7437969b22d9e847a0c1c4",
+    "pagina": 5,
+    "filas": 10000,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 5
+    }
+  },
+  {
+    "archivo": "pagina_0006.json.gz",
+    "sha256": "9c2dc7cbcce466559747f4d67ea721345bdc5379b9db7ed91b9081d6a7925ab0",
+    "pagina": 6,
+    "filas": 10000,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 6
+    }
+  },
+  {
+    "archivo": "pagina_0007.json.gz",
+    "sha256": "a6810ee171905e3bde454fcf334582b9f95b5f0e59929bffd41908f7e231c30e",
+    "pagina": 7,
+    "filas": 643,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 7
+    }
+  },
+  {
+    "archivo": "pagina_0008.json.gz",
+    "sha256": "43cdcca482cab2e4b070634d47febf6ffd6f45d1b924f792eee5fd049fff6389",
+    "pagina": 8,
+    "filas": 0,
+    "metadatos": {
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "totalPages": 7,
+      "pageSize": 10000,
+      "page": 8
+    }
+  }
+]

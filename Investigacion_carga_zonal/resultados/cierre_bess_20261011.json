@@ -1,0 +1,250 @@
+{
+  "estado": "OK",
+  "hashes_comprobados": 48,
+  "detalles": [
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/manifiesto.json",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0001.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0002.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0003.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0004.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0005.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0006.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_diciembre2025/pagina_0007.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/manifiesto.json",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0001.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0002.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0003.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0004.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0005.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0006.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0007.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_enero2026/pagina_0008.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/manifiesto.json",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0001.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0002.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0003.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0004.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0005.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0006.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0007.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_febrero2026/pagina_0008.json.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "resultados/20261011_generacion_v3/panel_generacion.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "resultados/20261011_medidores_humberto/seleccion_original.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_estados_documentos/EAF-008-2026.pdf",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_maniobras_generacion/EAF-108-2025.pdf",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "fuentes_operacion/20261011_bess_estados_documentos/Informe-Diario-11-02-2026.pdf",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "PROTOCOLO_BESS_Y_ESTADOS_20261011.md",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "ADENDA_BESS_VENTANA_20261011.md",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_conciliacion_v2",
+      "archivo": "scripts/conciliar_bess_y_estados.py",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_estimacion_bess_v1",
+      "archivo": "resultados/20261011_bess_conciliacion_v2/panel_90dias.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_estimacion_bess_v1",
+      "archivo": "PROTOCOLO_BESS_Y_ESTADOS_20261011.md",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_estimacion_bess_v1",
+      "archivo": "ADENDA_BESS_VENTANA_20261011.md",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_estimacion_bess_v1",
+      "archivo": "scripts/estimar_operacion_canteras.py",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_estimacion_bess_v1",
+      "archivo": "scripts/estimar_heterogeneidad_horaria.py",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_estimacion_bess_v1",
+      "archivo": "scripts/estimar_bess_canteras.py",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "resultados/20261011_medidores_humberto_dic2025/seleccion_original.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "resultados/20261011_medidores_humberto/seleccion_original.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "resultados/20261011_medidores_humberto_feb2026/seleccion_original.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "resultados/20261011_bess_conciliacion_v2/panel_90dias.csv.gz",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "ADENDA_BESS_MEDICION_FISICA_20261011.md",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "scripts/estimar_operacion_canteras.py",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "scripts/estimar_heterogeneidad_horaria.py",
+      "ok": true
+    },
+    {
+      "ejecucion": "20261011_bess_fisico_v1",
+      "archivo": "scripts/estimar_bess_fisico.py",
+      "ok": true
+    }
+  ],
+  "contrastes_reproducidos": 650,
+  "solvers_independientes": 4,
+  "insumos_historicos_preservados": 271,
+  "ZIP_originales_preservados": 3
+}

@@ -161,3 +161,22 @@ python Investigacion_carga_zonal/scripts/sensibilidad_calidad_generacion.py --ej
 ```
 
 `verificar_calidad_generacion.py` reproduce225 contrastes adicionales, verifica nombres y tipos de las respuestas API, y contrasta el ajuste soloSantiago con LSQR. Su salida fija rechaza sobrescritura: cambiar únicamente destino en copia versionada para repetir. La verificación archivada es `resultados/verificacion_calidad_generacion_20261011.json`. El rótulo Solar se verifica como campo de fuente, no como garantía de frontera física. La consulta diariaPFV/BESS de10-01-2026 se conserva en `fuentes_operacion/20261011_humberto_nocturno/`.
+
+## Batería Don Humberto y estados efectivos
+
+Informe vigente: `INFORME_BESS_Y_ESTADOS_20261011.md`. Todas las selecciones físicas y respuestas API necesarias se incluyen; no hacen falta los ZIP de varios GB ni credenciales para reproducir el análisis publicado.
+
+Desde la raíz del repositorio, con `requirements-analisis-local.txt`:
+
+```bash
+python Investigacion_carga_zonal/scripts/conciliar_bess_y_estados.py --ejecucion bess_conciliacion_nueva
+python Investigacion_carga_zonal/scripts/estimar_bess_canteras.py --conciliacion bess_conciliacion_nueva --ejecucion bess_API_nueva
+python Investigacion_carga_zonal/scripts/estimar_bess_fisico.py --ejecucion bess_fisico_nuevo
+python Investigacion_carga_zonal/scripts/sensibilidad_bess_meses.py --ejecucion bess_influencia_nueva
+```
+
+Las salidas deben ser nuevas. El tercer y cuarto comando toman las selecciones/paneles publicados como insumos fijos. Las estimaciones incluyen repetición íntegra de coeficientes e intervalos; los modelosAPI y físicos incluyen cuatro verificaciones con dummies explícitas y LSQR. Las verificaciones archivadas suman650contrastes. El modelo físico conserva90días; el API excluye tres días por un componente ausente; la muestra común permite separar cambios de covariables de cambios de soporte.
+
+`extraer_medidores_humberto_ampliacion.py --zip RUTA_ZIP --ejecucion NOMBRE_NUEVO` permite reextraer también enero: valida el SHA contra el inventario, filtra por etiqueta original, conserva todos los campos y comprueba que el ZIP no cambió. Requiere los originales locales, no incluidos por su tamaño. Los tres manifiestos de selección registran ubicación relativa y hash. La lectura utiliza punto y coma y coma decimal; el primer resumen defectuoso y el script anterior se conservan claramente identificados en el historial, sin uso analítico.
+
+`descargar_bess_ventanas.py` documenta consultas, paginación, reintentos y página adicional vacía. Requiere la credencial local existente para la API oficial; no la publica. `figura_bess_estados.py` reproduce la figura a partir de conciliaciones publicadas; reemplaza exclusivamente sus dos archivos gráficos derivados. El calendario de estados guarda fuentes, páginas, inicios y fines efectivos, y fracciones horarias. Las96 cifras impresas deEAF008 se cotejan conAPI tolerando el redondeo a0,1; los extractos literales permiten revisar la transcripción.

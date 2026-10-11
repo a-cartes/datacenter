@@ -1,0 +1,5 @@
+# Medición física antes de la nueva comparación
+
+Después de conciliar enero y calcular la sensibilidad API de87 días, se constata WAPE0,048% en inyección, pero12,485% al sumar retiros publicados. Algunas horas etiquetadas retiro de central reproducen el retiro físico total y se solapan con retiro de sistema; se conserva el hallazgo, sin reclasificar la API.
+
+Antes de nuevas estimaciones se extiende la extracción de los mismos cinco canales físicos a diciembre2025 y febrero2026, ya descargados. Se compararán base, SantiagoSolar, SantiagoSolar más D y R físicos agregados de FB1–FB3, y estos más el neto físico de H1. Esta última especificación controla la frontera conjunta de la planta, sin llamarla generación solar pura ni sumar batería y rótulo PFV. Todas las especificaciones sobre días completos idénticos y sensibilidad excluyendo11feb. Se conserva la comparación API previa. Ventana seleccionada para diagnóstico, no para maximizar significancia. Controles de despacho potencialmente endógenos; mismo límite de tres meses para inferencia.

@@ -1,0 +1,56 @@
+[
+  {
+    "modelo": "sin_2025-12_base",
+    "mes_excluido": "2025-12",
+    "extras": [
+      "TAP_R12"
+    ]
+  },
+  {
+    "modelo": "sin_2025-12_fisico",
+    "mes_excluido": "2025-12",
+    "extras": [
+      "TAP_R12",
+      "SantiagoSolar_MW",
+      "D_FB123",
+      "R_FB123",
+      "H1_neto"
+    ]
+  },
+  {
+    "modelo": "sin_2026-01_base",
+    "mes_excluido": "2026-01",
+    "extras": [
+      "TAP_R12"
+    ]
+  },
+  {
+    "modelo": "sin_2026-01_fisico",
+    "mes_excluido": "2026-01",
+    "extras": [
+      "TAP_R12",
+      "SantiagoSolar_MW",
+      "D_FB123",
+      "R_FB123",
+      "H1_neto"
+    ]
+  },
+  {
+    "modelo": "sin_2026-02_base",
+    "mes_excluido": "2026-02",
+    "extras": [
+      "TAP_R12"
+    ]
+  },
+  {
+    "modelo": "sin_2026-02_fisico",
+    "mes_excluido": "2026-02",
+    "extras": [
+      "TAP_R12",
+      "SantiagoSolar_MW",
+      "D_FB123",
+      "R_FB123",
+      "H1_neto"
+    ]
+  }
+]
