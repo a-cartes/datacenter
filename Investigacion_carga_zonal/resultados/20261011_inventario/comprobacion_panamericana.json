@@ -1,0 +1,14 @@
+{
+  "horas_completas": 4392,
+  "canales": [
+    "PNMRCANA_012_CT1_CHL",
+    "PNMRCANA_012_CT2_CHL",
+    "PNMRCANA_012_CT3_CHL",
+    "PNMRCANA_012_CT4_CHL"
+  ],
+  "pre_MW": 23.140896339461953,
+  "post_MW": 24.122065117446386,
+  "diferencia_MW": 0.9811687779844327,
+  "diferencia_pct": 4.239977413110196,
+  "alcance": "señal descriptiva de suministro seleccionado, no consumo exclusivo de ODATA ni efecto causal"
+}

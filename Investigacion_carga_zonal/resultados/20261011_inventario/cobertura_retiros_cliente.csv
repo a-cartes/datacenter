@@ -1,0 +1,22 @@
+empresa,barra,desde,hasta,dias_muestreados,dias_24h_validas,horas_validas,horas_ambiguas,atribucion
+Amazon,P.HURTADO_023,2025-08-05,2026-07-25,33,4,291,495,clasificación comercial heredada; campus y vigencia por conciliar
+Ascenty,CHACABUCO_013,2023-12-05,2026-07-25,88,86,2102,0,clasificación comercial heredada; campus y vigencia por conciliar
+Ascenty,CHACABUCO_023,2023-12-05,2026-07-25,89,88,2128,0,clasificación comercial heredada; campus y vigencia por conciliar
+CenturyLink/Lumen/Level 3,CHACABUCO_013,2023-12-05,2026-07-25,89,21,505,1624,clasificación comercial heredada; campus y vigencia por conciliar
+CenturyLink/Lumen/Level 3,QUILICURA_013,2026-01-05,2026-07-25,21,21,504,0,clasificación comercial heredada; campus y vigencia por conciliar
+Cirion,CHACABUCO_013,2026-01-05,2026-07-25,21,21,504,0,clasificación comercial heredada; campus y vigencia por conciliar
+Cirion,QUILICURA_013,2025-08-05,2025-11-25,12,12,288,0,clasificación comercial heredada; campus y vigencia por conciliar
+Dataluna (Google),CHACABUCO_023,2023-12-05,2026-07-25,89,0,0,2130,clasificación comercial heredada; campus y vigencia por conciliar
+EdgeConneX,BATUCO_013,2023-12-05,2026-07-25,88,17,445,1611,clasificación comercial heredada; campus y vigencia por conciliar
+EdgeConneX,CANTERAS_110,2024-09-05,2026-07-25,62,61,1480,0,clasificación comercial heredada; campus y vigencia por conciliar
+Google,TLIBERTADORES_110,2023-12-05,2026-07-25,89,88,2128,0,clasificación comercial heredada; campus y vigencia por conciliar
+ODATA,BATUCO_013,2023-12-05,2025-11-25,68,65,1615,0,clasificación comercial heredada; campus y vigencia por conciliar
+ODATA,LAMPA_220,2026-02-05,2026-07-25,18,18,432,0,clasificación comercial heredada; campus y vigencia por conciliar
+ODATA ST02 (Lo Espejo Data Center),LO_ESPEJO_110,2026-07-05,2026-07-25,3,1,24,48,clasificación comercial heredada; campus y vigencia por conciliar
+ODATA ST02 (Lo Espejo Data Center),PANAMERICANA_012,2024-01-05,2026-06-25,80,37,937,976,clasificación comercial heredada; campus y vigencia por conciliar
+Scala,CHACABUCO_023,2026-05-05,2026-07-25,9,9,216,0,clasificación comercial heredada; campus y vigencia por conciliar
+Scala,LAMPA_220,2026-03-05,2026-07-25,15,0,0,360,clasificación comercial heredada; campus y vigencia por conciliar
+Scala,PLACILLA_013,2024-04-05,2026-07-25,77,75,1840,0,clasificación comercial heredada; campus y vigencia por conciliar
+Sonda,BRASIL_013,2023-12-05,2026-07-25,89,0,4,2128,clasificación comercial heredada; campus y vigencia por conciliar
+Sonda,CHACABUCO_023,2026-01-05,2026-07-25,21,21,504,0,clasificación comercial heredada; campus y vigencia por conciliar
+Sonda,QUILICURA_013,2023-12-05,2026-07-25,88,87,2106,0,clasificación comercial heredada; campus y vigencia por conciliar

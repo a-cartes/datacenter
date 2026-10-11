@@ -1,0 +1,14 @@
+{
+  "tablas_hash_verificado": 5,
+  "filas_15min": 1862581,
+  "sockets": 30,
+  "desde": "2023-05-01",
+  "hasta": "2026-08-31",
+  "canteras_horas": 21912,
+  "canteras_dias": 913,
+  "error_max_agregacion_kwh": {
+    "D": 1.8189894035458565e-12,
+    "R": 5.551115123125783e-17
+  },
+  "alcance": "HT1+HT2; excluye HT3 y tránsito; atribución completa al campus y convención inicio/fin pendientes"
+}

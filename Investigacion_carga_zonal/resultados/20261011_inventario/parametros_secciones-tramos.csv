@@ -1,0 +1,80 @@
+concepto,unidad,estado_certificacion,registros,con_valor_numerico
+"1 Informe y tabla de capacidad térmica del conductor, en función de las T° amb. y del conductor (tabla relación corriente-T°)",[Anexo],5,4,0
+"1 Informe y tabla de capacidad térmica del conductor, en función de las T° amb. y del conductor (tabla relación corriente-T°)",[Anexo],Rechazado,206,50
+"1 Informe y tabla de capacidad térmica del conductor, en función de las T° amb. y del conductor (tabla relación corriente-T°)",[Anexo],Sin Revisar,32,0
+"1 Informe y tabla de capacidad térmica del conductor, en función de las T° amb. y del conductor (tabla relación corriente-T°)",[Anexo],Validado,2673,4
+1.10 Límite térmico transitorio en invierno con sol 15°C (carga 50%),[kA],5,4,0
+1.10 Límite térmico transitorio en invierno con sol 15°C (carga 50%),[kA],None,1,0
+1.10 Límite térmico transitorio en invierno con sol 15°C (carga 50%),[kA],Rechazado,469,357
+1.10 Límite térmico transitorio en invierno con sol 15°C (carga 50%),[kA],Sin Revisar,505,484
+1.10 Límite térmico transitorio en invierno con sol 15°C (carga 50%),[kA],Validado,1936,1238
+1.10 Límite térmico transitorio en verano con sol 25°C (carga 50%),[kA],5,4,0
+1.10 Límite térmico transitorio en verano con sol 25°C (carga 50%),[kA],Rechazado,285,233
+1.10 Límite térmico transitorio en verano con sol 25°C (carga 50%),[kA],Sin Revisar,146,134
+1.10 Límite térmico transitorio en verano con sol 25°C (carga 50%),[kA],Validado,2480,1509
+1.11 Potencia nominal del reactor de línea en terminal inicial,[MVAr],Rechazado,119,71
+1.11 Potencia nominal del reactor de línea en terminal inicial,[MVAr],Sin Revisar,12,0
+1.11 Potencia nominal del reactor de línea en terminal inicial,[MVAr],Validado,2784,256
+1.12 Reactancia de neutro del reactor de línea terminal inicial,[Ω],Rechazado,173,45
+1.12 Reactancia de neutro del reactor de línea terminal inicial,[Ω],Sin Revisar,18,0
+1.12 Reactancia de neutro del reactor de línea terminal inicial,[Ω],Validado,2724,15
+1.13 Potencia nominal reactor de línea terminal final,[MVAr],Rechazado,141,41
+1.13 Potencia nominal reactor de línea terminal final,[MVAr],Sin Revisar,17,0
+1.13 Potencia nominal reactor de línea terminal final,[MVAr],Validado,2757,17
+1.14 Reactancia de neutro del reactor de línea terminal final,[Ω],Rechazado,150,42
+1.14 Reactancia de neutro del reactor de línea terminal final,[Ω],Sin Revisar,16,0
+1.14 Reactancia de neutro del reactor de línea terminal final,[Ω],Validado,2749,14
+"1.25 Capacidad nominal de los TTCC asociados a la línea extremo final, especificando las capacidades para cada razón de transformación en caso de ser el equipo multirazón ",-----,Rechazado,491,125
+"1.25 Capacidad nominal de los TTCC asociados a la línea extremo final, especificando las capacidades para cada razón de transformación en caso de ser el equipo multirazón ",-----,Sin Revisar,41,0
+"1.25 Capacidad nominal de los TTCC asociados a la línea extremo final, especificando las capacidades para cada razón de transformación en caso de ser el equipo multirazón ",-----,Validado,2383,32
+"1.25 Capacidad nominal de los TTCC asociados a la línea extremo inicial , especificando las capacidades para cada razón de transformación en caso de ser el equipo multirazón ",[kA],Rechazado,511,121
+"1.25 Capacidad nominal de los TTCC asociados a la línea extremo inicial , especificando las capacidades para cada razón de transformación en caso de ser el equipo multirazón ",[kA],Sin Revisar,36,0
+"1.25 Capacidad nominal de los TTCC asociados a la línea extremo inicial , especificando las capacidades para cada razón de transformación en caso de ser el equipo multirazón ",[kA],Validado,2368,31
+1.26 Capacidad de sobrecarga de los TT/CC asociados a la línea en extremo final,[kA ],Rechazado,547,302
+1.26 Capacidad de sobrecarga de los TT/CC asociados a la línea en extremo final,[kA ],Sin Revisar,50,1
+1.26 Capacidad de sobrecarga de los TT/CC asociados a la línea en extremo final,[kA ],Validado,2318,181
+1.26 Capacidad de sobrecarga de los TT/CC asociados a la línea extremo inicial,[kA],Rechazado,564,325
+1.26 Capacidad de sobrecarga de los TT/CC asociados a la línea extremo inicial,[kA],Sin Revisar,45,1
+1.26 Capacidad de sobrecarga de los TT/CC asociados a la línea extremo inicial,[kA],Validado,2306,210
+"1.27 Límites térmicos de la línea para una condición de operación sin sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],5,4,0
+"1.27 Límites térmicos de la línea para una condición de operación sin sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],Rechazado,363,89
+"1.27 Límites térmicos de la línea para una condición de operación sin sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],Sin Revisar,28,1
+"1.27 Límites térmicos de la línea para una condición de operación sin sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],Validado,2520,0
+"1.28 Límites térmicos de la línea para una condición de operación con sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],5,4,0
+"1.28 Límites térmicos de la línea para una condición de operación con sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],Rechazado,364,84
+"1.28 Límites térmicos de la línea para una condición de operación con sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],Sin Revisar,29,1
+"1.28 Límites térmicos de la línea para una condición de operación con sol para temperaturas ambiente comprendidas entre 0° C y los 45° C, incluyendo ambas, con pasos de 2.5 °C [kA]",[Anexo],Validado,2518,0
+1.3 Resistencia de secuencia positiva a 20°C (50 Hz),[Ω/km],5,4,0
+1.3 Resistencia de secuencia positiva a 20°C (50 Hz),[Ω/km],Rechazado,126,97
+1.3 Resistencia de secuencia positiva a 20°C (50 Hz),[Ω/km],Sin Revisar,24,13
+1.3 Resistencia de secuencia positiva a 20°C (50 Hz),[Ω/km],Validado,2761,1869
+1.31 Resistencia de acoplamiento entre las fases y conductor de guardia de secuencia cero,[Ω/km],Rechazado,252,127
+1.31 Resistencia de acoplamiento entre las fases y conductor de guardia de secuencia cero,[Ω/km],Sin Revisar,16,3
+1.31 Resistencia de acoplamiento entre las fases y conductor de guardia de secuencia cero,[Ω/km],Validado,2647,789
+1.32 Reactancia de acoplamiento entre las fases y conductor de guardia de secuencia cero,[Ω/km],Rechazado,260,136
+1.32 Reactancia de acoplamiento entre las fases y conductor de guardia de secuencia cero,[Ω/km],Sin Revisar,22,9
+1.32 Reactancia de acoplamiento entre las fases y conductor de guardia de secuencia cero,[Ω/km],Validado,2633,769
+1.4 Reactancia de Secuencia positiva  X (50Hz),[Ω/km],5,4,0
+1.4 Reactancia de Secuencia positiva  X (50Hz),[Ω/km],None,1,1
+1.4 Reactancia de Secuencia positiva  X (50Hz),[Ω/km],Rechazado,145,123
+1.4 Reactancia de Secuencia positiva  X (50Hz),[Ω/km],Sin Revisar,12,3
+1.4 Reactancia de Secuencia positiva  X (50Hz),[Ω/km],Validado,2753,1895
+1.6 Resistencia de secuencia cero  Ro a 20°C (50 Hz),[Ω/km],5,4,0
+1.6 Resistencia de secuencia cero  Ro a 20°C (50 Hz),[Ω/km],None,1,1
+1.6 Resistencia de secuencia cero  Ro a 20°C (50 Hz),[Ω/km],Rechazado,161,132
+1.6 Resistencia de secuencia cero  Ro a 20°C (50 Hz),[Ω/km],Sin Revisar,14,5
+1.6 Resistencia de secuencia cero  Ro a 20°C (50 Hz),[Ω/km],Validado,2735,1810
+1.7 Reactancia de secuencia cero  Xo (50Hz),[Ω/km],5,4,0
+1.7 Reactancia de secuencia cero  Xo (50Hz),[Ω/km],None,1,1
+1.7 Reactancia de secuencia cero  Xo (50Hz),[Ω/km],Rechazado,161,134
+1.7 Reactancia de secuencia cero  Xo (50Hz),[Ω/km],Sin Revisar,14,5
+1.7 Reactancia de secuencia cero  Xo (50Hz),[Ω/km],Validado,2735,1769
+1.9 Límite térmico permanente en invierno con sol 15°C,[kA],5,6,0
+1.9 Límite térmico permanente en invierno con sol 15°C,[kA],None,1,0
+1.9 Límite térmico permanente en invierno con sol 15°C,[kA],Rechazado,454,349
+1.9 Límite térmico permanente en invierno con sol 15°C,[kA],Sin Revisar,504,483
+1.9 Límite térmico permanente en invierno con sol 15°C,[kA],Validado,1950,1273
+1.9 Límite térmico permanente en verano con sol 25°C,[kA],5,4,0
+1.9 Límite térmico permanente en verano con sol 25°C,[kA],Rechazado,149,115
+1.9 Límite térmico permanente en verano con sol 25°C,[kA],Sin Revisar,91,82
+1.9 Límite térmico permanente en verano con sol 25°C,[kA],Validado,2671,1796

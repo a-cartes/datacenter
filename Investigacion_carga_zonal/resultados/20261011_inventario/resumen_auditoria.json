@@ -1,0 +1,59 @@
+{
+  "fecha_corte": "2026-10-11",
+  "originales": 653,
+  "GB_decimales": 26.535521555,
+  "originales_existentes": 653,
+  "originales_tamano_coincidente": 653,
+  "retiros_filas": 27425,
+  "retiros_empresas": [
+    "Amazon",
+    "Ascenty",
+    "CenturyLink/Lumen/Level 3",
+    "Cirion",
+    "Dataluna (Google)",
+    "EdgeConneX",
+    "Google",
+    "ODATA",
+    "ODATA ST02 (Lo Espejo Data Center)",
+    "Scala",
+    "Sonda"
+  ],
+  "retiros_pares_empresa_barra": 21,
+  "retiros_dias_distintos": 89,
+  "retiros_horas_validas": 18053,
+  "retiros_horas_ambiguas": 9372,
+  "historia_canales_puntos": 24,
+  "historia_canales_desde": "2018-01",
+  "historia_canales_hasta": "2026-09",
+  "historia_meses": 105,
+  "precios_archivos_horarios": 117,
+  "topologia_aristas": 1939,
+  "topologia_transformadores": 2482,
+  "parametros_tecnicos": {
+    "secciones-tramos": {
+      "registros": 151580,
+      "elementos": 2915,
+      "conceptos": 52
+    },
+    "transformadores-2d": {
+      "registros": 147770,
+      "elementos": 2111,
+      "conceptos": 70
+    }
+  },
+  "instalaciones_registros": 63,
+  "panamericana": {
+    "horas_completas": 4392,
+    "canales": [
+      "PNMRCANA_012_CT1_CHL",
+      "PNMRCANA_012_CT2_CHL",
+      "PNMRCANA_012_CT3_CHL",
+      "PNMRCANA_012_CT4_CHL"
+    ],
+    "pre_MW": 23.140896339461953,
+    "post_MW": 24.122065117446386,
+    "diferencia_MW": 0.9811687779844327,
+    "diferencia_pct": 4.239977413110196,
+    "alcance": "señal descriptiva de suministro seleccionado, no consumo exclusivo de ODATA ni efecto causal"
+  }
+}

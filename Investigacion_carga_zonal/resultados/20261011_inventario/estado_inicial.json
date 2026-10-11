@@ -1,0 +1,38 @@
+{
+  "fecha_local": "2026-10-11T16:41:57.129909-03:00",
+  "rama_nueva": "codex/carga-zonal-20261011",
+  "commit_repositorio": "cb61a5b87af5c5037890a71defe6f5af8c3b2cff",
+  "version_preservada": "v0.3.0",
+  "commit_version_preservada": "cb61a5b87af5c5037890a71defe6f5af8c3b2cff",
+  "commit_proyecto_local": "b58d8a94eb49f580792cbd73d45561f84d2c7547",
+  "estado_proyecto_previo": "M Panel_datos/codex_panel_nacional/BITACORA_CODEX.md\n?? Articulo_RM_centros_datos_costos_marginales/\n?? Panel_datos/codex_panel_nacional/piloto_panamericana/\n?? Panel_datos/codex_panel_nacional/presentacion_vscode/\n?? Panel_datos/codex_panel_nacional/resumen_reunion_troncoso.docx\n?? Panel_datos/codex_panel_nacional/resumen_reunion_troncoso.tex\n?? Panel_datos/validacion_api/\n?? Panel_datos/validar_api_demanda.py\n?? Publicacion_GitHub_datacenter/\n?? Replica_RM_desde_cero/\n?? ver_datos.ipynb",
+  "cifras_anteriores": [
+    {
+      "especificacion": "Principal distrital, Lampa 2022",
+      "USD_MWh": 1.0526308691,
+      "IC95_inferior": 0.48444394398,
+      "IC95_superior": 1.6208177943
+    },
+    {
+      "especificacion": "Misma muestra, Lampa 2023",
+      "USD_MWh": 1.015138792474,
+      "IC95_inferior": -0.5060533163664,
+      "IC95_superior": 2.536330901315
+    },
+    {
+      "especificacion": "Exclusión de Lampa",
+      "USD_MWh": 0.0327299459726385,
+      "IC95_inferior": -0.35170830561217,
+      "IC95_superior": 0.417168197557447
+    },
+    {
+      "especificacion": "Contraste descriptivo contra todo el período previo",
+      "USD_MWh": -0.0866283248124513,
+      "IC95_inferior": NaN,
+      "IC95_superior": NaN
+    }
+  ],
+  "alcance_hashes": "SHA256 recalculado para los insumos enumerados; hashes de originales masivos heredados, con existencia y tamaño comprobados de nuevo.",
+  "archivos_insumo": 265,
+  "bytes_insumos": 23637258
+}
