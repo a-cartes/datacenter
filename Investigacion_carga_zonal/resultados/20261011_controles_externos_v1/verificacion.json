@@ -1,0 +1,27 @@
+{
+  "estado": "OK",
+  "insumos_preservados": 38,
+  "candidatos_elegibles": 84,
+  "controles5": [
+    "PAJARITOS_110",
+    "SAN_JOSE_110",
+    "SAN_PABLO_110",
+    "PPEUCO_110",
+    "ALTAMIRANO_110"
+  ],
+  "controles10": [
+    "PAJARITOS_110",
+    "SAN_JOSE_110",
+    "SAN_PABLO_110",
+    "PPEUCO_110",
+    "ALTAMIRANO_110",
+    "CARRASCAL_110",
+    "METRO_110",
+    "RENCA_110",
+    "S.FELIPE_110",
+    "S.RAFAEL_110"
+  ],
+  "n_meses": 25,
+  "n_dias_otras_cargas": 61,
+  "originales_modificados": 0
+}

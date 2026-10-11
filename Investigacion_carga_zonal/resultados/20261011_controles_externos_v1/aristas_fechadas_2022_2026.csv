@@ -1,0 +1,6 @@
+id_tramo,nombre,id_linea,linea_nombre,kv,nodo1,resol1,nodo2,resol2,fecha_min_existencia,zona1,zona2,fecha_documentada,obra_documentada,fecha_efectiva,posible_posterior_2017
+5444,TAP OFF LIBERTADORES - LAS CANTERAS 110kV C1,1970,CERRO NAVIA - LAS CANTERAS 110kV,,SE2136,nombre,SE2433,nemotécnico,2024-05-02,Metropolitana,Metropolitana,,,2024-05-02,False
+5445,LAS CANTERAS - TAP BATUCO 110kV C1,1971,LAS CANTERAS - CENTRAL SANTIAGO SOLAR 110kV,,SE2433,nemotécnico,TAP:TAPBATUCO,tap,2024-05-02,Metropolitana,Metropolitana,,,2024-05-02,False
+5522,DON HUMBERTO – PUNTA PEUCO (CEMENTO POLPAICO) 110kV C1,2023,DON HUMBERTO – PUNTA PEUCO (CEMENTO POLPAICO) 110kV,,SE2473,nemotécnico,SE1563,nemotécnico,2024-11-07,Metropolitana,Metropolitana,,,2024-11-07,False
+5673,TAP OFF LIBERTADORES - LAS CANTERAS 110kV C2,1970,CERRO NAVIA - LAS CANTERAS 110kV,,SE2136,nombre,SE2433,nemotécnico,2024-05-02,Metropolitana,Metropolitana,,,2024-05-02,False
+5674,LAS CANTERAS - TAP BATUCO 110kV C1,2109,LAS CANTERAS - LAS VEGAS 110kV,,SE2433,nemotécnico,TAP:TAPBATUCO,tap,2024-05-02,Metropolitana,Metropolitana,,,2024-05-02,False

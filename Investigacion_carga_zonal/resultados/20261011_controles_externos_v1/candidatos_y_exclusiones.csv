@@ -1,0 +1,156 @@
+barra,nodo,metodo,nombre,zona,unidad,elegible,motivos,ajuste_entrenamiento,RMSE_entrenamiento_centrado
+A.JAHUEL_110,SE560,nemotécnico homologación,S/E ALTO JAHUEL,Metropolitana,SEALTOJAHUEL,False,exposicion_DC_directa_corredor_o_retiro,,
+A.MELIP_110,SE776,nemotécnico homologación,S/E ALTO MELIPILLA,Metropolitana,SEALTOMELIPILLA,True,,-1.1517921770441581,2.529550357788062
+A.SANTA_110,SE774,nemotécnico homologación,S/E AGUA SANTA,Valparaíso,SEAGUASANTA,True,,-7.037762204551207,9.966847996660961
+ACHUPALLAS_110,SE1098,nemotécnico homologación,S/E TAP OFF ACHUPALLAS,Valparaíso,SETAPOFFACHUPALLAS,True,,-7.33414004381338,9.911827317137275
+ACONCAGUA_110,SE280,nemotécnico homologación,S/E ACONCAGUA,Valparaíso,SEACONCAGUA,True,,3.5212521804613885,1.4835827425043904
+ALFALFAL_110,SE199,alias manual,S/E CENTRAL ALFALFAL,Metropolitana,SECENTRALALFALFAL,False,identidad_no_homologada,,
+ALTAMIRANO_110,SE675,nemotécnico homologación,S/E ALTAMIRANO,Metropolitana,SEALTAMIRANO,True,,1.1602443390399972,0.48999928718049657
+ALTO_MAIPO_110,SE2058,nombre derivado de la etiqueta,S/E ALTO MAIPO,Metropolitana,SEALTOMAIPO,False,identidad_no_homologada,,
+ANDES_110,SE676,nemotécnico homologación,S/E ANDES (STM),Metropolitana,SEANDES,True,,0.6517508464909568,2.077561865523017
+APOQUINDO_110,SE677,nemotécnico homologación,S/E APOQUINDO,Metropolitana,SEAPOQUINDO,True,,0.3939473875293534,1.352869118832645
+A_DE_CORDOVA_110,SE674,nemotécnico homologación,S/E ALONSO DE CORDOVA,Metropolitana,SEALONSODECORDOVA,True,,0.5891471904776618,1.3630808950191864
+BATUCO_110,SE678,nemotécnico homologación,S/E BATUCO,Metropolitana,SEBATUCO,False,exposicion_DC_directa_corredor_o_retiro,,
+BICENTENARIO_110,SE1606,nemotécnico homologación,S/E BICENTENARIO,Metropolitana,SEBICENTENARIO,True,,1.1342677308819027,2.1267316171367185
+BJOSDMNA_110,SE2350,nemotécnico homologación,S/E BAJOS DE MENA,Metropolitana,SEBAJOSDEMENA,False,cobertura_incompleta,,
+BOLLENAR_110,SE629,nemotécnico homologación,S/E BOLLENAR,Metropolitana,SEBOLLENAR,True,,-1.829070028481823,2.6482019437764053
+BOSQUEMAR_110,SE1692,nemotécnico homologación,S/E BOSQUEMAR,Valparaíso,SEBOSQUEMAR,True,,-7.444050858427353,9.721281472510713
+BRASIL_110,SE679,nemotécnico homologación,S/E BRASIL,Metropolitana,SEBRASIL,False,exposicion_DC_directa_corredor_o_retiro,,
+BUIN_110,SE680,nemotécnico homologación,S/E BUIN (STM),Metropolitana,SEBUIN,False,exposicion_DC_directa_corredor_o_retiro,,
+C.CALERA1_110,SE284,nemotécnico homologación,S/E CERRO CALERA,Valparaíso,SECERROCALERA,True,,-8.579551468489385,9.810982360565562
+C.CHENA_110,SE684,nemotécnico homologación,S/E CHENA,Metropolitana,SECHENA,False,exposicion_DC_directa_corredor_o_retiro,,
+C.NAVIA_110,SE565,nemotécnico homologación,S/E CERRO NAVIA (TRANSELEC),Metropolitana,SECERRONAVIA,False,exposicion_DC_directa_corredor_o_retiro,,
+CABILDO_110,SE382,nemotécnico homologación,S/E CABILDO,Valparaíso,SECABILDO,True,,-4.332734567288168,1.960409858948878
+CANAL_MELADO_110,SE1679,nombre derivado de la etiqueta,S/E CANAL MELADO,O'Higgins–Maule,SECANALMELADO,False,identidad_no_homologada,,
+CANTERAS_110,SE2433,nemotécnico homologación,S/E LAS CANTERAS,Metropolitana,SELASCANTERAS,False,exposicion_DC_directa_corredor_o_retiro;cobertura_incompleta,,
+CARDONAL_110,SE2385,nemotécnico homologación,S/E CARDONAL,O'Higgins–Maule,SECARDONAL,False,cobertura_incompleta,,
+CARRASCAL_110,SE682,nemotécnico homologación,S/E CARRASCAL,Metropolitana,SECARRASCAL,True,,1.215751420136866,0.5023854003993523
+CASASVIEJAS_110,SE398,nemotécnico homologación,S/E CASAS VIEJAS,Valparaíso,SECASASVIEJAS,True,,-1.0175653399978517,1.573370878201331
+CHACABUCO_110,SE683,nemotécnico homologación,S/E CHACABUCO,Metropolitana,SECHACABUCO,False,exposicion_DC_directa_corredor_o_retiro,,
+CHAGRES_110,SE857,nemotécnico homologación,S/E FUNDICION CHAGRES,Valparaíso,SEFUNDICIONCHAGRES,True,,1.3599807627228369,1.5517869355621061
+CLUB_HIPICO_110,SE685,nemotécnico homologación,S/E CLUB HIPICO,Metropolitana,SECLUBHIPICO,True,,0.052348127659480014,2.301715421303127
+CODEGUA_110,SE2383,nombre de barra,S/E CODEGUA,O'Higgins–Maule,SECODEGUA,False,identidad_no_homologada;cobertura_incompleta,,
+CONCON_110,SE780,nemotécnico homologación,S/E CONCON,Valparaíso,SECONCON,True,,-7.2422648636639195,9.679013359854894
+COSTANERA_110,SE832,nemotécnico homologación,S/E COSTANERA,Metropolitana,SECOSTANERA,True,,-1.0874015067079237,2.7552856019038208
+DONHUMBERTO_110,SE2473,nombre de barra,S/E DON HUMBERTO,Metropolitana,SEDONHUMBERTO,False,identidad_no_homologada;cobertura_incompleta,,
+EL_SALTO_110,SE688,nemotécnico homologación,S/E EL SALTO,Metropolitana,SEELSALTO,False,exposicion_DC_directa_corredor_o_retiro,,
+ENL.MAITENES_110,SE201,nemotécnico homologación,S/E CENTRAL MAITENES,Metropolitana,SECENTRALMAITENES,True,,-5.876245838538264,9.547722087454881
+ESPERANZA_110,SE281,nemotécnico homologación,S/E ESPERANZA,Valparaíso,SEESPERANZA,True,,2.0469634939394745,1.8309495315273274
+FLORIDA_110,SE689,nemotécnico homologación,S/E FLORIDA,Metropolitana,SEFLORIDA,True,,0.5918571885612172,2.1969675030308657
+L.ALMENDROS_110,SE702,nemotécnico homologación,S/E LOS ALMENDROS,Metropolitana,SELOSALMENDROS,True,,1.0597084052459815,2.0143509876431427
+L.LAJA_110,SE1052,nemotécnico homologación,S/E TAP OFF LA LAJA,Metropolitana,SETAPOFFLALAJA,True,,1.4349301284937408,2.272672550134584
+L.LAJA_COYA_110,SE1625,nemotécnico homologación,S/E LA LAJA ENERGIA COYANCO,Metropolitana,SELALAJAENERGIACOYANCO,True,,1.2752061746664431,2.3002821404234695
+L.MAQUIS_110,SE300,nemotécnico homologación,S/E LOS MAQUIS,Valparaíso,SELOSMAQUIS,True,,3.35845506323899,1.3992091900848695
+L.QUILOS_110,SE285,nemotécnico homologación,S/E CENTRAL LOS QUILOS,Valparaíso,SECENTRALLOSQUILOS,True,,3.3654761211384194,1.400592270035752
+L.VEGAS2_110,SE785,nemotécnico homologación,S/E LAS VEGAS (CHILQUINTA),Valparaíso,SELASVEGAS,False,exposicion_DC_directa_corredor_o_retiro,,
+L.VEGAS_110,SE785,nemotécnico homologación,S/E LAS VEGAS (CHILQUINTA),Valparaíso,SELASVEGAS,False,exposicion_DC_directa_corredor_o_retiro,,
+L.VERDE_110,SE200,nemotécnico homologación,S/E CENTRAL LAGUNA VERDE,Valparaíso,SECENTRALLAGUNAVERDE,True,,-7.775298118022081,10.150966548210016
+LASARANAS_110,SE642,nemotécnico homologación,S/E LAS ARAÑAS,Metropolitana,SELASARANAS,False,cobertura_incompleta,,
+LASARAÑAS_110,SE642,nombre derivado de la etiqueta,S/E LAS ARAÑAS,Metropolitana,SELASARANAS,False,identidad_no_homologada;cobertura_incompleta,,
+LAS_ACACIAS_110,SE695,nemotécnico homologación,S/E LAS ACACIAS,Metropolitana,SELASACACIAS,True,,1.20922289720795,2.125645852534529
+LA_CALERA_110,SE784,nemotécnico homologación,S/E LA CALERA,Valparaíso,SELACALERA,True,,-8.579551468489385,9.810982360565562
+LA_CISTERNA_110,SE690,nemotécnico homologación,S/E LA CISTERNA,Metropolitana,SELACISTERNA,True,,0.6215158528766532,2.1893086748420276
+LA_DEHESA_110,SE691,nemotécnico homologación,S/E LA DEHESA,Metropolitana,SELADEHESA,True,,0.899448412054693,1.373749133145602
+LA_ESTRELLA_110,SE2259,nemotécnico homologación,S/E LA ESTRELLA,O'Higgins–Maule,SELAESTRELLA,True,,-0.35390388157255853,3.375322105967398
+LA_PINTANA_110,SE692,nemotécnico homologación,S/E LA PINTANA,Metropolitana,SELAPINTANA,True,,1.2351909686357856,2.1715580430983543
+LA_POLVORA_110,SE2289,nemotécnico homologación,S/E LA POLVORA,Valparaíso,SELAPOLVORA,True,,-7.889329019953831,10.144401218219793
+LA_REINA_110,SE693,nemotécnico homologación,S/E LA REINA,Metropolitana,SELAREINA,True,,-0.4324496442255065,2.332385484540513
+LEYDA_110,SE643,nemotécnico homologación,S/E LEYDA,Valparaíso,SELEYDA,True,,-2.898182394110005,2.7201249843951167
+LOMACOLORADOS_110,SE323,nombre de barra,S/E CENTRAL LOMA LOS COLORADOS,Metropolitana,SECENTRALLOMALOSCOLORADOS,False,identidad_no_homologada;cobertura_incompleta,,
+LOS_DOMINICOS_110,SE703,nemotécnico homologación,S/E LOS DOMINICOS,Metropolitana,SELOSDOMINICOS,True,,0.323692250740829,1.3629809264893273
+LO_AGUIRRE_110,SE696,nombre de barra,S/E LO AGUIRRE,Metropolitana,SELOAGUIRRE,False,identidad_no_homologada,,
+LO_BOZA_110,SE697,nemotécnico homologación,S/E LO BOZA,Metropolitana,SELOBOZA,False,exposicion_DC_directa_corredor_o_retiro,,
+LO_PRADO_110,SE699,nombre derivado de la etiqueta,S/E LO PRADO,Metropolitana,SELOPRADO,False,identidad_no_homologada,,
+LO_VALLEDOR_110,SE700,nemotécnico homologación,S/E LO VALLEDOR,Metropolitana,SELOVALLEDOR,True,,0.7909517153465636,2.137073224184891
+MACUL_110,SE704,nemotécnico homologación,S/E MACUL,Metropolitana,SEMACUL,True,,0.30059031511350026,2.230290219343087
+MAIPO_110,SE225,nombre derivado de la etiqueta,S/E MAIPO,Metropolitana,SEMAIPO,False,identidad_no_homologada,,
+MAIPU_110,SE705,nemotécnico homologación,S/E MAIPU,Metropolitana,SEMAIPU,True,,1.2524746774598172,2.1150239013302268
+MAITENES_110,SE201,nemotécnico homologación,S/E CENTRAL MAITENES,Metropolitana,SECENTRALMAITENES,False,subestacion_ya_representada,,
+MALLOCO_110,SE706,nemotécnico homologación,S/E MALLOCO,Metropolitana,SEMALLOCO,True,,-2.663861823984321,2.6810015152094686
+MARBELLA_110,SE487,nemotécnico homologación,S/E MARBELLA,Valparaíso,SEMARBELLA,True,,-0.24774985148474796,1.5895144492293172
+MARGA_MARGA_110,SE479,nemotécnico homologación,S/E MARGA MARGA,Valparaíso,SEMARGAMARGA,True,,-7.395209121521707,9.935420939324784
+MARISCAL_110,SE1634,nemotécnico homologación,S/E MARISCAL,Metropolitana,SEMARISCAL,True,,0.378109130846443,2.3338725179241724
+MAYACA_110,SE2071,nemotécnico homologación,S/E MAYACA,Valparaíso,SEMAYACA,True,,-7.37771581758244,9.983886190611601
+MELIPILLA_110,SE628,nemotécnico homologación,S/E BAJO MELIPILLA,Metropolitana,SEBAJOMELIPILLA,True,,-1.808565269924402,2.5762795228694024
+METRO_110,SE963,nemotécnico homologación,S/E METRO,Metropolitana,SEMETRO,True,,1.2233610376351445,0.5066793286218046
+MINERO_110,SE234,nemotécnico homologación,S/E MINERO,O'Higgins–Maule,SEMINERO,True,,2.655405713505894,2.1500336750712776
+MIRAFLORES_110,SE788,nemotécnico homologación,S/E MIRAFLORES,Valparaíso,SEMIRAFLORES,True,,-7.256312568602091,9.908428154397736
+NPANQUEHUE_110,SE2215,nemotécnico homologación,S/E NUEVA PANQUEHUE,Valparaíso,SENUEVAPANQUEHUE,True,,1.4327794721390905,1.3608557808511839
+OCHAGAVIA_110,SE708,nemotécnico homologación,S/E OCHAGAVIA,Metropolitana,SEOCHAGAVIA,False,exposicion_DC_directa_corredor_o_retiro,,
+P.ALTO_110,SE833,nemotécnico homologación,S/E PUENTE ALTO (TEC),Metropolitana,SEPUENTEALTO,True,,-0.8319487123957545,2.690122737566424
+P.ANCHA_110,SE791,nemotécnico homologación,S/E PLAYA ANCHA,Valparaíso,SEPLAYAANCHA,True,,-8.292546551668963,10.233812624234123
+P.HURTADO_110,SE2090,alias manual,S/E PADRE HURTADO,Metropolitana,SEPADREHURTADO,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+PAJARITOS_110,SE709,nemotécnico homologación,S/E PAJARITOS,Metropolitana,SEPAJARITOS,True,,0.7027392410585538,0.26493395755853694
+PALTO_110,SE891,nemotécnico homologación,S/E PUENTE ALTO (CMPC),Metropolitana,SEPUENTEALTO,True,,1.5299255187274514,2.78454081548402
+PANAMERICANA_110,SE710,nombre de barra,S/E PANAMERICANA,Metropolitana,SEPANAMERICANA,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro;cobertura_incompleta,,
+PENABLANCA_110,SE1757,nemotécnico homologación,S/E PEÑABLANCA,Valparaíso,SEPENABLANCA,False,cobertura_incompleta,,
+PEÑABLANCA_110,SE1757,nombre derivado de la etiqueta,S/E PEÑABLANCA,Valparaíso,SEPENABLANCA,False,identidad_no_homologada;cobertura_incompleta,,
+PIRQUE_110,SE461,nemotécnico homologación,S/E PIRQUE,Metropolitana,SEPIRQUE,True,,1.1581235334233806,2.819672312098597
+PLACERES_110,SE787,nemotécnico homologación,S/E LOS PLACERES,Valparaíso,SELOSPLACERES,True,,-7.333173423880736,10.038046288501448
+PLACILLA_110,SE790,nemotécnico homologación,S/E PLACILLA (CHILQUINTA),Valparaíso,SEPLACILLA,False,exposicion_DC_directa_corredor_o_retiro,,
+PORTEZUELO_110,SE652,nemotécnico homologación,S/E PORTEZUELO,O'Higgins–Maule,SEPORTEZUELO,True,,-2.61819069367566,3.816266329206535
+PPEUCO_110,SE1563,nemotécnico homologación,S/E PUNTA PEUCO (CEMENTO POLPAICO),Metropolitana,SEPUNTAPEUCO,True,,0.15293601650275693,0.42745684322153854
+PPEUCO_CP_110,SE1563,alias manual,S/E PUNTA PEUCO (CEMENTO POLPAICO),Metropolitana,SEPUNTAPEUCO,False,identidad_no_homologada;cobertura_incompleta,,
+PUCHUNCAVI2_110,SE2320,nombre de barra,S/E PUCHUNCAVI,Valparaíso,SEPUCHUNCAVI,False,identidad_no_homologada;cobertura_incompleta,,
+PUDAHUEL_110,SE712,nombre de barra,S/E PUDAHUEL,Metropolitana,SEPUDAHUEL,False,identidad_no_homologada,,
+QUELENTARO_110,SE653,nemotécnico homologación,S/E QUELENTARO,O'Higgins–Maule,SEQUELENTARO,True,,0.3588735944847595,3.253584436831116
+QUELTEHUES_110,SE203,nemotécnico homologación,S/E CENTRAL QUELTEHUES,Metropolitana,SECENTRALQUELTEHUES,True,,2.870628798587937,2.0898892589398703
+QUILICURA_110,SE713,nemotécnico homologación,S/E QUILICURA,Metropolitana,SEQUILICURA,False,exposicion_DC_directa_corredor_o_retiro,,
+QUILLOTA_110,SE586,nemotécnico homologación,S/E QUILLOTA,Valparaíso,SEQUILLOTA,True,,4.487034069766671,2.3703578966449603
+QUILPUE_110,SE792,nemotécnico homologación,S/E QUILPUE,Valparaíso,SEQUILPUE,True,,-7.974258160982072,9.9793465815256
+QUINQUIMO2_110,SE401,nombre derivado de la etiqueta,S/E QUINQUIMO,Valparaíso,SEQUINQUIMO,False,identidad_no_homologada,,
+QUINQUIMO_110,SE401,nemotécnico homologación,S/E QUINQUIMO,Valparaíso,SEQUINQUIMO,True,,10.681398959970219,13.58001589594074
+QUINTERO_110,SE956,nemotécnico homologación,S/E GNL QUINTERO,Valparaíso,SEGNLQUINTERO,True,,-6.199874026880249,9.234237061389981
+RACONCAGUA_110,SE2306,nemotécnico homologación,S/E RIO ACONCAGUA,Valparaíso,SERIOACONCAGUA,True,,1.6251438956461028,1.5937258159890255
+RECOLETA_110,SE714,nemotécnico homologación,S/E RECOLETA,Metropolitana,SERECOLETA,False,exposicion_DC_directa_corredor_o_retiro,,
+RENACA_110,SE795,nemotécnico homologación,S/E REÑACA,Valparaíso,SERENACA,False,cobertura_incompleta,,
+RENCA_110,SE715,nemotécnico homologación,S/E RENCA,Metropolitana,SERENCA,True,,1.248253314419019,0.5160074788609966
+REÑACA_110,SE795,nombre derivado de la etiqueta,S/E REÑACA,Valparaíso,SERENACA,False,identidad_no_homologada;cobertura_incompleta,,
+RUCASOL_110,SE2453,nombre derivado de la etiqueta,S/E RUCASOL,Metropolitana,SERUCASOL,False,identidad_no_homologada;cobertura_incompleta,,
+S.ANTONIO_110,SE798,nemotécnico homologación,S/E SAN ANTONIO,Valparaíso,SESANANTONIO,True,,-3.953882217197533,2.872140094305073
+S.FELIPE_110,SE799,nemotécnico homologación,S/E SAN FELIPE,Valparaíso,SESANFELIPE,True,,0.802522830058825,1.2299768370006792
+S.PEDRO_110,SE204,nemotécnico homologación,S/E SAN PEDRO (CTNG),Valparaíso,SESANPEDRO,True,,-6.340445076852734,9.66293361344472
+S.RAFAEL_110,SE801,nemotécnico homologación,S/E SAN RAFAEL (CHILQUINTA),Valparaíso,SESANRAFAEL,True,,0.7442704731263721,1.2602617483823357
+SANTA_ELENA_110,SE722,nemotécnico homologación,S/E SANTA ELENA,Metropolitana,SESANTAELENA,True,,0.4111515474461631,2.190828968257694
+SANTA_MARTA_110,SE723,nemotécnico homologación,S/E SANTA MARTA,Metropolitana,SESANTAMARTA,False,exposicion_DC_directa_corredor_o_retiro,,
+SANTA_RAQUEL_110,SE724,nemotécnico homologación,S/E SANTA RAQUEL,Metropolitana,SESANTARAQUEL,True,,0.5516856187761533,2.285490952221905
+SANTA_ROSA_S_110,SE725,nemotécnico homologación,S/E SANTA ROSA SUR,Metropolitana,SESANTAROSASUR,True,,0.9299547713582405,2.1682887259539614
+SANT_SOLAR_110,SE1791,nemotécnico homologación,S/E CENTRAL SANTIAGO SOLAR,Metropolitana,SECENTRALSANTIAGOSOLAR,False,exposicion_DC_directa_corredor_o_retiro,,
+SAN_BERNARDO_110,SE717,nemotécnico homologación,S/E SAN BERNARDO,Metropolitana,SESANBERNARDO,True,,1.6614661134174658,2.1150752311274132
+SAN_CRISTOBAL_110,SE718,nemotécnico homologación,S/E SAN CRISTOBAL,Metropolitana,SESANCRISTOBAL,False,exposicion_DC_directa_corredor_o_retiro,,
+SAN_JOAQUIN_110,SE719,nemotécnico homologación,S/E SAN JOAQUIN (STM),Metropolitana,SESANJOAQUIN,True,,0.4604131693393893,2.17715860708737
+SAN_JOSE_110,SE720,nemotécnico homologación,S/E SAN JOSE,Metropolitana,SESANJOSE,True,,0.8378118543494829,0.34259671670024233
+SAN_PABLO_110,SE721,nemotécnico homologación,S/E SAN PABLO,Metropolitana,SESANPABLO,True,,0.9328243068246018,0.420271981606299
+SAUZAL1_110,SE590,nemotécnico homologación,S/E SAUZAL,O'Higgins–Maule,SESAUZAL,True,,6.951007895217939,2.320639416549835
+SAUZAL2_110,SE590,nemotécnico homologación,S/E SAUZAL,O'Higgins–Maule,SESAUZAL,False,subestacion_ya_representada,,
+T.A.MELIP_110,SE1045,nemotécnico homologación,TAP OFF ALTO MELIPILLA (CGE),Metropolitana,TAPOFFALTOMELIPILLA,True,,-1.178257103443126,2.5311393968365867
+TAP.CONCON_110,SE780,nombre aproximado (prefijo único),S/E CONCON,Valparaíso,SECONCON,False,identidad_no_homologada,,
+TAP.RENACA_110,TAP:TAPOFFRENACA,barra de tap → nodo tap,TAPOFFRENACA,Valparaíso,TAPOFFRENACA,False,identidad_no_homologada;cobertura_incompleta,,
+TAP.REÑACA_110,TAP:TAPOFFRENACA,barra de tap → nodo tap,TAPOFFRENACA,Valparaíso,TAPOFFRENACA,False,identidad_no_homologada;cobertura_incompleta,,
+TAP_BICENTENA_110,SE1606,nombre aproximado (prefijo único),S/E BICENTENARIO,Metropolitana,SEBICENTENARIO,False,identidad_no_homologada,,
+TAP_BUIN_110,TAP:TAPBUINENELTRANSMISION,alias manual,TAPBUINENELTRANSMISION,Metropolitana,TAPBUINENELTRANSMISION,False,identidad_no_homologada,,
+TAP_CARRASCAL_110,TAP:TAPCARRASCAL,barra de tap → nodo tap,TAPCARRASCAL,Metropolitana,TAPCARRASCAL,False,identidad_no_homologada,,
+TAP_CHACABUCO_110,TAP:TAPCHACABUCO,barra de tap → nodo tap,TAPCHACABUCO,Metropolitana,TAPCHACABUCO,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_CHAGRES_110,SE779,nombre aproximado (prefijo único),S/E CHAGRES,Valparaíso,SECHAGRES,False,identidad_no_homologada,,
+TAP_LA_DEHESA_110,TAP:TAPLADEHESA,barra de tap → nodo tap,TAPLADEHESA,Metropolitana,TAPLADEHESA,False,identidad_no_homologada,,
+TAP_LA_REINA_110,TAP:TAPLAREINA,barra de tap → nodo tap,TAPLAREINA,Metropolitana,TAPLAREINA,False,identidad_no_homologada,,
+TAP_LO_BOZA_110,TAP:TAPLOBOZA,barra de tap → nodo tap,TAPLOBOZA,Metropolitana,TAPLOBOZA,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_MACUL_110,TAP:TAPMACUL,barra de tap → nodo tap,TAPMACUL,Metropolitana,TAPMACUL,False,identidad_no_homologada,,
+TAP_PAJARITOS_110,TAP:TAPPAJARITOS,barra de tap → nodo tap,TAPPAJARITOS,Metropolitana,TAPPAJARITOS,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_QUILICURA_110,TAP:TAPQUILICURA,barra de tap → nodo tap,TAPQUILICURA,Metropolitana,TAPQUILICURA,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_RECOLETA_110,TAP:TAPRECOLETA,barra de tap → nodo tap,TAPRECOLETA,Metropolitana,TAPRECOLETA,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_SAN_JOSE_110,TAP:TAPSANJOSE,barra de tap → nodo tap,TAPSANJOSE,Metropolitana,TAPSANJOSE,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_STA_MARTA_110,SE1655,alias manual,TAP OFF SANTA MARTA,Metropolitana,TAPOFFSANTAMARTA,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+TAP_VITACURA_110,TAP:TAPVITACURA,barra de tap → nodo tap,TAPVITACURA,Metropolitana,TAPVITACURA,False,identidad_no_homologada,,
+TLIBERTADORES_110,SE2136,nemotécnico homologación,S/E TAP OFF LIBERTADORES,Metropolitana,SETAPOFFLIBERTADORES,False,exposicion_DC_directa_corredor_o_retiro,,
+TMAYACA_110,SE2071,nombre aproximado (prefijo único),S/E MAYACA,Valparaíso,SEMAYACA,False,identidad_no_homologada,,
+TOFF.RUCASOL_110,TAP:TAPRUCASOL,barra de tap → nodo tap,TAPRUCASOL,Metropolitana,TAPRUCASOL,False,identidad_no_homologada;cobertura_incompleta,,
+TORQUEMADA_110,SE206,nemotécnico homologación,S/E TORQUEMADA,Valparaíso,SETORQUEMADA,True,,-7.205328375222911,9.671827554002027
+TOTORALILLO_110,SE301,nemotécnico homologación,S/E TOTORALILLO,Valparaíso,SETOTORALILLO,True,,3.0639607452578113,1.3640764920328772
+T_ALTAMIRANO_110,TAP:TAPALTAMIRANO,barra de tap → nodo tap,TAPALTAMIRANO,Metropolitana,TAPALTAMIRANO,False,identidad_no_homologada,,
+T_LA_CISTERNA_110,TAP:TAPLACISTERNA,barra de tap → nodo tap,TAPLACISTERNA,Metropolitana,TAPLACISTERNA,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+T_LO_VALLEDOR_110,TAP:TAPLOVALLEDOR,barra de tap → nodo tap,TAPLOVALLEDOR,Metropolitana,TAPLOVALLEDOR,False,identidad_no_homologada;exposicion_DC_directa_corredor_o_retiro,,
+T_L_DOMINICOS_110,SE703,nemotécnico homologación,S/E LOS DOMINICOS,Metropolitana,SELOSDOMINICOS,False,subestacion_ya_representada,,
+VALPARAISO_110,SE804,nemotécnico homologación,S/E VALPARAISO,Valparaíso,SEVALPARAISO,True,,-8.275549794267292,10.213046522799791
+VENTANAS_110,SE207,nombre de barra,S/E VENTANAS,Valparaíso,SEVENTANAS,False,identidad_no_homologada,,
+VITACURA_110,SE726,nemotécnico homologación,S/E VITACURA,Metropolitana,SEVITACURA,True,,0.5682604426913208,1.3637945340479898

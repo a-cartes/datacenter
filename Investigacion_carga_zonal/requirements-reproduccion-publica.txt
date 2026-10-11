@@ -1,0 +1,3 @@
+# Reproducción de las 80 regresiones desde las tablas publicadas
+numpy==2.3.5
+pandas==2.3.3

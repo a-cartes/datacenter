@@ -56,3 +56,17 @@ La ejecución principal verificó 33 insumos antes/después; el diagnóstico adi
 ## 2026-10-11 · Publicación de disponibilidad (CZ-012)
 
 A petición explícita del usuario se incorpora la tabla íntegra de nueve recursos al README de GitHub, con fuentes y alcance local. Se publica el avance hasta a5275d5, sin reemplazar el cierre v0.3.0. La comprobación de preservación permite ahora únicamente README.md como excepción editorial fuera de la etapa; los archivos científicos siguen protegidos. Se archiva el comprobador anterior. No se modifican datos para esta publicación.
+
+## 2026-10-11 · Controles externos y obras concurrentes (CZ-013 a CZ-016)
+
+La tabla se publicó efectivamente en main, commit779b97c, sin modificar el tagv0.3.0. Antes de calcular nuevas pendientes se guardó PROTOCOLO_CONTROLES_EXTERNOS_20261011.md. Se conocían los resultados de la conciliación y se leyó el antecedente nacional EDGE2024, dominado por Punta Peuco023; no se presenta esta etapa como confirmación independiente.
+
+Ejecución20261011_controles_externos_v1:84 candidatos, ranking solo con12 meses previos y validación en los12 siguientes; K5/K10, zona fija de tres barras. La comparación cercana dio pendiente zonal−0,0087 en nivelesK5. La revisión de las rutas encontró abastecimiento común por Cerro Navia y una obra posterior en Punta Peuco industrial. Se conservan selección y resultados completos.
+
+Después se registró ADENDA_CONTROLES_DISTANTES_20261011.md. Se añadió exclusión de RM y del componente110kV del catálogo, completando tensión ausente solo desde nombres explícitos. Ejecución20261011_controles_distantes_v1: siete candidatos, K5/K7, pendientes+0,0830/+0,1031. Validación previa muestra separación+2,081/+3,132USD/MWh. La restricción se añadió después de ver la primera selección; no se oculta su condición exploratoria.
+
+Se incorporaron tres retiros comerciales concurrentes en61 días comunes, sin imputar faltantes ni sumar claves ambiguas. Se revisaron obras de la zona y de los comparadores: ECS2025, fichas y aristas. Los indicadores de obras son sensibilidad; algunas pueden ser mediadores de demanda. Se conservaron ajustes inestables, incluido el aumento de coeficiente al excluir meses de entrada. No se declara ninguna especificación causal.
+
+La verificación posterior añadió exclusión individual de controles como diagnóstico de influencia, calculó pendientes por fórmula independiente y comprobó D=P−Q y soporte:12 comprobaciones,46 insumos preservados. Los dos análisis principales verificaron38/39 insumos. La figura se inspeccionó visualmente. No se escribieron bases anteriores ni se cambió el manuscrito.
+
+Reproducción pública final:80 regresiones, coeficientes y errores HAC recalculados con NumPy mediante fórmula independiente de statsmodels. Error máximo de beta9,99e−15; de error estándar5,93e−13. No requiere originales ni descarga de26GB. Se añade entorno mínimo versionado.

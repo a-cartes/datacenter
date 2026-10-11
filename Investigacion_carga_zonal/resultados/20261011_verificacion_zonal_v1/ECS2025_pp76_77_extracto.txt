@@ -1,0 +1,133 @@
+ 
+76 
+Estudio de Continuidad de Suministro 2025 
+N Empresa Nombre Proyecto ST 
+Nivel de 
+tensión 
+ [kV] 
+Fecha 
+Real 
+De EO 
+Incidencia 
+17 Empresa de los 
+Ferrocarriles del Estado 
+Reemplazo de Transformadores 
+110/66 kV en S/E Lo Espejo (FFCC) STZ 110 26-oct-21 Positiva 
+18 Enel Distribución S.A. Ampliación en SE Altamirano STZ 110 20-mar-22 Positiva 
+19 Enel Distribución S.A. Ampliación en SE La Dehesa STZ 110 22-abr-22 Positiva 
+20 Enel Distribución S.A. Aumento de capacidad en S/E Los 
+Dominicos STZ 110 03-may-22 Positiva 
+21 Enel Distribución S.A. 
+Aumento de capacidad tramo de 
+línea 2x110 kV Los Almendros - Tap 
+Los Dominicos 
+STZ 220 05-jul-22 Positiva 
+22 Anglo American Sur S.A. Traslado lineas 66kV San Francisco- 
+Los Bronces STD 66 12-jul-22 Neutro 
+23 Enel Distribución S.A. Nuevo Transformador en S/E 
+Bicentenario STZ 110 24-ago-22 Positiva 
+24 Enel Distribución S.A. Ampliación en SE San Pablo STZ 110 17-oct-22 Positiva 
+25 Enel Transmisión Chile 
+S.A. 
+Instalación celdas 23kV barra N°6 
+en SE Lo Boza STD 110 09-nov-22 Neutra 
+26 Sociedad Transmisora 
+Metropolitana II S.A. 
+Aumento de capacidad en SE 
+Quilicura STZ 110 13-dic-22 Neutro 
+27 Papeles Cordillera S.A. Seccionamiento en SE Pirque STZ 110 15-dic-22 Positiva 
+28 Sociedad Transmisora 
+Metropolitana II S.A. 
+Aumento de capacidad en SE Alonso 
+de Córdova STZ 110 07-ene-23 Neutra 
+29 Transmisora Eléctrica 
+Cordillera SpA. 
+Seccionamiento línea 2x110 kV Alto 
+Jahuel - Florida STN 110 26-ene-23 Positiva 
+30 Transmisora Eléctrica 
+Cordillera SpA. Nueva subestación Bajos de Mena STZ 110 26-ene-23 Neutra 
+31 Enel Transmisión Chile 
+S.A. 
+Nuevas Posiciones Patio MT 
+Transformador N°7 en S/E 
+Chacabuco 
+STZ 110 02-mar-23 Neutra 
+32 Transelec S.A. Ampliación en S/E Polpaico STN 220 12-mar-23 Positiva 
+33 Enel Distribución S.A. Nuevo Transformador en S/E Brasil STZ 110 26-jun-23 Positiva 
+34 Enel Distribución S.A. Nuevo Transformador en SE 
+Chicureo (Etapa N°1) STZ 220 02-jul-23 Positiva 
+35 Enel Distribución S.A. Nuevo Transformador en SE 
+Chicureo (Etapa N°2) STZ 220 02-jul-23 Positiva 
+36 Enel Distribución Chile 
+S.A. 
+Traslado Transformador N°2 25 
+MVA en SE Los Dominicos STZ 110 13-jul-23 Positiva 
+37 Sociedad Transmisora 
+Metropolitana II S.A. 
+Aumento de capacidad en S/E San 
+Joaquín STZ 110 24-jul-23 Neutra 
+38 Enel Distribución S.A. Nuevo Transformador en SE San 
+Bernardo STZ 110 24-nov-23 Neutra 
+39 Enel Transmisión Chile 
+S.A. 
+Nuevas celdas 12kV en S/E San 
+Joaquín STZ 110 15-dic-23 Neutra 
+40 Enel Distribución S.A. Nuevo Transformador en S/E 
+Chacabuco STZ 110 23-ene-24 Positiva 
+41 Sociedad Transmisora 
+Metropolitana II S.A. 
+Cambio de trazado en línea 220 kV 
+Polpaico - El Salto STN 220 29-abr-24 Neutra 
+42 Edgeconnex Chile V SpA Nueva S/E Seccionadora Colina 110 
+kV STD 110 02-may-24 Positiva 
+43 Edgeconnex Chile V SpA Ampliación Data Center Tercera 
+Etqapa 40 MW STD 110 29-may-24 Neutra 
+44 Transelec S.A. 
+Reemplazo de los transformadores 
+de corriente de los paños K1 y K2 de 
+SE Polpaico 500 kV etapa 1 
+STN 500 10-jun-24 Neutra 
+
+ 
+77 
+Estudio de Continuidad de Suministro 2025 
+N Empresa Nombre Proyecto ST 
+Nivel de 
+tensión 
+ [kV] 
+Fecha 
+Real 
+De EO 
+Incidencia 
+45 Transelec S.A. 
+Reemplazo de los transformadores 
+de corriente de los paños K1 y K2 de 
+SE Polpaico 500 kV etapa 2 
+STN 500 10-jun-24 Neutra 
+46 Enel Transmisión Chile 
+S.A. 
+Traslado actual transformador N°4 a 
+posición N°5 en S/E Chacabuco STZ 110 29-jul-24 Positiva 
+47 Enel Transmisión Chile 
+S.A. 
+Reemplazo Banco TR N° 1 3x13,3 
+MVA por TR N° 1 50 MVA en S/E 
+San Cristóbal 
+STZ 110 27-ago-24 Neutra 
+48 
+Sociedad Transmisora 
+Metropolitana II S.A (ex 
+Enel Transmisión) 
+Aumento de capacidad  del tramo 
+de línea 2x220 kV Tap El Manzano – 
+El Manzano 
+STZ 220 13-oct-24 Positiva 
+49 Edgeconnex Chile V SpA Ampliación Data Center Cuarta 
+Etapa STZ 110 19-oct-24 Neutra 
+50 Generadora 
+Metropolitana SpA 
+Reemplazo de Transformador de 
+poder de TG de Central Nueva 
+Renca 
+STD 110 17-dic-24 Positiva 
+  

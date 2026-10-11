@@ -62,3 +62,27 @@ Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investig
 Los originales SIP se esperan en `.claude/worktrees/sip-api/Panel_datos/sip_api/barrido_v2/`; no se importa el código de ese proyecto ni se modifica ese worktree. La identidad de cada archivo está en el manifiesto de la ejecución. La alternativa ST02 sigue siendo condicional.
 
 La figura usa `matplotlib`, además de las dependencias anteriores. `scripts/figura_conciliacion.py` reconstruye la figura desde las tablas archivadas y rechaza sobrescribir su carpeta de salida. Para una variante, crear otra versión del script o cambiar expresamente la carpeta de salida, registrando ese cambio.
+
+## Estimación zonal con comparadores externos
+
+El entorno de investigación usa además `statsmodels` para OLS y covarianza HAC. Desde el proyecto contenedor, con los insumos locales anteriores:
+
+```bash
+Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investigacion_carga_zonal/scripts/estimar_controles_externos.py --proyecto . --ejecucion controles_externos_nueva
+Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investigacion_carga_zonal/scripts/estimar_controles_distantes.py --proyecto . --ejecucion controles_distantes_nueva
+```
+
+Las carpetas de ejecución archivadas del11de octubre conservan los paneles mensuales y diarios usados. Para repetir únicamente las regresiones no es necesario descargar los originales voluminosos: los derivados publicados contienen los regresores y resultados de cada muestra. La selección completa necesita el panel nacional y mapas locales listados en los manifiestos.
+
+`scripts/auditar_resultados_zonales.py` comprueba las ejecuciones archivadas y extrae antecedentes de fuentes locales. `scripts/figura_controles_zonales.py` usa exclusivamente resultados publicados. Ambos rechazan sobrescribir su carpeta; para una nueva auditoría o figura cambiar únicamente la carpeta de salida en una copia versionada. El protocolo y la adenda se conservan íntegros; no se modifican retrospectivamente.
+
+### Verificación pública sin originales locales
+
+Desde la raíz del repositorio, en un entorno Python3.13 con las dos dependencias de `Investigacion_carga_zonal/requirements-reproduccion-publica.txt`:
+
+```bash
+python -m pip install -r Investigacion_carga_zonal/requirements-reproduccion-publica.txt
+python Investigacion_carga_zonal/scripts/reproducir_estimaciones_publicadas.py
+```
+
+No escribe archivos por defecto ni necesita red después de instalar dependencias. Reproduce80 coeficientes y errores HAC mediante OLS NumPy y una fórmula independiente de covarianza Bartlett; contrasta las cifras archivadas. [Resultado ejecutado](resultados/20261011_verificacion_zonal_v1/reproduccion_publica.json). Esto verifica la aritmética desde derivados públicos; la reextracción y validación de fronteras requieren los originales identificados en cada manifiesto. Las dependencias del análisis completo están en `requirements-analisis-local.txt`.

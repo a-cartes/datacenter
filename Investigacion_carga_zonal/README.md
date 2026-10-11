@@ -30,3 +30,7 @@ El cierre anterior sigue en `SOCHER_2026_RM/`, versión **v0.3.0**, commit `cb61
 La auditoría vigente verificó nuevamente el SHA-256 de **271 insumos**, antes y después de procesarlos. Para los **653 originales, que suman 26,54 GB**, comprobó existencia y tamaño contra el inventario anterior: sus hashes se conservan, pero no se recalcularon esos 26,54 GB. La primera ejecución y su código se retienen en `resultados/20261011_inventario/` e `historial/`.
 
 **Alcance de reproducibilidad:** los informes y resultados de esta auditoría están versionados. Su reproducción completa necesita los insumos locales de etapas anteriores y las tablas v7 recuperadas en Descargas; este directorio no es un paquete autónomo con todas esas bases. No se hicieron descargas ni contactos con terceros.
+
+## Comparadores externos de Las Canteras
+
+La [estimación zonal y revisión de cargas y red](INFORME_CONTROLES_ZONALES_20261011.md) añade controles fuera del corredor, una comparación fuera de la RM, retiros concurrentes y validación previa. Conserva ambas selecciones y todos los signos. Consulte el [protocolo](PROTOCOLO_CONTROLES_EXTERNOS_20261011.md) y la [adenda de controles distantes](ADENDA_CONTROLES_DISTANTES_20261011.md).

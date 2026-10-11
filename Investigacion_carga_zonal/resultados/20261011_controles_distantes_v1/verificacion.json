@@ -1,0 +1,24 @@
+{
+  "estado": "OK",
+  "insumos_preservados": 39,
+  "candidatos_elegibles": 7,
+  "controles5": [
+    "S.RAFAEL_110",
+    "LEYDA_110",
+    "S.ANTONIO_110",
+    "QUELENTARO_110",
+    "LA_ESTRELLA_110"
+  ],
+  "controles7": [
+    "S.RAFAEL_110",
+    "LEYDA_110",
+    "S.ANTONIO_110",
+    "QUELENTARO_110",
+    "LA_ESTRELLA_110",
+    "PORTEZUELO_110",
+    "C.CALERA1_110"
+  ],
+  "n_meses": 25,
+  "n_dias_otras_cargas": 61,
+  "originales_modificados": 0
+}

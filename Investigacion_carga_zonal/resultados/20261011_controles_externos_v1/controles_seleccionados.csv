@@ -1,0 +1,11 @@
+barra,K5,K10,nodo,metodo,nombre,zona,unidad
+PAJARITOS_110,True,True,SE709,nemotécnico homologación,S/E PAJARITOS,Metropolitana,SEPAJARITOS
+SAN_JOSE_110,True,True,SE720,nemotécnico homologación,S/E SAN JOSE,Metropolitana,SESANJOSE
+SAN_PABLO_110,True,True,SE721,nemotécnico homologación,S/E SAN PABLO,Metropolitana,SESANPABLO
+PPEUCO_110,True,True,SE1563,nemotécnico homologación,S/E PUNTA PEUCO (CEMENTO POLPAICO),Metropolitana,SEPUNTAPEUCO
+ALTAMIRANO_110,True,True,SE675,nemotécnico homologación,S/E ALTAMIRANO,Metropolitana,SEALTAMIRANO
+CARRASCAL_110,False,True,SE682,nemotécnico homologación,S/E CARRASCAL,Metropolitana,SECARRASCAL
+METRO_110,False,True,SE963,nemotécnico homologación,S/E METRO,Metropolitana,SEMETRO
+RENCA_110,False,True,SE715,nemotécnico homologación,S/E RENCA,Metropolitana,SERENCA
+S.FELIPE_110,False,True,SE799,nemotécnico homologación,S/E SAN FELIPE,Valparaíso,SESANFELIPE
+S.RAFAEL_110,False,True,SE801,nemotécnico homologación,S/E SAN RAFAEL (CHILQUINTA),Valparaíso,SESANRAFAEL
