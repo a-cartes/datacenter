@@ -8,7 +8,7 @@ La versión vigente es el **cierre analítico para SOCHER 2026**, con precios 20
 
 ## Resultados de esta versión
 
-La investigación posterior, con prioridad Energy Economics, está en el [informe de calendario operativo, flujos y otras cargas](Investigacion_carga_zonal/INFORME_OPERACION_Y_CARGAS_20261011.md). Examina la señal diurna de Las Canteras y documenta una restricción local asociada a mantenimiento y ajustes de generación. Se conserva por separado del cierre SOCHER presentado a continuación.
+La investigación posterior, con prioridad Energy Economics, está en el [informe de generación vecina y maniobras de red](Investigacion_carga_zonal/INFORME_GENERACION_Y_MANIOBRAS_20261011.md). En18.144 horas comunes, la asociación diurna de Las Canteras pasa de0,539 a0,551(USD/MWh)/MW al incorporar Santiago Solar; permanece imprecisa. La serie PFV Don Humberto presenta valores nocturnos anómalos; la auditoría y sus sensibilidades se publican completas. Se verifican episodios operativos y se preserva por separado el cierre SOCHER presentado a continuación.
 
 | Resultado | Valor o alcance |
 |---|---|

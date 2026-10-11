@@ -1,0 +1,14 @@
+[
+  {
+    "umbral_MW": 0.1,
+    "horas_marcadas": 112,
+    "dias_excluidos": 98,
+    "SantiagoSolar_horas_marcadas": 0
+  },
+  {
+    "umbral_MW": 1.0,
+    "horas_marcadas": 93,
+    "dias_excluidos": 85,
+    "SantiagoSolar_horas_marcadas": 0
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "ruta": "/generacion-real/v3/findByDate",
+  "filtro": "tipoTecnologia=BESS;2025-03-06",
+  "archivo": "bess_20250306.json.gz",
+  "sha256": "b59b407a154ad9d08e9125900b737bb6e1056bf5fb5bc0e82deca8e9fc258121",
+  "filas": 1056
+}

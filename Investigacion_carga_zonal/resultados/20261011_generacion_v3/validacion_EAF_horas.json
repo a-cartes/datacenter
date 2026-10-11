@@ -1,0 +1,18 @@
+[
+  {
+    "idCentral": 2209,
+    "pagina": 43,
+    "horas": 24,
+    "error_maximo_MW": 0.04000000000000625,
+    "suma_API_MWh": 556.87,
+    "suma_fila_impresa": 556.9000000000001
+  },
+  {
+    "idCentral": 364,
+    "pagina": 45,
+    "horas": 24,
+    "error_maximo_MW": 0.040000000000000924,
+    "suma_API_MWh": 601.29,
+    "suma_fila_impresa": 601.4000000000001
+  }
+]

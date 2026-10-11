@@ -2,7 +2,7 @@
 
 **Inicio: 11 de octubre de 2026. Estado: disponibilidad auditada, conciliación de Las Canteras/ODATA realizada y panel exploratorio zonal preparado.**
 
-**Avance actual:** [calendario operativo, flujos y cargas concurrentes](INFORME_OPERACION_Y_CARGAS_20261011.md). La aproximación física a Google concilia con retiros comerciales; el tránsito local tiene un patrón diurno marcado y se documenta un episodio de mantenimiento con restricción Las Canteras–Santiago Solar. Se comparan asociaciones en muestras constantes, preservando resultados anteriores.
+**Avance actual:** [generación de Santiago Solar y Don Humberto y maniobras de red](INFORME_GENERACION_Y_MANIOBRAS_20261011.md). Se incorporan18.144 horas comunes: la pendiente diurna distante pasa de0,539 a0,551 al ajustar Santiago Solar, con intervalo que incluye cero. La serie PFV Don Humberto presenta valores nocturnos anómalos; la auditoría y sus sensibilidades se publican completas. Se conserva el [avance previo de calendario, flujos y cargas](INFORME_OPERACION_Y_CARGAS_20261011.md).
 
 Tenemos mediciones con las que avanzar hacia una exposición basada en carga y conexión. La prioridad es aprovecharlas y completar sus correspondencias históricas. Esta etapa preserva la réplica anterior y no reemplaza sus resultados por una nueva regresión.
 
@@ -31,7 +31,7 @@ El cierre anterior sigue en `SOCHER_2026_RM/`, versión **v0.3.0**, commit `cb61
 
 La auditoría vigente verificó nuevamente el SHA-256 de **271 insumos**, antes y después de procesarlos. Para los **653 originales, que suman 26,54 GB**, comprobó existencia y tamaño contra el inventario anterior: sus hashes se conservan, pero no se recalcularon esos 26,54 GB. La primera ejecución y su código se retienen en `resultados/20261011_inventario/` e `historial/`.
 
-**Alcance de reproducibilidad:** los informes y resultados de esta auditoría están versionados. Su reproducción completa necesita los insumos locales de etapas anteriores y las tablas v7 recuperadas en Descargas; este directorio no es un paquete autónomo con todas esas bases. No se hicieron descargas ni contactos con terceros.
+**Alcance de reproducibilidad:** los informes y resultados de esta auditoría están versionados. Su reproducción completa necesita los insumos locales de etapas anteriores y las tablas v7 recuperadas en Descargas; este directorio no es un paquete autónomo con todas esas bases. La auditoría inicial no requirió descargas; las etapas posteriores incorporan fuentes oficiales documentadas. No se contactó a operadores.
 
 ## Comparadores externos de Las Canteras
 

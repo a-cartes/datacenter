@@ -1,0 +1,109 @@
+{
+  "ruta": "/generacion-real/v3/findByDate",
+  "consulta_UTC": "2026-10-11T22:42:24.067762+00:00",
+  "estado": "descarga_completa_pendiente_validacion",
+  "paginas": [
+    {
+      "archivo": "central_364_pagina_001_10000.json.gz",
+      "sha256": "b62435f7152153177cdf13419497c350a7ef26e63396f89a289b913488091015",
+      "idCentral": 364,
+      "page": 1,
+      "pageSize": 10000,
+      "inicio": "2024-08-01",
+      "fin": "2026-08-31",
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2024-08-01",
+        "endDate": "2026-08-31",
+        "totalPages": 2,
+        "pageSize": 10000,
+        "page": 1
+      }
+    },
+    {
+      "archivo": "central_364_pagina_002_10000.json.gz",
+      "sha256": "21d533fff2532f79a294de9b15455e6cc464a29dc6ac0e31ab98abd86319641c",
+      "idCentral": 364,
+      "page": 2,
+      "pageSize": 10000,
+      "inicio": "2024-08-01",
+      "fin": "2026-08-31",
+      "filas": 8265,
+      "metadatos": {
+        "startDate": "2024-08-01",
+        "endDate": "2026-08-31",
+        "totalPages": 2,
+        "pageSize": 10000,
+        "page": 2
+      }
+    },
+    {
+      "archivo": "central_364_pagina_003_10000.json.gz",
+      "sha256": "53139481eeadbcb13bd26afe32ea05e8a4b48db8ad4a9c91a9708d1365d41cb1",
+      "idCentral": 364,
+      "page": 3,
+      "pageSize": 10000,
+      "inicio": "2024-08-01",
+      "fin": "2026-08-31",
+      "filas": 0,
+      "metadatos": {
+        "startDate": "2024-08-01",
+        "endDate": "2026-08-31",
+        "totalPages": 2,
+        "pageSize": 10000,
+        "page": 3
+      }
+    },
+    {
+      "archivo": "central_2209_pagina_001_10000.json.gz",
+      "sha256": "1f875faa73206b32f90c0a5aee5e431b9f0f7cb1f6951979b59a32a4a36fa5c3",
+      "idCentral": 2209,
+      "page": 1,
+      "pageSize": 10000,
+      "inicio": "2024-08-01",
+      "fin": "2026-08-31",
+      "filas": 10000,
+      "metadatos": {
+        "startDate": "2024-08-01",
+        "endDate": "2026-08-31",
+        "totalPages": 2,
+        "pageSize": 10000,
+        "page": 1
+      }
+    },
+    {
+      "archivo": "central_2209_pagina_002_10000.json.gz",
+      "sha256": "0fb66cbe0dbdef9ae7b6a0d47adfc54b146ccdc90863d11c3ab00b62a06dfbd9",
+      "idCentral": 2209,
+      "page": 2,
+      "pageSize": 10000,
+      "inicio": "2024-08-01",
+      "fin": "2026-08-31",
+      "filas": 8265,
+      "metadatos": {
+        "startDate": "2024-08-01",
+        "endDate": "2026-08-31",
+        "totalPages": 2,
+        "pageSize": 10000,
+        "page": 2
+      }
+    },
+    {
+      "archivo": "central_2209_pagina_003_10000.json.gz",
+      "sha256": "56567aa846ebc40e993f154ad98b975397e113206e61ce2ea5c730791193951a",
+      "idCentral": 2209,
+      "page": 3,
+      "pageSize": 10000,
+      "inicio": "2024-08-01",
+      "fin": "2026-08-31",
+      "filas": 0,
+      "metadatos": {
+        "startDate": "2024-08-01",
+        "endDate": "2026-08-31",
+        "totalPages": 2,
+        "pageSize": 10000,
+        "page": 3
+      }
+    }
+  ]
+}

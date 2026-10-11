@@ -1,0 +1,3 @@
+alcance,central,coordinado,factor_ernc,fecha_hora,gen_real_mw,hora,id_central,id_coordinado,id_opreal,id_propietario,llave_opreal,potencia_maxima,propietario,subtipo_tecnologia,tipo_tecnologia,valor_ernc,fecha,hora0
+global,PFV SANTIAGO SOLAR,SANTIAGO SOLAR S.A.,1.0,2025-04-06 00:00:00,0.0,25,364,340,9370,381,Santiago Solar,97.37,SANTIAGO SOLAR S.A.,,Solar,0.0,2025-04-06,0
+global,PFV DON HUMBERTO,ENEL GREEN POWER CHILE S.A.,1.0,2025-04-06 00:00:00,0.0,25,2209,250,16901,491,PFV DON HUMBERTO,76.65,ENEL GREEN POWER CHILE S.A.,,Solar,0.0,2025-04-06,0

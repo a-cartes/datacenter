@@ -1,0 +1,6 @@
+{
+  "ruta": "/generacion-real/v3/findByDate",
+  "consulta_UTC": "2026-10-11T22:39:28.619609+00:00",
+  "estado": "error:ConnectionError",
+  "paginas": []
+}

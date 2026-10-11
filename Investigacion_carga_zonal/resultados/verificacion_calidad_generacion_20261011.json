@@ -1,0 +1,14 @@
+{
+  "LSQR_Santiago": {
+    "error": 1.1927347998152982e-11,
+    "iteraciones": 113,
+    "estado_solver": 2
+  },
+  "reproduccion": {
+    "contrastes": 225,
+    "error_maximo": 2.220446049250313e-16
+  },
+  "estado": "OK",
+  "nombres_y_tipo_API_verificados": true,
+  "rotulo_API_no_certifica_frontera_PV": true
+}

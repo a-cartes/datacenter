@@ -132,3 +132,32 @@ El calendario solo considera carpetas mensuales `_completo` cuyo manifiesto acre
 La reextracción de los doce canales usa `calendario_operativo_canteras.py`, con los insumos locales descritos en su manifiesto. `documentar_topologia_canteras.py` extrae cuatro tramos y ocho secciones del catálogo local. `auditar_flujo500_canteras.py`, `resumir_calendario_local.py` y `figura_operacion_canteras.py` conservan rutas de salida fijas y rechazan sobrescritura: para otra ejecución, cambiar únicamente el destino en una copia versionada. Los verificadores públicos no requieren esa reextracción.
 
 `descargar_operacion_api.py` y `lote_rio_202408_202608.py` documentan la adquisición, pero no son necesarios para reproducir resultados publicados. Requieren acceso autorizado a la API del Coordinador. La credencial se lee localmente y nunca se incluye en manifiestos o URLs publicadas. El lote usa dos trabajadores, pausas y páginas de10.000 registros; los intentos fallidos de mayor tamaño y el ensayo RIO incompleto se conservan identificados. La ejecución piloto de regresión interrumpida no es un resultado vigente.
+
+
+## Generación solar y maniobras
+
+Resultado vigente: `resultados/20261011_generacion_v3/`. V1 se detuvo al detectar hora25 mal alineada; v2 por columna auxiliar duplicada en el enlace de desfases. Ambas se conservan como ejecuciones incompletas, junto con su código en `historial/`. V3 usa clave UTC explícita, excluye solo la fila especial y mantiene fechas completas comunes. No se modifica ningún original.
+
+Desde una copia pública, con las dependencias de análisis local instaladas:
+
+```bash
+python Investigacion_carga_zonal/scripts/verificar_generacion_publica.py --salida /tmp/verificacion_generacion_nueva.json
+python Investigacion_carga_zonal/scripts/estimar_generacion_canteras.py --ejecucion generacion_nueva
+```
+
+El primero reproduce375 contrastes y sus intervalos, comprueba13 hashes y contrasta dos modelos con LSQR independiente. El segundo reconstruye panel y estimaciones desde las respuestas API archivadas y EAF039, sin necesidad de descargar nuevamente ni disponer de credenciales. Ambos rechazan sobrescribir salidas. El parser verifica las centrales por ID/nombre y tecnología, elimina duplicados exactos solo en derivados y conserva auditoría de fechas especiales y faltantes.
+
+`documentar_maniobras_generacion.py` y `figura_generacion_canteras.py` reconstruyen el calendario documental y figura, respectivamente; sus destinos fijos rechazan sobrescritura. Para una nueva ejecución, cambiar solamente el destino en una copia versionada. El calendario marca intervalos parciales y no convierte ausencia de documentación en red sin restricciones.
+
+`descargar_generacion_selectiva.py` registra la adquisición selectiva por central y paginación desde1, con diez segundos entre solicitudes. `consultar_bess_humberto.py` documenta la consulta diaria que identifica la batería separada, con idCentral nulo. Los scripts de descarga requieren acceso a la API del CEN; nunca se registra la clave. Las consultas API fallidas se conservan, sin interpretarlas como ausencia de generación.
+
+
+### Auditoría posterior de generación nocturna
+
+La figura final es `figuras/20261011_generacion_auditada/`; la anterior conserva la interpretación provisional del rótulo API. `ADENDA_CALIDAD_GENERACION_20261011.md` documenta la detección posterior y criterios de las nuevas sensibilidades. No se modifica el panel v3.
+
+```bash
+python Investigacion_carga_zonal/scripts/sensibilidad_calidad_generacion.py --ejecucion calidad_generacion_nueva
+```
+
+`verificar_calidad_generacion.py` reproduce225 contrastes adicionales, verifica nombres y tipos de las respuestas API, y contrasta el ajuste soloSantiago con LSQR. Su salida fija rechaza sobrescritura: cambiar únicamente destino en copia versionada para repetir. La verificación archivada es `resultados/verificacion_calidad_generacion_20261011.json`. El rótulo Solar se verifica como campo de fuente, no como garantía de frontera física. La consulta diariaPFV/BESS de10-01-2026 se conserva en `fuentes_operacion/20261011_humberto_nocturno/`.

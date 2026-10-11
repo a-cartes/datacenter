@@ -1,0 +1,44 @@
+[
+  {
+    "archivo": "fuentes_operacion/20261011_maniobras_generacion/EAF-092-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/03/EAF-092-2025.pdf",
+    "sha256": "b016f764c7f8892402b6e4f3233761b2fc44514f3c6c0fcc342c132b2a2b146a",
+    "paginas": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "archivo": "fuentes_operacion/20261011_maniobras_generacion/EAF-093-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/03/EAF-093-2025.pdf",
+    "sha256": "6df4ff2cbd6fe6351ec371b93d5134840409d1f948a901443b1c41eb818f21c3",
+    "paginas": [
+      1,
+      2,
+      3,
+      5
+    ]
+  },
+  {
+    "archivo": "fuentes_operacion/20261011_maniobras_generacion/EAF-108-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/03/EAF-108-2025.pdf",
+    "sha256": "2edf3ceb9b6a783e9773360351fb8384feaba84ffa520afefaca44f7b5fd6b03",
+    "paginas": [
+      64,
+      67,
+      84,
+      106,
+      107
+    ]
+  },
+  {
+    "archivo": "fuentes_operacion/20261011_maniobras_generacion/IRF2026001051.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2026/02/IRF_11022026_Linea-de-110-kV-Punta-Peuco-Loma-Los-Colorados_IF2026001051.pdf",
+    "sha256": "d8ab01e8d9deb15268a5367fbba21268a026ad93514d7473042797be94e576a5",
+    "paginas": [
+      1
+    ]
+  }
+]

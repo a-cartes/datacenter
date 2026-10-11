@@ -1,0 +1,5 @@
+# Auditoría posterior de valores nocturnos
+
+La revisión visual de la figura, posterior a las estimaciones v3, identifica valores altos de Don Humberto a las23 horas. El rótulo Solar de la API no basta para certificar que toda la serie sea fotovoltaica pura. Se conserva el panel v3, sus coeficientes y el borrador previo, que no debe utilizarse como informe vigente.
+
+Antes de estimar estas sensibilidades se fijan: (a) baseGoogle y ajuste solo conSantiagoSolar sobre la misma muestra v3; (b) esos dos modelos y el ajuste conambas series, excluyendo días donde Don Humberto supere0,1MW en horas0–5,22–23; (c) versión que excluye días sobre1MW en esas mismas horas. Los umbrales son diagnósticos de calidad posteriores, no selección de días exógena. Las filas marcadas no se corrigen a cero ni se atribuyen automáticamente a BESS. Se consulta el día10-01-2026 para confrontar registros PFV/BESS y distinguir un posible problema de fuente del enlace local. Las nuevas estimaciones son exploratorias y no reemplazan las principales como si hubieran sido fijadas desde el inicio.

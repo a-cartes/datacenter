@@ -1,0 +1,19 @@
+{
+  "LSQR_base_google": {
+    "error": 4.946870690858418e-11,
+    "iteraciones": 86,
+    "estado_solver": 2
+  },
+  "LSQR_google_PV": {
+    "error": 4.194616876063151e-11,
+    "iteraciones": 137,
+    "estado_solver": 2
+  },
+  "reproduccion": {
+    "contrastes": 375,
+    "error_maximo": 4.429234756742062e-13
+  },
+  "insumos_preservados": 13,
+  "estado": "OK",
+  "requiere_originales_privados": false
+}

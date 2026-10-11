@@ -1,0 +1,20 @@
+[
+  {
+    "archivo": "BESS.json.gz",
+    "sha256": "a66e2eba2cf97bf4ccffecca7dcc97755e0e2c391baaea24c8aff55af99be137",
+    "fecha": "2026-01-10",
+    "filtro": {
+      "tipoTecnologia": "BESS"
+    },
+    "filas": 1920
+  },
+  {
+    "archivo": "PFV.json.gz",
+    "sha256": "7d016c9554529ebb4ac3abc4c41119f422f53785f65b043f319b189b08057dab",
+    "fecha": "2026-01-10",
+    "filtro": {
+      "idCentral": 2209
+    },
+    "filas": 24
+  }
+]

@@ -1,0 +1,6 @@
+fecha,instalacion,inicio,fin,tipo,evidencia,fuente
+2025-01-22,Las Canteras–Santiago Solar 110 kV,12:54,17:52,Ctx y prorrata,Intervalo de restricción; distinto del horario de la desconexión programada,"EAF039/2025 pp58,65; SD2025004130 p136; SI2025005181 p101"
+2025-02-26,Cerro Navia–Tap Libertadores C2,13:36,19:48,Falla,Ramas próximas a conductores; Tap Libertadores–Canteras C2 normaliza19:40,EAF092/2025 pp1–3
+2025-02-26,Tap Libertadores–Las Canteras C1,14:41,20:08,Falla,Mismo vano con vegetación; tramo Cerro Navia–Tap Libertadores normaliza20:19,EAF093/2025 pp1–3
+2025-03-06,Las Canteras–Cerro Navia C1,,23:50,Reparación forzosa,14:12 solicitud por punto con temperatura;18:36 HR Las Vegas cerrado;23:50 línea cerrada. Apertura efectiva pendiente,"EAF108/2025 anexos pp84,106,107; SDCF2025023534"
+2026-02-11,Punta Peuco–Loma Los Colorados 110 kV,12:15,,Falla,Causa preliminar: intervención fortuita durante trabajos en Rucasol; sin término certificado en IRF,IRF2026001051 p1
