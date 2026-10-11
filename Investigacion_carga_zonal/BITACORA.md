@@ -70,3 +70,19 @@ Se incorporaron tres retiros comerciales concurrentes en61 días comunes, sin im
 La verificación posterior añadió exclusión individual de controles como diagnóstico de influencia, calculó pendientes por fórmula independiente y comprobó D=P−Q y soporte:12 comprobaciones,46 insumos preservados. Los dos análisis principales verificaron38/39 insumos. La figura se inspeccionó visualmente. No se escribieron bases anteriores ni se cambió el manuscrito.
 
 Reproducción pública final:80 regresiones, coeficientes y errores HAC recalculados con NumPy mediante fórmula independiente de statsmodels. Error máximo de beta9,99e−15; de error estándar5,93e−13. No requiere originales ni descarga de26GB. Se añade entorno mínimo versionado.
+
+## 2026-10-11 · Prioridad Energy Economics y heterogeneidad horaria
+
+El usuario establece Energy Economics como objetivo principal y SOCHER como avance separado. Solicita comprobar si mayor carga o congestión ocultan un efecto al agregar mensualmente. Se conserva el cierre anterior y se registra PROTOCOLO_HORARIO_20261011.md antes de ajustar nuevas regresiones. Punto de partida0f9168d.
+
+Ejecución20261011_horas_v1:18.168 horas de757 días,25 meses; cargaHT1+HT2 y comparadores fijos de la etapa anterior. Se separan bloques de reloj, spline sobrep75mensual y estado Quillota≥100, este último sin interpretarlo como congestión exógena. ModelosA mes/hora-semana yB día/mes×hora/hora-semana; covarianza por scores semanales HAC4 y alternativa mensual; Holm de diferencias por familia. Hay40 regresiones principales y120 contrastes; se conservan señales negativas y positivas.
+
+La asociación distante intradiaria solar es+0,5912, con intervalo[−0,2558;1,4382]; la de tarde-noche−0,0609. La pendiente por encima del umbral de carga es mayor, pero su diferencia no queda precisada. Una interacción negativa con precio sistémico alto frente a cercanos supera Holm: se informa sin convertirla en efecto causal. Dos subperíodos y ambos desfases horarios se calcularon según protocolo.
+
+Ejecución20261011_episodios_horarios_v1: revisión de129 páginas de registros operativos de tres EAF,3 días. Se clasifican19 horas completas con restricción específica,46 sin ese control y7 desconocidas/transición. El estado no se extiende al resto de fechas. Para06-11-2024 el comienzo observado es prorrata01:34; no se infiere medianoche. El texto original y los documentos no se modifican.
+
+La descomposición de pendiente mensual usa siempre la carga media mensual total: contribuciones+0,071708(solar),−0,002219(tarde),+0,013537(resto), suma+0,083026. Se distingue de las pendientes por bloque con su propia carga. El cálculo de agregación aclara el protocolo sin redefinir bloques ni escoger especificaciones posteriores.
+
+Verificaciones:31 y6 insumos preservados; comprobación general de271 tambiénOK. Panel mensual reconstruido hasta3,6e−15; estimaciónB contrastada mediante dummies dispersas y LSQR independiente, error1,2e−11. Figura inspeccionada. Los demás cambios son nuevos informes, código, derivados y enlaces; no se toca el manuscrito ni bases originales.
+
+Cierre de reproducción pública: las 40 regresiones y los 120 contrastes principales se reprodujeron desde el panel publicado, incluidos errores estándar semanales y mensuales; diferencia máxima menor a 9e−16. La comprobación final de los 271 insumos y del cierre histórico volvió a pasar sin diferencias.

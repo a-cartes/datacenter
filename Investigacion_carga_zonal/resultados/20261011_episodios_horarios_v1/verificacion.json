@@ -1,0 +1,11 @@
+{
+  "estado": "OK",
+  "insumos_preservados": 6,
+  "dias_caso": 3,
+  "horas_por_estado": {
+    "sin_ese_control": 46,
+    "restriccion": 19,
+    "transicion_o_desconocido": 7
+  },
+  "nota": "Ausencia de ese control no prueba ausencia de otras restricciones; casos no aleatorios"
+}

@@ -34,3 +34,7 @@ La auditoría vigente verificó nuevamente el SHA-256 de **271 insumos**, antes 
 ## Comparadores externos de Las Canteras
 
 La [estimación zonal y revisión de cargas y red](INFORME_CONTROLES_ZONALES_20261011.md) añade controles fuera del corredor, una comparación fuera de la RM, retiros concurrentes y validación previa. Conserva ambas selecciones y todos los signos. Consulte el [protocolo](PROTOCOLO_CONTROLES_EXTERNOS_20261011.md) y la [adenda de controles distantes](ADENDA_CONTROLES_DISTANTES_20261011.md).
+
+## Heterogeneidad horaria y prioridad Energy Economics
+
+La [revisión horaria de Las Canteras](INFORME_HETEROGENEIDAD_HORARIA_20261011.md) distingue bloques de reloj, carga alta y restricciones operativas documentadas. Incluye18.168 horas, descomposición exacta de la asociación mensual, efectos fijos intradiarios, sensibilidad de reloj y subperíodos. Conserva el cierre SOCHER y las comparaciones anteriores. [Protocolo](PROTOCOLO_HORARIO_20261011.md).

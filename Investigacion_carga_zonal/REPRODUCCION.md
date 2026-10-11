@@ -86,3 +86,23 @@ python Investigacion_carga_zonal/scripts/reproducir_estimaciones_publicadas.py
 ```
 
 No escribe archivos por defecto ni necesita red después de instalar dependencias. Reproduce80 coeficientes y errores HAC mediante OLS NumPy y una fórmula independiente de covarianza Bartlett; contrasta las cifras archivadas. [Resultado ejecutado](resultados/20261011_verificacion_zonal_v1/reproduccion_publica.json). Esto verifica la aritmética desde derivados públicos; la reextracción y validación de fronteras requieren los originales identificados en cada manifiesto. Las dependencias del análisis completo están en `requirements-analisis-local.txt`.
+
+## Análisis horario y episodios operativos
+
+Resultados principales: `resultados/20261011_horas_v1/`. Desde el proyecto contenedor:
+
+```bash
+Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investigacion_carga_zonal/scripts/estimar_heterogeneidad_horaria.py --proyecto . --ejecucion horas_nueva
+Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investigacion_carga_zonal/scripts/episodios_y_agregacion_horaria.py --proyecto . --ejecucion episodios_nueva
+```
+
+El segundo comando lee el panel horario archivado v1 y tres PDF originales locales; requiere `pypdf==6.19.0`. No descarga fuentes ni reemplaza resultados. Los estados se limitan a tres días; las horas restantes no se imputan sin restricción. Los manifiestos fijan todos los insumos.
+
+Desde la raíz de una copia pública de GitHub, con las dependencias de `requirements-analisis-local.txt` instaladas, sin acceso a originales:
+
+```bash
+python Investigacion_carga_zonal/scripts/reproducir_horario_publico.py
+python Investigacion_carga_zonal/scripts/verificar_horario_publico.py
+```
+
+El primer comando repite40 regresiones principales y contrasta120 pendientes/diferencias y sus errores estándar. El segundo reconstruye las medias mensuales anteriores y contrasta el sistema intradiario mediante dummies explícitas y LSQR, una ruta numérica independiente. No escriben archivos por defecto. La figura se reconstruye con `scripts/figura_heterogeneidad_horaria.py`; conserva la carpeta existente y requiere cambiar la salida en una copia versionada para generar otra.

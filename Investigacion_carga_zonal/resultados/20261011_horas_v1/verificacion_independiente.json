@@ -1,0 +1,22 @@
+{
+  "estado": "OK",
+  "n_horas": 18168,
+  "n_dias": 757,
+  "comprobaciones": [
+    {
+      "prueba": "agregacion_reproduce_panel_anterior",
+      "error": 3.552713678800501e-15
+    },
+    {
+      "prueba": "FE_con_dummies_LSQR_independiente",
+      "error": 1.1400547172968345e-11,
+      "iteraciones": 61,
+      "estado_solver": 2
+    },
+    {
+      "prueba": "identidades_pendientes_y_diferencias",
+      "error": 0
+    }
+  ],
+  "originales_necesarios": false
+}

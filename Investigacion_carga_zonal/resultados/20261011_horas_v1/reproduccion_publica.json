@@ -1,0 +1,11 @@
+{
+  "estado": "OK",
+  "regresiones": 40,
+  "contrastes": 120,
+  "errores_maximos": {
+    "beta": 7.181755190543981e-16,
+    "se_semana_HAC4": 8.881784197001252e-16,
+    "se_mes_cluster": 8.881784197001252e-16
+  },
+  "originales_necesarios": false
+}

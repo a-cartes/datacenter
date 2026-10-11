@@ -1,0 +1,10 @@
+fecha,desde_minuto,hasta_minuto,estado,evidencia
+2024-10-07,0,390,restriccion,estado00 y FinalizaCtx06:30
+2024-10-07,390,1380,sin_ese_control,Finaliza06:30; Inicia23:00
+2024-10-07,1380,1440,restriccion,IniciaCtx23:00
+2024-10-26,0,462,restriccion,estado00 y FinalizaCtx07:42
+2024-10-26,462,1350,sin_ese_control,Finaliza07:42; Inicia22:30
+2024-10-26,1350,1440,restriccion,IniciaCtx22:30
+2024-11-06,94,388,restriccion,IniciaProrrata01:34 y FinalizaCtx06:28; no inferir estado00
+2024-11-06,388,1390,sin_ese_control,Finaliza06:28; Inicia23:10
+2024-11-06,1390,1440,restriccion,IniciaCtx23:10
