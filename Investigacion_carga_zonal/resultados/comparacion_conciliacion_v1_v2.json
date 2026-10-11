@@ -1,0 +1,17 @@
+{
+  "estado": "OK",
+  "tablas_identicas_byte_a_byte": {
+    "resumen_conciliacion.csv": true,
+    "sensibilidad_reloj.csv": true,
+    "panel_zonal_mensual_exploratorio.csv": true,
+    "diagnostico_canteras_carga_precio.csv": true,
+    "carga_mensual_dias_24h.csv": true,
+    "conciliacion_diaria.csv": true,
+    "precios_mensuales_zonas_candidatas.csv": true,
+    "balances_canales_mensuales.csv": true
+  },
+  "dias_precios_elegibles_identicos": true,
+  "filas_diarias_v1": 1199095,
+  "filas_diarias_v2": 10271,
+  "correccion": "Eliminar combinaciones categóricas vacías de barras fuera de selección; sin cambio de observaciones elegibles ni resultados"
+}

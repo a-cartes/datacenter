@@ -1,0 +1,9 @@
+resultado,especificacion,meses,coeficiente_USD_MWh_por_MW,correlacion_simple,interpretacion
+P,niveles,25,1.0650003822550744,0.12155000549856082,asociación exploratoria; no ATT ni efecto causal
+P,tendencia_lineal,25,0.0904985202623646,0.12155000549856082,asociación exploratoria; no ATT ni efecto causal
+P,primeras_diferencias,24,12.312757777555376,0.2452586523225614,asociación exploratoria; no ATT ni efecto causal
+P,diferencias_12_meses,13,-2.390595347474422,-0.25686465655446605,asociación exploratoria; no ATT ni efecto causal
+D,niveles,25,0.16548236571804964,0.46064550987046804,asociación exploratoria; no ATT ni efecto causal
+D,tendencia_lineal,25,0.19349942139910797,0.46064550987046804,asociación exploratoria; no ATT ni efecto causal
+D,primeras_diferencias,24,0.6907784907441047,0.37135418917628,asociación exploratoria; no ATT ni efecto causal
+D,diferencias_12_meses,13,0.0833363626078925,0.19249185272578276,asociación exploratoria; no ATT ni efecto causal

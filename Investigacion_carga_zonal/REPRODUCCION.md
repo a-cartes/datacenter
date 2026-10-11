@@ -41,3 +41,24 @@ Git conserva código e informes; los hashes verifican identidad de insumos exter
 ## Límites del control
 
 La comprobación SHA-256 cubre los 271 insumos seleccionados, no todos los archivos de todo el disco. La identidad de tablas v7 acredita que se leyeron las mismas tablas archivadas; no convierte automáticamente sus fronteras en consumo exclusivo de un centro. La comprobación del tag permite constatar que el cierre publicado anterior sigue identificado por el mismo commit.
+
+
+## Conciliación y diagnósticos del 11 de octubre
+
+Resultados principales vigentes: `resultados/20261011_conciliacion_v2/`. La v1 se conserva junto con su código archivado; la corrección posterior solo eliminó filas vacías no elegibles de la tabla diaria. Los diagnósticos adicionales y la figura se calcularon sobre v1; las observaciones utilizadas y tablas científicas son idénticas a v2, como documenta `comparacion_conciliacion_v1_v2.json`.
+
+Reproducir la conciliación en una carpeta nueva:
+
+```bash
+Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investigacion_carga_zonal/scripts/conciliar_canteras_odata.py --proyecto . --mediciones-legacy '/ruta/a/SOCHER_2026_v7_2020_2026/mediciones' --ejecucion conciliacion_nueva
+```
+
+Reproducir la adenda (lee los resultados archivados v1 y tres originales SIP del worktree previo, solo en lectura):
+
+```bash
+Replica_RM_desde_cero/.venv/bin/python -B Publicacion_GitHub_datacenter/Investigacion_carga_zonal/scripts/diagnosticos_adicionales.py --proyecto . --mediciones-legacy '/ruta/a/SOCHER_2026_v7_2020_2026/mediciones' --ejecucion diagnostico_nuevo
+```
+
+Los originales SIP se esperan en `.claude/worktrees/sip-api/Panel_datos/sip_api/barrido_v2/`; no se importa el código de ese proyecto ni se modifica ese worktree. La identidad de cada archivo está en el manifiesto de la ejecución. La alternativa ST02 sigue siendo condicional.
+
+La figura usa `matplotlib`, además de las dependencias anteriores. `scripts/figura_conciliacion.py` reconstruye la figura desde las tablas archivadas y rechaza sobrescribir su carpeta de salida. Para una variante, crear otra versión del script o cambiar expresamente la carpeta de salida, registrando ese cambio.

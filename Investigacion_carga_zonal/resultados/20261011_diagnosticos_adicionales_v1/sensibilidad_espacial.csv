@@ -1,0 +1,16 @@
+resultado,especificacion,n_meses,beta_USD_MWh_por_MW
+D_canteras,niveles,25,0.16548236571804978
+D_canteras,tendencia_lineal,25,0.19349942139910856
+D_canteras,primeras_diferencias,24,0.6907784907441049
+D_canteras,diferencias_12_meses,13,0.08333636260789286
+D_canteras,condicional_Q,25,0.13368867987136768
+D_corredor,niveles,25,0.16053742199272908
+D_corredor,tendencia_lineal,25,0.16428786164299897
+D_corredor,primeras_diferencias,24,0.6869803630978091
+D_corredor,diferencias_12_meses,13,0.046436119650254175
+D_corredor,condicional_Q,25,0.12532260926614158
+brecha_canteras_corredor,niveles,25,0.004944943725320613
+brecha_canteras_corredor,tendencia_lineal,25,0.029211559756109486
+brecha_canteras_corredor,primeras_diferencias,24,0.003798127646296012
+brecha_canteras_corredor,diferencias_12_meses,13,0.03690024295763857
+brecha_canteras_corredor,condicional_Q,25,0.008366070605226096

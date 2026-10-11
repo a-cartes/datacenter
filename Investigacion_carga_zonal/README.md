@@ -1,8 +1,15 @@
 # Consumo efectivo y exposición eléctrica zonal
 
-**Inicio: 11 de octubre de 2026. Estado: auditoría de disponibilidad terminada; diseño de estimación propuesto.**
+**Inicio: 11 de octubre de 2026. Estado: disponibilidad auditada, conciliación de Las Canteras/ODATA realizada y panel exploratorio zonal preparado.**
 
 Tenemos mediciones con las que avanzar hacia una exposición basada en carga y conexión. La prioridad es aprovecharlas y completar sus correspondencias históricas. Esta etapa preserva la réplica anterior y no reemplaza sus resultados por una nueva regresión.
+
+## Avance de conciliación
+
+- [Informe de conciliación, conexiones e indicios zonales](INFORME_CONCILIACION_20261011.md).
+- [Protocolo previo a los nuevos resultados](PROTOCOLO_CONCILIACION_20261011.md) y [adenda exploratoria posterior](ADENDA_DIAGNOSTICOS_20261011.md).
+- [Panel mensual preparado](resultados/20261011_conciliacion_v2/panel_zonal_mensual_exploratorio.csv).
+- [Conexiones revisadas](CONEXIONES_CONCILIACION_20261011.csv) y [huellas de sus fuentes](FUENTES_CONEXIONES_20261011.csv).
 
 ## Documentos de trabajo
 

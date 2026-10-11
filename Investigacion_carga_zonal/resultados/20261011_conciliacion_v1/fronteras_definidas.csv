@@ -1,0 +1,12 @@
+frontera,sockets,canal,calidad
+Canteras_HT12_D,LSCANTRS_110_HT1_EDG;LSCANTRS_110_HT2_EDG,D,selección documental/diagnóstico; no fronteras sumables entre sí
+Canteras_HT3_R,LSCANTRS_110_HT3_EDG,R,selección documental/diagnóstico; no fronteras sumables entre sí
+ST01_J9_D,NUELAMPA_220_J9_ODT,D,selección documental/diagnóstico; no fronteras sumables entre sí
+ST01_JT5_D,LAMPA_220_JT5_ODT,D,selección documental/diagnóstico; no fronteras sumables entre sí
+ST01_JT5_R,LAMPA_220_JT5_ODT,R,selección documental/diagnóstico; no fronteras sumables entre sí
+ST01_ET5_D,LAMPA_023_ET5_ODT,D,selección documental/diagnóstico; no fronteras sumables entre sí
+ST02_CT12_D,ODATA_013_CT1_LED;ODATA_013_CT2_LED,D,selección documental/diagnóstico; no fronteras sumables entre sí
+ST02_HT12_R,ODATA_110_HT1_LED;ODATA_110_HT2_LED,R,selección documental/diagnóstico; no fronteras sumables entre sí
+ST02_HT12_D,ODATA_110_HT1_LED;ODATA_110_HT2_LED,D,selección documental/diagnóstico; no fronteras sumables entre sí
+ST02_SA_D,ODATA_000_SA_LED,D,selección documental/diagnóstico; no fronteras sumables entre sí
+ST02_Panamericana_H34_D,PNMRCANA_110_H3_LED;PNMRCANA_110_H4_LED,D,selección documental/diagnóstico; no fronteras sumables entre sí

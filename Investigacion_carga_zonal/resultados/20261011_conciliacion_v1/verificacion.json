@@ -1,0 +1,9 @@
+{
+  "estado": "OK",
+  "insumos_preservados": 33,
+  "originales_modificados": 0,
+  "nuevas_descargas": 0,
+  "regresiones_causales": 0,
+  "meses_canteras_diagnostico": 25,
+  "protocolo_sha256": "4b91dadd1ccdfe89535b25c8b2c809e71dcd24defcdf8f063a91c1b36b6802c3"
+}

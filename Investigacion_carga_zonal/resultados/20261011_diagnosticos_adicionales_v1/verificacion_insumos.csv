@@ -1,0 +1,12 @@
+archivo,sin_cambios
+Investigacion_carga_zonal/resultados/20261011_conciliacion_v1/fronteras_diarias.csv,True
+Investigacion_carga_zonal/resultados/20261011_conciliacion_v1/precios_diarios_zonas_candidatas.csv.gz,True
+Investigacion_carga_zonal/resultados/20261011_conciliacion_v1/conciliacion_diaria.csv,True
+Investigacion_carga_zonal/resultados/20261011_conciliacion_v1/panel_zonal_mensual_exploratorio.csv,True
+proyecto/Panel_datos/codex_panel_nacional/data/withdrawals/cliente_hora.parquet,True
+mediciones_legacy/tablas/mediciones_candidatos_15min.parquet,True
+Investigacion_carga_zonal/ADENDA_DIAGNOSTICOS_20261011.md,True
+Investigacion_carga_zonal/scripts/diagnosticos_adicionales.py,True
+proyecto/.claude/worktrees/sip-api/Panel_datos/sip_api/barrido_v2/focal_2026-07-05.csv.gz,True
+proyecto/.claude/worktrees/sip-api/Panel_datos/sip_api/barrido_v2/focal_2026-07-15.csv.gz,True
+proyecto/.claude/worktrees/sip-api/Panel_datos/sip_api/barrido_v2/focal_2026-07-25.csv.gz,True
