@@ -1,0 +1,11 @@
+{
+  "estado": "OK",
+  "registros_locales": 12,
+  "dias_menciones": 3,
+  "registros_inicio_final": 4,
+  "episodio_horas": 24,
+  "horas_restriccion_completas": 4,
+  "horas_transicion": 2,
+  "alcance": "Las menciones no constituyen un calendario completo de desconexiones. Los ceros son banderas de revisión, no estados de equipo. La comparación dentro del episodio es descriptiva; no identifica el efecto del centro de datos.",
+  "originales_modificados": 0
+}

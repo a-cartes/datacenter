@@ -1,0 +1,36 @@
+{
+  "estado": "OK",
+  "comparaciones": [
+    {
+      "version": "v1",
+      "archivo": "estimaciones.csv",
+      "identico_v3": true
+    },
+    {
+      "version": "v1",
+      "archivo": "parametros.csv",
+      "identico_v3": true
+    },
+    {
+      "version": "v1",
+      "archivo": "soporte.csv",
+      "identico_v3": true
+    },
+    {
+      "version": "v2",
+      "archivo": "estimaciones.csv",
+      "identico_v3": true
+    },
+    {
+      "version": "v2",
+      "archivo": "parametros.csv",
+      "identico_v3": true
+    },
+    {
+      "version": "v2",
+      "archivo": "soporte.csv",
+      "identico_v3": true
+    }
+  ],
+  "cambio": "Serialización de metadatos y ruta de salida; coeficientes y tablas científicas idénticos."
+}

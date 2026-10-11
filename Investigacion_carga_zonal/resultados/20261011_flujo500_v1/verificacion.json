@@ -1,0 +1,13 @@
+{
+  "estado": "OK",
+  "filas_originales": 48110,
+  "horas_sensibilidad": 5692,
+  "dias_sensibilidad": 239,
+  "meses_sensibilidad": 8,
+  "horas_pareadas_2026": 5617,
+  "correlacion_extremos": -0.9977786633111987,
+  "fraccion_balance_compatible": 0.9207762150614207,
+  "serie_pre2026_utilizada": false,
+  "convencion_hora": "Intervalos locales 0\u201323; pendiente certificaci\u00f3n externa; d\u00edas DST ya excluidos en panel",
+  "originales_modificados": 0
+}

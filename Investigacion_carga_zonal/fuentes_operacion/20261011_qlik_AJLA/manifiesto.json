@@ -1,0 +1,9 @@
+{
+  "archivo": "potencia_transitada_AJLA_C1_original.csv",
+  "sha256": "aaf47e841a2430fb3d39ad58cd4ead38bb2fa1f4e2f80c5c25f2214e174b3976",
+  "bytes": 6495312,
+  "url": "https://qap-prd.coordinador.cl/ext/extensions/mashup_Potencia_Transitada_Por_Linea_Descargable/mashup_Potencia_Transitada_Por_Linea_Descargable.html",
+  "consulta": "2026-10-11",
+  "seleccion": "Años 2024,2025,2026; Nombre Línea Lo Aguirre - Alto Jahuel 500 kV C1 (dos rótulos con espacios distintos); meses sin filtro; CSV",
+  "estado": "descargado; histórico anterior a 2026 con anomalías; no usado en estimación principal"
+}

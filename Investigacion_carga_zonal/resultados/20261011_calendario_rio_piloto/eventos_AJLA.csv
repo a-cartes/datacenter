@@ -1,0 +1,311 @@
+fecha,tipo,segundo,estado,origen,id_instruccion,hora,motivo,zona,fuente
+2024-08-28,ctx,8100.0,0,instruccion,560661,02:15:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202408_completo
+2024-08-28,ctx,1200.0,1,instruccion,560642,00:20:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202408_completo
+2024-09-01,ctx,65100.0,1,instruccion,572031,18:05:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-01,ctx,66120.0,0,instruccion,572071,18:22:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,2280.0,1,instruccion,609239,00:38:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,11160.0,0,instruccion,606251,03:06:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,79260.0,1,instruccion,609157,22:01:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,2280.0,1,instruccion,606195,00:38:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,79380.0,0,instruccion,609158,22:03:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,79440.0,1,instruccion,609159,22:04:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-15,ctx,79440.0,0,instruccion,609160,22:04:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,420.0,1,instruccion,612513,00:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,10620.0,0,instruccion,609483,02:57:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,10620.0,0,instruccion,612527,02:57:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,28500.0,0,instruccion,609641,07:55:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,6300.0,1,instruccion,609409,01:45:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,24000.0,0,instruccion,609570,06:40:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,25920.0,1,instruccion,609595,07:12:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,12360.0,1,instruccion,612498,03:26:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,25920.0,1,instruccion,612501,07:12:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,24000.0,0,instruccion,612525,06:40:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,28500.0,0,instruccion,612523,07:55:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,12360.0,1,instruccion,609512,03:26:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,420.0,1,instruccion,609295,00:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-16,ctx,6300.0,0,instruccion,609407,01:45:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-20,ctx,27000.0,0,instruccion,628976,07:30:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-20,ctx,1200.0,1,instruccion,624790,00:20:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-20,ctx,1200.0,1,instruccion,624957,00:20:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-20,ctx,27000.0,0,instruccion,625040,07:30:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-20,ctx,1020.0,1,instruccion,624778,00:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-21,ctx,28020.0,0,instruccion,629401,07:47:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-21,ctx,3600.0,1,instruccion,629095,01:00:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-21,ctx,28020.0,0,instruccion,632570,07:47:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-21,ctx,28020.0,0,instruccion,629472,07:47:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-21,ctx,3600.0,1,instruccion,629200,01:00:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-22,ctx,1020.0,1,instruccion,632844,00:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-22,ctx,28800.0,0,instruccion,633084,08:00:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-22,ctx,28800.0,0,instruccion,633110,08:00:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-22,ctx,28800.0,0,instruccion,636810,08:00:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-22,ctx,1020.0,1,instruccion,636782,00:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-22,ctx,0.0,1,zona_inicial,632871,00:00:00,"TV Inicia mantenimiento mayor, según SD 2024095358",LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202409_completo
+2024-09-26,ctx,7260.0,1,instruccion,650592,02:01:00,Inicia Ctx LT 500 kV A. Jahuel - Lo Aguirre,LT 500 kV A. Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-09-26,ctx,8400.0,0,instruccion,650607,02:20:00,Finaliza Ctx LT 500 kV A. Jahuel - Lo Aguirre,LT 500 kV A. Jahuel - Lo Aguirre,20261011_rio_202409_completo
+2024-10-04,ctx,15360.0,0,instruccion,684546,04:16:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-04,ctx,3600.0,1,instruccion,684498,01:00:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-05,ctx,28380.0,0,instruccion,688216,07:53:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-05,ctx,28380.0,0,instruccion,690520,07:53:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-05,ctx,4500.0,1,instruccion,689335,01:15:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-05,ctx,4500.0,1,instruccion,688180,01:15:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-05,ctx,28380.0,0,instruccion,689337,07:53:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-05,ctx,4500.0,1,instruccion,690521,01:15:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-06,ctx,780.0,1,instruccion,690572,00:13:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-06,ctx,84360.0,1,instruccion,693409,23:26:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-06,ctx,28200.0,0,instruccion,691938,07:50:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-06,ctx,28200.0,0,instruccion,690671,07:50:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-06,ctx,780.0,1,instruccion,691934,00:13:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,23400.0,0,instruccion,693709,06:30:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,0.0,1,zona_inicial,693491,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,0.0,1,zona_inicial,693488,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,82800.0,1,instruccion,697165,23:00:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,0.0,1,zona_inicial,693490,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,23400.0,0,instruccion,694001,06:30:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,0.0,1,zona_inicial,693487,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-07,ctx,0.0,1,zona_inicial,693492,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-08,ctx,0.0,1,zona_inicial,697281,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-08,ctx,14580.0,0,instruccion,698191,04:03:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-08,ctx,0.0,1,zona_inicial,697277,00:00:00,Cambio de combustible de GNL-A a GNL-B,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-08,ctx,14580.0,0,instruccion,697473,04:03:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-08,ctx,0.0,1,zona_inicial,697288,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-08,ctx,0.0,1,zona_inicial,697286,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-11,ctx,24240.0,0,instruccion,704935,06:44:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-11,ctx,4500.0,1,instruccion,704813,01:15:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-11,ctx,24240.0,0,instruccion,704928,06:44:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-12,ctx,26820.0,0,instruccion,708729,07:27:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-12,ctx,82380.0,1,instruccion,711407,22:53:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-12,ctx,1500.0,1,instruccion,708165,00:25:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-12,ctx,1500.0,1,instruccion,708161,00:25:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-12,prorrata,15300.0,1,instruccion,708387,04:15:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202410_completo
+2024-10-12,prorrata,24060.0,0,instruccion,711404,06:41:00,Finaliza Prorrata  LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202410_completo
+2024-10-13,ctx,25800.0,0,instruccion,711757,07:10:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-13,ctx,0.0,1,zona_inicial,711500,00:00:00,Cambio de combustible GNL-A a GNL-B,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-13,ctx,0.0,1,zona_inicial,711508,00:00:00,Cambio de combustible GNL-A a GNL-B,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-13,ctx,25800.0,0,instruccion,711750,07:10:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-14,ctx,5100.0,1,instruccion,714900,01:25:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-14,ctx,5100.0,1,instruccion,717574,01:25:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-14,ctx,22380.0,0,instruccion,715022,06:13:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-14,ctx,22380.0,0,instruccion,715018,06:13:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-14,ctx,22380.0,0,instruccion,717575,06:13:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-14,ctx,5100.0,1,instruccion,714913,01:25:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,0.0,1,zona_inicial,718681,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,4020.0,1,instruccion,718610,01:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,12480.0,0,instruccion,718690,03:28:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,12480.0,0,instruccion,721607,03:28:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,4020.0,1,instruccion,721594,01:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,6660.0,1,instruccion,721416,01:51:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,5460.0,0,instruccion,718639,01:31:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,6660.0,1,instruccion,718653,01:51:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-15,ctx,0.0,1,zona_inicial,718669,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-16,ctx,15720.0,1,instruccion,722651,04:22:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-16,ctx,15720.0,1,instruccion,725500,04:22:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-16,ctx,19980.0,0,instruccion,722688,05:33:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-16,ctx,19980.0,0,instruccion,725503,05:33:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,ctx,7920.0,0,instruccion,728666,02:12:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,ctx,2460.0,1,instruccion,726451,00:41:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,ctx,1800.0,1,instruccion,726427,00:30:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,ctx,7920.0,0,instruccion,726576,02:12:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,ctx,3180.0,0,instruccion,726445,00:53:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,ctx,85620.0,1,instruccion,729489,23:47:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-17,prorrata,4320.0,1,instruccion,726482,01:12:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202410_completo
+2024-10-18,ctx,13380.0,0,instruccion,731804,03:43:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-18,ctx,0.0,1,zona_inicial,729571,00:00:00,Cambio de combustible de GNL_A a GNL_B,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-18,ctx,13380.0,0,instruccion,729596,03:43:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-18,ctx,0.0,1,zona_inicial,729576,00:00:00,Cambio de combustible de GNL_A a GNL_B,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-20,ctx,85320.0,1,instruccion,738504,23:42:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-21,ctx,84900.0,1,instruccion,742236,23:35:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-21,ctx,0.0,1,zona_inicial,738631,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-21,ctx,23880.0,0,instruccion,738702,06:38:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-21,ctx,0.0,1,zona_inicial,738531,00:00:00,Cambio en la Política de Precios,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-21,ctx,0.0,1,zona_inicial,738632,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-21,ctx,23880.0,0,instruccion,742262,06:38:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202410_completo
+2024-10-22,ctx,23700.0,0,instruccion,743097,06:35:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-22,ctx,2340.0,0,instruccion,742376,00:39:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-22,ctx,2520.0,1,instruccion,742381,00:42:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-22,ctx,19680.0,1,instruccion,742695,05:28:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-22,ctx,19620.0,0,instruccion,742692,05:27:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-22,ctx,23700.0,0,instruccion,745893,06:35:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-25,ctx,83820.0,1,instruccion,758451,23:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-25,ctx,83820.0,1,instruccion,758521,23:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,0.0,1,zona_inicial,758529,00:00:00,Cambio de combustible,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,0.0,1,zona_inicial,758530,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,27720.0,0,instruccion,764893,07:42:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,81000.0,1,instruccion,765007,22:30:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,0.0,1,zona_inicial,758526,00:00:00,Cambio de combustible,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,27720.0,0,instruccion,759027,07:42:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,0.0,1,zona_inicial,758527,00:00:00,Cambio CMG,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-26,ctx,0.0,1,zona_inicial,758528,00:00:00,Cambio de combustible,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765122,00:00:00,Cambio política de precos,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,26460.0,0,instruccion,765629,07:21:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,76980.0,1,instruccion,768315,21:23:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765128,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,26460.0,0,instruccion,768328,07:21:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765124,00:00:00,Cambio política de precos,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765118,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,26520.0,0,instruccion,768342,07:22:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765117,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765125,00:00:00,Cambio política de precos,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,76980.0,1,instruccion,768252,21:23:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-27,ctx,0.0,1,zona_inicial,765123,00:00:00,Cambio política de precos,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768493,00:00:00,Cambio de combustible,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768491,00:00:00,Cambio de combustible,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768496,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768494,00:00:00,Cambio en la política de precios,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768495,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768498,00:00:00,	Cambio en la política de precios,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,26400.0,0,instruccion,768824,07:20:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768497,00:00:00,	Cambio en la política de precios,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-28,ctx,0.0,1,zona_inicial,768492,00:00:00,Cambio CMG,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772515,00:00:00,Cancela IL 2024001529,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772518,00:00:00,Cancela IL 2024001532,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,27300.0,0,instruccion,772652,07:35:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772517,00:00:00,Cancela IL 2024001531,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772519,00:00:00,Cancela IL 2024001533,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772527,00:00:00,Cancela IL 2024001531,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772516,00:00:00,Cancela IL 2024001530,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772523,00:00:00,Cancela IL 2024001529,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772521,00:00:00,Cancela IL 2024001533,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,0.0,1,zona_inicial,772522,00:00:00,Cancela IL 2024001530,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,ctx,4500.0,1,instruccion,771994,01:15:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-29,prorrata,5820.0,1,instruccion,772189,01:37:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202410_completo
+2024-10-29,prorrata,26280.0,0,instruccion,772634,07:18:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,,20261011_rio_202410_completo
+2024-10-31,ctx,26160.0,0,instruccion,782503,07:16:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-31,ctx,5040.0,1,instruccion,781976,01:24:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-31,ctx,83220.0,1,instruccion,786948,23:07:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202410_completo
+2024-10-31,prorrata,5520.0,1,instruccion,782005,01:32:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202410_completo
+2024-10-31,prorrata,17340.0,0,instruccion,782386,04:49:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,,20261011_rio_202410_completo
+2024-11-01,ctx,26820.0,0,instruccion,787283,07:27:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786977,00:00:00,Cambio CMG,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786980,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786989,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786990,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,787249,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,787258,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786983,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786978,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786981,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786979,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,ctx,0.0,1,zona_inicial,786982,00:00:00,,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-01,prorrata,300.0,1,instruccion,786996,00:05:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-03,ctx,27180.0,0,instruccion,797904,07:33:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-03,ctx,10680.0,1,instruccion,797568,02:58:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-03,prorrata,27180.0,0,instruccion,797906,07:33:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel        ,LT 500 kV Lo Aguirre - Alto Jahuel	,20261011_rio_202411_completo
+2024-11-03,prorrata,15900.0,1,instruccion,797603,04:25:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-04,ctx,26160.0,0,instruccion,802152,07:16:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-04,ctx,6600.0,1,instruccion,801861,01:50:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-04,ctx,6600.0,1,instruccion,802545,01:50:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-04,prorrata,13380.0,1,instruccion,801937,03:43:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,-,20261011_rio_202411_completo
+2024-11-04,prorrata,21960.0,0,instruccion,802141,06:06:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,,20261011_rio_202411_completo
+2024-11-05,ctx,83460.0,1,instruccion,810581,23:11:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-05,ctx,83460.0,1,instruccion,810594,23:11:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-06,ctx,23280.0,0,instruccion,811049,06:28:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-06,ctx,83400.0,1,instruccion,815615,23:10:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-06,prorrata,5640.0,1,instruccion,810813,01:34:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-06,prorrata,22440.0,0,instruccion,811046,06:14:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815663,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815665,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815664,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815686,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815661,00:00:00,Cambio CMG,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815668,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,4200.0,0,instruccion,815700,01:10:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815666,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-07,ctx,0.0,1,zona_inicial,815667,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-10,ctx,25200.0,0,instruccion,826653,07:00:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-10,ctx,8580.0,1,instruccion,826515,02:23:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-10,prorrata,25200.0,0,instruccion,826677,07:00:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-10,prorrata,25200.0,0,instruccion,826669,07:00:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-10,prorrata,15600.0,1,instruccion,826552,04:20:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-12,ctx,24360.0,0,instruccion,836011,06:46:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,8220.0,1,instruccion,834678,02:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,19740.0,0,instruccion,834955,05:29:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,8220.0,1,instruccion,836007,02:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,19740.0,1,instruccion,834957,05:29:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,24360.0,0,instruccion,835034,06:46:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,8220.0,1,instruccion,837196,02:17:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,ctx,8220.0,1,instruccion,834779,02:17:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,prorrata,23400.0,0,instruccion,836010,06:30:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-12,prorrata,8280.0,1,instruccion,834689,02:18:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-12,prorrata,8280.0,1,instruccion,837200,02:18:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-12,prorrata,23400.0,0,instruccion,834992,06:30:00,Finaliza Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-12,prorrata,8280.0,1,instruccion,836006,02:18:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-12,prorrata,23400.0,0,instruccion,837201,06:30:00,Finaliza Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,5580.0,1,instruccion,838273,01:33:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,6000.0,1,instruccion,838277,01:40:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,1380.0,0,instruccion,838145,00:23:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,5580.0,1,instruccion,838262,01:33:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,1260.0,1,instruccion,838143,00:21:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,5580.0,1,instruccion,838268,01:33:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,24960.0,0,instruccion,838885,06:56:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,5580.0,1,instruccion,838884,01:33:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,24600.0,0,instruccion,838903,06:50:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,5580.0,1,instruccion,838278,01:33:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,ctx,24600.0,0,instruccion,838897,06:50:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,prorrata,24780.0,0,instruccion,838910,06:53:00,Finaliza Prorrata LT 500 kV Alto Jahuel - Lo Aguirre -,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-13,prorrata,24600.0,0,instruccion,838984,06:50:00,Finaliza Prorrata LT 500 kV Alto Jahuel - Lo Aguirre -,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-13,prorrata,24600.0,0,instruccion,838983,06:50:00,Finaliza Prorrata LT 500 kV Alto Jahuel - Lo Aguirre -,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-13,prorrata,24600.0,0,instruccion,838989,06:50:00,Finaliza Prorrata LT 500 kV Alto Jahuel - Lo Aguirre -,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-13,prorrata,6180.0,1,instruccion,838311,01:43:00,Inicia Prorrata LT 500 kV Lo Aguirre - Alto Jahuel,LT 500 kV Lo Aguirre - Alto Jahuel,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,843676,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,17820.0,0,instruccion,843679,04:57:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,842105,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,842121,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11520.0,0,instruccion,842095,03:12:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,842097,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,842094,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,842112,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,4320.0,0,instruccion,841999,01:12:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,4080.0,1,instruccion,841995,01:08:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,843677,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,17820.0,0,instruccion,842143,04:57:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-14,ctx,11220.0,1,instruccion,842109,03:07:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,1440.0,1,instruccion,849844,00:24:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,79620.0,0,instruccion,852601,22:07:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,1440.0,1,instruccion,849823,00:24:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,27840.0,0,instruccion,850429,07:44:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,1440.0,1,instruccion,849805,00:24:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,77100.0,1,instruccion,852542,21:25:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,77460.0,1,instruccion,852543,21:31:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,77460.0,1,instruccion,852558,21:31:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,ctx,79620.0,0,instruccion,852581,22:07:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,prorrata,3480.0,1,instruccion,849973,00:58:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,prorrata,3540.0,1,instruccion,849874,00:59:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,prorrata,3540.0,1,instruccion,849971,00:59:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,prorrata,3540.0,1,instruccion,849975,00:59:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,prorrata,3540.0,1,instruccion,849970,00:59:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-16,prorrata,3540.0,1,instruccion,849974,00:59:00,Inicia Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,ctx,77880.0,1,instruccion,855977,21:38:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,ctx,3060.0,1,instruccion,852736,00:51:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,ctx,3060.0,1,instruccion,852794,00:51:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,ctx,25920.0,0,instruccion,853299,07:12:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,ctx,77880.0,1,instruccion,855988,21:38:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,ctx,25920.0,0,instruccion,853495,07:12:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202411_completo
+2024-11-17,prorrata,25920.0,0,instruccion,853304,07:12:00,Finaliza Prorrata LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-18,ctx,27240.0,0,instruccion,858569,07:34:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-18,ctx,27240.0,0,instruccion,856897,07:34:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-18,ctx,0.0,1,zona_inicial,856136,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-18,ctx,0.0,1,zona_inicial,856135,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-20,ctx,22380.0,1,instruccion,862845,06:13:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-20,ctx,24900.0,0,instruccion,865051,06:55:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-20,ctx,22380.0,1,instruccion,865054,06:13:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-20,ctx,22380.0,1,instruccion,862835,06:13:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-20,ctx,24900.0,0,instruccion,862856,06:55:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,0.0,1,zona_inicial,866077,00:00:00,,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,0.0,1,instruccion,866069,00:00:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,0.0,1,zona_inicial,866078,00:00:00,null,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,10380.0,0,instruccion,866177,02:53:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,10380.0,0,instruccion,866173,02:53:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,0.0,1,instruccion,867903,00:00:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-21,ctx,0.0,1,zona_inicial,866076,00:00:00,Cambio CMG,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,16260.0,1,instruccion,872795,04:31:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,13920.0,0,instruccion,869721,03:52:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,9060.0,1,instruccion,872796,02:31:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,9060.0,1,instruccion,869685,02:31:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,20760.0,0,instruccion,869765,05:46:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,20640.0,0,instruccion,869768,05:44:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,16260.0,0,instruccion,872800,04:31:00,Finaliza Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-11-22,ctx,16260.0,1,instruccion,869749,04:31:00,Inicia Ctx LT 500 kV Alto Jahuel - Lo Aguirre,LT 500 kV Alto Jahuel - Lo Aguirre,20261011_rio_202411_completo
+2024-12-29,ctx,11100.0,0,instruccion,1017515,03:05:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202412_completo
+2024-12-29,ctx,6120.0,1,instruccion,1017506,01:42:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202412_completo
+2025-01-02,ctx,26400.0,0,instruccion,1035417,07:20:00,Finaliza Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202501_completo
+2025-01-02,ctx,6240.0,1,instruccion,1035261,01:44:00,Inicia Ctx LT 500 kV Alto Jahuel -  Lo Aguirre,LT 500 kV Alto Jahuel -  Lo Aguirre,20261011_rio_202501_completo

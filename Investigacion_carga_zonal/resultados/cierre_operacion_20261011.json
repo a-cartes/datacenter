@@ -1,0 +1,12 @@
+{
+  "estado": "OK",
+  "enlaces_informe_comprobados": 14,
+  "archivos_revisados_sin_credencial": 668,
+  "ningun_archivo_mayor_100MB": true,
+  "ejecucion_RIO_vigente": "20261011_estimacion_rio_v3",
+  "verificacion_publica": "verificacion_operacion_publica_20261011.json",
+  "preservacion_general": {
+    "insumos": 271,
+    "diferencias": 0
+  }
+}

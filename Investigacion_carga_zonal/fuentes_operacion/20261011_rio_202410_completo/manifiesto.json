@@ -1,0 +1,169 @@
+{
+  "recurso": "rio",
+  "ruta": "/instrucciones-operacionales-cmg/v4/findByDate",
+  "inicio": "2024-10-01",
+  "fin": "2024-10-31",
+  "consultado_UTC": "2026-10-11T21:56:56.315665+00:00",
+  "estado": "descargado_requiere_validacion",
+  "paginas": [
+    {
+      "archivo": "pagina_00001_10000.json.gz",
+      "sha256": "385156feae4345334612f9b1c74ddbfcc0870fe3e65ee00340ba4ef26a36fef5",
+      "filas": 10000,
+      "pagina_solicitada": 1,
+      "limite_solicitado": 10000,
+      "recuperado_de": "fuentes_operacion/20261011_rio_202410/pagina_00001_10000.json.gz",
+      "metadatos": {
+        "limit": 10000,
+        "page": 1,
+        "totalPages": 12
+      }
+    },
+    {
+      "archivo": "pagina_00002_10000.json.gz",
+      "sha256": "ea7183ee0e965dd74b586520cf97b3cf61fe251c464b8aa84de1b8ab101ec895",
+      "filas": 10000,
+      "pagina_solicitada": 2,
+      "limite_solicitado": 10000,
+      "recuperado_de": "fuentes_operacion/20261011_rio_202410/pagina_00002_10000.json.gz",
+      "metadatos": {
+        "limit": 10000,
+        "page": 2,
+        "totalPages": 12
+      }
+    },
+    {
+      "archivo": "pagina_00003_10000.json.gz",
+      "sha256": "7b61846dd25e742390893dfb0b5da08794cd349e93af69d3b3ef0bd5973a9791",
+      "filas": 10000,
+      "pagina_solicitada": 3,
+      "limite_solicitado": 10000,
+      "recuperado_de": "fuentes_operacion/20261011_rio_202410/pagina_00003_10000.json.gz",
+      "metadatos": {
+        "limit": 10000,
+        "page": 3,
+        "totalPages": 12
+      }
+    },
+    {
+      "archivo": "pagina_00004_10000.json.gz",
+      "sha256": "fabb808e22991d8a8176e32c9588ae953d8a8084245becc08c0d242948627436",
+      "filas": 10000,
+      "pagina_solicitada": 4,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 4,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00005_10000.json.gz",
+      "sha256": "f493af35fcc91113289f4ebd87636162f80952d1563af67d02a7c5e694279c71",
+      "filas": 10000,
+      "pagina_solicitada": 5,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 5,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00006_10000.json.gz",
+      "sha256": "919db4f187de0d028d62705779a923f4cd15df63a78d104a8345116ec5fc4d31",
+      "filas": 10000,
+      "pagina_solicitada": 6,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 6,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00007_10000.json.gz",
+      "sha256": "f139f65d6a7a3f1486fcf209e126774c86ee405f363e07b1dbb7061994a7177d",
+      "filas": 10000,
+      "pagina_solicitada": 7,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 7,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00008_10000.json.gz",
+      "sha256": "182bb6bcaab93d110f12fb2019a9409f13c3eca2192fefcf77e4b9dba477376a",
+      "filas": 10000,
+      "pagina_solicitada": 8,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 8,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00009_10000.json.gz",
+      "sha256": "d71ec2bd3b2daec510ca46a0e522107d480b8139cd9838ada72e35a9c5163b1a",
+      "filas": 10000,
+      "pagina_solicitada": 9,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 9,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00010_10000.json.gz",
+      "sha256": "2e26b5b8947c4cde225ff9fd5a85d23f36532bc3f112acc4f4ca4e648bdaafe9",
+      "filas": 10000,
+      "pagina_solicitada": 10,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 10,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00011_10000.json.gz",
+      "sha256": "fb3f4bf1fb7793247eb7daeafac96508fa479ac4ec796dc83a345e3f7b3b0c56",
+      "filas": 10000,
+      "pagina_solicitada": 11,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 11,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00012_10000.json.gz",
+      "sha256": "ba8045d363958cf75adfd18d8fb737089a07ab909577bdebf61423a73a838f75",
+      "filas": 1616,
+      "pagina_solicitada": 12,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 12,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00013_10000.json.gz",
+      "sha256": "e79857127818d7d86ecff1848c77603a2a14fc5c00b1fa69eaee359b4f979304",
+      "filas": 0,
+      "pagina_solicitada": 13,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 13,
+        "limit": 10000
+      }
+    }
+  ]
+}

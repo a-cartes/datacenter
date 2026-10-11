@@ -1,0 +1,34 @@
+{
+  "recurso": "rio",
+  "ruta": "/instrucciones-operacionales-cmg/v4/findByDate",
+  "inicio": "2024-10-07",
+  "fin": "2024-10-07",
+  "consultado_UTC": "2026-10-11T21:49:32.707013+00:00",
+  "estado": "piloto",
+  "paginas": [
+    {
+      "archivo": "pagina_00000_10.json.gz",
+      "sha256": "143ca45b28e70880c18a29a9e611ab41b1afdf0747dcccaf7def42f6f97ef29c",
+      "filas": 10,
+      "pagina_solicitada": 0,
+      "limite_solicitado": 10,
+      "metadatos": {
+        "totalPages": 378,
+        "page": 1,
+        "limit": 10
+      }
+    },
+    {
+      "archivo": "pagina_00001_10.json.gz",
+      "sha256": "09b792a8dc9a8947dab415935fb6caf2e6dd6eecd8b3a7581d390bbea92372c1",
+      "filas": 10,
+      "pagina_solicitada": 1,
+      "limite_solicitado": 10,
+      "metadatos": {
+        "totalPages": 378,
+        "page": 1,
+        "limit": 10
+      }
+    }
+  ]
+}

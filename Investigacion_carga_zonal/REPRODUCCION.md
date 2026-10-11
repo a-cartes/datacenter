@@ -106,3 +106,29 @@ python Investigacion_carga_zonal/scripts/verificar_horario_publico.py
 ```
 
 El primer comando repite40 regresiones principales y contrasta120 pendientes/diferencias y sus errores estándar. El segundo reconstruye las medias mensuales anteriores y contrasta el sistema intradiario mediante dummies explícitas y LSQR, una ruta numérica independiente. No escriben archivos por defecto. La figura se reconstruye con `scripts/figura_heterogeneidad_horaria.py`; conserva la carpeta existente y requiere cambiar la salida en una copia versionada para generar otra.
+
+## Calendario, flujos y cargas concurrentes
+
+Las reglas están en `PROTOCOLO_OPERACION_20261011.md` y `ADENDA_OPERACION_20261011.md`. Los insumos API comprimidos y su paginación se conservan en `fuentes_operacion/`; también el CSV Qlik original y el EAF039/2025. Las descargas interrumpidas quedan separadas y no acreditan ausencia de instrucciones.
+
+Para comprobar las nuevas regresiones **desde la copia pública**, con las mismas dependencias científicas ya indicadas:
+
+```bash
+python Investigacion_carga_zonal/scripts/verificar_operacion_publica.py --incluir-rio --salida /tmp/verificacion_operacion_nueva.json
+```
+
+La ruta de salida debe ser nueva. El programa reproduce pendientes e intervalos de las comparaciones físicas, comerciales, del flujo de500kV y de estados RIO; verifica además duraciones del calendario. Dos sistemas de coeficientes se contrastan con dummies explícitas y LSQR independiente. No descarga datos ni modifica entradas.
+
+Para reconstruir el calendario a partir de los JSON ya publicados y estimar en nuevas carpetas:
+
+```bash
+python Investigacion_carga_zonal/scripts/construir_calendario_rio.py --ejecucion calendario_rio_nuevo
+python Investigacion_carga_zonal/scripts/estimar_estados_rio.py --panel Investigacion_carga_zonal/resultados/calendario_rio_nuevo/panel_con_RIO.csv.gz --ejecucion estimacion_rio_nueva
+python Investigacion_carga_zonal/scripts/estimar_operacion_canteras.py --ejecucion estimacion_operacion_nueva
+```
+
+El calendario solo considera carpetas mensuales `_completo` cuyo manifiesto acredita descarga paginada terminada; comprueba cada hash y una página extra vacía. El estado desconocido se conserva. El contraste con EAF anteriores distingue Ctx y prorrata.
+
+La reextracción de los doce canales usa `calendario_operativo_canteras.py`, con los insumos locales descritos en su manifiesto. `documentar_topologia_canteras.py` extrae cuatro tramos y ocho secciones del catálogo local. `auditar_flujo500_canteras.py`, `resumir_calendario_local.py` y `figura_operacion_canteras.py` conservan rutas de salida fijas y rechazan sobrescritura: para otra ejecución, cambiar únicamente el destino en una copia versionada. Los verificadores públicos no requieren esa reextracción.
+
+`descargar_operacion_api.py` y `lote_rio_202408_202608.py` documentan la adquisición, pero no son necesarios para reproducir resultados publicados. Requieren acceso autorizado a la API del Coordinador. La credencial se lee localmente y nunca se incluye en manifiestos o URLs publicadas. El lote usa dos trabajadores, pausas y páginas de10.000 registros; los intentos fallidos de mayor tamaño y el ensayo RIO incompleto se conservan identificados. La ejecución piloto de regresión interrumpida no es un resultado vigente.

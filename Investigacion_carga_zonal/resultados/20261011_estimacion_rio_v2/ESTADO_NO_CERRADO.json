@@ -1,0 +1,5 @@
+{
+  "estado": "fallo_al_serializar_metadatos",
+  "causa": "Un entero de NumPy en la rama de modelo no estimable no era serializable en JSON; se conserva el intento.",
+  "ejecucion_vigente": "20261011_estimacion_rio_v3"
+}

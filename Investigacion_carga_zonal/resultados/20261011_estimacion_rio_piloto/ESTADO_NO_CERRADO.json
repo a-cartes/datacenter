@@ -1,0 +1,5 @@
+{
+  "estado": "piloto_interrumpido_no_usar_como_resultado",
+  "motivo": "La estimación terminó pero falló la escritura de metadatos por ruta relativa. Se conserva el intento. La ejecución final usará un directorio nuevo y verificará insumos y resultados.",
+  "salida_vigente_prevista": "20261011_estimacion_rio_v1"
+}

@@ -1,0 +1,143 @@
+{
+  "recurso": "rio",
+  "ruta": "/instrucciones-operacionales-cmg/v4/findByDate",
+  "inicio": "2025-01-01",
+  "fin": "2025-01-31",
+  "consultado_UTC": "2026-10-11T21:59:37.679395+00:00",
+  "estado": "descargado_requiere_validacion",
+  "paginas": [
+    {
+      "archivo": "pagina_00001_10000.json.gz",
+      "sha256": "95337cf76907c800e96065b8700ef13793c2dafe0b6c224bd0f427ddb009e9ba",
+      "filas": 10000,
+      "pagina_solicitada": 1,
+      "limite_solicitado": 10000,
+      "recuperado_de": "fuentes_operacion/20261011_rio_202501/pagina_00001_10000.json.gz",
+      "metadatos": {
+        "limit": 10000,
+        "page": 1,
+        "totalPages": 10
+      }
+    },
+    {
+      "archivo": "pagina_00002_10000.json.gz",
+      "sha256": "842e63f605268e000a111a85c073495496e86013ede3b6927658311937351f3c",
+      "filas": 10000,
+      "pagina_solicitada": 2,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 2,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00003_10000.json.gz",
+      "sha256": "e639655170ae9302f7404c8ef05f9d1af8ce97476ed8605de54da2bffd26742d",
+      "filas": 10000,
+      "pagina_solicitada": 3,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 3,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00004_10000.json.gz",
+      "sha256": "32d451303cddeac4497c71a5abbcee1e38a18fb353dbf81a048020b9d7d874d5",
+      "filas": 10000,
+      "pagina_solicitada": 4,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 4,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00005_10000.json.gz",
+      "sha256": "5d8da276e0f953c7a839d9b012b7a84fffe161b2620ee2d13e0d9eac7211f23f",
+      "filas": 10000,
+      "pagina_solicitada": 5,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 5,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00006_10000.json.gz",
+      "sha256": "488e03e7542f29797b8ffe9b179e93217dff4cc55c8f25d22d61c17ad8f3014f",
+      "filas": 10000,
+      "pagina_solicitada": 6,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 6,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00007_10000.json.gz",
+      "sha256": "5371566bba9ad0805455304d0d7dba9c88d939409b3d47855d30f6b44ece1357",
+      "filas": 10000,
+      "pagina_solicitada": 7,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 7,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00008_10000.json.gz",
+      "sha256": "0652f37daae60f47fc1b1981b92db8d4e2adb5f4acbdc916d1b9f0ff1debf4e9",
+      "filas": 10000,
+      "pagina_solicitada": 8,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 8,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00009_10000.json.gz",
+      "sha256": "4b0648e06519ce5bb3d611059fa1d40b4df92e86a392e18a922e440007ce69a1",
+      "filas": 10000,
+      "pagina_solicitada": 9,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 9,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00010_10000.json.gz",
+      "sha256": "ee758443508c264f887e4ca34d521c2d9b39c42ce61f6008fb1e6201c5ed623e",
+      "filas": 6499,
+      "pagina_solicitada": 10,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 10,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00011_10000.json.gz",
+      "sha256": "1823623770bcc2e0839942a2247a37015f6d7a470b18efa2dda4ab78eb8ea9f8",
+      "filas": 0,
+      "pagina_solicitada": 11,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 10,
+        "page": 11,
+        "limit": 10000
+      }
+    }
+  ]
+}

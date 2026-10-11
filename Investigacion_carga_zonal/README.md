@@ -2,6 +2,8 @@
 
 **Inicio: 11 de octubre de 2026. Estado: disponibilidad auditada, conciliación de Las Canteras/ODATA realizada y panel exploratorio zonal preparado.**
 
+**Avance actual:** [calendario operativo, flujos y cargas concurrentes](INFORME_OPERACION_Y_CARGAS_20261011.md). La aproximación física a Google concilia con retiros comerciales; el tránsito local tiene un patrón diurno marcado y se documenta un episodio de mantenimiento con restricción Las Canteras–Santiago Solar. Se comparan asociaciones en muestras constantes, preservando resultados anteriores.
+
 Tenemos mediciones con las que avanzar hacia una exposición basada en carga y conexión. La prioridad es aprovecharlas y completar sus correspondencias históricas. Esta etapa preserva la réplica anterior y no reemplaza sus resultados por una nueva regresión.
 
 ## Avance de conciliación

@@ -1,0 +1,10 @@
+carpeta,estado,filas,duplicados_exactos,identificadores_conflictivos,dias,dias_faltantes,inicio,fin
+20261011_rio_202408_completo,auditable,73487.0,3.0,0.0,31.0,,2024-08-01,2024-08-31
+20261011_rio_202409_completo,auditable,97707.0,0.0,0.0,30.0,,2024-09-01,2024-09-30
+20261011_rio_202410_completo,auditable,111616.0,1.0,0.0,31.0,,2024-10-01,2024-10-31
+20261011_rio_202411_completo,dias_faltantes,115115.0,1.0,0.0,29.0,2024-11-08,2024-11-01,2024-11-30
+20261011_rio_202412_completo,dias_faltantes,93505.0,0.0,0.0,24.0,2024-12-04;2024-12-09;2024-12-12;2024-12-13;2024-12-14;2024-12-15;2024-12-16,2024-12-01,2024-12-31
+20261011_rio_202501_completo,dias_faltantes,96499.0,1.0,0.0,30.0,2025-01-15,2025-01-01,2025-01-31
+20261011_rio_202502_completo,dias_faltantes,72575.0,117.0,40.0,27.0,2025-02-25,2025-02-01,2025-02-28
+20261011_rio_202503_completo,sin_manifiesto,,,,,,,
+20261011_rio_202504_completo,sin_manifiesto,,,,,,,

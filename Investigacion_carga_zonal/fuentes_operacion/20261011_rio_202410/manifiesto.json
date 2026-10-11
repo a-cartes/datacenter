@@ -1,0 +1,46 @@
+{
+  "recurso": "rio",
+  "ruta": "/instrucciones-operacionales-cmg/v4/findByDate",
+  "inicio": "2024-10-01",
+  "fin": "2024-10-31",
+  "consultado_UTC": "2026-10-11T21:51:28.488959+00:00",
+  "estado": "error:HTTP 429",
+  "paginas": [
+    {
+      "archivo": "pagina_00001_10000.json.gz",
+      "sha256": "385156feae4345334612f9b1c74ddbfcc0870fe3e65ee00340ba4ef26a36fef5",
+      "filas": 10000,
+      "pagina_solicitada": 1,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 1,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00002_10000.json.gz",
+      "sha256": "ea7183ee0e965dd74b586520cf97b3cf61fe251c464b8aa84de1b8ab101ec895",
+      "filas": 10000,
+      "pagina_solicitada": 2,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 2,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00003_10000.json.gz",
+      "sha256": "7b61846dd25e742390893dfb0b5da08794cd349e93af69d3b3ef0bd5973a9791",
+      "filas": 10000,
+      "pagina_solicitada": 3,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 12,
+        "page": 3,
+        "limit": 10000
+      }
+    }
+  ]
+}

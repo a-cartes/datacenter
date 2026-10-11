@@ -1,0 +1,23 @@
+{
+  "LSQR_fisica_google": {
+    "error": 4.3029968477270586e-11,
+    "iteraciones": 87,
+    "estado_solver": 2
+  },
+  "LSQR_comercial_ajustada": {
+    "error": 3.079969612684863e-10,
+    "iteraciones": 258,
+    "estado_solver": 2
+  },
+  "reproduccion_operacion": {
+    "contrastes": 175,
+    "error_maximo": 1.7763568394002505e-15
+  },
+  "reproduccion_flujo500": {
+    "contrastes": 75,
+    "error_maximo": 4.440892098500626e-16
+  },
+  "estado": "OK",
+  "requiere_originales": false,
+  "modifica_bases": false
+}

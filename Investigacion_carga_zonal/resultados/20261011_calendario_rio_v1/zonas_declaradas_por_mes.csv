@@ -1,0 +1,1429 @@
+mes,zona,registros,dias
+2024-08,-,25,5
+2024-08,-lt 110 kv la ruca - el penon,1,1
+2024-08,al sur de s/e nueva maitencillo,93,1
+2024-08,al sur de s/e nueva maitencillo al norte de s/e ciruelos,73,1
+2024-08,ct,4,1
+2024-08,"ctx lt 220 kv maria elena - kimal 2, segun sd 2024075365",19,1
+2024-08,ctx lt 66 kv coronel - arenas blancas,1,1
+2024-08,ctx lt 66 kv maule - talca,28,2
+2024-08,ctx lt 66 kv san javier - constitucion,9,1
+2024-08,inicia ctx linea de 66 kv maule - talca 1 y 2.,5,1
+2024-08,inicia ctx lt 66 kv coronel - arenas blancas,3,2
+2024-08,inicia ctx lt 66 kv san jeronimo - las balandras,10,2
+2024-08,linea de 66 kv maule - talca 1 y 2.,7,1
+2024-08,lt 110 kv la ruca - el penon,3,2
+2024-08,lt 110 kv la ruca - ovalle,13,7
+2024-08,lt 110 kv la ruca-el penon,1,1
+2024-08,lt 110 kv ovalle - la ruca,3,2
+2024-08,lt 154 kv charrua - los angeles,82,9
+2024-08,lt 154 kv charrua-concepcion,12,1
+2024-08,lt 154 kv charrua-los angeles,2,1
+2024-08,lt 220 kv cautin - rio malleco,18,1
+2024-08,lt 220 kv charrua - santa clara,2162,11
+2024-08,lt 220 kv lastarria - ciruelos,864,20
+2024-08,lt 220 kv lastarria - ciruelos 2,73,2
+2024-08,lt 220 kv maria elena - frontera,3,1
+2024-08,lt 220 kv maria elena - kimal,55,7
+2024-08,"lt 220 kv maria elena - kimal 2, segun sd 2024075365",8,1
+2024-08,lt 220 kv tineo - puerto montt,11,1
+2024-08,lt 220kv lastarria - ciruelos,9,1
+2024-08,lt 500 kv alto jahuel - lo aguirre,11,1
+2024-08,lt 500 kv charrua - ancoa,47,1
+2024-08,lt 500 kv cumbre - nueva cardones,1422,2
+2024-08,lt 500 kv nueva cardones - nueva maitencillo,305,1
+2024-08,lt 500 kv nueva cardones - nueva maitencillo + lt 220 kv cardones - algarrobal,35,1
+2024-08,lt 500 kv nueva maitencillo - nueva pan de azucar,341,2
+2024-08,"lt 500 kv nueva maitencillo - nueva pan de azucar, sd 2024083118",28,1
+2024-08,lt 500 kv nueva pan de azucar - polpaico,10524,17
+2024-08,lt 66 kv angol - collipulli - victoria,21,2
+2024-08,lt 66 kv collipulli - victoria,27,4
+2024-08,lt 66 kv coronel - arenas blancas,11,3
+2024-08,lt 66 kv la ruca - el penon,2,1
+2024-08,lt 66 kv los buenos aires - negrete,21,1
+2024-08,lt 66 kv maule - talca,12,4
+2024-08,lt 66 kv maule - talca 1 y 2.,8,1
+2024-08,lt 66 kv parral - cauquenes,36,6
+2024-08,lt 66 kv pe los buenos aires - negrete,11,1
+2024-08,lt 66 kv san javier - constitucion,2,1
+2024-08,lt 66 kv san jeronimo - las balandras,15,3
+2024-08,lt l66 kv maule - constitucion,4,1
+2024-08,lt l66 kv maule - talca,6,1
+2024-08,lt l66 kv maule -talca,1,1
+2024-08,lt s/e cerro navia 220/110 kv,1,1
+2024-08,null,412,21
+2024-08,prorrata generalizada costo sen 0,17270,8
+2024-08,s/e calama 220/110 kv,17,1
+2024-08,s/e cerro navia 220/110 kv,34,5
+2024-08,"s/e combarbala 66/13,8 kv",1,1
+2024-08,s/e constitucion 66/23 kv,21,1
+2024-08,s/e duqueco 220/66 kv,16,1
+2024-08,s/e maria elena 220 kv,2,1
+2024-08,sen,23801,19
+2024-09,-,6,2
+2024-09,0,6,1
+2024-09,al norte de s/e ciruelos,1963,1
+2024-09,control tension s/e constitucion,58,2
+2024-09,control transferencia la ruca - el penon,10,2
+2024-09,ctx,2,1
+2024-09,ctx l500 kv charrua - ancoa,37,1
+2024-09,ctx lt 220 kv maria elena - kimal,5,1
+2024-09,ctx lt 220 kv maria elena - kimal 1,1,1
+2024-09,ctx lt 220 maria elena - kimal,10,1
+2024-09,d,2,1
+2024-09,ddd,2,1
+2024-09,error matrix,4,1
+2024-09,inicia ctx lt 220 kv maria elena - kimal 1,9,1
+2024-09,inicia ctx lt 500 kv nueva cardones - nueva maitencillo,18,1
+2024-09,inicia prorrata s/e quelentaro 220/110 kv,6,1
+2024-09,lt 110 kv el penon - la ruca,122,28
+2024-09,lt 110 kv la ruca - el penon,2,1
+2024-09,lt 154 kv charrua - concepcion,83,2
+2024-09,lt 154 kv charrua - los angeles,184,11
+2024-09,lt 154 kv charrua-los angeles,2,1
+2024-09,lt 220 kv charrua - santa clara,1588,12
+2024-09,lt 220 kv charrua - santa clara lt 220 kv lastariia - ciruelos,1,1
+2024-09,lt 220 kv lastaria - ciruelos,4,1
+2024-09,lt 220 kv lastariia - ciruelos,6,2
+2024-09,lt 220 kv lastarria - ciruelos,643,23
+2024-09,lt 220 kv maria elena - frontera,1,1
+2024-09,lt 220 kv maria elena - kimal,88,9
+2024-09,lt 220 kv maria elena - kimal 1,19,2
+2024-09,lt 220 kv pan de azucar - don goyo,8,1
+2024-09,lt 220 kv punta sierra - las palmas,21,1
+2024-09,lt 220 maria elena - kimal,6,1
+2024-09,lt 500 kv a. jahuel - lo aguirre,8,1
+2024-09,lt 500 kv alto jahuel - lo aguirre,380,6
+2024-09,lt 500 kv charrua - ancoa,205,8
+2024-09,lt 500 kv cumbre - nueva cardones,1492,4
+2024-09,lt 500 kv cumbre - nueva cardones + lt 220 kv san andres - cardones,12,1
+2024-09,lt 500 kv cumbre-nueva cardones+220 san andres - cardones,6,1
+2024-09,lt 500 kv cumbre-nueva cardones+lt 220 san andres - cardones,14,2
+2024-09,lt 500 kv nueva cardones - maitencillo,154,1
+2024-09,lt 500 kv nueva cardones - nueva maitencillo,1342,3
+2024-09,lt 500 kv nueva cardones - nueva maitencillo + lt 220 kv cardones - algarrobal,66,1
+2024-09,lt 500 kv nueva pan de azucar - polpaico,1400,4
+2024-09,lt 66 kv collipulli - victoria,124,10
+2024-09,lt 66 kv el totoral - las balandras,6,2
+2024-09,lt 66 kv nirivilo - tap central san javier,30,3
+2024-09,lt 66 kv parral - cauquenes,92,20
+2024-09,lt 66 kv pe los buenos aires - negrete,51,3
+2024-09,lt 66 kv san jeronimo - las balandras,22,3
+2024-09,lt 66kv nirivilo - tap central san javier,130,4
+2024-09,lt constitucion - san javier 66 kv,1,1
+2024-09,ltttttt,2,1
+2024-09,ndras lt 66 kv san jeronimo - las balandras,1,1
+2024-09,negrete lt 66 kv pe los buenos aires - negrete,1,1
+2024-09,nueva pan de azucar) prorrata generalizada costo sen 0,1,1
+2024-09,null,332,21
+2024-09,prorrata al sur de s/e nueva cardones y al norte de s/e ciruelos,404,1
+2024-09,prorrata generalizada costo sen 0,71932,29
+2024-09,prorrata generalizada costo sen 1,1,1
+2024-09,prorrata generalizada costo sen 10,1,1
+2024-09,prorrata generalizada costo sen 11,1,1
+2024-09,prorrata generalizada costo sen 12,1,1
+2024-09,prorrata generalizada costo sen 13,1,1
+2024-09,prorrata generalizada costo sen 14,1,1
+2024-09,prorrata generalizada costo sen 15,1,1
+2024-09,prorrata generalizada costo sen 16,1,1
+2024-09,prorrata generalizada costo sen 17,1,1
+2024-09,prorrata generalizada costo sen 18,1,1
+2024-09,prorrata generalizada costo sen 19,1,1
+2024-09,prorrata generalizada costo sen 2,1,1
+2024-09,prorrata generalizada costo sen 20,1,1
+2024-09,prorrata generalizada costo sen 21,1,1
+2024-09,prorrata generalizada costo sen 22,1,1
+2024-09,prorrata generalizada costo sen 23,1,1
+2024-09,prorrata generalizada costo sen 24,1,1
+2024-09,prorrata generalizada costo sen 25,1,1
+2024-09,prorrata generalizada costo sen 26,1,1
+2024-09,prorrata generalizada costo sen 27,1,1
+2024-09,prorrata generalizada costo sen 28,1,1
+2024-09,prorrata generalizada costo sen 29,1,1
+2024-09,prorrata generalizada costo sen 3,1,1
+2024-09,prorrata generalizada costo sen 30,1,1
+2024-09,prorrata generalizada costo sen 31,1,1
+2024-09,prorrata generalizada costo sen 32,1,1
+2024-09,prorrata generalizada costo sen 33,1,1
+2024-09,prorrata generalizada costo sen 34,1,1
+2024-09,prorrata generalizada costo sen 35,1,1
+2024-09,prorrata generalizada costo sen 36,1,1
+2024-09,prorrata generalizada costo sen 37,1,1
+2024-09,prorrata generalizada costo sen 38,1,1
+2024-09,prorrata generalizada costo sen 39,1,1
+2024-09,prorrata generalizada costo sen 4,1,1
+2024-09,prorrata generalizada costo sen 40,1,1
+2024-09,prorrata generalizada costo sen 41,1,1
+2024-09,prorrata generalizada costo sen 42,1,1
+2024-09,prorrata generalizada costo sen 43,1,1
+2024-09,prorrata generalizada costo sen 44,1,1
+2024-09,prorrata generalizada costo sen 45,1,1
+2024-09,prorrata generalizada costo sen 46,1,1
+2024-09,prorrata generalizada costo sen 47,1,1
+2024-09,prorrata generalizada costo sen 48,1,1
+2024-09,prorrata generalizada costo sen 49,1,1
+2024-09,prorrata generalizada costo sen 5,1,1
+2024-09,prorrata generalizada costo sen 50,1,1
+2024-09,prorrata generalizada costo sen 51,1,1
+2024-09,prorrata generalizada costo sen 52,1,1
+2024-09,prorrata generalizada costo sen 53,1,1
+2024-09,prorrata generalizada costo sen 54,1,1
+2024-09,prorrata generalizada costo sen 55,1,1
+2024-09,prorrata generalizada costo sen 56,1,1
+2024-09,prorrata generalizada costo sen 57,1,1
+2024-09,prorrata generalizada costo sen 58,1,1
+2024-09,prorrata generalizada costo sen 59,1,1
+2024-09,prorrata generalizada costo sen 6,1,1
+2024-09,prorrata generalizada costo sen 60,1,1
+2024-09,prorrata generalizada costo sen 61,1,1
+2024-09,prorrata generalizada costo sen 62,1,1
+2024-09,prorrata generalizada costo sen 63,1,1
+2024-09,prorrata generalizada costo sen 64,1,1
+2024-09,prorrata generalizada costo sen 65,1,1
+2024-09,prorrata generalizada costo sen 66,1,1
+2024-09,prorrata generalizada costo sen 67,1,1
+2024-09,prorrata generalizada costo sen 68,1,1
+2024-09,prorrata generalizada costo sen 69,1,1
+2024-09,prorrata generalizada costo sen 7,1,1
+2024-09,prorrata generalizada costo sen 70,1,1
+2024-09,prorrata generalizada costo sen 71,1,1
+2024-09,prorrata generalizada costo sen 72,1,1
+2024-09,prorrata generalizada costo sen 73,1,1
+2024-09,prorrata generalizada costo sen 74,1,1
+2024-09,prorrata generalizada costo sen 75,1,1
+2024-09,prorrata generalizada costo sen 76,1,1
+2024-09,prorrata generalizada costo sen 8,1,1
+2024-09,prorrata generalizada costo sen 9,1,1
+2024-09,s/e calama 220/110 kv,20,2
+2024-09,s/e chimbarongo 66/15 kv,5,2
+2024-09,s/e constitucion 66 kv,1,1
+2024-09,s/e duqueco 220/66 kv,22,1
+2024-09,s/e kimal 500/220 kv,44,3
+2024-09,s/e quelentaro 220/110 kv,16,2
+2024-09,s/e quereo 110/23 kv,17,8
+2024-09,s/e vicuna 110/23 kv,3,1
+2024-09,xxxx,1,1
+2024-10,-,6,4
+2024-10,ctx lt 154 kv charrua - los angeles,1,1
+2024-10,ctx lt 66 kv san javier - constitucion,10,2
+2024-10,ctx s/e kimal 500/220 kv,25,1
+2024-10,inicia ctx lt 220 kv cautin - rio tolten,2,1
+2024-10,inicia ctx s/e kimal 500/220 kv,29,1
+2024-10,lt 110 kv el penon - la ruca,159,27
+2024-10,lt 110 kv sauzal - codegua 2,4,1
+2024-10,lt 110 kv sauzal - cosdegua 2,4,1
+2024-10,lt 154 kv charrua - concepcion,196,6
+2024-10,lt 154 kv charrua - los angeles,181,11
+2024-10,lt 154 kv charrua-los angeles,7,1
+2024-10,lt 220 kv cardones - sec. algarrobal - maitencillo,4,1
+2024-10,lt 220 kv cautin - rio tolten,8,1
+2024-10,lt 220 kv charrua - santa clara,2357,15
+2024-10,lt 220 kv lastarria - ciruelos,711,29
+2024-10,lt 220 kv los vilos - nogales,6,1
+2024-10,lt 220 kv los vilos nogales,36,1
+2024-10,lt 220 kv maria elena - kimal,8,1
+2024-10,lt 220 kv rio tolten - lastarria,29,2
+2024-10,lt 500 kv alto jahuel - lo aguirre,998,22
+2024-10,lt 500 kv ancoa - alto jahuel,100,2
+2024-10,lt 500 kv changos - cumbres,8,1
+2024-10,lt 500 kv charrua - ancoa,310,3
+2024-10,lt 500 kv charrua-ancoa,3,1
+2024-10,lt 500 kv lo aguirre - alto jahuel,953,4
+2024-10,lt 500 kv nueva pan de azucar - polpaico,8211,8
+2024-10,lt 500 kv nva. cardones - nva. maitencillo,1,1
+2024-10,lt 500 nva. cardones - nva. maitencillo,63,1
+2024-10,lt 66 kv collipulli - victoria,89,7
+2024-10,lt 66 kv constitucion - nirivilo,14,1
+2024-10,lt 66 kv linares - chacahuin,48,23
+2024-10,lt 66 kv parral - cauquenes,82,18
+2024-10,lt 66 kv pe los buenos aires - negrete,4,1
+2024-10,lt 66 kv san javier - constitucion,1,1
+2024-10,lt 66 kv temuco - llaima,9,1
+2024-10,null,315,19
+2024-10,prorrata generalizada costo sen 0,82436,30
+2024-10,s/e catemu 44/12 kv,4,2
+2024-10,s/e cerro navia 220/110 kv,8,1
+2024-10,"s/e combarbala 66/13,8 kv",16,7
+2024-10,s/e combarbala 66/13.8 kv,1,1
+2024-10,s/e kimal 500/220 kv,70,4
+2024-10,s/e las aranas 110/23 kv,4,2
+2024-10,s/e las aranas 110/66 kv,15,7
+2024-10,s/e mantos blancos 220/23 kv,2,1
+2024-10,s/e quelentaro 220/110 kv,28,2
+2024-10,s/e quereo 110/23 kv,22,12
+2024-10,"s/e reguladora rapel 66/13,2 kv",2,1
+2024-10,"s/e san carlos 66/13,6 kv",2,1
+2024-10,"s/e san carlos 66/13,8 kv",5,3
+2024-10,s/e san carlos 66/13.8 kv,2,1
+2024-10,"s/e santa rosa 66/13,8 kv",8,4
+2024-10,s/e santa rosa 66/13.8 kv,1,1
+2024-10,trabajos sd 2024102017,29,2
+2024-11,-,111,9
+2024-11,ctx s/e kimal 500/220 kv,37,2
+2024-11,inicia ctx s/e kimal 500/220 kv,18,2
+2024-11,l66 kv linares - chacahuin,2,1
+2024-11,lt 110 kv el penon - la ruca,132,29
+2024-11,lt 110 kv la ruca - el penon,3,1
+2024-11,lt 110 kv sauzal - codegua 1,4,1
+2024-11,lt 154 kv charrua - concepcion,175,5
+2024-11,lt 154 kv charrua - los angeles,96,8
+2024-11,lt 154 kv charrua-concepcion,1,1
+2024-11,lt 154 kv charrua-los angeles,1,1
+2024-11,lt 220 kv charrua - santa clara,1292,11
+2024-11,lt 220 kv lastarria - ciruelos,550,23
+2024-11,lt 220 kv maria elena - kimal,105,9
+2024-11,lt 220 kv pehuenche - ancoa,3,1
+2024-11,lt 220 kv san andres - cardones,33,1
+2024-11,lt 500 kv alto jahuel - lo aguirre,1780,16
+2024-11,lt 500 kv changos - parinas,577,1
+2024-11,lt 500 kv lo aguirre - alto jahuel,1175,7
+2024-11,lt 500 kv los changos - parinas,111,1
+2024-11,lt 500 kv nueva pan de azucar - polpaico,69,1
+2024-11,lt 500 kv parinas - cumbre,37,1
+2024-11,lt 66 kv las aranas - el peumo,2,2
+2024-11,lt 66 kv lautaro - llaima,5,1
+2024-11,lt 66 kv linares - chacahuin,49,26
+2024-11,lt 66 kv linares -chacahuin,1,1
+2024-11,lt 66 kv linares norte - linares,4,1
+2024-11,lt 66 kv nirivilo - tap central san javier,6,1
+2024-11,lt 66 kv parral - cauquenes,82,25
+2024-11,movimiento por cambio de configuracion,1,1
+2024-11,null,424,19
+2024-11,prorrata generalizada costo sen 0,97337,29
+2024-11,s/e agua santa 220/110 kv,46,2
+2024-11,s/e cabildo 110/25 kv,2,1
+2024-11,s/e cerro navia 220/110 kv,30,4
+2024-11,"s/e combarbala 66/13,8 kv",2,1
+2024-11,s/e duqueco 66/23 kv,10,1
+2024-11,s/e kimal 500/220 kv,147,17
+2024-11,s/e las aranas 110/66 kv,3,2
+2024-11,s/e las aranas 110/66kv,4,2
+2024-11,s/e las aranas110/66 kv,2,1
+2024-11,s/e quelentaro 220/110 kv,44,3
+2024-11,s/e quereo 110/23 kv,22,13
+2024-11,s/e vicuna 110/23 kv,4,2
+2024-12,-,10,7
+2024-12,0,22,2
+2024-12,control cota,1,1
+2024-12,"ctx lt 220 kv tineo - puerto montt, sd 2024121537",4,1
+2024-12,finaliza ctx lt 110 kv la ruca-el penon,1,1
+2024-12,finaliza ctx lt 66 kv linares - chacahuin,1,1
+2024-12,lt 110 kv el penon - la ruca,106,24
+2024-12,lt 110 kv rio aconcagua - nueva panquehue,15,1
+2024-12,lt 110 kv sauzal - codegua,28,4
+2024-12,lt 110 kv sauzal - codehua,1,1
+2024-12,lt 154 kv charrua - concepcion,94,5
+2024-12,lt 154 kv charrua - los angeles,112,9
+2024-12,lt 154 kv charrua-concepcion,2,1
+2024-12,lt 154 kv charrua-los angeles,5,3
+2024-12,lt 220 kv andes - nueva zaldivar,22,4
+2024-12,lt 220 kv andes -nueva zaldivar,15,4
+2024-12,lt 220 kv cautin - rio malleco,3,1
+2024-12,lt 220 kv charrua - santa clara,1680,12
+2024-12,lt 220 kv ciruelos - lastarria,5,1
+2024-12,lt 220 kv lastarria - ciruelos,413,23
+2024-12,lt 220 kv lo aguirre - seccionadora alto melipilla,9,1
+2024-12,lt 220 kv maria elena - kimal,237,17
+2024-12,lt 220 kv nueva zaldivar - andes,3,1
+2024-12,lt 220 kv polpaico - quilapilun,1,1
+2024-12,"lt 220 kv tineo - puerto montt, sd 2024121537",24,1
+2024-12,lt 2200 kv lo aguirre - sec. a melipilla,7,1
+2024-12,lt 2200 kv lo aguirre - seccionadora alto melipilla,3,1
+2024-12,lt 500 kv alto jahuel - lo aguirre,3,1
+2024-12,lt 500 kv nueva pan de azucar - polpaico,6664,12
+2024-12,lt 500 kv polpaico - lo aguirre,37,2
+2024-12,lt 66 kv linares - chacahuin,42,20
+2024-12,lt 66 kv parral - cauquenes,64,21
+2024-12,lt 66 kv pe los buenos aires - negrete,29,1
+2024-12,lt 66 kv san javier - constitucion,7,1
+2024-12,null,294,19
+2024-12,prorrata generalizada costo sen 0,74318,24
+2024-12,s/e calama 220/110 kv,29,4
+2024-12,s/e capricornio 220/110 kv,6,1
+2024-12,s/e cerro navia 220/110 kv,1,1
+2024-12,"s/e combarbala 66/13,8 kv",1,1
+2024-12,s/e constitucion 66 kv,1,1
+2024-12,s/e constitucion 66/23 kv,9,1
+2024-12,s/e diego de almagro 220/110 kv,22,2
+2024-12,s/e duqueco 220/66 kv,66,1
+2024-12,s/e kimal 500/220 kv,59,4
+2024-12,s/e kimal 500/220 kv + lt 220 kv kapatur - laberinto,1,1
+2024-12,s/e parinas 500/220 kv,8,1
+2024-12,s/e quelentaro 220/110 kv,24,3
+2024-12,s/e quereo 110/23 kv,9,4
+2025-01,-,6,5
+2025-01,0,125,7
+2025-01,atr s/e cerro navia,1,1
+2025-01,atr s/e cerro navia 220/110 kv,10,1
+2025-01,ctx lt 110 kv ovalle - illapel,7,1
+2025-01,ctx lt 220 kv lastarria - ciruelos,6,2
+2025-01,ctx lt 220 kv los peumos - temuco,1,1
+2025-01,ctx lt 66 kv nirivilo - tap central san javier,7,1
+2025-01,ctx lt 66 kv nirivilo - tap central san javier.,6,1
+2025-01,ifxxxxx,1,1
+2025-01,inicio ctx lt 220 kv lastarria - ciruelos,5,1
+2025-01,lt 110 kv el penon - la ruca,140,28
+2025-01,lt 110 kv las canteras - santiago solar,8,1
+2025-01,lt 110 kv ovalle - illapel,21,2
+2025-01,lt 110 kv sauzal - codegua,19,3
+2025-01,lt 154 kv charrua - concepcion,324,12
+2025-01,lt 154 kv charrua - los angeles,190,13
+2025-01,lt 154 kv charrua-los angeles,2,1
+2025-01,lt 220 kv algarrobal - maitencillo,55,2
+2025-01,lt 220 kv andes - nueva zaldivar,8,3
+2025-01,lt 220 kv andes -nueva zaldivar,5,1
+2025-01,lt 220 kv charrua - santa clara,1099,11
+2025-01,lt 220 kv ciruelos - lastarria,87,2
+2025-01,lt 220 kv lastarria - ciruelos,1231,28
+2025-01,lt 220 kv los peumos - temuco,13,3
+2025-01,lt 220 kv maria elena - kimal,491,28
+2025-01,lt 220 kv monte mina - nueva zaldivar,71,6
+2025-01,lt 500 kv alto jahuel - lo aguirre,89,1
+2025-01,lt 500 kv cumbre - nueva cardones,1268,3
+2025-01,lt 500 kv cumbre - nva cardones,6,1
+2025-01,lt 500 kv nueva pan de azucar - polpaico,6195,17
+2025-01,lt 500 kv nueva pan deazucar - polpaico,2,1
+2025-01,lt 500 kv pan de azucar - polpaico,3,1
+2025-01,lt 66 kv angol - nahuelbuta,2,1
+2025-01,lt 66 kv linares - chacahuin,46,21
+2025-01,lt 66 kv llaima - pillanlelbun,6,1
+2025-01,lt 66 kv maule - talca,27,1
+2025-01,lt 66 kv nirivilo - tap central san javie,4,1
+2025-01,lt 66 kv nirivilo - tap central san javier,270,10
+2025-01,lt 66 kv nirivilo - tap central san javier.,24,1
+2025-01,lt 66 kv parral - cauquenes,113,27
+2025-01,lt 66 kv pe los buenos aires - negrete,11,2
+2025-01,lt 66 kv pillanlelbun - llaima,5,1
+2025-01,lt 66 kv san javier - constitucion,8,1
+2025-01,lt 66 kv san javier - nirivilo,8,1
+2025-01,lt 66 kv talca - maule,14,2
+2025-01,null,482,21
+2025-01,prorrata generalizada costo sen 0,70684,30
+2025-01,s/e calama 220/110 kv,66,8
+2025-01,s/e cerro navia 220/110 kv,17,1
+2025-01,s/e charrua 220/154 kv,1,1
+2025-01,s/e constitucion 66/23 kv,26,1
+2025-01,s/e las aranas 110/66 kv,4,1
+2025-01,s/e mantos blancos 23/6.3 kv,9,1
+2025-01,s/e parinas 500/220 kv,39,5
+2025-01,s/e quelentaro 220/110 kv,65,6
+2025-01,s/e quereo 110/23 kv,4,1
+2025-01,s/e san carlos 66/13.8 kv,1,1
+2025-01,se declara en vertimiento,2,1
+2025-01,transformador de 220/23 kv de 50 mva de s/e mantos blancos,2,1
+2025-01,transformador mantos blancos 220/23 kv,1,1
+2025-02,-,3,1
+2025-02,0,28,6
+2025-02,"ctx s/e mantos blancos 23/6,6 kv",1,1
+2025-02,"finaliza ctx s/e mantos blancos 23/6,6 kv",1,1
+2025-02,inicia ctx lt 220 kv charrua - santa clara,6,1
+2025-02,"inicia ctx s/e mantos blancos 23/6,6 kv",2,2
+2025-02,lt 110 kv el penon - la ruca,129,26
+2025-02,lt 110 kv sauzal - codegua,17,4
+2025-02,lt 154 kv charrua - concepcion,325,15
+2025-02,lt 154 kv charrua - los angeles,280,15
+2025-02,lt 154 kv charrua-concepcion,7,1
+2025-02,lt 154 kv charrua-los angeles,5,2
+2025-02,lt 154 kv cipreses - itahue 1,11,1
+2025-02,lt 220 kv charrua - santa clara,867,9
+2025-02,lt 220 kv duqueco - los peumos,14,1
+2025-02,lt 220 kv lastarria - ciruelos,1118,27
+2025-02,lt 220 kv maria elena - kimal,369,24
+2025-02,lt 220 kv monte mina - nueva zaldivar,153,13
+2025-02,lt 220 kv rio malleco - cautin + lt 220 kv duqueco - los peumos,18,1
+2025-02,lt 500 kv maitencillo - nueva pan de azucar,121,1
+2025-02,lt 500 kv nueva maitencillo - nueva pan de azucar,576,2
+2025-02,lt 500 kv nueva pan de azucar - polpaico,5398,15
+2025-02,lt 66 kv linares - chacahuin,53,25
+2025-02,lt 66 kv los angeles - pe los buenos aires,11,1
+2025-02,lt 66 kv los maquis - hualane,25,13
+2025-02,lt 66 kv los maquis - hualene,14,6
+2025-02,lt 66 kv los maquis . hualane,1,1
+2025-02,lt 66 kv mauel - talca .,1,1
+2025-02,lt 66 kv maule - talca,15,2
+2025-02,lt 66 kv maule - talca .,1,1
+2025-02,lt 66 kv maule - talca.,4,1
+2025-02,lt 66 kv nirivilo - tap central san javier,9,1
+2025-02,lt 66 kv parral - cauquenes,101,25
+2025-02,lt 66 kv pe los buenos aires - negrete,18,3
+2025-02,lt 66 kv talca - maule,2,1
+2025-02,lt 66 kv talca - maule.,6,1
+2025-02,"mantos blancos 23/6,6 kv",2,1
+2025-02,n,4,1
+2025-02,"nicia ctx s/e mantos blancos 23/6,6 kv",1,1
+2025-02,null,1767,27
+2025-02,prorrata generalizada costo sen 0,48922,26
+2025-02,prorrata generalizada costo sen 1,4,1
+2025-02,s/e calama 220/110 kv,82,11
+2025-02,s/e cerro navia 220/110 kv,9,1
+2025-02,s/e diego de almagro 220/110 kv,19,3
+2025-02,s/e jadresic atr-1 500/220 kv,6,2
+2025-02,s/e kimal 500/220,3,1
+2025-02,s/e kimal 500/220 kv,14,2
+2025-02,s/e mantos blancos 220/110 kv,2,1
+2025-02,"s/e mantos blancos 23/6,6 kv",10,3
+2025-02,s/e quelentaro 220/110 kv,55,3
+2025-03,0,14,1
+2025-03,ctx lt 154 kv charrua - concepcion,3,1
+2025-03,incia,3,1
+2025-03,inicia ctx lt 154 kv charrua - concepcion,6,1
+2025-03,llt 220 kv charrua - santa clara,1,1
+2025-03,lt 110 kv el penon - la ruca,94,26
+2025-03,lt 110 kv ovalle - la ruca y la ruca - el penon,18,11
+2025-03,lt 154 kv charrua - concepcion,884,22
+2025-03,lt 154 kv charrua - los angeles,220,15
+2025-03,lt 154 kv charrua-concepcion,4,2
+2025-03,lt 154 kv charrua-los angeles,13,6
+2025-03,lt 154 kv parral - cauquenes,1,1
+2025-03,lt 220 kv cautin - rio malleco,22,1
+2025-03,lt 220 kv cautin - rio s/e central los pinos con limitacion. causa informada: perdida de supervision y telecontrol del interruptor 52j1 de s/e los pinos debido a falla de comunicacion entre rtu y controlador de las protecciones asociadas al pano. se deleg,1,1
+2025-03,lt 220 kv cautin - rio tolten,29,1
+2025-03,lt 220 kv charrua - santa clara,2228,15
+2025-03,lt 220 kv charrua-santa clara,2,1
+2025-03,lt 220 kv ciruelos - lastarria,6,1
+2025-03,lt 220 kv ctx charrua - santa clara,16,2
+2025-03,lt 220 kv guacolda - maitencillo,11,2
+2025-03,lt 220 kv lastarria - ciruelos,430,18
+2025-03,lt 220 kv maitencillo - nueva maitencillo,2,1
+2025-03,lt 220 kv maria elena - kimal,314,24
+2025-03,lt 220 kv maria elena-kimal,8,4
+2025-03,lt 220 kv monte mina - nueva zaldivar,13,2
+2025-03,lt 220kv tineo - puerto montt,10,1
+2025-03,lt 500 kv jadresic - cumbre,153,1
+2025-03,lt 500 kv nueva maitencillo - nueva pan de azucar,16525,19
+2025-03,lt 500 kv nueva pan de azucar - polpaico,4419,9
+2025-03,lt 66 kv linares - chacahuin,42,23
+2025-03,lt 66 kv los angeles - duqueco,9,1
+2025-03,lt 66 kv los maquis - hualane,4,2
+2025-03,lt 66 kv parral - cauquenes,113,29
+2025-03,lt 66 kv pe los buenos aires - negrete,14,2
+2025-03,null,1953,30
+2025-03,prorrata generalizada costo sen 0,40226,21
+2025-03,retoma carga de prorrata,1,1
+2025-03,s/e calama 220/110 kv,59,7
+2025-03,s/e diego de almagro 220/110 kv,30,5
+2025-03,s/e duqueco 220/66 kv,20,4
+2025-03,s/e jadresic 500/220 kv,36,2
+2025-03,s/e las aranas 110/66 kv,1,1
+2025-03,s/e mantos blancos 220/23 kv,16,4
+2025-03,s/e mantos blancos 220/63 kv,3,2
+2025-03,"s/e mantos blancos 23/6,6 kv",28,3
+2025-03,s/e quelentaro 220/110 kv,70,6
+2025-03,s/e quereo 110/23 kv,1,1
+2025-03,seguridad del sistema,2,2
+2025-03,t 154 kv charrua - los angeles,1,1
+2025-04,0,75,3
+2025-04,atrs de 220/1154 kv de s/e hualpen + lagunillas,7,1
+2025-04,atrs de 220/154 kv de s/e hualpen + lagunillas,12,1
+2025-04,ctx atrs de 220/1154 kv de s/e hualpen + lagunillas,8,1
+2025-04,ctx lt 110 kv quillota - san pedro,5,1
+2025-04,ctx lt 154 kv charrua - concepcion,19,2
+2025-04,ctx s/e mantos blancos 220/23 kv,7,1
+2025-04,finaliza seguridad del sistema,1,1
+2025-04,inicia ctx s/e mantos blancos 220/23 kv,8,1
+2025-04,inicia prorrata lt 500 kv nueva maitencillo - nueva pan de azucar,3,1
+2025-04,lt 110 kv el penon - la ruca,134,30
+2025-04,lt 110 kv quillota - san pedro,2,1
+2025-04,lt 154 kv charrua - concepcion,225,9
+2025-04,lt 154 kv charrua - los angeles,49,8
+2025-04,"lt 154 kv charrua-los angeles por preparativo de maniobras asociadas a trabajos programados,",8,1
+2025-04,lt 220 kv charrua - santa clara,411,8
+2025-04,lt 220 kv don hector - punta colorada,3,1
+2025-04,lt 220 kv guacolda - maitencillo,3,1
+2025-04,lt 220 kv lastarria - ciruelos,298,15
+2025-04,lt 220 kv los peumos - temuco,1,1
+2025-04,lt 220 kv los peumos -temuco,2,1
+2025-04,lt 220 kv maria elena - kimal,54,5
+2025-04,lt 220 kv monte mina - nueva zaldivar,40,4
+2025-04,lt 220 kv rio malleco - cautin,7,1
+2025-04,lt 500 kv nueva maitencillo - nueva pan de azucar,4660,6
+2025-04,lt 500 kv nueva pan d azucar - polpaico 1,16,1
+2025-04,lt 500 kv nueva pan de azucar - polpaico,13049,23
+2025-04,lt 500 kv nueva pan de azucar - polpaico 1,94,3
+2025-04,lt 66 kv collipulli - victoria,5,1
+2025-04,lt 66 kv coronel - arenas blancas,2,1
+2025-04,lt 66 kv linares - chacahuin,8,7
+2025-04,lt 66 kv llaima - pillanlelbun,2,1
+2025-04,lt 66 kv llaima - temuco,30,5
+2025-04,lt 66 kv llaima -pillanlelbun,4,1
+2025-04,lt 66 kv llaima -temuco,17,1
+2025-04,lt 66 kv los buenos aires - negrete,9,1
+2025-04,lt 66 kv maule - talca,17,2
+2025-04,lt 66 kv parral - cauquenes,96,23
+2025-04,normaliza seguridad del sistema,2,1
+2025-04,null,1989,29
+2025-04,prorrata generalizada costo sen 0,17555,19
+2025-04,s/e cabrero 66/23 kv,2,1
+2025-04,s/e calama 220/110 kv,74,9
+2025-04,s/e cerro navia 220/100 kv,23,1
+2025-04,s/e cerro navia 220/110 kv,58,4
+2025-04,"s/e coronel 154/69/13.2 kv, 56 mva",1,1
+2025-04,s/e diego de almagro 220/110 kv,87,10
+2025-04,s/e hualpen 220/154 kv + s/e lagunillas 220/154 kv,18,1
+2025-04,s/e jadresic 500/220 kv,54,4
+2025-04,s/e las aranas 110/66 kv,14,9
+2025-04,s/e pan de azucar 220/110 kv,8,2
+2025-04,s/e quelentaro 220/110 kv,84,4
+2025-04,s/e quereo 110/23 kv,12,7
+2025-04,seguridad de sistema,1,1
+2025-04,seguridad del sistema,7,4
+2025-05,0,8,1
+2025-05,c,9,1
+2025-05,ctx lt 154 kv charrua - concepcion,12,1
+2025-05,ctx lt 220 kv malleco - cautin,1,1
+2025-05,ctx lt 66 kv maule - talca,10,1
+2025-05,ctx lt 66 kv maule -talca,1,1
+2025-05,ctx s/e cerro navia 220/110 kv,3,1
+2025-05,ctx s/e d. almagro,17,1
+2025-05,ctx s/e d. almagro 220/110 kv,1,1
+2025-05,ctx s/e d. almagro s/e d. almagro 220/110 kv,1,1
+2025-05,ctx s/e quillota 220/110 kv,11,1
+2025-05,fin seguridad del sistema,3,1
+2025-05,finaliza ctx lt 154 kv charrua - concepcion,1,1
+2025-05,inicia ctx lt 154 kv charrua - concepcion,1,1
+2025-05,lt 110 kv el penon - la ruca,109,27
+2025-05,lt 110 kv quillota - san pedo + atr 220/110 kv s/e ventana,1,1
+2025-05,lt 110 kv quillota - san pedo + atr 220/110 kv s/e ventanas,29,1
+2025-05,lt 154 kv charrua - concepcion,263,17
+2025-05,lt 154 kv charrua - los angeles,190,11
+2025-05,lt 220 kv charrua - concepcion,2,1
+2025-05,lt 220 kv charrua - santa clara,1197,11
+2025-05,lt 220 kv kapatur - o'higgins,45,1
+2025-05,lt 220 kv kapatur - ohiggins,3,1
+2025-05,lt 220 kv lastarria - ciruelos,228,11
+2025-05,lt 220 kv maitencillo - nueva maitencillo,7,1
+2025-05,lt 220 kv maria elena - kimal,386,17
+2025-05,lt 220 kv monte mina - nueva zaldivar,42,3
+2025-05,lt 220 kv polpaico - quilapilun,32,6
+2025-05,lt 220 kv rio malleco - cautin,14,1
+2025-05,lt 220 kv rio malleco - cautin + los peumos - temuco,47,1
+2025-05,lt 500 kv a.jahuel - lo aguirre,52,1
+2025-05,lt 500 kv changos - jadresic,4,1
+2025-05,lt 500 kv los changos - jadresic,204,2
+2025-05,lt 500 kv nueva pan de azucar - polpaico,12041,19
+2025-05,"lt 500 kv nueva pan de azucar - polpaico, segumiento de demanada por variacion eolica.",1,1
+2025-05,"lt 500 kv nueva pan de azucar - polpaico. seguimiento de demanda por variacion solar,",1,1
+2025-05,lt 66 kv los angeles - duqueco,5,1
+2025-05,lt 66 kv maule - talca,63,4
+2025-05,lt 66 kv parral - cauquenes,61,22
+2025-05,lt 66 kv pe los buenos aires - negrete,15,2
+2025-05,lt 66 kv san javier - constitucion,13,1
+2025-05,null,1668,29
+2025-05,prorrata generalizada costo sen 0,12380,14
+2025-05,s/e calama 220/110 kv,44,5
+2025-05,s/e cerro navia 220/100 kv,10,1
+2025-05,s/e cerro navia 220/110 kv,21,3
+2025-05,s/e constitucion 66/23 kv,13,2
+2025-05,s/e d. almagro 220/110 kv,6,1
+2025-05,s/e diego de almagro 220/110 kv,41,7
+2025-05,s/e jadresic 500/220 kv,167,9
+2025-05,s/e pan de azucar 220/110 kv,6,1
+2025-05,s/e quelentaro 220/110 kv,50,5
+2025-05,s/e quillota 220/110 kv,8,1
+2025-05,seguimiento demanada frente a cosntantes variaciones solares,2,1
+2025-05,seguridad del sistema,25,6
+2025-06,-,3,1
+2025-06,0,531,2
+2025-06,ctx lt 220 kv diego de almagro - paposo,1,1
+2025-06,inicia ctx lt 220 kv diego de almagro - paposo,6,1
+2025-06,inicia ctx lt 220 kv los vilos - nogales,42,1
+2025-06,lt 110 kv el penon - la ruca,83,23
+2025-06,lt 154 kv charrua - concepcion,257,19
+2025-06,lt 154 kv charrua - los angeles,84,8
+2025-06,lt 220 kv algarrobal - maitencillo,9,1
+2025-06,lt 220 kv cardones - sec. algarrobal - maitencillo,121,3
+2025-06,lt 220 kv cardones -sec. algarrobal-maitencillo,34,2
+2025-06,lt 220 kv cautin - rio malleco,34,1
+2025-06,lt 220 kv cautin - riomalleco,11,1
+2025-06,lt 220 kv charrua - hualpen,15,1
+2025-06,lt 220 kv charrua - santa clara,805,10
+2025-06,lt 220 kv diego de almagro - paposo,9,1
+2025-06,lt 220 kv encuentro - kimal,24,1
+2025-06,lt 220 kv encuentro - kimal ( asociado a sd 2025066106),6,1
+2025-06,lt 220 kv kimal - encuentro,13,1
+2025-06,lt 220 kv las palmas - los vilos,751,2
+2025-06,lt 220 kv lastarria - ciruelos,126,7
+2025-06,lt 220 kv los vilos - las palmas,11,1
+2025-06,lt 220 kv los vilos - nogales,1490,4
+2025-06,lt 220 kv lt 220 kv las palmas - los vilos,1,1
+2025-06,lt 220 kv maitencillo - nueva maitencillo,7,2
+2025-06,lt 220 kv maria elena - kimal,242,16
+2025-06,lt 220 kv monte mina - nueva zaldivar,462,12
+2025-06,lt 220 kv rio malleco - cautin,39,3
+2025-06,lt 220 kv tocopilla - kimal,57,6
+2025-06,lt 500 kv alto jahuel - lo aguirre,1136,2
+2025-06,lt 500 kv changos - cumbre,6,1
+2025-06,lt 500 kv changos - jadresic,4,1
+2025-06,lt 500 kv changos - kimal + lt 220 kv kapatur - o'higgins + lt 220 kv kapatur - laberinto,2,1
+2025-06,lt 500 kv jadresic - cumbre,69,1
+2025-06,lt 500 kv nueva pan de azucar - polapaco 1 + lt 220 kv los vilos - nogales,37,1
+2025-06,lt 500 kv nueva pan de azucar - polpaico,9098,19
+2025-06,lt 500 kv nueva pan de azucar - polpaico + lt 220 kv los vilos - nogales,15952,9
+2025-06,lt 500 kv nueva pan de azucar - polpaico 1 + lt 220 kv los vilos - nogales,42,2
+2025-06,lt 66 kv llaima - pillanlelbun,17,2
+2025-06,lt 66 kv llaima - temuco,8,2
+2025-06,lt 66 kv llaima -pillanlelbun,1,1
+2025-06,lt 66 kv llaima -temuco,17,2
+2025-06,lt 66 kv maule - talca,404,19
+2025-06,lt 66 kv nirivilo - tap central san javier,59,5
+2025-06,lt 66 kv parral - cauquenes,56,19
+2025-06,lt 66 kv san javier - constitucion,32,4
+2025-06,lt 66 kv san javier - constitucionmaule - talca,1,1
+2025-06,null,1933,30
+2025-06,prorrata generalizada costo sen 0,5938,4
+2025-06,restablecer frecuencia,1,1
+2025-06,"s/e aguas blancas ctx transformador 69/23/13,2 kv y 13 mva",1,1
+2025-06,s/e calama 220/110 kv,54,5
+2025-06,"s/e central diesel aguas blancas 66/13,8 kv",7,1
+2025-06,s/e coronel 154/66 kv,5,1
+2025-06,s/e diego de almagro 220/110 kv,121,17
+2025-06,s/e jadresic 500/220 kv,179,21
+2025-06,s/e jadresic 500/220 kv y 750 mva,2,1
+2025-06,s/e quelentaro 220/110 kv,27,3
+2025-06,s/e santa isabel 220/154 kv + lt 154 kv itahue - maule,12,1
+2025-06,s/e ventanas 220/110 kv + lt 110 kv quillota - san pedro,8,1
+2025-06,seguimiento demanda,2,1
+2025-06,segun il 2025000425.,1,1
+2025-06,seguridad del sistema,262,6
+2025-07,-,33,5
+2025-07,0,4,1
+2025-07,aico. lt 500 kv nueva pan de azucar - polpaico.,1,1
+2025-07,ctx lt 110 kv el penon - la ruca,3,2
+2025-07,ctx lt 220 kv cautin - rio malleco,3,1
+2025-07,ctx lt 220 kv rio malleco - cautin,7,1
+2025-07,inicia ctx lt 66 kv llaima -temuco,4,1
+2025-07,lt 110 kv diego de almagro - rio salado,4,1
+2025-07,lt 110 kv el penon - la ruca,80,22
+2025-07,lt 154 kv charrua - concepcion,379,19
+2025-07,lt 154 kv charrua - los angeles,345,17
+2025-07,lt 154 kv itahue - maule,11,1
+2025-07,lt 20 kv charrua - santa clara,11,2
+2025-07,lt 220 kv cardones - sec. algarrobal - maitencillo,5,1
+2025-07,lt 220 kv cautin - rio malleco,42,3
+2025-07,lt 220 kv charrua - santa clara,1731,8
+2025-07,lt 220 kv encuentro - miraje,4,1
+2025-07,lt 220 kv lastarria - ciruelos,145,8
+2025-07,lt 220 kv maitencillo - nueva maitencill,1,1
+2025-07,lt 220 kv maitencillo - nueva maitencillo,60,4
+2025-07,lt 220 kv maria elena - kimal,183,16
+2025-07,lt 220 kv monte mina - nueva zaldivar,432,10
+2025-07,lt 220 kv rio malleco - cautin,108,5
+2025-07,lt 220 kv salar - calama,3,1
+2025-07,lt 220 kv salar - calama + lt 220 kv nueva chuquicamata - calama,28,2
+2025-07,lt 220 kv secc. algarrobal - maitencillo,35,1
+2025-07,lt 220 kv ten - los changos,16,1
+2025-07,lt 500 kv alto jahuel - lo aguirre,687,1
+2025-07,lt 500 kv nueva maitencillo - nueva pan de azucar,173,4
+2025-07,lt 500 kv nueva pan de azucar - polpaico,24153,28
+2025-07,lt 500 kv nueva pan de azucar - polpaico + lt 220 kv los vilos - nogales,2584,3
+2025-07,lt 500 kv nueva pan de azucar - polpaico.,13,1
+2025-07,lt 500kv jadresic - cumbre,53,1
+2025-07,lt 66 kv collipulli - victoria,13,2
+2025-07,lt 66 kv itahue - curico,29,1
+2025-07,lt 66 kv llaima - temuco,41,7
+2025-07,lt 66 kv llaima -temuco,520,14
+2025-07,lt 66 kv maule - talca,41,4
+2025-07,lt 66 kv parral - cauquenes,58,17
+2025-07,lt 66 kv pe los buenos aires - negrete,8,1
+2025-07,lt 66 kv temuco - llaima,16,2
+2025-07,lt 66 kv teno - curico,5,1
+2025-07,null,2616,29
+2025-07,prorrata generalizada costo sen 0,9914,15
+2025-07,s/e calama 220/110 kv,11,1
+2025-07,s/e cerro navia 220/110 kv,12,1
+2025-07,s/e changos 500/220 kv,248,2
+2025-07,s/e diego de almagro 220/110 kv,3,1
+2025-07,s/e jadresic 500/220 kv,227,14
+2025-07,s/e quelentaro 220/110 kv,84,5
+2025-07,seguridad de sistema,1,1
+2025-08,-,9,4
+2025-08,control cota 25 cm,2,1
+2025-08,fin seguridad del sistema,2,2
+2025-08,inicia ctx lt 154 kv charrua - concepcion,13,2
+2025-08,inicia ctx lt 66 kv llaima - temuco,8,1
+2025-08,lt 110 kv el penon - la ruca,65,25
+2025-08,lt 154 kv charrua - concepcion,428,23
+2025-08,lt 154 kv charrua - los angeles,93,7
+2025-08,lt 154 kv teno - empalme teno,4,1
+2025-08,lt 154 kv teno- empalme teno.,12,1
+2025-08,lt 220 kv algarrobal - maitencillo,26,1
+2025-08,lt 220 kv cautin - rio tolten + lt 66 kv padre las casas - temuco,3,1
+2025-08,lt 220 kv cautin - rio tolten + lt 66 kv padres las casas - temuco,3,1
+2025-08,lt 220 kv charrua - santa clara,1709,10
+2025-08,lt 220 kv francisco - diego de almagro,2,1
+2025-08,lt 220 kv las palmas - los vilos,1,1
+2025-08,lt 220 kv lastarria - ciruelos,424,17
+2025-08,lt 220 kv maria elena - kimal,53,2
+2025-08,lt 220 kv monte mina - nueva zaldivar,358,17
+2025-08,lt 220 kv monte mina - nueva zaldivar 1,3,2
+2025-08,lt 220 kv monte mina - nueva zaldivar 2,3,1
+2025-08,lt 220 kv rio malleco - cautin,11,1
+2025-08,lt 220 kv salar - calama,47,2
+2025-08,lt 220 kv salar - calama + lt 220 kv nueva chuquicamata - calama,8,1
+2025-08,lt 44 kv carena - lo prado,2,1
+2025-08,lt 500 kv changos - jadresic,4,1
+2025-08,lt 500 kv los changos - jadresic,118,1
+2025-08,lt 500 kv nueva maitencillo - nueva pan de azucar,3013,5
+2025-08,lt 500 kv nueva pan de azucar - polpaico,10621,18
+2025-08,lt 66 kv llaima - temuco,126,15
+2025-08,lt 66 kv llaima -temuco,526,15
+2025-08,lt 66 kv maule - talca,3,1
+2025-08,lt 66 kv parral - cauquenes,68,21
+2025-08,null,2053,31
+2025-08,prorrata generalizada costo sen 0,55785,29
+2025-08,s/e calama 220/110 kv,27,4
+2025-08,s/e cerro navia 220/110 kv,28,1
+2025-08,s/e changos 500/220 kv,159,2
+2025-08,s/e jadresic 500/220 kv,174,16
+2025-08,s/e las aranas 110/66 kv,1,1
+2025-08,s/e quelentaro 220/110 kv,54,4
+2025-08,seguridad del sistema,6,4
+2025-09,-,37,11
+2025-09,consigna seguridad,165,1
+2025-09,ctx lt 154 kv charrua - concepcion,3,1
+2025-09,lt 110 kv el panon - la ruca,1,1
+2025-09,lt 110 kv el penon - la ruca,98,28
+2025-09,lt 110 kv rio salado - diego de almagro,5,1
+2025-09,lt 154 kv charrua - concepcion,376,13
+2025-09,lt 154 kv charrua - los angeles,55,6
+2025-09,lt 154 kv maule - parral,4,2
+2025-09,lt 154 kv maule - yerbas buenas,4,1
+2025-09,lt 220 kv charrua - concepcion + lt 220 kv charrua - hualqui,7,1
+2025-09,lt 220 kv charrua - santa clara,2566,11
+2025-09,lt 220 kv lagunas - cahuiza,15,1
+2025-09,lt 220 kv lastarria - ciruelos,519,13
+2025-09,lt 220 kv maria elena - kimal,52,3
+2025-09,lt 220 kv monte mina - nueva zaldivar,131,10
+2025-09,lt 220 kv san simon - lagunas,32,1
+2025-09,lt 220 kv tineo - puerto montt,15,1
+2025-09,lt 44 kv carena - lo prado,5,1
+2025-09,lt 500 kv alto jahuel - lo aguirre,23,1
+2025-09,lt 500 kv ancoa - alto jahuel,13,1
+2025-09,lt 500 kv charrua - ancoa,2,1
+2025-09,lt 500 kv nueva pan de azucar - polpaico,6757,11
+2025-09,lt 66 kv collipulli - victoria,10,1
+2025-09,lt 66 kv itahue - talca,2,1
+2025-09,lt 66 kv llaima - temuco,5,1
+2025-09,lt 66 kv llaima -temuco,31,2
+2025-09,lt 66 kv parral - cauquenes,50,13
+2025-09,null,1299,28
+2025-09,prorrata generalizada costo sen 0,73230,27
+2025-09,restriccion por carta de 05820-25,147,7
+2025-09,s/e calama 220/110 kv,24,3
+2025-09,s/e constitucion 66/23 kv,12,1
+2025-09,s/e diego de almagro 220/110 kv,9,1
+2025-09,s/e jadresic 500/220 kv,218,14
+2025-09,s/e mantos blancos 220/23 kv,18,3
+2025-09,s/e quelentaro 220/110 kv,95,7
+2025-09,seguridad del sistema,12,5
+2025-10,-,11,4
+2025-10,0,33,1
+2025-10,220 kv salar - calama + lt 220 kv nueva chuquicamata - calama,1,1
+2025-10,ctx lt 154 kv maule - parral,1,1
+2025-10,ctx lt 220 kv monte mina - nueva zaldivar 2,8,1
+2025-10,ctx lt 66 kv negrete - epulelfu,7,1
+2025-10,ctx lt 66 kv negrete - epuleufu,2,1
+2025-10,ctx s/e duqueco 220/66 kv,2,1
+2025-10,gen: gen. actual lt 66 kv llaima - temuco,1,1
+2025-10,laima - temuco lt 66 kv llaima - temuco,2,1
+2025-10,lastarria - ciruelos,1,1
+2025-10,lt 110 kv el penon - la ruca,120,31
+2025-10,lt 110 kv la ruca - el penon,2,1
+2025-10,lt 154 kv charrua - concepcion,413,17
+2025-10,lt 154 kv charrua - los angeles,32,4
+2025-10,lt 154 kv maule - parral,29,7
+2025-10,lt 154 kv mule - parral,2,1
+2025-10,lt 220 kv alto jahuel - ancoa,33,1
+2025-10,lt 220 kv cardones - secc. algarrobal,19,1
+2025-10,lt 220 kv charrua - santa clara,1902,14
+2025-10,lt 220 kv don hector - punta colorada,29,1
+2025-10,lt 220 kv kimal - encuentro,9,1
+2025-10,lt 220 kv kimal - encuentro 1,6,1
+2025-10,lt 220 kv las palmas - los vilos,14,1
+2025-10,lt 220 kv lastarria - ciruelos,311,9
+2025-10,lt 220 kv maria elena - kimal,27,2
+2025-10,lt 220 kv monte mina - nueva zaldivar,335,17
+2025-10,lt 220 kv salar - calama,8,1
+2025-10,lt 220 kv salar - calama + lt 220 kv nueva chuquicamata - calama,14,1
+2025-10,lt 220 kv san andres - cardones,69,2
+2025-10,lt 220 kv tineo - puerto montt,3,1
+2025-10,lt 500 kv alto jahuel - ancoa,33,1
+2025-10,lt 500 kv charrua - ancoa,143,1
+2025-10,lt 500 kv nueva pan de azucar - polpaico,12068,16
+2025-10,lt 66 kv epuleufu - negrete,16,4
+2025-10,lt 66 kv escuadron - hualpen,2,1
+2025-10,lt 66 kv llaima - temuco,30,4
+2025-10,lt 66 kv llaima -temuco,106,4
+2025-10,lt 66 kv negrete - epulelfu,26,4
+2025-10,lt 66 kv negrete - epuleufu,14,3
+2025-10,lt 66 kv negrete- epuleufu,5,1
+2025-10,lt 66 kv parral - cauquenes,108,24
+2025-10,null,1901,29
+2025-10,prorrata generalizada costo sen 0,87433,31
+2025-10,restriccion por carta de 05820-25,22,6
+2025-10,rete - epuleufu lt 66 kv negrete - epulelfu,1,1
+2025-10,s/e calama 220/110 kv,106,10
+2025-10,s/e diego de almagro 220/110 kv,27,3
+2025-10,s/e duqueco 220/66 kv,8,3
+2025-10,s/e jadresic 500/220 kv,199,14
+2025-10,s/e quelentaro 220/110 kv,152,8
+2025-10,segun carta de 05820-25,1,1
+2025-10,seguridad del sistema,1,1
+2025-11,ctx lt 110 kv el penon - la ruca,9,5
+2025-11,ctx lt 66 kv parral - cauquenes,8,6
+2025-11,ctx s/e cerro navia 220/110 kv,8,2
+2025-11,finaliza ctx s/e jadresic 500/220 kv,1,1
+2025-11,l. 66 kv parral - cauquenes,1,1
+2025-11,lt 110 kv buin - chena,9,1
+2025-11,lt 110 kv el penon - la ruca,93,29
+2025-11,lt 110 kv sauzal - codegua,2,1
+2025-11,lt 154 kv charrua - concepcion,442,19
+2025-11,lt 154 kv charrua - los angeles,52,3
+2025-11,lt 220 kv carrera pinto - san andres,68,1
+2025-11,lt 220 kv carrera pinto - san andres + lt 220 kv illapa - cumbre,9,1
+2025-11,lt 220 kv charrua - santa clara,2,1
+2025-11,lt 220 kv lastarria - ciruelos,486,24
+2025-11,lt 220 kv maitencillo - nueva maitencillo,7,1
+2025-11,lt 220 kv salar - calama + lt 220 kv nueva chuquicamata - calama,3,1
+2025-11,lt 220 kv tocopilla - kimal,28,3
+2025-11,lt 44 kv carena - lo prado,2,1
+2025-11,lt 500 kv nueva pan de azucar - polpaico,10702,15
+2025-11,lt 500 kv polpaico - lo aguirre,4,1
+2025-11,lt 66 kv las aranas - el peumo,5,4
+2025-11,lt 66 kv linares - chacahuin,21,13
+2025-11,lt 66 kv maule - talca,19,2
+2025-11,lt 66 kv negrete - epuleufu,45,11
+2025-11,lt 66 kv negrete - eupulelfu,3,2
+2025-11,lt 66 kv nirivilo - tap central san javier,19,1
+2025-11,lt 66 kv parral - cauquenes,53,17
+2025-11,null,2183,30
+2025-11,prorrata generalizada costo sen 0,97721,29
+2025-11,restriccion por carta de 05820-25,15,3
+2025-11,rua - concepcion,3,1
+2025-11,s/e calama 220/110 kv,162,13
+2025-11,s/e jadresic 500/220 kv,160,12
+2025-11,s/e las aranas 110/66 kv,3,3
+2025-11,s/e mantos blancos 220/23 kv,1,1
+2025-11,s/e nueva cardones 500/220 kv,32,1
+2025-11,s/e quelentaro 220/110 kv,48,4
+2025-11,seguridad del sistema,1,1
+2025-12,lt 110 kv castro - chonchi,16,1
+2025-12,lt 110 kv castro - conchi,32,3
+2025-12,lt 110 kv el penon - la ruca,100,29
+2025-12,lt 110 kv sauzal - codegua,54,4
+2025-12,lt 110 kv sauzal - codegualt 154 kv sauzal - rancagua,1,1
+2025-12,lt 110 kv sauzal - rancagua,2,1
+2025-12,lt 154 kv charrua - concepcion,242,15
+2025-12,lt 154 kv charrua - los angeles,101,8
+2025-12,lt 154 kv maule - parral,5,2
+2025-12,lt 154 kv sauzal - rancagua,17,3
+2025-12,lt 154 kv solis - tinguiririca,2,1
+2025-12,lt 220 cochrane - encuentro,9,2
+2025-12,lt 220 kv algarrobal - maitencillo,3,1
+2025-12,lt 220 kv charrua - santa clara,3,2
+2025-12,lt 220 kv cochrane - encuentro,66,4
+2025-12,lt 220 kv cochrane - encuentroo,2,1
+2025-12,lt 220 kv lastarria - ciruelos,791,28
+2025-12,lt 220 kv rio malleco - cautin,2,1
+2025-12,lt 220 kv san andres - cardones,109,2
+2025-12,lt 220kv san andres - cardones,3,1
+2025-12,lt 500 kv cumbre - nueva cardones,5604,8
+2025-12,lt 500 kv cumbre - nueva cardones//finaliza prorrata generalizada costo sen 0 (al norte de s/e ciruelos),42,1
+2025-12,lt 500 kv nueva pan de azucar - polpaico,1737,5
+2025-12,lt 66 kv llaima - temuco,34,3
+2025-12,lt 66 kv maule - talca,17,3
+2025-12,lt 66 kv negrete - epulelfu,1,1
+2025-12,lt 66 kv negrete - epuleufu,67,15
+2025-12,lt 66 kv nirivilo - tap central san javier,28,2
+2025-12,lt 66 kv parral - cauquenes,97,25
+2025-12,null,2014,31
+2025-12,prorrata generalizada,3190,15
+2025-12,prorrata generalizada costo sen 0,97611,29
+2025-12,s/e calama 220/110 kv,142,14
+2025-12,s/e cerro navia 220/110 kv,58,6
+2025-12,s/e constitucion 66 kv,18,1
+2025-12,s/e constitucion 66/23 kv,8,1
+2025-12,s/e duqueco 220/66 kv,12,2
+2025-12,s/e hualpen 220/154 kv + s/e lagunillas 220/154 kv,14,2
+2025-12,s/e jadresic 500/220 kv,39,2
+2025-12,s/e jadresic 500/220 kv + lt 220 kv jadresic - monte mina,13,1
+2025-12,s/e jadresic 500/220 kv + lt 220 kv monte mina - nueva zaldivar,135,4
+2025-12,s/e mantos blancos 220/23 kv,22,3
+2025-12,s/e quelentaro 220/110 kv,25,2
+2025-12,seguridad del sistema,6,4
+2025-12,ss,1,1
+2026-01,1,2,1
+2026-01,control tension s/e constitucion,12,2
+2026-01,ctx lt 66 kv maule - talca,5,1
+2026-01,ctx s/e calama 220/110 kv,3,1
+2026-01,ctx s/e duqueco 220/66 kv,3,2
+2026-01,inicia ctx lt 66 kv maule - talca,4,1
+2026-01,inicia ctx lt 66 kv nirivilo - tap central san javier,4,1
+2026-01,lt 110 kv castro - chonchi,62,7
+2026-01,lt 110 kv diego de almagro - rio salado,7,2
+2026-01,lt 110 kv el penon - la ruca,92,28
+2026-01,lt 110 kv la ruca - el penon,4,1
+2026-01,lt 110 kv la ruca -el penon,2,1
+2026-01,lt 110 kv quillota - san pedro,9,4
+2026-01,lt 110 kv rio aconcagua - nueva panquehue + s/e los maquis 220/12 kv,20,1
+2026-01,lt 110 kv sauzal - codegua,13,3
+2026-01,lt 110 kv sauzal - rancagua,12,3
+2026-01,lt 154 kv charrua - concepcion,433,27
+2026-01,lt 154 kv charrua - concepcion + lt 220 kv charrua - hualqui,35,3
+2026-01,lt 154 kv charrua - los angeles,32,4
+2026-01,lt 154 kv sauzal - codegua,2,1
+2026-01,lt 154 kv sauzal - rancagua,59,3
+2026-01,lt 220 kv angamos - kapatur,8,1
+2026-01,lt 220 kv charrua - santa clara,136,3
+2026-01,lt 220 kv lastarria - ciruelos,1505,29
+2026-01,lt 220 kv paposo - diego de almagro,8,1
+2026-01,lt 500 kv charrua - ancoa,26,1
+2026-01,lt 500 kv nueva pan de azucar - polpaico,6389,9
+2026-01,lt 500 kv polpaico - lo aguirre,775,1
+2026-01,lt 66 kv codegua - san francisco de mostazal,5,2
+2026-01,lt 66 kv llaima - temuco,4,1
+2026-01,lt 66 kv los maquis - hualane,23,10
+2026-01,lt 66 kv maule - talca,60,5
+2026-01,lt 66 kv negrete - epuleufu,62,16
+2026-01,lt 66 kv nirivilo - tap central san javier,318,9
+2026-01,lt 66 kv parral - cauquenes,96,24
+2026-01,nirivilo - tap central san javier,30,1
+2026-01,null,1418,31
+2026-01,observar el comportamiento de la caldera post reparacion,1,1
+2026-01,por xxxxxxxxxxxxxxxxxx,1,1
+2026-01,prorrata generalizada,11845,31
+2026-01,prorrata generalizada costo sen 0,98564,31
+2026-01,s/e calama 220 /110 kv,1,1
+2026-01,s/e calama 220/110 kv,290,21
+2026-01,s/e cerro navia 220/110 kv,12,2
+2026-01,s/e diego de almagro 220/110 kv,57,5
+2026-01,s/e duqueco 230/69 kv,5,1
+2026-01,s/e los angeles 154/66 kv,15,3
+2026-01,s/e quelentaro 220/110 kv,20,2
+2026-01,"s/e quelentaro 66/13,2 kv",4,2
+2026-01,"s/e reguladora rapel 66/13,2 kv",1,1
+2026-01,seguridad del sistema,4,2
+2026-01,seguridad sistema,1,1
+2026-02,-,1,1
+2026-02,ctx lt 110 kv quillota - san pedro.,5,1
+2026-02,ctx lt 154 kv charrua - concepcion,8,1
+2026-02,ctx lt 66 kv coronel - arenas blancas,3,1
+2026-02,ctx s/e duqueco 220/66 kv,2,1
+2026-02,ctx s/e jadresic 500/220 kv + lt 220 kv jadresic - monte mina,7,1
+2026-02,inicia ctx lt 110 kv castro - chonchi,5,1
+2026-02,lt 110 kv castro - chonchi,32,5
+2026-02,lt 110 kv central emelda - diego de almagro,11,3
+2026-02,lt 110 kv diego de almagro - rio salado,5,1
+2026-02,lt 110 kv el penon - la ruca,98,28
+2026-02,lt 110 kv quillota - san pedro,12,1
+2026-02,lt 110 kv rio salado - diego de almagro,4,1
+2026-02,lt 110 kv sauzal - rancagua,5,2
+2026-02,lt 154 kv charrua - concepcion,382,27
+2026-02,lt 154 kv charrua - concepcion.,10,1
+2026-02,lt 154 kv charrua - los angeles,25,2
+2026-02,lt 154 kv hualpen - san vicente,45,2
+2026-02,lt 154 kv hualpen - san vicente + lt 220 kv charrua - concepcion,31,3
+2026-02,lt 154 kv sauzal - rancagua,27,3
+2026-02,lt 154 kv tap off empalme teno - teno,15,3
+2026-02,lt 220 kv carrera pinto - san andres,222,4
+2026-02,lt 220 kv charrua - santa clara,34,2
+2026-02,lt 220 kv cochrane - encuentro,108,11
+2026-02,lt 220 kv illapa - carrera pinto,1,1
+2026-02,lt 220 kv lastarria - ciruelos,1096,28
+2026-02,lt 220 kv rio malleco - cautin,6,1
+2026-02,lt 220 kv rio malleco - mulchen,15,1
+2026-02,lt 44 kv carena - lo prado,7,1
+2026-02,lt 500 kv nueva pan de azucar - polpaico,3020,7
+2026-02,lt 66 kv codegua - s. francisco mostazal,16,2
+2026-02,lt 66 kv coronel - arenas blancas,1,1
+2026-02,lt 66 kv llaima - temuco,5,1
+2026-02,lt 66 kv los maquis - hualane,38,16
+2026-02,lt 66 kv maule - talca,18,3
+2026-02,lt 66 kv negrete - epuleufu,27,9
+2026-02,lt 66 kv nirivilo - tap central san javier,12,1
+2026-02,lt 66 kv parral - cauquenes,41,15
+2026-02,null,1217,26
+2026-02,prorrata generalizada,6639,26
+2026-02,prorrata generalizada costo sen 0,75025,28
+2026-02,s/e calama 220/110 kv,318,22
+2026-02,s/e constitucion,8,1
+2026-02,s/e constitucion 66/23 kv,33,2
+2026-02,s/e duqueco 220/66 kv,8,1
+2026-02,s/e jadresic 500/220 kv + lt 220 kv jadresic - monte mina,4,1
+2026-02,s/e mantos blancos 220/23 kv,41,5
+2026-02,"s/e mantos blancos 220/23 kv, segun il 2025000425.",1,1
+2026-02,s/e mantos blancos 23/6.3 kv,8,2
+2026-02,s/e mantos blancos tr n°4 23/6.3 kv de 12 mva,3,1
+2026-02,s/e quelentaro 220/110 kv,22,2
+2026-02,seguridad del sistema,6,6
+2026-03,cancela if2026xxxxxx,1,1
+2026-03,ctx lt 154 kv charrua - concepcion,2,1
+2026-03,ctx s/e llaima 66 kv b1,3,1
+2026-03,inicia ctx lt 110 kv quillota - san pedro,4,1
+2026-03,inicia ctx lt 154 kv charrua - concepcion,6,1
+2026-03,lt 110 kv diego de almagro - rio salado,7,2
+2026-03,lt 110 kv el penon - la ruca,121,31
+2026-03,lt 110 kv quillota - san pedro,23,2
+2026-03,lt 154 kv charrua - concepcion,360,18
+2026-03,lt 154 kv charrua - los angeles,33,3
+2026-03,lt 154 kv cipreses - itahue,18,1
+2026-03,lt 220 kv cautin - rio malleco,22,1
+2026-03,lt 220 kv charrua - santa clara,145,4
+2026-03,lt 220 kv lastarria - ciruelos,371,16
+2026-03,lt 500 kv nueva pan de azucar - polpaico,21665,22
+2026-03,lt 66 kv duqueco- los angeles 1,9,1
+2026-03,lt 66 kv llaima - temuco,16,3
+2026-03,lt 66 kv maule - talca,49,5
+2026-03,lt 66 kv negrete - epuleufu,32,10
+2026-03,lt 66 kv nirivilo - tap central san javier,93,4
+2026-03,lt 66 kv parral - cauquenes,66,20
+2026-03,null,1939,31
+2026-03,prorrata generalizada,5646,28
+2026-03,prorrata generalizada costo sen 0,53920,23
+2026-03,prorrata generalizada costo sen 1,1,1
+2026-03,prorrata generalizada costo sen 10,1,1
+2026-03,prorrata generalizada costo sen 100,1,1
+2026-03,prorrata generalizada costo sen 101,1,1
+2026-03,prorrata generalizada costo sen 102,1,1
+2026-03,prorrata generalizada costo sen 103,1,1
+2026-03,prorrata generalizada costo sen 104,1,1
+2026-03,prorrata generalizada costo sen 105,1,1
+2026-03,prorrata generalizada costo sen 106,1,1
+2026-03,prorrata generalizada costo sen 107,1,1
+2026-03,prorrata generalizada costo sen 108,1,1
+2026-03,prorrata generalizada costo sen 109,1,1
+2026-03,prorrata generalizada costo sen 11,1,1
+2026-03,prorrata generalizada costo sen 110,1,1
+2026-03,prorrata generalizada costo sen 111,1,1
+2026-03,prorrata generalizada costo sen 112,1,1
+2026-03,prorrata generalizada costo sen 113,1,1
+2026-03,prorrata generalizada costo sen 114,1,1
+2026-03,prorrata generalizada costo sen 115,1,1
+2026-03,prorrata generalizada costo sen 116,1,1
+2026-03,prorrata generalizada costo sen 117,1,1
+2026-03,prorrata generalizada costo sen 118,1,1
+2026-03,prorrata generalizada costo sen 119,1,1
+2026-03,prorrata generalizada costo sen 12,1,1
+2026-03,prorrata generalizada costo sen 120,1,1
+2026-03,prorrata generalizada costo sen 121,1,1
+2026-03,prorrata generalizada costo sen 122,1,1
+2026-03,prorrata generalizada costo sen 123,1,1
+2026-03,prorrata generalizada costo sen 124,1,1
+2026-03,prorrata generalizada costo sen 125,1,1
+2026-03,prorrata generalizada costo sen 126,1,1
+2026-03,prorrata generalizada costo sen 127,1,1
+2026-03,prorrata generalizada costo sen 128,1,1
+2026-03,prorrata generalizada costo sen 129,1,1
+2026-03,prorrata generalizada costo sen 13,1,1
+2026-03,prorrata generalizada costo sen 130,1,1
+2026-03,prorrata generalizada costo sen 14,1,1
+2026-03,prorrata generalizada costo sen 15,1,1
+2026-03,prorrata generalizada costo sen 16,1,1
+2026-03,prorrata generalizada costo sen 17,1,1
+2026-03,prorrata generalizada costo sen 18,1,1
+2026-03,prorrata generalizada costo sen 19,1,1
+2026-03,prorrata generalizada costo sen 2,1,1
+2026-03,prorrata generalizada costo sen 20,1,1
+2026-03,prorrata generalizada costo sen 21,1,1
+2026-03,prorrata generalizada costo sen 22,1,1
+2026-03,prorrata generalizada costo sen 23,1,1
+2026-03,prorrata generalizada costo sen 24,1,1
+2026-03,prorrata generalizada costo sen 25,1,1
+2026-03,prorrata generalizada costo sen 26,1,1
+2026-03,prorrata generalizada costo sen 27,1,1
+2026-03,prorrata generalizada costo sen 28,1,1
+2026-03,prorrata generalizada costo sen 29,1,1
+2026-03,prorrata generalizada costo sen 3,1,1
+2026-03,prorrata generalizada costo sen 30,1,1
+2026-03,prorrata generalizada costo sen 31,1,1
+2026-03,prorrata generalizada costo sen 32,1,1
+2026-03,prorrata generalizada costo sen 33,1,1
+2026-03,prorrata generalizada costo sen 34,1,1
+2026-03,prorrata generalizada costo sen 35,1,1
+2026-03,prorrata generalizada costo sen 36,1,1
+2026-03,prorrata generalizada costo sen 37,1,1
+2026-03,prorrata generalizada costo sen 38,1,1
+2026-03,prorrata generalizada costo sen 39,1,1
+2026-03,prorrata generalizada costo sen 4,1,1
+2026-03,prorrata generalizada costo sen 40,1,1
+2026-03,prorrata generalizada costo sen 41,1,1
+2026-03,prorrata generalizada costo sen 42,1,1
+2026-03,prorrata generalizada costo sen 43,1,1
+2026-03,prorrata generalizada costo sen 44,1,1
+2026-03,prorrata generalizada costo sen 45,1,1
+2026-03,prorrata generalizada costo sen 46,1,1
+2026-03,prorrata generalizada costo sen 47,1,1
+2026-03,prorrata generalizada costo sen 48,1,1
+2026-03,prorrata generalizada costo sen 49,1,1
+2026-03,prorrata generalizada costo sen 5,1,1
+2026-03,prorrata generalizada costo sen 50,1,1
+2026-03,prorrata generalizada costo sen 51,1,1
+2026-03,prorrata generalizada costo sen 52,1,1
+2026-03,prorrata generalizada costo sen 53,1,1
+2026-03,prorrata generalizada costo sen 54,1,1
+2026-03,prorrata generalizada costo sen 55,1,1
+2026-03,prorrata generalizada costo sen 56,1,1
+2026-03,prorrata generalizada costo sen 57,1,1
+2026-03,prorrata generalizada costo sen 58,1,1
+2026-03,prorrata generalizada costo sen 59,1,1
+2026-03,prorrata generalizada costo sen 6,1,1
+2026-03,prorrata generalizada costo sen 60,1,1
+2026-03,prorrata generalizada costo sen 61,1,1
+2026-03,prorrata generalizada costo sen 62,1,1
+2026-03,prorrata generalizada costo sen 63,1,1
+2026-03,prorrata generalizada costo sen 64,1,1
+2026-03,prorrata generalizada costo sen 65,1,1
+2026-03,prorrata generalizada costo sen 66,1,1
+2026-03,prorrata generalizada costo sen 67,1,1
+2026-03,prorrata generalizada costo sen 68,1,1
+2026-03,prorrata generalizada costo sen 69,1,1
+2026-03,prorrata generalizada costo sen 7,1,1
+2026-03,prorrata generalizada costo sen 70,1,1
+2026-03,prorrata generalizada costo sen 71,1,1
+2026-03,prorrata generalizada costo sen 72,1,1
+2026-03,prorrata generalizada costo sen 73,1,1
+2026-03,prorrata generalizada costo sen 74,1,1
+2026-03,prorrata generalizada costo sen 75,1,1
+2026-03,prorrata generalizada costo sen 76,1,1
+2026-03,prorrata generalizada costo sen 77,1,1
+2026-03,prorrata generalizada costo sen 78,1,1
+2026-03,prorrata generalizada costo sen 79,1,1
+2026-03,prorrata generalizada costo sen 8,1,1
+2026-03,prorrata generalizada costo sen 80,1,1
+2026-03,prorrata generalizada costo sen 81,1,1
+2026-03,prorrata generalizada costo sen 82,1,1
+2026-03,prorrata generalizada costo sen 83,1,1
+2026-03,prorrata generalizada costo sen 84,1,1
+2026-03,prorrata generalizada costo sen 85,1,1
+2026-03,prorrata generalizada costo sen 86,1,1
+2026-03,prorrata generalizada costo sen 87,1,1
+2026-03,prorrata generalizada costo sen 88,1,1
+2026-03,prorrata generalizada costo sen 89,1,1
+2026-03,prorrata generalizada costo sen 9,1,1
+2026-03,prorrata generalizada costo sen 90,1,1
+2026-03,prorrata generalizada costo sen 91,1,1
+2026-03,prorrata generalizada costo sen 92,1,1
+2026-03,prorrata generalizada costo sen 93,1,1
+2026-03,prorrata generalizada costo sen 94,1,1
+2026-03,prorrata generalizada costo sen 95,1,1
+2026-03,prorrata generalizada costo sen 96,1,1
+2026-03,prorrata generalizada costo sen 97,1,1
+2026-03,prorrata generalizada costo sen 98,1,1
+2026-03,prorrata generalizada costo sen 99,1,1
+2026-03,s/e calama 220/110 kv,157,15
+2026-03,s/e cerro navia 220/110 kv,29,4
+2026-03,s/e constitucion 66/23 kv,32,2
+2026-03,s/e duqueco 220/66 kv,20,2
+2026-03,"s/e mantos blancos 23/6,3 kv",13,2
+2026-03,s/e mantos blancos 23/6.3 kv,3,1
+2026-03,s/e quelentaro 220/110 kv,31,3
+2026-03,seguridad del sistema,14,4
+2026-04,(tx por tr 220/154 kv de s/e alto jahuel + tx por tr 220/154 kv de s/e itahue),3,1
+2026-04,154 kv lt charrua - concepcion,6,1
+2026-04,consigna maxima de seguridad,6895,26
+2026-04,ctx lt 66 kv llaima - temuco,7,1
+2026-04,ctx lt 66 kv parral - cauquenes,1,1
+2026-04,inicia prorrata generalizada costo sen 0 (al norte de s/e ciruelos),7,1
+2026-04,lt 110 kv diego de almagro - rio salado,3,1
+2026-04,lt 110 kv el penon - la ruca,129,29
+2026-04,lt 154 kv charrua - concepcio,1,1
+2026-04,lt 154 kv charrua - concepcion,337,16
+2026-04,lt 154 kv charrua - los angeles,26,5
+2026-04,lt 154 kv itahue - maule,10,1
+2026-04,lt 154 kv itahue - seccionadora solis,7,1
+2026-04,lt 220 kv charrua - concepcion,7,1
+2026-04,lt 220 kv charrua - concepcion + lt 220 kv charrua - hualpen,9,1
+2026-04,lt 220 kv charrua - santa clara,7,1
+2026-04,lt 220 kv kimal - encuentro,7,1
+2026-04,lt 220 kv lastarria - ciruelos,157,11
+2026-04,lt 220 kv nueva pozo almonte - pozo almonte,8,1
+2026-04,lt 220 kv salar - calama,21,1
+2026-04,lt 500 kv nueva maitencillo - nueva pan de azucar,160,1
+2026-04,lt 500 kv nueva pan de azucar - polpaico,21390,23
+2026-04,lt 66 kv llaima - pillanlelbun,10,1
+2026-04,lt 66 kv llaima - temuco,18,3
+2026-04,lt 66 kv llaima- temuco,3,1
+2026-04,lt 66 kv negrete - epuleufu,80,16
+2026-04,lt 66 kv parral - cauquenes,72,16
+2026-04,null,1602,29
+2026-04,prorrata generalizada costo sen 0,34027,25
+2026-04,restriccion por carta de 05820-25,3,1
+2026-04,s/e calama 220/110 kv,121,13
+2026-04,s/e duqueco 220/66 kv,3,1
+2026-04,s/e jadresic 500/220 kv,70,2
+2026-04,s/e jadresic 500/220 kv + lt 220 kv monte mina - jadresic,1,1
+2026-04,s/e jadresic 500/220 kv + lt 220 kv monte mina - nueva zaldivar,30,3
+2026-04,s/e mantos blancos 23/6.3 kv,11,2
+2026-04,s/e quelentaro 220/110 kv,73,6
+2026-04,seguridad de sistema,2,1
+2026-04,seguridad del sistema,2,1
+2026-05,-,1,1
+2026-05,bess,20,3
+2026-05,consigna maxima de seguridad,9090,28
+2026-05,ctx lt 220 kv guacolda - maitencillo,9,2
+2026-05,ctx lt 66 kv llaima - temuco,3,1
+2026-05,di2026050637,1,1
+2026-05,finaliza generalizada costo sen 0,2,1
+2026-05,lt 110 kv el panon - la ruca,2,1
+2026-05,lt 110 kv el penon - la ruca,134,30
+2026-05,lt 110 kv nueva panquehue - chagres,11,1
+2026-05,lt 154 kv charrua - concepcion,193,10
+2026-05,lt 154 kv charrua - los angeles,92,8
+2026-05,lt 220 kv charrua - santa clara,643,13
+2026-05,lt 220 kv guacolda - maitencillo,63,5
+2026-05,lt 220 kv lastarria - ciruelos,235,11
+2026-05,lt 220 kv polpaico - quilapilun,3,1
+2026-05,lt 500 kv jadresic - cumbre,92,1
+2026-05,lt 500 kv nueva cardones - nueva maitencillo,488,1
+2026-05,lt 500 kv nueva pan de azucar - polpaico,11118,18
+2026-05,lt 66 kv coronel - arenas blancas,6,1
+2026-05,lt 66 kv llaima - pillanlelbun,5,1
+2026-05,lt 66 kv llaima - temuco,39,7
+2026-05,lt 66 kv maule - talca,25,2
+2026-05,lt 66 kv negrete - epuleufu,35,11
+2026-05,lt 66 kv nirivilo - tap central san javier,4,1
+2026-05,lt 66 kv parral - cauquenes,13,4
+2026-05,null,3199,31
+2026-05,prorrata generalizada costo sen 0,22836,22
+2026-05,s/e calama 220/110 kv,192,21
+2026-05,s/e cerro navia 220/110 kv,5,1
+2026-05,s/e hualpen 220/154 kv,13,1
+2026-05,s/e jadresic 500/220 kv,164,8
+2026-05,s/e jadresic 500/220 kv + lt 220 kv monte mina - jadresic,38,4
+2026-05,s/e jadresic 500/220 kv + lt 220 kv monte mina - nueva zaldivar,14,2
+2026-05,s/e jadresic 500/220 kv y 750 mva,6,2
+2026-05,s/e maitencillo 220/110 kv,29,1
+2026-05,s/e mantos blancos 23/6.3 kv,5,1
+2026-05,s/e quelentaro 220/110 kv,10,1
+2026-05,s/e tinguiririca 220/154 kv,4,1
+2026-05,sd 2026044306,2,1
+2026-05,seguridad de sistema,4,1
+2026-05,seguridad del sistema,5,2
+2026-05,seguridad sistema,5,1
+2026-06,consigna maxima de seguridad,4503,15
+2026-06,ctx lt 66 kv maule - talca,8,1
+2026-06,lt 110 kv el panon - la ruca,9,2
+2026-06,lt 110 kv el penon - la ruca,56,13
+2026-06,lt 110 kv la ruca - el penon,3,1
+2026-06,lt 110 kv ovalle - la ruca,4,1
+2026-06,lt 154 kv charrua - concepcion,22,1
+2026-06,lt 154 kv charrua - los angel,1,1
+2026-06,lt 154 kv charrua - los angeles,66,7
+2026-06,lt 154 kv itahue - maule,7,1
+2026-06,lt 220 kv cautin - rio malleco,54,1
+2026-06,lt 220 kv cautin - rio tolten,62,2
+2026-06,lt 220 kv charrua - santa clara,230,3
+2026-06,lt 220 kv lastarria - ciruelos,395,13
+2026-06,lt 220 kv maitencillo - nueva maitencillo,18,3
+2026-06,lt 220 kv maitencillo - nueva manitencillo,17,1
+2026-06,lt 500 kv charrua - ancoa,21,1
+2026-06,lt 500 kv nueva pan de azucar - polpaico,11318,24
+2026-06,lt 66 kv itahue - maule,1,1
+2026-06,lt 66 kv itahue - maule + s/e santa isabel 154/66 kv,10,1
+2026-06,lt 66 kv maule - talca,151,11
+2026-06,lt 66 kv negrete - epuleufu,33,10
+2026-06,lt 66 kv nirivilo - tap central san javier,33,6
+2026-06,lt 66 kv san javier - constitucion,2,1
+2026-06,lt 66 kv talca - maule,6,1
+2026-06,lt andes - montemina 220 kv + andes - laberinto 220 kv,7,1
+2026-06,null,3528,30
+2026-06,prorrata generalizada costo sen 0,12551,14
+2026-06,s/e calama 220/110 kv,180,17
+2026-06,s/e cautin barra a 220 kv,49,1
+2026-06,s/e charrua 500/220 kv,5,1
+2026-06,s/e choapa 220/110 kv,6,1
+2026-06,s/e constitucion 66/23 kv,9,2
+2026-06,s/e jadresic 500/220 kv,192,5
+2026-06,s/e jadresic 500/220 kv + lt 220 kv monte mina - jadresic,126,2
+2026-06,s/e jadresic 500/220 kv + lt 220 kv monte mina - nueva zaldivar,2,1
+2026-06,s/e mantos blancos 23/6.3 kv,3,1
+2026-06,s/e quelentaro 220/110 kv,110,7
+2026-06,seguridad del sistema,8,5
+2026-06,seguridad sistema,2,1
+2026-06,ule - talca lt 66 kv maule - talca,1,1
+2026-07,consigna maxima de seguridad,3231,14
+2026-07,ctx lt 66 kv negrete - epuleufu,8,1
+2026-07,ctx tr s/e choapa 75 mva,1,1
+2026-07,fin seguridad del sistema,2,1
+2026-07,lt 110 kv diego de almagro - rio salado,10,2
+2026-07,lt 110 kv el penon - la ruca,50,11
+2026-07,lt 154 kv charrua - los angeles,27,2
+2026-07,lt 220 kv centella - quillota + lt 220 kv las palmas - los vilos,1023,1
+2026-07,lt 220 kv charrua - ancoa,13,2
+2026-07,lt 220 kv charrua - santa clara,1700,10
+2026-07,lt 220 kv kimal - encuentro,5,1
+2026-07,lt 220 kv lastarria - ciruelos,402,18
+2026-07,lt 220 kv maitencillo - nueva maitencillo,6,1
+2026-07,lt 220 kv nueva pan de azucar - polpaico,3,1
+2026-07,lt 500 kv charrua - ancoa,2295,9
+2026-07,lt 500 kv nueva pan de azucar - polpaico,7177,15
+2026-07,lt 66 kv maule - talca,230,14
+2026-07,lt 66 kv nahuelbuta - epuleufu,10,3
+2026-07,lt 66 kv negrete - epuleufu,29,8
+2026-07,lt 66 kv nirivilo - tap central san javier,20,3
+2026-07,lt 66 kv talca - maule,21,1
+2026-07,null,3531,31
+2026-07,prorrata generalizada costo sen 0,32757,19
+2026-07,s/e calama 220/110 kv,191,17
+2026-07,s/e cerro navia,2,1
+2026-07,s/e cerro navia 220/110 kv,98,5
+2026-07,s/e charrua 500/220 kv,14,2
+2026-07,s/e choapa 220/110 kv,11,1
+2026-07,s/e constitucion 66/23 kv,8,1
+2026-07,s/e jadresic 500/220 kv,482,13
+2026-07,s/e jadresic 500/220 kv + lt 220 kv,1,1
+2026-07,s/e jadresic 500/220 kv + lt 220 kv jadresic - monte mina,317,6
+2026-07,s/e jadresic 500/220 kv + lt 220 kv monte mina - jadresic,28,1
+2026-07,s/e jadresic 500/220 kv + lt 220 kv monte mina - nueva zaldivar,7,1
+2026-07,s/e mantos blancos 220/23 kv,6,1
+2026-07,s/e quelentaro 220/110 kv,26,2
+2026-07,s/e teno 154 kv 52 at,6,1
+2026-07,s/e teno 154 kv 52at,16,1
+2026-07,seguridad del sistema,18,6
+2026-07,seguridad sistema,10,4
+2026-08,cambio cmg,2,1
+2026-08,consigna maxima de seguridad,1425,7
+2026-08,ctx lt 500 kv charrua - ancoa,29,2
+2026-08,dfff,2,1
+2026-08,lt 110 kv diego de almagro - rio salado,12,4
+2026-08,lt 110 kv el penon - la ruca,43,12
+2026-08,lt 110 kv ovalle - la ruca,1,1
+2026-08,lt 110 kv ovalle -la ruca,1,1
+2026-08,lt 110 kv rio salado - diego de almagro,3,1
+2026-08,lt 154 kv charrua - concepcion,46,2
+2026-08,lt 154 kv charrua - los angeles,25,2
+2026-08,lt 154 kv sauzal - rancagua,13,1
+2026-08,lt 220 kv cautin - rio tolten,151,2
+2026-08,lt 220 kv charrua - santa clara,520,4
+2026-08,lt 220 kv cochrane - encuentro,2,1
+2026-08,lt 220 kv cochrane -encuentro,5,1
+2026-08,lt 220 kv lastarria - ciruelos,356,17
+2026-08,lt 220 kv monte mina - nueva zaldivar,59,2
+2026-08,lt 500 kv charrua - ancoa,14704,28
+2026-08,lt 500 kv charrua - ancoa.,2,1
+2026-08,lt 500 kv charrua - ancoa. a 25 mw por il.,1,1
+2026-08,lt 500 kv cumbre - nueva cardones,9,1
+2026-08,lt 500 kv jadresic - cumbre,73,4
+2026-08,lt 500 kv nueva pan de azucar - polpaico,884,2
+2026-08,lt 66 kv itahue - curico,4,1
+2026-08,lt 66 kv itahue - los maquis,5,1
+2026-08,lt 66 kv linares - chacahuin,6,2
+2026-08,lt 66 kv nahuelbuta - epuleufu,11,1
+2026-08,lt 66 kv negrete - epuleufu,50,11
+2026-08,lt 66 kv nirivilo - tap central san javier,10,2
+2026-08,lt 66 kv parral - cauquenes,15,6
+2026-08,null,1765,31
+2026-08,prorrata generalizada costo sen 0,50763,27
+2026-08,prorrata generalizada costo sen 0 (al norte de s/e cautin),1948,2
+2026-08,prorrata generalizada costo sen 0 (al sur de s/e cumbres y norte s/e ciruelos),215,1
+2026-08,s/e calama 220/110 kv,176,15
+2026-08,s/e cerro navia 220/110 kv,60,4
+2026-08,s/e jadresic 500/220 kv,287,12
+2026-08,s/e jadresic 500/220 kv + lt 220 kv jadresic - monte mina,30,5
+2026-08,s/e mantos blancos 23/6.3 kv,2,1
+2026-08,s/e quelentaro 220/110 kv,59,3
+2026-08,segurdiad sistema,2,1
+2026-08,seguridad de sistema,2,1
+2026-08,seguridad del sistema,8,4
+2026-08,seguridad del sistema y cpf,2,1
+2026-08,seguridad sistema,2,2

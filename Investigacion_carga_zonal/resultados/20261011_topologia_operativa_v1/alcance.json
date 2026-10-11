@@ -1,0 +1,7 @@
+{
+  "estado": "OK",
+  "canales": 4,
+  "secciones": 8,
+  "interpretacion": "Catálogo disponible: trazado local y límites por sección. No certifica la topología de cada fecha, ni límites operativos N-1. La potencia activa medida en MW no equivale a la potencia aparente nominal en MVA. Se conservan rótulos originales, incluso C1 en el tramo 5674.",
+  "originales_modificados": 0
+}

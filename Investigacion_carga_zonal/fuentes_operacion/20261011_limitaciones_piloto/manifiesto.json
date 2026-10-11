@@ -1,0 +1,9 @@
+{
+  "recurso": "limitaciones",
+  "ruta": "/limitaciones-transmision/v4/findByDate",
+  "inicio": "2024-10-07",
+  "fin": "2024-10-07",
+  "consultado_UTC": "2026-10-11T21:50:50.677745+00:00",
+  "estado": "error:HTTP 502",
+  "paginas": []
+}

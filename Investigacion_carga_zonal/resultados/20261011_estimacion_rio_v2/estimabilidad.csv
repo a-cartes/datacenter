@@ -1,0 +1,4 @@
+modelo,estado,rango,columnas,iteraciones_FE,error_absorcion,motivo
+base,estimado_condicional,5,5,53.0,7.812758773262374e-11,
+google,estimado_condicional,6,6,53.0,7.812758773262374e-11,
+bloques_ctx,no_estimable,9,10,,,Falta de soporte o colinealidad; no eliminar términos según resultado

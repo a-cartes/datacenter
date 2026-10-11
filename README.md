@@ -8,6 +8,8 @@ La versión vigente es el **cierre analítico para SOCHER 2026**, con precios 20
 
 ## Resultados de esta versión
 
+La investigación posterior, con prioridad Energy Economics, está en el [informe de calendario operativo, flujos y otras cargas](Investigacion_carga_zonal/INFORME_OPERACION_Y_CARGAS_20261011.md). Examina la señal diurna de Las Canteras y documenta una restricción local asociada a mantenimiento y ajustes de generación. Se conserva por separado del cierre SOCHER presentado a continuación.
+
 | Resultado | Valor o alcance |
 |---|---|
 | Inventario | 63 registros de instalaciones o etapas, 138 hitos, 65 fuentes |

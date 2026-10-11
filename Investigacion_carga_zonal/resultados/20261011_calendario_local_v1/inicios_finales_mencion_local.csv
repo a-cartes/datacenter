@@ -1,0 +1,5 @@
+central,configuracion,consigna,control_tension,despacho,estado,estado_operativo,fecha,hora,id_central,id_instruccion,id_unidad_generadora,instruccion_cmg,motivo,zona_desaclope,fuente
+CDC,Finaliza Ctx,-,,0.0,-,-,2025-01-22,17:52:00,,1107038,,-,Finaliza Ctx LT 110 kV Las Canteras - Santiago Solar,LT 110 kV Las Canteras - Santiago Solar,20261011_rio_202501_completo
+CDC,-,,,0.0,,,2025-01-22,17:52:00,,1107039,,,Finaliza Prorrata LT 110 kV Las Canteras - Santiago Solar,LT 110 kV Las Canteras - Santiago Solar,20261011_rio_202501_completo
+Colocación: 114; Ajuste : -30,CDC,,,0.0,,,2025-01-22,12:54:00,,1106288,,,Inicia Ctx LT 110 kV Las Canteras - Santiago Solar,LT 110 kV Las Canteras - Santiago Solar,20261011_rio_202501_completo
+Colocación: 114; Ajuste : -30,CDC,,,0.0,,,2025-01-22,12:54:00,,1106222,,,Inicia Prorrata LT 110 kV Las Canteras - Santiago Solar,LT 110 kV Las Canteras - Santiago Solar,20261011_rio_202501_completo

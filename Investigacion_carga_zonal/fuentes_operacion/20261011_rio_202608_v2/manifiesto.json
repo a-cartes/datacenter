@@ -1,0 +1,9 @@
+{
+  "recurso": "rio",
+  "ruta": "/instrucciones-operacionales-cmg/v4/findByDate",
+  "inicio": "2026-08-01",
+  "fin": "2026-08-31",
+  "consultado_UTC": "2026-10-11T21:53:32.125680+00:00",
+  "estado": "error:HTTP 504",
+  "paginas": []
+}

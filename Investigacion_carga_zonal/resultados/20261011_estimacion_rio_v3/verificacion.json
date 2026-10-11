@@ -1,0 +1,32 @@
+{
+  "estado": "OK",
+  "n": 1010,
+  "dias": 50,
+  "ctx_1": 198,
+  "ctx_0": 812,
+  "modelos": [
+    {
+      "modelo": "base",
+      "estado": "estimado_condicional",
+      "rango": 5,
+      "columnas": 5,
+      "iteraciones_FE": 53,
+      "error_absorcion": 7.812758773262374e-11
+    },
+    {
+      "modelo": "google",
+      "estado": "estimado_condicional",
+      "rango": 6,
+      "columnas": 6,
+      "iteraciones_FE": 53,
+      "error_absorcion": 7.812758773262374e-11
+    },
+    {
+      "modelo": "bloques_ctx",
+      "estado": "no_estimable",
+      "rango": 9,
+      "columnas": 10,
+      "motivo": "Falta de soporte o colinealidad; no eliminar t\u00e9rminos seg\u00fan resultado"
+    }
+  ]
+}

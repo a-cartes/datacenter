@@ -1,0 +1,94 @@
+{
+  "recurso": "rio",
+  "ruta": "/instrucciones-operacionales-cmg/v4/findByDate",
+  "inicio": "2025-06-01",
+  "fin": "2025-06-30",
+  "consultado_UTC": "2026-10-11T22:03:45.856118+00:00",
+  "estado": "descargado_requiere_validacion",
+  "paginas": [
+    {
+      "archivo": "pagina_00001_10000.json.gz",
+      "sha256": "ce66c4b8bf0efe16f0cfc67fc1c63b8ed56bde6b21dbf9d3a641a6eb7d863a0b",
+      "filas": 10000,
+      "pagina_solicitada": 1,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 1,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00002_10000.json.gz",
+      "sha256": "e51fbff231c4905bb700a85a9ea95126298e337ad28a333497a5b5953174bea3",
+      "filas": 10000,
+      "pagina_solicitada": 2,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 2,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00003_10000.json.gz",
+      "sha256": "5e032efdde0be41f2d5dac45bf5bd797d27dfddfc38a6b682ee034cd1cdadda8",
+      "filas": 10000,
+      "pagina_solicitada": 3,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 3,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00004_10000.json.gz",
+      "sha256": "b9b3e964834b3a0a034d85b5c9aeff98bd71f842a89c5d1a9a380407cab6bd80",
+      "filas": 10000,
+      "pagina_solicitada": 4,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 4,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00005_10000.json.gz",
+      "sha256": "9b80fd593f7fa1600561a8cc49faaa52338a7bab290197bfd065ed39e30dc924",
+      "filas": 10000,
+      "pagina_solicitada": 5,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 5,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00006_10000.json.gz",
+      "sha256": "a41952409e0d1b37c3cedc0c3baea05dc2a842d2d114346aac00599012278b79",
+      "filas": 8749,
+      "pagina_solicitada": 6,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 6,
+        "limit": 10000
+      }
+    },
+    {
+      "archivo": "pagina_00007_10000.json.gz",
+      "sha256": "95ba04510ebe6d2504c0b114c0bcf51b59af81ba2c7e325a0f43a3ad123de6f5",
+      "filas": 0,
+      "pagina_solicitada": 7,
+      "limite_solicitado": 10000,
+      "metadatos": {
+        "totalPages": 6,
+        "page": 7,
+        "limit": 10000
+      }
+    }
+  ]
+}
