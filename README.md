@@ -25,6 +25,26 @@ La [nota metodológica](SOCHER_2026_RM/documentacion/METODO.md) explica las dos 
 
 La entrega fija [v0.3.0](https://github.com/a-cartes/datacenter/tree/v0.3.0) cuenta con **35 comprobaciones científicas superadas en Mac y Linux**. Consulte los [informes de reproducción](SOCHER_2026_RM/evidencia/README.md).
 
+## Datos efectivamente encontrados y revisados
+
+Auditoría local del **11 de octubre de 2026**, inicio de la investigación de consumo efectivo y exposición zonal. La disponibilidad comprobada se refiere al archivo de investigación; los originales voluminosos no están todos incluidos en GitHub. Las filas describen fuentes que pueden solaparse: sus registros y mediciones no deben sumarse entre sí.
+
+| Recurso | Disponibilidad comprobada | Uso y límite concreto |
+|---|---|---|
+| Originales de demanda | 653 archivos, 26,54 GB; todos existen y conservan el tamaño inventariado | Reextracción selectiva de meses/puntos; no hace falta volver a descargarlos masivamente. Incluyen familias, versiones y archivos que no deben sumarse. |
+| Retiros comerciales SIP | 27.425 registros cliente–barra–hora; 21 pares y 11 etiquetas empresariales; 89 fechas entre diciembre de 2023 y julio de 2026 | 18.053 registros no ambiguos con valor; 9.372 ambiguos. Son días muestreados, generalmente 5, 15 y 25, no series mensuales completas. Las etiquetas no equivalen a 11 operadores independientes. |
+| Mediciones físicas v7 | 1.862.581 registros de 15 minutos, 30 sockets candidatos, mayo de 2023–agosto de 2026 | Se localizaron las tablas en Descargas y se verificó su identidad con cinco hashes publicados. Los sockets incluyen tránsito, transformadores y extremos de equipos: no representan 30 centros. |
+| Las Canteras HT1+HT2 | 21.912 horas por etiquetas y 913 fechas locales, febrero de 2024–agosto de 2026, con abril de 2024 ausente | Agregado recalculado desde ambos HT y conciliado con la tabla anterior; error numérico máximo menor a 2×10⁻¹² kWh. Excluye HT3 y líneas de tránsito. |
+| Panamericana | Piloto octubre de 2023–marzo de 2024: 4.392 horas completas, cuatro canales de transformadores | Se reprodujo la frontera D−R heredada. Mide el suministro seleccionado, compartido; falta aislar o acotar la carga del centro. |
+| Historia Chacabuco | 24 puntos, 105 meses distintos entre enero de 2018 y septiembre de 2026, cobertura desigual por punto | Aporta antecedentes para examinar etapas y cambios de rotulado. Se mantienen los canales separados. |
+| Antecedentes Dataluna | 20.447 valores horarios 2020–2022, 744 en enero de 2023 y 8.548 observaciones hora×canal de febrero–abril de 2023 | Existen tablas, verificadas por hash; unidad/signo y continuidad de las primeras fuentes pendientes de homologación. |
+| Precios y red | 117 archivos horarios de precios; panel RM previo; 1.939 aristas y 2.482 fichas de transformadores en los catálogos locales | Disponibilidad no equivale a cobertura homogénea. Hay parámetros de impedancia/capacidad, con distintos estados de certificación; falta una red histórica validada. |
+| Inventario y conexión | 63 registros de instalaciones, etapas y proyectos; cartas y matriz de conexiones del cierre anterior | Se generó una tabla de disponibilidad para los 63 registros. La búsqueda por operador produce candidatos, no asignaciones certificadas de carga a cada edificio. |
+
+Fuentes y comprobaciones: [informe de disponibilidad](Investigacion_carga_zonal/INFORME_INICIAL.md), [resumen recalculado](Investigacion_carga_zonal/resultados/20261011_inventario_v2/resumen_auditoria.json) y [verificación de las mediciones](Investigacion_carga_zonal/resultados/20261011_inventario_v2/comprobacion_mediciones_legacy.json).
+
+La etapa posterior está documentada en la [conciliación de Las Canteras y ODATA](Investigacion_carga_zonal/INFORME_CONCILIACION_20261011.md). Consulte la [bitácora](Investigacion_carga_zonal/BITACORA.md), el [control de cambios](Investigacion_carga_zonal/CONTROL_CAMBIOS.csv) y las [instrucciones de reproducción](Investigacion_carga_zonal/REPRODUCCION.md). Los diagnósticos nuevos se conservan por separado del cierre SOCHER v0.3.0.
+
 ## Ejecutar el análisis
 
 Desde una copia de este repositorio, con Python 3.13 y R disponibles:

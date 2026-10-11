@@ -42,9 +42,9 @@ def main():
     tag = subprocess.check_output(['git', '-C', str(REPO), 'rev-parse', 'v0.3.0^{}'], text=True).strip()
     if tag != baseline['commit_version_preservada']:
         errors.append('El tag anterior cambió de commit')
-    # Permite esta nueva carpeta; detecta cualquier modificación de archivos históricos.
+    # Permite la etapa nueva y README editorial autorizado (CZ-012); protege archivos científicos históricos.
     changed = subprocess.check_output(['git', '-C', str(REPO), 'diff', '--name-only', tag], text=True).splitlines()
-    errors.extend('Cambio fuera de etapa: '+p for p in changed if not p.startswith('Investigacion_carga_zonal/'))
+    errors.extend('Cambio fuera de etapa: '+p for p in changed if not p.startswith('Investigacion_carga_zonal/') and p != 'README.md')
     print(json.dumps({'estado': 'ERROR' if errors else 'OK', 'insumos_comprobados': len(records),
         'tag_anterior': tag, 'diferencias': errors,
         'alcance': 'SHA-256 de insumos seleccionados y archivos históricos versionados; solo lectura'}, ensure_ascii=False, indent=2))

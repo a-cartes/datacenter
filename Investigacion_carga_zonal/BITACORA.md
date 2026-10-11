@@ -52,3 +52,7 @@ Pandas conservaba categorías de barras no seleccionadas al agrupar precios y ge
 Se preserva v1 completa. V2 reduce la tabla diaria de 1.199.095 a 10.271 filas observadas. Ocho tablas científicas son idénticas byte por byte, incluidos coeficientes, conciliación y panel; los precios diarios elegibles también son idénticos. Evidencia: `resultados/comparacion_conciliacion_v1_v2.json`. No cambió una base original ni una conclusión.
 
 La ejecución principal verificó 33 insumos antes/después; el diagnóstico adicional, 11. La verificación previa de 271 insumos volvió a pasar. Se conservan la réplica, la versión v0.3.0 y las auditorías previas. No hubo descargas ni contactos externos.
+
+## 2026-10-11 · Publicación de disponibilidad (CZ-012)
+
+A petición explícita del usuario se incorpora la tabla íntegra de nueve recursos al README de GitHub, con fuentes y alcance local. Se publica el avance hasta a5275d5, sin reemplazar el cierre v0.3.0. La comprobación de preservación permite ahora únicamente README.md como excepción editorial fuera de la etapa; los archivos científicos siguen protegidos. Se archiva el comprobador anterior. No se modifican datos para esta publicación.
