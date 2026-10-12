@@ -1,0 +1,15 @@
+{
+  "estado": "OK",
+  "meses": 25,
+  "registros_15min": 359428,
+  "horas_fisicas": 18264,
+  "horas_en_panel": 18144,
+  "horas_H1": 18144,
+  "horas_BESS": 16704,
+  "registros_discordancia_temporal": 0,
+  "error_reproduccion_90dias": 7.105427357601002e-15,
+  "meses_sin_FB1": [
+    "2024-08",
+    "2024-09"
+  ]
+}

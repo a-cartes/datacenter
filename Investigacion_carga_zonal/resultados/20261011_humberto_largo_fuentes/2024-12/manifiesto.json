@@ -1,0 +1,8 @@
+{
+  "referencia": "mediciones_legacy:2024/12_Diciembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+  "sha256": "2ca018adf9201b9e0fc8fb80dc049632d5b7b024e440d006656b3e5533a6231b",
+  "filas_revisadas": 16997211,
+  "filas_seleccionadas": 14880,
+  "sin_cambios": true,
+  "seleccion_sha256": "a409d396e601fb9467455acc1d8727ba0213d6eaabd776d4e3e1c1e1f2400c52"
+}

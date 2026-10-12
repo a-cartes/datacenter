@@ -1,0 +1,25 @@
+[
+  {
+    "archivo": "EAF-563-2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/12/EAF-563-2024.pdf",
+    "http": 200,
+    "sha256": "c02b960274ee48268cced718abb232478ec737cef02d3a3e5dd53ffdce20ea6a",
+    "bytes": 3384767,
+    "tipo": "application/pdf",
+    "paginas": 124
+  },
+  {
+    "archivo": "Respuesta_EdgeConneX.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/67b797ff356357171e3168f6",
+    "http": 200,
+    "sha256": "162ad874c2f3630d091733d09a7ecefacb37b6c1d4efcaa8c43ab44fa93e62d7",
+    "bytes": 135616,
+    "tipo": "application/pdf",
+    "paginas": 2
+  },
+  {
+    "archivo": "Anexo_respuesta_0",
+    "url": "https://cartas.coordinador.cl/download_anexos/67b797ff356357171e3168f6/0",
+    "http": 500
+  }
+]

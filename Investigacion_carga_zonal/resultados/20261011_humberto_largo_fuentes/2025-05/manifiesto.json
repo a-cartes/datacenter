@@ -1,0 +1,8 @@
+{
+  "referencia": "mediciones_legacy:2025/05_Mayo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+  "sha256": "96b19d32b0bbc45ff4e8782292acabd4d8ac54141d4b080c8bd89dd6c193f022",
+  "filas_revisadas": 17421298,
+  "filas_seleccionadas": 14880,
+  "sin_cambios": true,
+  "seleccion_sha256": "0cec3078d17e220e4e53b799251eb2a0ba4df8c2e212cbd8e0120da1412aecab"
+}

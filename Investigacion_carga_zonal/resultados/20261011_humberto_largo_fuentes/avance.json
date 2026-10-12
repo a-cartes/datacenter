@@ -1,0 +1,209 @@
+[
+  {
+    "mes": "2025-12",
+    "referencia": "mediciones_legacy:2025/12_Diciembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "1a5b28e8c78a7e6034207d378aa975e32e3156348ea345b8c19ef83988b2603b",
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_reutilizada": "resultados/20261011_medidores_humberto_dic2025/seleccion_original.csv.gz",
+    "seleccion_sha256": "1f666f65df811a275a6ba9802738be4ac0643073382a4e8bbbf546f758db164d"
+  },
+  {
+    "mes": "2026-01",
+    "referencia": "mediciones_legacy:2026/01_Enero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "9eb12e4bc8d4de36e93bca469f8d03d2ba3da46af6f63da2ed856cf01b1d3acc",
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_reutilizada": "resultados/20261011_medidores_humberto/seleccion_original.csv.gz",
+    "seleccion_sha256": "cb6554b0393d128980abad57d0f74055c7d55c2b657204a19b3724a5bd368739"
+  },
+  {
+    "mes": "2026-02",
+    "referencia": "mediciones_legacy:2026/02_Febrero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "3e4dafbfc53c98c1356adbd2396363a65f53abb70288fcd560c85bd3acff6db4",
+    "filas_seleccionadas": 13440,
+    "sin_cambios": true,
+    "seleccion_reutilizada": "resultados/20261011_medidores_humberto_feb2026/seleccion_original.csv.gz",
+    "seleccion_sha256": "30fd3e128a303310a970b7d2da79dd21c1ede3652f6ddf870585ef5acc974523"
+  },
+  {
+    "mes": "2024-08",
+    "referencia": "mediciones_legacy:2024/08_Agosto/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "3456fe5d4be61a66a4c84dc1338e8070ca4204ec4cfae0900f890add54bb142b",
+    "filas_revisadas": 16655913,
+    "filas_seleccionadas": 11904,
+    "sin_cambios": true,
+    "seleccion_sha256": "ecdd5b8eb269c17bc192c012ddc47cd758e1c787d35e721c5542e1098be4da1b"
+  },
+  {
+    "mes": "2024-09",
+    "referencia": "mediciones_legacy:2024/09_Septiembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "0374fd36e81cc1d41416b5cddd19869d85819038b4520313769fd18e7ebfba53",
+    "filas_revisadas": 16044803,
+    "filas_seleccionadas": 11504,
+    "sin_cambios": true,
+    "seleccion_sha256": "c77f12c766a3d55ab951b0bcd0cec1a7954812d3d0c983ffe3d1e9de6f5086c3"
+  },
+  {
+    "mes": "2024-10",
+    "referencia": "mediciones_legacy:2024/10_Octubre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "9d1f66079917de1fa5a77e1238d0687f6eb051cffc7211fcf21b8227d5373992",
+    "filas_revisadas": 16911506,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "d5f5b177d01e69bb86292bceb7b45543d1cafcf2097fde35cadf58b5b5b46957"
+  },
+  {
+    "mes": "2024-11",
+    "referencia": "mediciones_legacy:2024/11_Noviembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "3a12b400cb4e91f114dfa0f5837c37be8479cb2b5d99e1657cfce9f0d95b73ee",
+    "filas_revisadas": 16300230,
+    "filas_seleccionadas": 14400,
+    "sin_cambios": true,
+    "seleccion_sha256": "55b569cbdfd6cf7952a23ff82cb99b2bb667b70713b774ec9ee2fe33ecd37d20"
+  },
+  {
+    "mes": "2024-12",
+    "referencia": "mediciones_legacy:2024/12_Diciembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "2ca018adf9201b9e0fc8fb80dc049632d5b7b024e440d006656b3e5533a6231b",
+    "filas_revisadas": 16997211,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "a409d396e601fb9467455acc1d8727ba0213d6eaabd776d4e3e1c1e1f2400c52"
+  },
+  {
+    "mes": "2025-01",
+    "referencia": "mediciones_legacy:2025/01_Enero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "1388619ae48f9fa96855445a977d521808daa9642eb7dfe9049fe230e7aead49",
+    "filas_revisadas": 17102262,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "734bd9549deb23bfab90104ea646b4992bb14903f9a4de09d022c7f4caf65d00"
+  },
+  {
+    "mes": "2025-02",
+    "referencia": "mediciones_legacy:2025/02_Febrero/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "9cb3ced2867883665022851e4821a350c818c0fad4c43b4825f6d24e77786001",
+    "filas_revisadas": 15536550,
+    "filas_seleccionadas": 13440,
+    "sin_cambios": true,
+    "seleccion_sha256": "7b39106355ea7422fb4c5ff78687619b86c2992cb7575d96b0df62de50b788b0"
+  },
+  {
+    "mes": "2025-03",
+    "referencia": "mediciones_legacy:2025/03_Marzo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "7a26e1d0032edca30aef1aecd9a2a5e9c61c5e4bd1b67f06be9503cc12a97540",
+    "filas_revisadas": 17366615,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "46f5e52a08588299989f904ca82fb218015fa0ae6e1904e6b71ea55eb408e3f2"
+  },
+  {
+    "mes": "2025-04",
+    "referencia": "mediciones_legacy:2025/04_Abril/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "18f2059d3aa9a9a6742a148ea62a96da10e7a8630d1416fee6156e675934b49e",
+    "filas_revisadas": 16819027,
+    "filas_seleccionadas": 14420,
+    "sin_cambios": true,
+    "seleccion_sha256": "d5cf26d38e3af3d9284ec2afca2b73d0b68f576cd656bf6d0a7cf880c754cd80"
+  },
+  {
+    "mes": "2025-05",
+    "referencia": "mediciones_legacy:2025/05_Mayo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "96b19d32b0bbc45ff4e8782292acabd4d8ac54141d4b080c8bd89dd6c193f022",
+    "filas_revisadas": 17421298,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "0cec3078d17e220e4e53b799251eb2a0ba4df8c2e212cbd8e0120da1412aecab"
+  },
+  {
+    "mes": "2025-06",
+    "referencia": "mediciones_legacy:2025/06_Junio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "9f03f61c34c3924b7fb1e5ef0ae5f1ff2b31e888911835a1bce39c649abd22ce",
+    "filas_revisadas": 16965296,
+    "filas_seleccionadas": 14400,
+    "sin_cambios": true,
+    "seleccion_sha256": "3606476a646f70b519b35177a7fb4e12118eef69ee7cd5371237b2a49657b56f"
+  },
+  {
+    "mes": "2025-07",
+    "referencia": "mediciones_legacy:2025/07_Julio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "882dc0fcb90f4ccd9771f366d2f06c5265505962083114855ec0cf5c17a5c2d3",
+    "filas_revisadas": 17817980,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "00d6bafd8724b08df2ab9bdfff4167e21be4555b2e5a7ea42eb62434aeb19dd0"
+  },
+  {
+    "mes": "2025-08",
+    "referencia": "mediciones_legacy:2025/08_Agosto/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "1bd7663d510a1dbd9d71d5c51608c239c0a2fed7249bc785aa4c1e95f5f87faa",
+    "filas_revisadas": 17869703,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "8c9722b2a17269c92d0d0e502ad6dbef5975fe10eb503058d297f0bfcd376c47"
+  },
+  {
+    "mes": "2025-09",
+    "referencia": "mediciones_legacy:2025/09_Septiembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "498b933210a115fe3ffe6b02b5a10ccfb8c65a7ccdcdb0be1f20a265a250f2ac",
+    "filas_revisadas": 17399065,
+    "filas_seleccionadas": 14380,
+    "sin_cambios": true,
+    "seleccion_sha256": "b99266b3cc4d1dd24bf7d80a0743af50d7a593308cce508defc6f05630c33b75"
+  },
+  {
+    "mes": "2025-10",
+    "referencia": "mediciones_legacy:2025/10_Octubre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "a04fa1c7f62ce985f5b9a3da702ee83c21a050b97f957bf8791a9f544cb68547",
+    "filas_revisadas": 18009336,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "e17c722c21d01b6f050ebfc48eccc972243a537d91ac54e16285b796cd48ada8"
+  },
+  {
+    "mes": "2025-11",
+    "referencia": "mediciones_legacy:2025/11_Noviembre/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "d9fd6a9470fa4087313e8a4727df8b489008275a468e392ff1c8e326e8b2d4ea",
+    "filas_revisadas": 17475968,
+    "filas_seleccionadas": 14400,
+    "sin_cambios": true,
+    "seleccion_sha256": "7f07cbf4c7319310c085d194d8905028860c4ebb178e8b4cf81b98e24dcf47fd"
+  },
+  {
+    "mes": "2026-03",
+    "referencia": "mediciones_legacy:2026/03_Marzo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "d6632308eab2b8011c3dd0b14cf048550303c15980983402b077e54120bea0ee",
+    "filas_revisadas": 18270412,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "6a8feade7b0ad64dc1a3f4c91f8e489ddc5f0969e54d79546836e3630172d227"
+  },
+  {
+    "mes": "2026-04",
+    "referencia": "mediciones_legacy:2026/04_Abril/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "e6201e2b844431bb34178def9de80cbf5ca8b7fb3b0ed4b259eb599eb45c17a9",
+    "filas_revisadas": 17876235,
+    "filas_seleccionadas": 14420,
+    "sin_cambios": true,
+    "seleccion_sha256": "2412aa5243bdf448cfe3ac4d256c40ed7c871bfc4fd16f928c514527c45d7c08"
+  },
+  {
+    "mes": "2026-05",
+    "referencia": "mediciones_legacy:2026/05_Mayo/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "986c65d65b9a9bf64527fec1cc98c15f7431ed6dc160352833fa2352efc7eb88",
+    "filas_revisadas": 18374817,
+    "filas_seleccionadas": 14880,
+    "sin_cambios": true,
+    "seleccion_sha256": "9a432a1cab58d665d0d101f51f0ca482a2db777b4216c44cf329d685f2f22b04"
+  },
+  {
+    "mes": "2026-06",
+    "referencia": "mediciones_legacy:2026/06_Junio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+    "sha256": "f310f2831789694bd1f1454c08f783318ed35bc5030adb87f6f741d6acfcdf04",
+    "filas_revisadas": 17933132,
+    "filas_seleccionadas": 14400,
+    "sin_cambios": true,
+    "seleccion_sha256": "47f5f4dc438099c843f5498856c2c9d34b2dfd1b770107cb4e933af468092ce2"
+  }
+]

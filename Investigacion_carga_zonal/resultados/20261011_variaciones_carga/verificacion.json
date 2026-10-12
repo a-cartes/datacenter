@@ -1,0 +1,14 @@
+{
+  "estado": "OK",
+  "fuente": "mediciones_legacy:tablas/mediciones_candidatos_15min.parquet",
+  "sha256": "8ec616e347cfe1610295b8d7441ab14fcda05469564cbbe726230a73f2c20e32",
+  "lee_precios": false,
+  "horas": 18264,
+  "dias_completos": 757,
+  "escalones_por_regla": {
+    "principal": 3,
+    "bajo": 3,
+    "alto": 2
+  },
+  "caidas_horarias": 11
+}

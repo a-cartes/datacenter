@@ -1,0 +1,35 @@
+{
+  "MW_antes": 2.08049431458,
+  "MW_6_15": 0.90670490828,
+  "MW_17_20": 1.9369342798500002,
+  "caida_bruta_MW": -1.1737894063,
+  "horas_precio_cero": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "horas_diferencial_cero": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "minutos_barra23_fuera": 943,
+  "causa_documentada": "ANI1; interrupcion accidental en23kV; cuatro alimentadores de un cliente",
+  "identificacion": "Candidato; no estimación causal"
+}

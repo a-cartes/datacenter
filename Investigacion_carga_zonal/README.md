@@ -2,7 +2,7 @@
 
 **Inicio: 11 de octubre de 2026. Estado: disponibilidad auditada, conciliación de Las Canteras/ODATA realizada y panel exploratorio zonal preparado.**
 
-**Avance actual:** [batería Don Humberto y estados efectivos de red](INFORME_BESS_Y_ESTADOS_20261011.md). Se concilian43.200 mediciones de15min y se identifican solapamientos en los retiros API y en el rótulo PFV. En90 días la pendiente diurna pasa de2,833 a2,774 al incorporar generación y fronteras físicas vecinas; es una asociación exploratoria con soporte temporal corto. La maniobra6mar se concilia con la derivación Tap Libertadores. Se conserva el [informe anterior de generación y maniobras](INFORME_GENERACION_Y_MANIOBRAS_20261011.md).
+**Avance actual:** [período largo y variaciones de carga de Las Canteras](INFORME_EXTENSION_LARGA_20261011.md). La conciliación alcanza 25 meses y 359.428 registros de 15 minutos. Con batería completa, la pendiente diurna larga es 0,575, con intervalo que incluye cero; la señal de los 90 días no se generaliza. Se detectan cambios de carga sin usar precios y se documenta una falla local accidental del 3 de diciembre de 2024 como candidato de investigación causal. Se conserva el [informe previo de batería y estados](INFORME_BESS_Y_ESTADOS_20261011.md).
 
 Tenemos mediciones con las que avanzar hacia una exposición basada en carga y conexión. La prioridad es aprovecharlas y completar sus correspondencias históricas. Esta etapa preserva la réplica anterior y no reemplaza sus resultados por una nueva regresión.
 

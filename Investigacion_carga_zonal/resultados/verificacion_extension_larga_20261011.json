@@ -1,0 +1,31 @@
+{
+  "estado": "OK",
+  "hashes_insumos": 42,
+  "escalones_reproducidos": 8,
+  "deteccion_independiente": "medianas con statistics y agrupaci\u00f3n manual; solo carga",
+  "minutos_evento": 943,
+  "estimaciones": {
+    "estado": "OK",
+    "reproduccion": {
+      "contrastes": 475,
+      "error_maximo": 4.440892098500626e-16
+    },
+    "LSQR": [
+      {
+        "modelo": "largo_base",
+        "error": 8.093664627395469e-11,
+        "iteraciones": 84,
+        "estado_solver": 2
+      },
+      {
+        "modelo": "largo_BESS_H1",
+        "error": 5.82532589873952e-11,
+        "iteraciones": 186,
+        "estado_solver": 2
+      }
+    ],
+    "horas_BESS": 16704,
+    "horas_H1": 18144
+  },
+  "requiere_originales_locales": false
+}

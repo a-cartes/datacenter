@@ -1,0 +1,76 @@
+[
+  {
+    "archivo": "EAF-584-2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/01/EAF-584-2024.pdf",
+    "http": 200,
+    "sha256": "2e46a78397e04da351a5f9a479470fe08552ffc3c6833a1342d81c466111a59f",
+    "bytes": 9649308,
+    "paginas": 175
+  },
+  {
+    "archivo": "Carta_DE_enero2025_Canteras.pdf",
+    "url": "https://cartas.coordinador.cl/download_saved_file/678eb9623563570a1e506a79",
+    "http": 200,
+    "sha256": "1360fc4098a8665ca28dab3cdc2aa12de3ede60b202c7126a480ac9cbc2be250",
+    "bytes": 254899,
+    "paginas": 1
+  },
+  {
+    "archivo": "Informe-Diario-08-08-2024.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2024/08/Informe-Diario-08-08-2024.pdf",
+    "http": 200,
+    "sha256": "28f6e18c7083e674382d7e0392c1732d0ec195cbd137b78409028e6c55ff08be",
+    "bytes": 508974,
+    "paginas": 24
+  },
+  {
+    "archivo": "Informe-Diario-12-05-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/05/Informe-Diario-12-05-2025.pdf",
+    "http": 404,
+    "estado": "no_recuperado"
+  },
+  {
+    "archivo": "Informe-Diario-14-05-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/05/Informe-Diario-14-05-2025.pdf",
+    "http": 404,
+    "estado": "no_recuperado"
+  },
+  {
+    "archivo": "Informe-Diario-16-05-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/05/Informe-Diario-16-05-2025.pdf",
+    "http": 404,
+    "estado": "no_recuperado"
+  },
+  {
+    "archivo": "Informe-Diario-19-12-2025.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2025/12/Informe-Diario-19-12-2025.pdf",
+    "http": 200,
+    "sha256": "7dabf8dba3f1e895b1a543c6d5e04cfc4f7964d408a3e588bdfb4c109d38159d",
+    "bytes": 327898,
+    "paginas": 25
+  },
+  {
+    "archivo": "Informe-Diario-19-01-2026.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2026/01/Informe-Diario-19-01-2026.pdf",
+    "http": 200,
+    "sha256": "9ed129b90f2839e3c14e7fd1908121308468ae9eb9c0304d867b6851fe0ecb52",
+    "bytes": 325027,
+    "paginas": 24
+  },
+  {
+    "archivo": "Informe-Diario-13-05-2026.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2026/05/Informe-Diario-13-05-2026.pdf",
+    "http": 200,
+    "sha256": "a92ec0637950591717f9a27aaeeebb4eccb0acd187137050203cb9d82815a34c",
+    "bytes": 331009,
+    "paginas": 24
+  },
+  {
+    "archivo": "Informe-Diario-15-05-2026.pdf",
+    "url": "https://www.coordinador.cl/wp-content/uploads/2026/05/Informe-Diario-15-05-2026.pdf",
+    "http": 200,
+    "sha256": "0b97090a4923a5e31a11619010ab359ea4e64af0b12e57ea9b6335df0f5dd460",
+    "bytes": 333371,
+    "paginas": 24
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "estado": "OK",
+  "meses": [
+    {
+      "mes": "2026-07",
+      "referencia": "mediciones_legacy:2026/07_Julio/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "ac23a2e410641d46a0ef270324a90235f0f721c374b54f8627e4f0e0bbe8a5d7",
+      "filas_revisadas": 18651435,
+      "filas_seleccionadas": 14880,
+      "sin_cambios": true,
+      "seleccion_sha256": "07dc5fa86014fc8bf4b8f891934d0fde0ce57d0e01fc040ade8f6aa17c4f76d7",
+      "raiz_original": "mediciones_legacy:originales_descargados",
+      "fuente_hash_anterior": "mediciones_legacy:extractos/medidores_candidatos_2026_07_manifest.json"
+    },
+    {
+      "mes": "2026-08",
+      "referencia": "mediciones_legacy:2026/08_Agosto/Definitivo/1_Transferencia_Puntos_de_Medida_15MIN_CSV.zip",
+      "sha256": "a6cc97e95b16af6c906a5e70a85a38ea759764ace5f22785e36d5922893ead72",
+      "filas_revisadas": 18596945,
+      "filas_seleccionadas": 14880,
+      "sin_cambios": true,
+      "seleccion_sha256": "1871d84e9c4109d51eafd5d89a155d4eb8aaea7b0d33044032229ae2cf675b50",
+      "raiz_original": "mediciones_legacy:originales_descargados",
+      "fuente_hash_anterior": "mediciones_legacy:extractos/medidores_candidatos_2026_08_manifest.json"
+    }
+  ]
+}

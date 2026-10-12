@@ -180,3 +180,22 @@ Las salidas deben ser nuevas. El tercer y cuarto comando toman las selecciones/p
 `extraer_medidores_humberto_ampliacion.py --zip RUTA_ZIP --ejecucion NOMBRE_NUEVO` permite reextraer también enero: valida el SHA contra el inventario, filtra por etiqueta original, conserva todos los campos y comprueba que el ZIP no cambió. Requiere los originales locales, no incluidos por su tamaño. Los tres manifiestos de selección registran ubicación relativa y hash. La lectura utiliza punto y coma y coma decimal; el primer resumen defectuoso y el script anterior se conservan claramente identificados en el historial, sin uso analítico.
 
 `descargar_bess_ventanas.py` documenta consultas, paginación, reintentos y página adicional vacía. Requiere la credencial local existente para la API oficial; no la publica. `figura_bess_estados.py` reproduce la figura a partir de conciliaciones publicadas; reemplaza exclusivamente sus dos archivos gráficos derivados. El calendario de estados guarda fuentes, páginas, inicios y fines efectivos, y fracciones horarias. Las96 cifras impresas deEAF008 se cotejan conAPI tolerando el redondeo a0,1; los extractos literales permiten revisar la transcripción.
+
+## Extensión larga y variaciones de carga
+
+Informe: `INFORME_EXTENSION_LARGA_20261011.md`. Las selecciones físicas de los25meses están publicadas, incluyendo referencias yhashes de losZIP originales. Los tres meses anteriormente conciliados se reutilizan por ruta yhash. FB1 deagosto/septiembre2024 permanece ausente.
+
+```bash
+python Investigacion_carga_zonal/scripts/verificar_extension_larga.py --salida /tmp/verificacion_extension_nueva.json
+python Investigacion_carga_zonal/scripts/conciliar_humberto_largo.py --ejecucion panel_largo_nuevo
+python Investigacion_carga_zonal/scripts/estimar_humberto_largo.py --ejecucion estimacion_larga_nueva
+python Investigacion_carga_zonal/scripts/diagnosticar_variaciones_carga.py --ejecucion diagnostico_variaciones_nuevo
+```
+
+El verificador comprueba hashes, vuelve a detectar escalones desde carga pública usando otra implementación y valida duraciones. Lee el comprobante de reproducción de las regresiones; para volver a estimar475contrastes, usar el tercer comando, que además repite los ajustes ycontrasta dos modelos conLSQR. Los comandos de estimación/diagnóstico toman elpanel publicado como entrada fija; la segunda línea permite comprobar separadamente su reconstrucción. Salidas nuevas obligatorias.
+
+`detectar_variaciones_carga.py --mediciones RUTA_PARQUET_V7` reproduce la extracción desde el insumo local verificado; su salida fija no debe sobrescribirse. La verificación pública utiliza `carga_fisica_horaria.csv.gz` para comprobar la misma detección sin necesitar eseparquet. El detector solo lee consumo, no precios. Los contrastes posteriores del episodio son descriptivos; su adenda declara la inspección previa de precios yrecuperación.
+
+`extraer_humberto_largo.py --originales RAIZ_DESCARGAS` y`extraer_humberto_final_2026.py --legacy CARPETA_MEDICIONES_V7` documentan la reextracción de originales. Requieren archivos masivos locales, no necesarios para la reproducción pública. VerificanSHA antes/después. Sus destinos fijos rechazan sobrescritura; para repetir desdeZIP, cambiar únicamente salida enuna copia versionada. `documentar_variaciones_carga.py` y`descargar_evento_20241203.py` registran adquisición documental; no se ejecutan para reproducir tablas yconservan intentos404/500 como fallas de adquisición. La respuesta deloperador contiene suanexo enpágina2.
+
+`figura_extension_larga.py` reproduce las dosfiguras PNG/PDF a partir detablas publicadas ysolo sustituye sus derivados gráficos. LosEAF se conservan íntegros; eldiagrama deEAF563p6 se revisó visualmente ylos extractos localizan páginas relevantes. Elestado previo dibujado no certifica por sísolo elestado durante toda lafalla.

@@ -8,7 +8,7 @@ La versión vigente es el **cierre analítico para SOCHER 2026**, con precios 20
 
 ## Resultados de esta versión
 
-La investigación posterior, con prioridad Energy Economics, está en el [informe de conciliación de batería y estados de red](Investigacion_carga_zonal/INFORME_BESS_Y_ESTADOS_20261011.md). Se contrastan43.200 mediciones de15min con series operativas, se identifican componentes que no deben sumarse y se verifican intervalos efectivos de maniobras. En90 días, el ajuste físico mantiene una asociación diurna positiva de Las Canteras, todavía exploratoria. Los resultados históricos y el cierre SOCHER presentado a continuación se preservan por separado.
+La investigación posterior, con prioridad Energy Economics, está en el [informe de extensión al período largo y variaciones de carga](Investigacion_carga_zonal/INFORME_EXTENSION_LARGA_20261011.md). Se concilian 25 meses de medición física, se contrasta la señal horaria en distintas ventanas y se documenta una interrupción accidental de un único cliente como candidato para investigar causalidad. Los resultados previos y el cierre SOCHER presentado a continuación permanecen preservados.
 
 | Resultado | Valor o alcance |
 |---|---|
