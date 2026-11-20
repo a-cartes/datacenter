@@ -55,3 +55,5 @@ python insumos.py . bases_octubre
 ```
 
 Resultados horarios con encabezados y hora local de inicio: [enero.csv.gz](enero.csv.gz), [revisiones_octubre.csv.gz](revisiones_octubre.csv.gz) y [cambios_insumos.csv.gz](cambios_insumos.csv.gz). Los costos de las planillas PRG/PID en el panel de revisiones están en miles de USD. Los campos vacíos en las horas sin PID conservan esa falta de cobertura.
+
+[Continuación: cobertura anual, localización y sensibilidad financiera en 2024](../anual_2024/README.md)
