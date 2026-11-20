@@ -1,5 +1,7 @@
 # Consumo efectivo y exposición eléctrica zonal
 
+**20 de noviembre de 2026.** [Validación del despacho en Alto Jahuel–Lo Aguirre, antecedentes y código reproducible](validacion_despacho_20261120/README.md). Se reconstruyen dos horas de octubre de 2024 con costos marginales definitivos y mediciones de los dos circuitos en ambos extremos.
+
 **Inicio: 11 de octubre de 2026. Estado: disponibilidad auditada, conciliación de Las Canteras/ODATA realizada y panel exploratorio zonal preparado.**
 
 **Avance actual:** [período largo y variaciones de carga de Las Canteras](INFORME_EXTENSION_LARGA_20261011.md). La conciliación alcanza 25 meses y 359.428 registros de 15 minutos. Con batería completa, la pendiente diurna larga es 0,575, con intervalo que incluye cero; la señal de los 90 días no se generaliza. Se detectan cambios de carga sin usar precios y se documenta una falla local accidental del 3 de diciembre de 2024 como candidato de investigación causal. Se conserva el [informe previo de batería y estados](INFORME_BESS_Y_ESTADOS_20261011.md).
