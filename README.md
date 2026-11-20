@@ -8,7 +8,7 @@ La versión vigente es el **cierre analítico para SOCHER 2026**, con precios 20
 
 ## Resultados de esta versión
 
-La investigación posterior, con prioridad Energy Economics, está en el [informe de extensión al período largo y variaciones de carga](Investigacion_carga_zonal/INFORME_EXTENSION_LARGA_20261011.md). Se concilian 25 meses de medición física, se contrasta la señal horaria en distintas ventanas y se documenta una interrupción accidental de un único cliente como candidato para investigar causalidad. Los resultados previos y el cierre SOCHER presentado a continuación permanecen preservados.
+El artículo en preparación para *Energy Economics* estudia cuándo adelantar la etapa 3 de Alto Jahuel–Lo Aguirre ante una gran carga. El protocolo fija una prueba del despacho con dos ventanas solicitadas de mantenimiento y una comparación del costo del sistema por barra y fecha de conexión. El estudio SOCHER y los pilotos históricos se conservan como antecedentes. [Artículo, apéndices y reproducción](Investigacion_carga_zonal/validacion_despacho_20261120/README.md) · [Protocolo prospectivo](Investigacion_carga_zonal/validacion_despacho_20261120/protocolo_mantenimiento.md)
 
 | Resultado | Valor o alcance |
 |---|---|

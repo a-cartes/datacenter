@@ -1,4 +1,15 @@
-# Alto Jahuel–Lo Aguirre a las 05:00 del 7 y 8 de octubre de 2024
+# Adelantar la etapa 3 de Alto Jahuel–Lo Aguirre ante la conexión de una gran carga
+
+La pregunta del artículo es cuánto cuesta o ahorra adelantar un año la obra y si la fecha o el punto de conexión de una gran carga cambian esa decisión. La prueba prospectiva compara predicciones del despacho con las dos desconexiones solicitadas por Transelec. El resultado económico requiere las dos trayectorias de operación, incluyendo el mantenimiento y el valor del agua. [Protocolo de mantenimiento y estructura del manuscrito](protocolo_mantenimiento.md) · [Sellos de tiempo externos verificables](sellos/README.md)
+
+| Evidencia para el artículo | Dónde revisarla |
+|---|---|
+| Alcance de la etapa 3, barras físicas y expediente de SCL4 | [Obra y conexión](etapa_3_20261120/README.md) |
+| Costos del censo PRG de 2024 y precisión de dos diseños de 96 días | [Apéndice de cobertura y muestreo](anual_2024/README.md) |
+| Flujos y precios históricos, comprobación del programa | [Octubre de 2024](octubre_2024/README.md) y [enero de 2025](validacion_verano/README.md) |
+| Antecedentes del estudio de eventos, Las Canteras y el piloto de 2021 | [Historia del proyecto](antecedentes.md) |
+
+## Apéndice. Alto Jahuel–Lo Aguirre a las 05:00 del 7 y 8 de octubre de 2024
 
 **Ampliación al mes completo.** [Octubre de 2024: 744 horas de flujo medido, precio y programación oficial](octubre_2024/README.md). Incluye los 31 despachos diarios de PLEXOS, la comprobación contra las planillas PRG y la comparación con los regímenes documentados.
 
