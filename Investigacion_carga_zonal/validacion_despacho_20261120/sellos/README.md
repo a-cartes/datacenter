@@ -16,3 +16,18 @@ done
 ```
 
 [Servicio de DigiCert](https://knowledge.digicert.com/solution/troubleshooting-timestamping-problems) · [Estándar RFC 3161](https://www.rfc-editor.org/rfc/rfc3161)
+
+## Copia íntegra fuera de GitHub
+
+Internet Archive conservó el documento el 20 de noviembre de 2026 a las 20:07:49 UTC (17:07:49 en Santiago). Se recuperó la captura pública, se descomprimió la respuesta HTTP y se compararon los 10.126 bytes con el archivo firmado por las dos autoridades. El SHA-256 coincide. Esta es una copia pública fechada del protocolo. El estudio carece de un número de registro OSF. [Captura independiente del texto completo](https://web.archive.org/web/20261120200749/https://raw.githubusercontent.com/a-cartes/datacenter/f532f3181d0f4751bb4a9c988992b487fe824e09/Investigacion_carga_zonal/validacion_despacho_20261120/protocolo_mantenimiento.md)
+
+## Etiqueta de Git
+
+La [etiqueta anotada en formato Git bundle](protocolo-ajla-2026-11-20.bundle) apunta al commit del protocolo `f532f3181d0f4751bb4a9c988992b487fe824e09`. La huella Git de la etiqueta es `8197c34e9f4b8628c084f9b796a774c4771ba88f`. Al depositar este paquete se verificó su importación. La publicación de la referencia en `origin` quedó pendiente de una sesión Git con credenciales de escritura. Desde esta carpeta, en un clon actualizado del repositorio, se puede importar la etiqueta y publicarla sin mover ninguna rama.
+
+```sh
+git fetch origin main
+git fetch ./protocolo-ajla-2026-11-20.bundle refs/tags/protocolo-ajla-2026-11-20:refs/tags/protocolo-ajla-2026-11-20
+git rev-parse 'protocolo-ajla-2026-11-20^{}'
+git push origin refs/tags/protocolo-ajla-2026-11-20
+```
