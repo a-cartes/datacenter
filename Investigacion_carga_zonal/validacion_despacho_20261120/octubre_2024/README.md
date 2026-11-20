@@ -1,5 +1,7 @@
 # Octubre de 2024. Despacho programado y operación observada de Alto Jahuel–Lo Aguirre
 
+[Validación en enero de 2025, revisiones intradiarias y valoración de la obra](../validacion_verano/README.md)
+
 **Pregunta.** ¿Se generaliza a un mes el desacople observado el 7 de octubre? ¿Hasta dónde reproduce el programa diario el flujo y el estado operativo del corredor de 500 kV?
 
 **Resultado.** La brecha media Lo Aguirre menos Alto Jahuel fue de **57,17 USD/MWh** durante las 98 horas completas con control de transferencia documentado y de **0,24 USD/MWh** en las 607 horas completas sin esa marca. Al comparar los dos estados dentro de una misma hora del reloj se conserva la separación. La programación del día anterior utilizó **1.660 MW** como límite del enlace equivalente en sentido Alto Jahuel → Lo Aguirre durante las 744 horas. La consigna efectiva aplicada en tiempo real sigue sin verificarse por hora.
