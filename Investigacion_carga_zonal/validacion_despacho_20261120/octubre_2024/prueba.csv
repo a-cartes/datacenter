@@ -1,0 +1,3 @@
+regla,umbral_MW,n,VP,VN,FP,FN,exactitud_balanceada
+hora,,363,49,248,65,1,0.88616613
+flujo,1404.50965625,363,49,253,60,1,0.89415335

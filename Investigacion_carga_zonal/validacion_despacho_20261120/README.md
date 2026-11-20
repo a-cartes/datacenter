@@ -1,5 +1,7 @@
 # Alto Jahuel–Lo Aguirre a las 05:00 del 7 y 8 de octubre de 2024
 
+**Ampliación al mes completo.** [Octubre de 2024: 744 horas de flujo medido, precio y programación oficial](octubre_2024/README.md). Incluye los 31 despachos diarios de PLEXOS, la comprobación contra las planillas PRG y la comparación con los regímenes documentados.
+
 **Bitácora del proyecto para Energy Economics · 20 de noviembre de 2026**
 
 Reconstruimos dos horas del corredor de 500 kV a partir de mediciones definitivas de energía en ambos extremos de los dos circuitos, precios definitivos del Coordinador y registros de control. El día 7 hubo una brecha media de **78,90 USD/MWh** entre los extremos. El día 8, con **106,30 MW más** de envío medio desde Alto Jahuel, la brecha fue de **0,81 USD/MWh**. Un umbral fijo aplicado al flujo horario observado en esas dos horas clasificaría mal el régimen si se supusiera que el mayor flujo implica mayor congestión. La instrucción operativa y la configuración marginal registrada aportan información independiente sobre qué ocurrió. El límite efectivo en MW que utilizó el operador sigue por verificar.
