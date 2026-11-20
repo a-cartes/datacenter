@@ -1,5 +1,8 @@
 # ¿Se repite en verano el error del programa de octubre?
 
+**Actualización del 20 de noviembre de 2026.** El DS 15T/2026 cambió el alcance de la etapa 3 a 1.950 MVA por circuito. Las referencias anteriores a 3.000 MVA corresponden al diseño original. [Decreto, expediente y resultados por barra en 2024–2025](../etapa_3_20261120/README.md).
+
+
 El corredor Alto Jahuel–Lo Aguirre permite contrastar el flujo programado con el medido y distinguir las horas con control de transferencia documentado. El signo del error medio cambia entre octubre de 2024 y enero de 2025. El programa de octubre reproducido en dos formatos coincidía en 744 de 744 horas. Esa comprobación valida la extracción del programa. La exactitud frente a la operación se mide comparando con los medidores.
 
 ## Una prueba fuera de muestra

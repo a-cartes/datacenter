@@ -1,5 +1,8 @@
 # Cobertura anual y localización de la carga en 2024
 
+**Actualización del 20 de noviembre de 2026.** El DS 15T/2026 cambió el alcance de la etapa 3 a 1.950 MVA por circuito. Las referencias anteriores a 3.000 MVA corresponden al diseño original. [Decreto, expediente y resultados por barra en 2024–2025](../etapa_3_20261120/README.md).
+
+
 ¿Qué tendría que ahorrar el refuerzo de Alto Jahuel–Lo Aguirre para justificar adelantarlo un año? La respuesta requiere comparar costos de despacho en dos redes. Antes de cambiar la red, reconstruimos dos referencias que el modelo debe poder reproducir: el presupuesto operativo programado en el SEN y la diferencia de precio entre ambas ubicaciones a lo largo del año.
 
 ## Localización en las 8.784 horas de 2024
