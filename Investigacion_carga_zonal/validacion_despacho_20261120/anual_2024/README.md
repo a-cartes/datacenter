@@ -28,7 +28,7 @@ La inversión adjudicada de referencia para el conjunto de obras es USD 40.980.0
 | 7 % | 3.293.720 | 3.524.280 |
 | 10 % | 4.321.527 | 4.753.680 |
 
-Para adelantar una etapa individual se requieren sus desembolsos evitables y su costo operativo incremental. Una parte de la obra podría estar ya ejecutada. [Sensibilidad por tasa y carga](sensibilidad.csv) · [Antecedentes de la adjudicación](../validacion_verano/README.md)
+Para adelantar una etapa individual se requieren sus desembolsos evitables y su costo operativo incremental. El informe de diciembre de 2025 del Coordinador confirma que las etapas 1 y 2 ya estaban en servicio a la fecha del informe. Por tanto, en una decisión posterior sobre la etapa 3 corresponde usar el costo y el cronograma remanentes. [Informe final del Coordinador de 2025](https://www.coordinador.cl/wp-content/uploads/2025/12/Requerimientos-Mejoras-Instalaciones-Transmision-2025_Version-Final.pdf) [Sensibilidad por tasa y carga](sensibilidad.csv) · [Antecedentes de la adjudicación](../validacion_verano/README.md)
 
 Para cada representación de la red, comparar el costo de operar sin y con el refuerzo para siete condiciones: cero carga nueva y 20, 50 y 100 MW adicionales en cada uno de los dos nodos. Son 28 celdas por supuesto de capacidad reforzada contando las dos redes y las dos representaciones. B(L) es el ahorro de operación producido por la obra con esa carga instalada. B(0) mide el beneficio que la obra entregaría de todos modos. Publicar B(L), B(0), la diferencia y si adelantar cruza el umbral financiero. El efecto de usar una u otra representación es la diferencia entre sus respectivos B(L), manteniendo todos los otros insumos comparables, incluida la información disponible al momento de decidir.
 
